@@ -1,0 +1,1979 @@
+{
+  "equipment": [
+    {
+      "_id": "83f95c43bb5e2a67",
+      "name": "Acônito (dose)",
+      "type": "equipment",
+      "img": "systems/d20age/assets/icons/1a7ddc3474b866ce.svg",
+      "system": {
+        "description": "ERVAS MEDICINAIS\nUma série de ervas de uso popular podem\nser exploradas, são preparos a partir de\nfolhas, flores ou raízes, de propriedades\nterapêuticas\nou\naté\nmísticas.\nAbaixo\napresento uma lista com uma seleção de\nervas medicinais comuns e o tratamento\npopular à qual ela se propõe.\nTabela - Ervas medicinais\nDose\nValor\nTratamento\nrepele\nlobos\ne\nAcônito\n10 po\nlicantropos\nestimulante\nmental,\nAlecrim\n5 pp\nalívio de dores\ntrata\ninfecções\ne\nAlho\n5 pp\nrepele vampiros\nArruda\n1 po\nafasta maldições\ncalmante insônia e\nCamomila\n1 pp\nindigestão\nDente-de-\ndesintoxicações\n5 pp\nleão\nalimentares\nErva-\nansiedade, insônia e\n5 pp\ncidreira\nproblemas digestivos\nalívio de náuseas e\nGengibre\n1 pp\ndores musculares\nespasmos,\nmelhora\nSálvia\n1 pp\nconcentração e trata\nindigestão\ninsônia,\nrelaxante\nValeriana\n5 pp\nmuscular\nESTALAGENS E TABERNAS\nServiço\nValor\nRefeição (comum)\n5 pc\nRefeição (qualidade)\n2 pp\nBebida (vinho, dose)\n1 pp\nBebida (vinho, garrafa)\n1 po\nEstalagem\nPernoite (desjejum)\n5 pp\nDiária* (comum)\n1 po\nDiária** (abastada)\n10 po\nANIMAIS\nNa geração de personagem a escolha de\numa companhia animal é uma possibilidade\npara já iniciar o jogo com uma aliança leal\nou simplesmente uma utilidade prática. Da\nrobustez de um cavalo de tração, útil para o\ntransporte até a astúcia de um cão de caça\nrastreador, animais interferem diretamente\nno jogo. A tabela a seguir consiste em um\nexemplo de opções para serem usadas\ndiretamente ou como inspiração.\nTabela - Animais\nAnimais*\npo\nÁguia\n20\nCamelo\n100\nCão de caça\n25\nCão de guerra**\n50\nCavalo de cavalgada\n75\nCavalo de guerra**\n250\nCavalo de tração\n40\nMula\n30\nPónei\n30\nAdicionais\nAlforge***\n10\nSela\n10\nNOTA\nNo capítulo “Manual de Criaturas” estão\nregistradas as estatísticas e informações\nadicionais sobre esses animais.\n\nLivro Base V2, p. 50.",
+        "price": 10,
+        "properties": "Erva medicinal"
+      },
+      "flags": {
+        "d20age": {
+          "source": "d20age RPG - LB (V2)",
+          "page": 50,
+          "pdfPage": 55,
+          "folderPath": [
+            "Consumíveis",
+            "Ervas medicinais"
+          ],
+          "iconMotif": "pack",
+          "visualVersion": "0.2.1"
+        }
+      },
+      "folder": "fbe1a909333ce16e"
+    }
+  ],
+  "bestiary": [
+    {
+      "_id": "eef37f8e04fed447",
+      "name": "Tapete animado · grande",
+      "type": "creature",
+      "img": "systems/d20age/assets/icons/a640ec0c37dcae77.svg",
+      "system": {
+        "title": "Tapete animado (G)",
+        "ancestry": "OBJETO ANIMADO | CONSTRUTO (X)",
+        "hp": {
+          "value": 9,
+          "max": 9
+        },
+        "combat": {
+          "ac": 7,
+          "thac0": 18,
+          "autoArmor": false,
+          "autoProgression": false
+        },
+        "movement": {
+          "base": 10,
+          "auto": false
+        },
+        "hitDice": "2",
+        "morale": 12,
+        "alignment": "N",
+        "languages": "-",
+        "xp": 25,
+        "biography": "OBJETO ANIMADO | CONSTRUTO (X) Um item encantado por magia que segue comandos básicos, geralmente usado como como sentinela. Possui uma senha de ativação. CARACTERÍSTICAS GERAIS ● Sentidos: termossenso (60’). ● Camuflagem: indistinguíveis de objetos comuns, quando imóveis.\n\nTapete animado (G) Flutua a até 10’ do chão, se enroscando e sufocando invasores. CA: 7 [12]; DV: 2 (9 PV); Atq: 1x golpe (constrição); TAC0: 18 [+1]; MV: 10’ (voo); SV: 15; ML: 12; Al: N; Id: -; XP: 25; NA: 1 (1); TT: - ● Constrição: se enrola em um alvo médio ou inferior, imobilizando-o completamente, o que gera sufocamento. Aplica-se um nível de exaustão por rodada, até a morte. DESMORTOS Criaturas que uma vez estiveram vivas e devem sua existência a algo sobrenatural. CARACTERÍSTICAS GERAIS ● Imunidade: imune a efeitos que afetam viventes, como, por exemplo: fome, sede, encantamentos (ex.: sono) e venenos. ● Silêncio: não emite som quando imóvel. ● Sentidos: ultravisão (60’).\n\nLivro Base V2, p. 130.",
+        "notes": "CA: 7 [12]\nDV: 2 (9 PV)\nAtq: 1x golpe (constrição)\nTAC0: 18 [+1]\nMV: 10’ (voo)\nSV: 15\nML: 12\nAl: N\nCG: \nId: -\nXP: 25\nNA: 1 (1)\nTT: -",
+        "saves": {
+          "death": {
+            "target": 15,
+            "bonus": 0
+          },
+          "contact": {
+            "target": 15,
+            "bonus": 0
+          },
+          "paralysis": {
+            "target": 15,
+            "bonus": 0
+          },
+          "eruption": {
+            "target": 15,
+            "bonus": 0
+          },
+          "spell": {
+            "target": 15,
+            "bonus": 0
+          }
+        }
+      },
+      "items": [
+        {
+          "_id": "ea092299e32a3577",
+          "name": "Sentidos",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/3336c086d78ac016.svg",
+          "system": {
+            "description": "Sentidos: termossenso (60’).\n\nLivro Base V2, p. 130."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 130,
+              "pdfPage": 135,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "91754d0280f95e6d",
+          "name": "Camuflagem",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/1c20ade92bcf662d.svg",
+          "system": {
+            "description": "Camuflagem: indistinguíveis de objetos comuns, quando imóveis.\n\nLivro Base V2, p. 130."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 130,
+              "pdfPage": 135,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "12b7b151e880aa3d",
+          "name": "Constrição",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/69b6636ada2998a9.svg",
+          "system": {
+            "description": "Constrição: se enrola em um alvo médio ou inferior, imobilizando-o completamente, o que gera sufocamento. Aplica-se um nível de exaustão por rodada, até a morte. DESMORTOS Criaturas que uma vez estiveram vivas e devem sua existência a algo sobrenatural. CARACTERÍSTICAS GERAIS\n\nLivro Base V2, p. 130."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 130,
+              "pdfPage": 135,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "dc38c0c3819e89af",
+          "name": "Imunidade",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/af81b89ef8f8197c.svg",
+          "system": {
+            "description": "Imunidade: imune a efeitos que afetam viventes, como, por exemplo: fome, sede, encantamentos (ex.: sono) e venenos.\n\nLivro Base V2, p. 130."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 130,
+              "pdfPage": 135,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "bf3f6b488b0a79ad",
+          "name": "Silêncio",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/1f76b45642674e51.svg",
+          "system": {
+            "description": "Silêncio: não emite som quando imóvel.\n\nLivro Base V2, p. 130."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 130,
+              "pdfPage": 135,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "ad05fae282660c05",
+          "name": "Sentidos",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/d8695eabdb15b74b.svg",
+          "system": {
+            "description": "Sentidos: ultravisão (60’).\n\nLivro Base V2, p. 130."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 130,
+              "pdfPage": 135,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "5d1ba9eea3f1f4f6",
+          "name": "Ataque especial",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/4ac2be6f08347003.svg",
+          "system": {
+            "description": "Ataque: 1x golpe (constrição)\nConsulte a descrição da criatura para resolver o efeito.\n\nLivro Base V2, p. 130."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 130,
+              "pdfPage": 135,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        }
+      ],
+      "prototypeToken": {
+        "actorLink": false,
+        "bar1": {
+          "attribute": "hp"
+        },
+        "disposition": -1,
+        "texture": {
+          "src": "systems/d20age/assets/icons/a640ec0c37dcae77.svg"
+        }
+      },
+      "flags": {
+        "d20age": {
+          "source": "d20age RPG - LB (V2)",
+          "page": 130,
+          "pdfPage": 135,
+          "rawStats": {
+            "CA": "7 [12]",
+            "DV": "2 (9 PV)",
+            "Atq": "1x golpe (constrição)",
+            "TAC0": "18 [+1]",
+            "MV": "10’ (voo)",
+            "SV": "15",
+            "ML": "12",
+            "Al": "N",
+            "CG": "",
+            "Id": "-",
+            "XP": "25",
+            "NA": "1 (1)",
+            "TT": "-"
+          },
+          "folderPath": [
+            "Construtos",
+            "Objeto animado"
+          ],
+          "iconMotif": "golem",
+          "visualVersion": "0.2.1"
+        }
+      },
+      "folder": "f2c8e4d73bba5e08"
+    },
+    {
+      "_id": "2aace413f2c4b469",
+      "name": "Gnomo",
+      "type": "creature",
+      "img": "systems/d20age/assets/icons/ce15befd3f78757b.svg",
+      "system": {
+        "title": "GNOMO | HUMANOIDE (P)",
+        "ancestry": "GNOMO | HUMANOIDE (P)",
+        "hp": {
+          "value": 3,
+          "max": 3
+        },
+        "combat": {
+          "ac": 6,
+          "thac0": 19,
+          "autoArmor": false,
+          "autoProgression": false
+        },
+        "movement": {
+          "base": 30,
+          "auto": false
+        },
+        "hitDice": "1-1",
+        "morale": 7,
+        "alignment": "N",
+        "languages": "Gnomo",
+        "xp": 5,
+        "biography": "GNOMO | HUMANOIDE (P) Pertence ao “povo pequeno”. Possui cerca de 3’ de altura, vive em colinas verdejantes, zonas rurais ou bosques. CA: 6 [13]; DV: 1-1 (3 PV); Atq: 1x faca (1d4); TAC0: 19 [+0]; MV: 30’; SV: 15; ML: 7; Al: N; CG: RA; Id: Gnomo; XP: 5; NA: 3d6 (5d8); TT: B ● Camuflagem: em meio a mata se torna quase invisível quando imóvel (5:6).\n\nLivro Base V2, p. 148.",
+        "notes": "CA: 6 [13]\nDV: 1-1 (3 PV)\nAtq: 1x faca (1d4)\nTAC0: 19 [+0]\nMV: 30’\nSV: 15\nML: 7\nAl: N\nCG: RA\nId: Gnomo\nXP: 5\nNA: 3d6 (5d8)\nTT: B",
+        "saves": {
+          "death": {
+            "target": 15,
+            "bonus": 0
+          },
+          "contact": {
+            "target": 15,
+            "bonus": 0
+          },
+          "paralysis": {
+            "target": 15,
+            "bonus": 0
+          },
+          "eruption": {
+            "target": 15,
+            "bonus": 0
+          },
+          "spell": {
+            "target": 15,
+            "bonus": 0
+          }
+        }
+      },
+      "items": [
+        {
+          "_id": "15128d38d1cc293d",
+          "name": "1× faca",
+          "type": "weapon",
+          "img": "systems/d20age/assets/icons/2fa62689835cdb95.svg",
+          "system": {
+            "description": "Ataque do bloco original: 1x faca (1d4)\n1d4\nCada clique rola um ataque. Repita conforme a quantidade indicada.\n\nLivro Base V2, p. 148.",
+            "damage": "1d4",
+            "strengthDamage": false,
+            "weight": 0,
+            "equipped": true,
+            "properties": "1d4"
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 148,
+              "pdfPage": 153,
+              "iconMotif": "pack",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "607fc91069e786f6",
+          "name": "Camuflagem",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/cf26b744305d8215.svg",
+          "system": {
+            "description": "Camuflagem: em meio a mata se torna quase invisível quando imóvel (5:6).\n\nLivro Base V2, p. 148."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 148,
+              "pdfPage": 153,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        }
+      ],
+      "prototypeToken": {
+        "actorLink": false,
+        "bar1": {
+          "attribute": "hp"
+        },
+        "disposition": -1,
+        "texture": {
+          "src": "systems/d20age/assets/icons/ce15befd3f78757b.svg"
+        }
+      },
+      "flags": {
+        "d20age": {
+          "source": "d20age RPG - LB (V2)",
+          "page": 148,
+          "pdfPage": 153,
+          "rawStats": {
+            "CA": "6 [13]",
+            "DV": "1-1 (3 PV)",
+            "Atq": "1x faca (1d4)",
+            "TAC0": "19 [+0]",
+            "MV": "30’",
+            "SV": "15",
+            "ML": "7",
+            "Al": "N",
+            "CG": "RA",
+            "Id": "Gnomo",
+            "XP": "5",
+            "NA": "3d6 (5d8)",
+            "TT": "B"
+          },
+          "folderPath": [
+            "Humanoides"
+          ],
+          "iconMotif": "helmet",
+          "visualVersion": "0.2.1"
+        }
+      },
+      "folder": "39efc9e89bb508ee"
+    }
+  ],
+  "references": [
+    {
+      "_id": "39f709ceafe41b83",
+      "name": "Ervas medicinais",
+      "flags": {
+        "d20age": {
+          "source": "d20age RPG - LB (V2)",
+          "page": 50,
+          "pdfPage": 55,
+          "folderPath": [
+            "Regras e personagens"
+          ],
+          "iconMotif": "scroll",
+          "visualVersion": "0.2.1"
+        }
+      },
+      "pages": [
+        {
+          "_id": "9b94411d1f8345cc",
+          "name": "Ervas medicinais · LB V2 p. 50",
+          "type": "image",
+          "src": "systems/d20age/assets/reference/page-50.webp",
+          "image": {
+            "caption": "Livro Base V2, p. 50"
+          }
+        },
+        {
+          "_id": "b44b8056c7a4533f",
+          "name": "Texto para pesquisa",
+          "type": "text",
+          "text": {
+            "format": 1,
+            "content": "<pre>ERVAS MEDICINAIS\nUma série de ervas de uso popular podem\nser exploradas, são preparos a partir de\nfolhas, flores ou raízes, de propriedades\nterapêuticas\nou\naté\nmísticas.\nAbaixo\napresento uma lista com uma seleção de\nervas medicinais comuns e o tratamento\npopular à qual ela se propõe.\nTabela - Ervas medicinais\nDose\nValor\nTratamento\nrepele\nlobos\ne\nAcônito\n10 po\nlicantropos\nestimulante\nmental,\nAlecrim\n5 pp\nalívio de dores\ntrata\ninfecções\ne\nAlho\n5 pp\nrepele vampiros\nArruda\n1 po\nafasta maldições\ncalmante insônia e\nCamomila\n1 pp\nindigestão\nDente-de-\ndesintoxicações\n5 pp\nleão\nalimentares\nErva-\nansiedade, insônia e\n5 pp\ncidreira\nproblemas digestivos\nalívio de náuseas e\nGengibre\n1 pp\ndores musculares\nespasmos,\nmelhora\nSálvia\n1 pp\nconcentração e trata\nindigestão\ninsônia,\nrelaxante\nValeriana\n5 pp\nmuscular\nESTALAGENS E TABERNAS\nServiço\nValor\nRefeição (comum)\n5 pc\nRefeição (qualidade)\n2 pp\nBebida (vinho, dose)\n1 pp\nBebida (vinho, garrafa)\n1 po\nEstalagem\nPernoite (desjejum)\n5 pp\nDiária* (comum)\n1 po\nDiária** (abastada)\n10 po\nANIMAIS\nNa geração de personagem a escolha de\numa companhia animal é uma possibilidade\npara já iniciar o jogo com uma aliança leal\nou simplesmente uma utilidade prática. Da\nrobustez de um cavalo de tração, útil para o\ntransporte até a astúcia de um cão de caça\nrastreador, animais interferem diretamente\nno jogo. A tabela a seguir consiste em um\nexemplo de opções para serem usadas\ndiretamente ou como inspiração.\nTabela - Animais\nAnimais*\npo\nÁguia\n20\nCamelo\n100\nCão de caça\n25\nCão de guerra**\n50\nCavalo de cavalgada\n75\nCavalo de guerra**\n250\nCavalo de tração\n40\nMula\n30\nPónei\n30\nAdicionais\nAlforge***\n10\nSela\n10\nNOTA\nNo capítulo “Manual de Criaturas” estão\nregistradas as estatísticas e informações\nadicionais sobre esses animais.</pre>"
+          }
+        }
+      ],
+      "folder": "dd5589e47cbc552a",
+      "img": "systems/d20age/assets/icons/26a5d6c6c9579b8e.svg"
+    }
+  ],
+  "abilities": [
+    {
+      "_id": "f3101b9dcfa92959",
+      "name": "Urso atroz · grande · Imunidades",
+      "type": "ability",
+      "img": "systems/d20age/assets/icons/774c6580bc36b676.svg",
+      "system": {
+        "description": "Imunidades: imune a efeitos que afetam viventes, como, por exemplo: fome, frio, encantamentos (ex.: sono) e venenos.\n\nLivro Base V2, p. 129."
+      },
+      "flags": {
+        "d20age": {
+          "source": "d20age RPG - LB (V2)",
+          "page": 129,
+          "pdfPage": 134,
+          "folderPath": [
+            "Criaturas",
+            "Poderes especiais"
+          ],
+          "iconMotif": "book",
+          "visualVersion": "0.2.1"
+        }
+      },
+      "folder": "0d20a5e86cdb1fce"
+    },
+    {
+      "_id": "28f178440ce68ee2",
+      "name": "Tapete animado · grande · Imunidade",
+      "type": "ability",
+      "img": "systems/d20age/assets/icons/c55cbeeea976ff31.svg",
+      "system": {
+        "description": "Imunidade: imune a efeitos que afetam viventes, como, por exemplo: fome, sede, encantamentos (ex.: sono) e venenos.\n\nLivro Base V2, p. 130."
+      },
+      "flags": {
+        "d20age": {
+          "source": "d20age RPG - LB (V2)",
+          "page": 130,
+          "pdfPage": 135,
+          "folderPath": [
+            "Criaturas",
+            "Poderes especiais"
+          ],
+          "iconMotif": "book",
+          "visualVersion": "0.2.1"
+        }
+      },
+      "folder": "0d20a5e86cdb1fce"
+    },
+    {
+      "_id": "7c7d893e06c719ce",
+      "name": "Tapete animado · grande · Silêncio",
+      "type": "ability",
+      "img": "systems/d20age/assets/icons/b8c60541f963f756.svg",
+      "system": {
+        "description": "Silêncio: não emite som quando imóvel.\n\nLivro Base V2, p. 130."
+      },
+      "flags": {
+        "d20age": {
+          "source": "d20age RPG - LB (V2)",
+          "page": 130,
+          "pdfPage": 135,
+          "folderPath": [
+            "Criaturas",
+            "Poderes especiais"
+          ],
+          "iconMotif": "book",
+          "visualVersion": "0.2.1"
+        }
+      },
+      "folder": "0d20a5e86cdb1fce"
+    },
+    {
+      "_id": "48d4b518244eea78",
+      "name": "Unicórnio · Imunidade",
+      "type": "ability",
+      "img": "systems/d20age/assets/icons/aaa9c6dff2546d93.svg",
+      "system": {
+        "description": "Imunidade: imune à encantamentos (ex.: sono) e venenos.\n\nLivro Base V2, p. 143."
+      },
+      "flags": {
+        "d20age": {
+          "source": "d20age RPG - LB (V2)",
+          "page": 143,
+          "pdfPage": 148,
+          "folderPath": [
+            "Criaturas",
+            "Feéricos"
+          ],
+          "iconMotif": "book",
+          "visualVersion": "0.2.1"
+        }
+      },
+      "folder": "949eb735d8286f07"
+    },
+    {
+      "_id": "f189261cb24abd82",
+      "name": "Unicórnio · Sentidos",
+      "type": "ability",
+      "img": "systems/d20age/assets/icons/88bb41fad9742b34.svg",
+      "system": {
+        "description": "Sentidos: termossenso e tremorsenso (60’).\n\nLivro Base V2, p. 143."
+      },
+      "flags": {
+        "d20age": {
+          "source": "d20age RPG - LB (V2)",
+          "page": 143,
+          "pdfPage": 148,
+          "folderPath": [
+            "Criaturas",
+            "Feéricos"
+          ],
+          "iconMotif": "book",
+          "visualVersion": "0.2.1"
+        }
+      },
+      "folder": "949eb735d8286f07"
+    },
+    {
+      "_id": "9f87fe60f46eec0d",
+      "name": "Mofo amarelo · Força",
+      "type": "ability",
+      "img": "systems/d20age/assets/icons/b7ed1315c75061b4.svg",
+      "system": {
+        "description": "Força: possuem força sobre humana.\n\nLivro Base V2, p. 144."
+      },
+      "flags": {
+        "d20age": {
+          "source": "d20age RPG - LB (V2)",
+          "page": 144,
+          "pdfPage": 149,
+          "folderPath": [
+            "Criaturas",
+            "Floranídeos"
+          ],
+          "iconMotif": "book",
+          "visualVersion": "0.2.1"
+        }
+      },
+      "folder": "782a8f264f2d8dbf"
+    },
+    {
+      "_id": "c9b5ea511ccd1232",
+      "name": "Veterano · arcanista · ESTATÍSTICAS",
+      "type": "ability",
+      "img": "systems/d20age/assets/icons/bb8490270fe6299c.svg",
+      "system": {
+        "description": "ESTATÍSTICAS: NA: 2d4 (2d6) Considere um grupo sortido. Para cada veterano, lance 1d6: 1) arcanista; 2-3) combatente; 4-5) especialista; 6) magista. NOTA Essas são opções de planilhas de consulta e uso ágil. Modificações e customizações à gosto são esperadas.\n\nLivro Base V2, p. 149."
+      },
+      "flags": {
+        "d20age": {
+          "source": "d20age RPG - LB (V2)",
+          "page": 149,
+          "pdfPage": 154,
+          "folderPath": [
+            "Criaturas",
+            "Poderes especiais"
+          ],
+          "iconMotif": "book",
+          "visualVersion": "0.2.1"
+        }
+      },
+      "folder": "0d20a5e86cdb1fce"
+    },
+    {
+      "_id": "afa7c1f36c58f690",
+      "name": "Veterano · combatente · ESTATÍSTICAS",
+      "type": "ability",
+      "img": "systems/d20age/assets/icons/299655042fefd499.svg",
+      "system": {
+        "description": "ESTATÍSTICAS: NA: 2d4 (2d6) Considere um grupo sortido. Para cada veterano, lance 1d6: 1) arcanista; 2-3) combatente; 4-5) especialista; 6) magista. NOTA Essas são opções de planilhas de consulta e uso ágil. Modificações e customizações à gosto são esperadas.\n\nLivro Base V2, p. 149."
+      },
+      "flags": {
+        "d20age": {
+          "source": "d20age RPG - LB (V2)",
+          "page": 149,
+          "pdfPage": 154,
+          "folderPath": [
+            "Criaturas",
+            "Poderes especiais"
+          ],
+          "iconMotif": "book",
+          "visualVersion": "0.2.1"
+        }
+      },
+      "folder": "0d20a5e86cdb1fce"
+    },
+    {
+      "_id": "cc3fc0a280847fc9",
+      "name": "Veterano · especialista · ESTATÍSTICAS",
+      "type": "ability",
+      "img": "systems/d20age/assets/icons/f979b97b9cafd604.svg",
+      "system": {
+        "description": "ESTATÍSTICAS: NA: 2d4 (2d6) Considere um grupo sortido. Para cada veterano, lance 1d6: 1) arcanista; 2-3) combatente; 4-5) especialista; 6) magista. NOTA Essas são opções de planilhas de consulta e uso ágil. Modificações e customizações à gosto são esperadas.\n\nLivro Base V2, p. 149."
+      },
+      "flags": {
+        "d20age": {
+          "source": "d20age RPG - LB (V2)",
+          "page": 149,
+          "pdfPage": 154,
+          "folderPath": [
+            "Criaturas",
+            "Poderes especiais"
+          ],
+          "iconMotif": "book",
+          "visualVersion": "0.2.1"
+        }
+      },
+      "folder": "0d20a5e86cdb1fce"
+    },
+    {
+      "_id": "91cb6454e6b8bbef",
+      "name": "Veterano · magista · ESTATÍSTICAS",
+      "type": "ability",
+      "img": "systems/d20age/assets/icons/b2eb9b8ff55c4bf5.svg",
+      "system": {
+        "description": "ESTATÍSTICAS: NA: 2d4 (2d6) Considere um grupo sortido. Para cada veterano, lance 1d6: 1) arcanista; 2-3) combatente; 4-5) especialista; 6) magista. NOTA Essas são opções de planilhas de consulta e uso ágil. Modificações e customizações à gosto são esperadas.\n\nLivro Base V2, p. 149."
+      },
+      "flags": {
+        "d20age": {
+          "source": "d20age RPG - LB (V2)",
+          "page": 149,
+          "pdfPage": 154,
+          "folderPath": [
+            "Criaturas",
+            "Poderes especiais"
+          ],
+          "iconMotif": "book",
+          "visualVersion": "0.2.1"
+        }
+      },
+      "folder": "0d20a5e86cdb1fce"
+    }
+  ],
+  "rolltables": [
+    {
+      "_id": "ef2b83b4a5ef52f8",
+      "name": "Implementos mágicos",
+      "img": "systems/d20age/assets/icons/fdc3af32a37b8689.svg",
+      "description": "Livro Base V2, p. 173. ",
+      "formula": "1d100",
+      "replacement": true,
+      "displayRoll": true,
+      "results": [
+        {
+          "_id": "2972d57793cbf41a",
+          "type": "text",
+          "description": "Cajado da 275.000 arquimagia",
+          "range": [
+            1,
+            1
+          ],
+          "weight": 1,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Cajado da 275.000 arquimagia"
+            }
+          },
+          "name": "Cajado da 275.000 arquimagia"
+        },
+        {
+          "_id": "8e94224ab0d59eda",
+          "type": "text",
+          "description": "Cajado da 22.500 restauração",
+          "range": [
+            2,
+            11
+          ],
+          "weight": 10,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Cajado da 22.500 restauração"
+            }
+          },
+          "name": "Cajado da 22.500 restauração"
+        },
+        {
+          "_id": "04f39a598de52a6c",
+          "type": "text",
+          "description": "Cajado da 50.000 serpente",
+          "range": [
+            12,
+            15
+          ],
+          "weight": 4,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Cajado da 50.000 serpente"
+            }
+          },
+          "name": "Cajado da 50.000 serpente"
+        },
+        {
+          "_id": "8dace16626c1b5e2",
+          "type": "text",
+          "description": "Cajado do 75.000 comando",
+          "range": [
+            16,
+            17
+          ],
+          "weight": 2,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Cajado do 75.000 comando"
+            }
+          },
+          "name": "Cajado do 75.000 comando"
+        },
+        {
+          "_id": "cdfa272a89b0a6a9",
+          "type": "text",
+          "description": "Cajado do poder 125.000",
+          "range": [
+            18,
+            19
+          ],
+          "weight": 2,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Cajado do poder 125.000"
+            }
+          },
+          "name": "Cajado do poder 125.000"
+        },
+        {
+          "_id": "ecb927b7a1913b4d",
+          "type": "text",
+          "description": "Orbe de cristal 25.000",
+          "range": [
+            20,
+            22
+          ],
+          "weight": 3,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Orbe de cristal 25.000"
+            }
+          },
+          "name": "Orbe de cristal 25.000"
+        },
+        {
+          "_id": "67fa0c3f4aeb8dc8",
+          "type": "text",
+          "description": "Orbe da 45.000 predição",
+          "range": [
+            23,
+            24
+          ],
+          "weight": 2,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Orbe da 45.000 predição"
+            }
+          },
+          "name": "Orbe da 45.000 predição"
+        },
+        {
+          "_id": "089bb697d369b505",
+          "type": "text",
+          "description": "Orbe da verdade 55.000",
+          "range": [
+            25,
+            25
+          ],
+          "weight": 1,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Orbe da verdade 55.000"
+            }
+          },
+          "name": "Orbe da verdade 55.000"
+        },
+        {
+          "_id": "8b66d45d463ae837",
+          "type": "text",
+          "description": "Varinha 50.000 congelante",
+          "range": [
+            26,
+            30
+          ],
+          "weight": 5,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Varinha 50.000 congelante"
+            }
+          },
+          "name": "Varinha 50.000 congelante"
+        },
+        {
+          "_id": "50b938ea988cebb4",
+          "type": "text",
+          "description": "Varinha da 10.000 amarração",
+          "range": [
+            31,
+            35
+          ],
+          "weight": 5,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Varinha da 10.000 amarração"
+            }
+          },
+          "name": "Varinha da 10.000 amarração"
+        },
+        {
+          "_id": "f09113f7cab81d66",
+          "type": "text",
+          "description": "Varinha da 10.000 detecção mágica",
+          "range": [
+            36,
+            40
+          ],
+          "weight": 5,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Varinha da 10.000 detecção mágica"
+            }
+          },
+          "name": "Varinha da 10.000 detecção mágica"
+        },
+        {
+          "_id": "fc6c004c427f029f",
+          "type": "text",
+          "description": "varinha da 10.000 chave arcana",
+          "range": [
+            41,
+            45
+          ],
+          "weight": 5,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "varinha da 10.000 chave arcana"
+            }
+          },
+          "name": "varinha da 10.000 chave arcana"
+        },
+        {
+          "_id": "633f13c4be4b441c",
+          "type": "text",
+          "description": "Varinha da 20.000 fechadura",
+          "range": [
+            46,
+            50
+          ],
+          "weight": 5,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Varinha da 20.000 fechadura"
+            }
+          },
+          "name": "Varinha da 20.000 fechadura"
+        },
+        {
+          "_id": "503c5e3562fc5f7c",
+          "type": "text",
+          "description": "Varinha da 60.000 negação",
+          "range": [
+            51,
+            55
+          ],
+          "weight": 5,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Varinha da 60.000 negação"
+            }
+          },
+          "name": "Varinha da 60.000 negação"
+        },
+        {
+          "_id": "485b953538b24db5",
+          "type": "text",
+          "description": "Varinha da 60.000 revelação",
+          "range": [
+            56,
+            60
+          ],
+          "weight": 5,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Varinha da 60.000 revelação"
+            }
+          },
+          "name": "Varinha da 60.000 revelação"
+        },
+        {
+          "_id": "347727a9d6b101d3",
+          "type": "text",
+          "description": "Varinha de 10.000 encantamento",
+          "range": [
+            61,
+            65
+          ],
+          "weight": 5,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Varinha de 10.000 encantamento"
+            }
+          },
+          "name": "Varinha de 10.000 encantamento"
+        },
+        {
+          "_id": "8ea7717deb2c3f8e",
+          "type": "text",
+          "description": "Varinha de 10.000 flecha mágica",
+          "range": [
+            66,
+            70
+          ],
+          "weight": 5,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Varinha de 10.000 flecha mágica"
+            }
+          },
+          "name": "Varinha de 10.000 flecha mágica"
+        },
+        {
+          "_id": "f2212bfd2bd2527b",
+          "type": "text",
+          "description": "Varinha de luz 10.000",
+          "range": [
+            71,
+            75
+          ],
+          "weight": 5,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Varinha de luz 10.000"
+            }
+          },
+          "name": "Varinha de luz 10.000"
+        },
+        {
+          "_id": "13a0a06f0265149b",
+          "type": "text",
+          "description": "Varinha de 30.000 paralisia",
+          "range": [
+            76,
+            80
+          ],
+          "weight": 5,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Varinha de 30.000 paralisia"
+            }
+          },
+          "name": "Varinha de 30.000 paralisia"
+        },
+        {
+          "_id": "0ddb381ef4909668",
+          "type": "text",
+          "description": "Varinha de raios 30.000",
+          "range": [
+            81,
+            85
+          ],
+          "weight": 5,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Varinha de raios 30.000"
+            }
+          },
+          "name": "Varinha de raios 30.000"
+        },
+        {
+          "_id": "ed012ffe810fe3b1",
+          "type": "text",
+          "description": "Varinha do 40.000 medo",
+          "range": [
+            86,
+            90
+          ],
+          "weight": 5,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Varinha do 40.000 medo"
+            }
+          },
+          "name": "Varinha do 40.000 medo"
+        },
+        {
+          "_id": "557c1e155e877aff",
+          "type": "text",
+          "description": "Varinha do 40.000 polimorfismo",
+          "range": [
+            91,
+            95
+          ],
+          "weight": 5,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Varinha do 40.000 polimorfismo"
+            }
+          },
+          "name": "Varinha do 40.000 polimorfismo"
+        },
+        {
+          "_id": "1b19033ad7be25c1",
+          "type": "text",
+          "description": "Varinha 30.000 flamejante",
+          "range": [
+            96,
+            100
+          ],
+          "weight": 5,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Varinha 30.000 flamejante"
+            }
+          },
+          "name": "Varinha 30.000 flamejante"
+        }
+      ],
+      "flags": {
+        "d20age": {
+          "source": "d20age RPG - LB (V2)",
+          "page": 173,
+          "pdfPage": 178,
+          "folderPath": [
+            "Tesouros e magia"
+          ],
+          "iconMotif": "die",
+          "visualVersion": "0.2.1"
+        }
+      },
+      "folder": "78a67ef0b7aabcd1"
+    },
+    {
+      "_id": "b361efc15ecc0739",
+      "name": "Tipos de pedras iônicas",
+      "img": "systems/d20age/assets/icons/85bcdc6072f60f70.svg",
+      "description": "Livro Base V2, p. 179. O livro imprime d10, mas apresenta apenas 8 tipos. Usa-se d8, sem inventar resultados 9 e 10.",
+      "formula": "1d8",
+      "replacement": true,
+      "displayRoll": true,
+      "results": [
+        {
+          "_id": "20536a975f220170",
+          "type": "text",
+          "description": "Azul +1 dano (corpo a corpo)",
+          "range": [
+            1,
+            1
+          ],
+          "weight": 1,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Azul +1 dano (corpo a corpo)"
+            }
+          },
+          "name": "Azul +1 dano (corpo a corpo)"
+        },
+        {
+          "_id": "91b239c27e4df74d",
+          "type": "text",
+          "description": "Escarlate +1 idioma (sortear)",
+          "range": [
+            2,
+            2
+          ],
+          "weight": 1,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Escarlate +1 idioma (sortear)"
+            }
+          },
+          "name": "Escarlate +1 idioma (sortear)"
+        },
+        {
+          "_id": "15c51f5d39f8cc9b",
+          "type": "text",
+          "description": "Turquesa +10% de XP",
+          "range": [
+            3,
+            3
+          ],
+          "weight": 1,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Turquesa +10% de XP"
+            }
+          },
+          "name": "Turquesa +10% de XP"
+        },
+        {
+          "_id": "b2092331ed16d11c",
+          "type": "text",
+          "description": "Vermelho +1 acerto",
+          "range": [
+            4,
+            4
+          ],
+          "weight": 1,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Vermelho +1 acerto"
+            }
+          },
+          "name": "Vermelho +1 acerto"
+        },
+        {
+          "_id": "7ca374faa0587dc5",
+          "type": "text",
+          "description": "Rosa +1 CA e SV (proteção)",
+          "range": [
+            5,
+            5
+          ],
+          "weight": 1,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Rosa +1 CA e SV (proteção)"
+            }
+          },
+          "name": "Rosa +1 CA e SV (proteção)"
+        },
+        {
+          "_id": "20e3cb6cb9a91019",
+          "type": "text",
+          "description": "Verde Imunidade a venenos",
+          "range": [
+            6,
+            6
+          ],
+          "weight": 1,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Verde Imunidade a venenos"
+            }
+          },
+          "name": "Verde Imunidade a venenos"
+        },
+        {
+          "_id": "34bc9abbca36ca0f",
+          "type": "text",
+          "description": "Consome metade de Branca água e comida",
+          "range": [
+            7,
+            7
+          ],
+          "weight": 1,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Consome metade de Branca água e comida"
+            }
+          },
+          "name": "Consome metade de Branca água e comida"
+        },
+        {
+          "_id": "aa8fcf94a0dbf768",
+          "type": "text",
+          "description": "Cinza Respirar na água",
+          "range": [
+            8,
+            8
+          ],
+          "weight": 1,
+          "drawn": false,
+          "img": "systems/d20age/assets/crest.svg",
+          "flags": {
+            "d20age": {
+              "text": "Cinza Respirar na água"
+            }
+          },
+          "name": "Cinza Respirar na água"
+        }
+      ],
+      "flags": {
+        "d20age": {
+          "source": "d20age RPG - LB (V2)",
+          "page": 179,
+          "pdfPage": 184,
+          "folderPath": [
+            "Tesouros e magia"
+          ],
+          "iconMotif": "die",
+          "visualVersion": "0.2.1"
+        }
+      },
+      "folder": "78a67ef0b7aabcd1"
+    }
+  ],
+  "dragonVariants": [
+    {
+      "_id": "baadd5f161a1768b",
+      "name": "Dragão azul · enorme",
+      "type": "creature",
+      "img": "systems/d20age/assets/icons/426875116bb2937e.svg",
+      "system": {
+        "title": "Dragão azul (E)",
+        "ancestry": "DRAGÃO | DRACÔNICO (X)",
+        "hp": {
+          "value": 40,
+          "max": 40
+        },
+        "combat": {
+          "ac": 0,
+          "thac0": 11,
+          "autoArmor": false,
+          "autoProgression": false
+        },
+        "movement": {
+          "base": 30,
+          "auto": false
+        },
+        "hitDice": "9*",
+        "morale": 9,
+        "alignment": "N",
+        "languages": "dracônico",
+        "xp": 2300,
+        "biography": "DRAGÃO | DRACÔNICO (X) Grande serpente alada, antiga e mística, carnívora e com capacidade de expelir uma baforada mortal. Possui escamas poderosas, de cores variadas, é ovíparo e geralmente avarento em acumular tesouros em seu covil. CARACTERÍSTICAS GERAIS ● Comportamento: tem relação com alinhamento. Dragões caóticos geralmente apreciam a carne humana (e humanoide), e tenderão a atacar ou subjugar humanoides. Quando alinhados à neutralidade, atacam ou ignoram de acordo as circunstâncias, e dragões alinhados à ordem podem até se aliar à humanoides dignos da honra. ● Orgulho: criatura orgulhosa, que adora bajulações. ● Combate: geralmente ataca com sua baforada logo de imediato, e pode repeti-la ou usar seus ataques corpo a corpo em igual chance por rodada. ● Baforada (3x / dia): tudo na área sofre o efeito da baforada, cujo dano é equivalente ao valor do PV atual do dragão. (SV-I para metade). A forma pode ser: Tabela – Escama e tipo de baforada Escama Tipo SV Azul Raio (linha 5’ x 100’) C Branco Gelo (cone 80’) I Verde Veneno (raio 30’) M Vermelho Fogo (cone 90’) I Preto Ácido (linha 5’ x 60’) C NOTA Para dragões metálicos use: bronze (azul), cobre (preto), dourado (vermelho), latão (verde) e prata (branco). ● Imunidade: imune a dano correspondente ao tipo de sua baforada. ● Sentidos: ultravisão (120’), tremorsenso (120’) e faro aguçado (1 mi). ● Cognição, idioma e magia: todo dragão compreende o idioma dracônico. Seu comportamento varia de semi-racional até altamente racional, e estes podem falar e usar magia (chance entre parêntese, em cognição). Para avaliar aleatoriamente se um dragão altamente racional fala o idioma comum, a chance é de 1:6. ● Dormindo: a chance de um dragão estar dormindo quando em seu covil é de 2:6. Ataques contra dragões dormindo recebem bônus de +2. Dragões podem fingir estar dormindo! ● Rendição: se tiver seu PV reduzida à 0 por danos não letais admitirá derrota e fica subjugado (danos não letais não interferem no dano da baforada). Quando subjugado, tentará escapar ou atacar seus captores, se a oportunidade se apresentar ou se receber ordens suicidas. Um dragão cativo pode ser vendido por 1.000 po por PV. ● Idade: as fichas a seguir descrevem dragões adultos, de tamanho “enorme”. Dragões mais jovens podem ter até 3 DV a menos e ¼ ou ½ do tesouro, e são de tamanho “grande”. Dragões anciões terão até 3 DV a mais, o dobro do tesouro e são considerados “imensos”. ● Covis: o tesouro de um dragão é sempre mantido em seu covil bem escondido e raramente ficará desprotegido.\n\nDragão azul (E) Vive em desertos e planícies. CA: 0 [19]; DV: 9* (40 PV); Atq: 2x garra (1d6+1), 1x mordida (3d10) ou baforada; TAC0: 11 [+8]; MV: 30’ | 80’ (voo); SV: 9; ML: 9; Al: N; CG: SR | AR (3:6); Id: dracônico; XP: 2.300; NA: 1d4 (1d4); TT: H ● Magia (1x dia / cada): 4x magias de primeiro círculo e quatro magias de segundo círculo (apenas CG: AR).\n\nLivro Base V2, p. 136.",
+        "notes": "CA: 0 [19]\nDV: 9* (40 PV)\nAtq: 2x garra (1d6+1), 1x mordida (3d10) ou baforada\nTAC0: 11 [+8]\nMV: 30’ | 80’ (voo)\nSV: 9\nML: 9\nAl: N\nCG: SR | AR (3: 6)\nId: dracônico\nXP: 2.300\nNA: 1d4 (1d4)\nTT: H",
+        "saves": {
+          "death": {
+            "target": 9,
+            "bonus": 0
+          },
+          "contact": {
+            "target": 9,
+            "bonus": 0
+          },
+          "paralysis": {
+            "target": 9,
+            "bonus": 0
+          },
+          "eruption": {
+            "target": 9,
+            "bonus": 0
+          },
+          "spell": {
+            "target": 9,
+            "bonus": 0
+          }
+        }
+      },
+      "items": [
+        {
+          "_id": "e8dcb0e1d9a1a27a",
+          "name": "2× garra",
+          "type": "weapon",
+          "img": "systems/d20age/assets/icons/200e190f66a569c0.svg",
+          "system": {
+            "description": "Ataque do bloco original: 2x garra (1d6+1), 1x mordida (3d10) ou baforada\n1d6+1\nCada clique rola um ataque. Repita conforme a quantidade indicada.\n\nLivro Base V2, p. 136.",
+            "damage": "1d6+1",
+            "strengthDamage": false,
+            "weight": 0,
+            "equipped": true,
+            "properties": "1d6+1"
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "pack",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "119c19602eb6a03b",
+          "name": "1x mordida",
+          "type": "weapon",
+          "img": "systems/d20age/assets/icons/1bc7d8e1c119162f.svg",
+          "system": {
+            "description": "Ataque do bloco original: 2x garra (1d6+1), 1x mordida (3d10) ou baforada\n3d10\nCada clique rola um ataque. Repita conforme a quantidade indicada.\n\nLivro Base V2, p. 136.",
+            "damage": "3d10",
+            "strengthDamage": false,
+            "weight": 0,
+            "equipped": true,
+            "properties": "3d10"
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "pack",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "ab84b20ab4ce63bb",
+          "name": "Comportamento",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/fc817da79860fad2.svg",
+          "system": {
+            "description": "Comportamento: tem relação com alinhamento. Dragões caóticos geralmente apreciam a carne humana (e humanoide), e tenderão a atacar ou subjugar humanoides. Quando alinhados à neutralidade, atacam ou ignoram de acordo as circunstâncias, e dragões alinhados à ordem podem até se aliar à humanoides dignos da honra.\n\nLivro Base V2, p. 136."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "7bddf946cc6b1919",
+          "name": "Orgulho",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/779215bef962b4c2.svg",
+          "system": {
+            "description": "Orgulho: criatura orgulhosa, que adora bajulações.\n\nLivro Base V2, p. 136."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "222611cf9804290f",
+          "name": "Combate",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/c1c917811e519a59.svg",
+          "system": {
+            "description": "Combate: geralmente ataca com sua baforada logo de imediato, e pode repeti-la ou usar seus ataques corpo a corpo em igual chance por rodada.\n\nLivro Base V2, p. 136."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "d51db3c2c810017c",
+          "name": "Baforada (3x / dia)",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/f109606e5e3c6432.svg",
+          "system": {
+            "description": "Baforada (3x / dia): tudo na área sofre o efeito da baforada, cujo dano é equivalente ao valor do PV atual do dragão. (SV-I para metade). A forma pode ser: Tabela – Escama e tipo de baforada Escama Tipo SV Azul Raio (linha 5’ x 100’) C Branco Gelo (cone 80’) I Verde Veneno (raio 30’) M Vermelho Fogo (cone 90’) I Preto Ácido (linha 5’ x 60’) C NOTA Para dragões metálicos use: bronze (azul), cobre (preto), dourado (vermelho), latão (verde) e prata (branco).\n\nLivro Base V2, p. 136."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "a0431f3dce42c6b8",
+          "name": "Imunidade",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/12afbc658c121504.svg",
+          "system": {
+            "description": "Imunidade: imune a dano correspondente ao tipo de sua baforada.\n\nLivro Base V2, p. 136."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "5cd8d5f134a68eb2",
+          "name": "Sentidos",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/71a120c9f5ec1568.svg",
+          "system": {
+            "description": "Sentidos: ultravisão (120’), tremorsenso (120’) e faro aguçado (1 mi).\n\nLivro Base V2, p. 136."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "d76a3636ceda8be5",
+          "name": "Cognição, idioma e magia",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/23c354e4e034ab86.svg",
+          "system": {
+            "description": "Cognição, idioma e magia: todo dragão compreende o idioma dracônico. Seu comportamento varia de semi-racional até altamente racional, e estes podem falar e usar magia (chance entre parêntese, em cognição). Para avaliar aleatoriamente se um dragão altamente racional fala o idioma comum, a chance é de 1:6.\n\nLivro Base V2, p. 136."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "1b66ff24a55ba505",
+          "name": "Dormindo",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/6cd52db05dba94fc.svg",
+          "system": {
+            "description": "Dormindo: a chance de um dragão estar dormindo quando em seu covil é de 2:6. Ataques contra dragões dormindo recebem bônus de +2. Dragões podem fingir estar dormindo!\n\nLivro Base V2, p. 136."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "8a55c8a5e687eae3",
+          "name": "Rendição",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/74a46ec7be30e267.svg",
+          "system": {
+            "description": "Rendição: se tiver seu PV reduzida à 0 por danos não letais admitirá derrota e fica subjugado (danos não letais não interferem no dano da baforada). Quando subjugado, tentará escapar ou atacar seus captores, se a oportunidade se apresentar ou se receber ordens suicidas. Um dragão cativo pode ser vendido por 1.000 po por PV.\n\nLivro Base V2, p. 136."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "c038346afb28b6b1",
+          "name": "Idade",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/ca0f89579e554235.svg",
+          "system": {
+            "description": "Idade: as fichas a seguir descrevem dragões adultos, de tamanho “enorme”. Dragões mais jovens podem ter até 3 DV a menos e ¼ ou ½ do tesouro, e são de tamanho “grande”. Dragões anciões terão até 3 DV a mais, o dobro do tesouro e são considerados “imensos”.\n\nLivro Base V2, p. 136."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "82b7e68cddb43e31",
+          "name": "Covis",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/5357668af4e011d2.svg",
+          "system": {
+            "description": "Covis: o tesouro de um dragão é sempre mantido em seu covil bem escondido e raramente ficará desprotegido.\n\nLivro Base V2, p. 136."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "e02caa2eb415ea2e",
+          "name": "Magia (1x dia / cada)",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/a5d0f90dd5290ed8.svg",
+          "system": {
+            "description": "Magia (1x dia / cada): 4x magias de primeiro círculo e quatro magias de segundo círculo (apenas CG: AR).\n\nLivro Base V2, p. 136."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        }
+      ],
+      "prototypeToken": {
+        "actorLink": false,
+        "bar1": {
+          "attribute": "hp"
+        },
+        "disposition": -1,
+        "texture": {
+          "src": "systems/d20age/assets/icons/426875116bb2937e.svg"
+        }
+      },
+      "flags": {
+        "d20age": {
+          "source": "d20age RPG - LB (V2)",
+          "page": 136,
+          "pdfPage": 141,
+          "rawStats": {
+            "CA": "0 [19]",
+            "DV": "9* (40 PV)",
+            "Atq": "2x garra (1d6+1), 1x mordida (3d10) ou baforada",
+            "TAC0": "11 [+8]",
+            "MV": "30’ | 80’ (voo)",
+            "SV": "9",
+            "ML": "9",
+            "Al": "N",
+            "CG": "SR | AR (3: 6)",
+            "Id": "dracônico",
+            "XP": "2.300",
+            "NA": "1d4 (1d4)",
+            "TT": "H"
+          },
+          "folderPath": [
+            "Dracônicos",
+            "Dragão"
+          ],
+          "iconMotif": "dragon",
+          "visualVersion": "0.2.1"
+        }
+      },
+      "folder": "7ffcbb7156219387"
+    },
+    {
+      "_id": "e69000a8b08a42cf",
+      "name": "Dragão vermelho · enorme",
+      "type": "creature",
+      "img": "systems/d20age/assets/icons/0d3f1b46a4834782.svg",
+      "system": {
+        "title": "Dragão vermelho (E)",
+        "ancestry": "DRAGÃO | DRACÔNICO (X)",
+        "hp": {
+          "value": 45,
+          "max": 45
+        },
+        "combat": {
+          "ac": -1,
+          "thac0": 10,
+          "autoArmor": false,
+          "autoProgression": false
+        },
+        "movement": {
+          "base": 30,
+          "auto": false
+        },
+        "hitDice": "10*",
+        "morale": 10,
+        "alignment": "C",
+        "languages": "dracônico",
+        "xp": 2300,
+        "biography": "DRAGÃO | DRACÔNICO (X) Grande serpente alada, antiga e mística, carnívora e com capacidade de expelir uma baforada mortal. Possui escamas poderosas, de cores variadas, é ovíparo e geralmente avarento em acumular tesouros em seu covil. CARACTERÍSTICAS GERAIS ● Comportamento: tem relação com alinhamento. Dragões caóticos geralmente apreciam a carne humana (e humanoide), e tenderão a atacar ou subjugar humanoides. Quando alinhados à neutralidade, atacam ou ignoram de acordo as circunstâncias, e dragões alinhados à ordem podem até se aliar à humanoides dignos da honra. ● Orgulho: criatura orgulhosa, que adora bajulações. ● Combate: geralmente ataca com sua baforada logo de imediato, e pode repeti-la ou usar seus ataques corpo a corpo em igual chance por rodada. ● Baforada (3x / dia): tudo na área sofre o efeito da baforada, cujo dano é equivalente ao valor do PV atual do dragão. (SV-I para metade). A forma pode ser: Tabela – Escama e tipo de baforada Escama Tipo SV Azul Raio (linha 5’ x 100’) C Branco Gelo (cone 80’) I Verde Veneno (raio 30’) M Vermelho Fogo (cone 90’) I Preto Ácido (linha 5’ x 60’) C NOTA Para dragões metálicos use: bronze (azul), cobre (preto), dourado (vermelho), latão (verde) e prata (branco). ● Imunidade: imune a dano correspondente ao tipo de sua baforada. ● Sentidos: ultravisão (120’), tremorsenso (120’) e faro aguçado (1 mi). ● Cognição, idioma e magia: todo dragão compreende o idioma dracônico. Seu comportamento varia de semi-racional até altamente racional, e estes podem falar e usar magia (chance entre parêntese, em cognição). Para avaliar aleatoriamente se um dragão altamente racional fala o idioma comum, a chance é de 1:6. ● Dormindo: a chance de um dragão estar dormindo quando em seu covil é de 2:6. Ataques contra dragões dormindo recebem bônus de +2. Dragões podem fingir estar dormindo! ● Rendição: se tiver seu PV reduzida à 0 por danos não letais admitirá derrota e fica subjugado (danos não letais não interferem no dano da baforada). Quando subjugado, tentará escapar ou atacar seus captores, se a oportunidade se apresentar ou se receber ordens suicidas. Um dragão cativo pode ser vendido por 1.000 po por PV. ● Idade: as fichas a seguir descrevem dragões adultos, de tamanho “enorme”. Dragões mais jovens podem ter até 3 DV a menos e ¼ ou ½ do tesouro, e são de tamanho “grande”. Dragões anciões terão até 3 DV a mais, o dobro do tesouro e são considerados “imensos”. ● Covis: o tesouro de um dragão é sempre mantido em seu covil bem escondido e raramente ficará desprotegido.\n\nDragão vermelho (E) Vive em montanhas e colinas. CA: -1 [20]; DV: 10* (45 PV); Atq: 2x garra (1d8), 1x mordida (4d8) ou baforada; TAC0: 10 [+9]; MV: 30’ | 80’ (voo); SV: 9; ML: 10; Al: C; CG: SR | AR (3:6); Id: dracônico; XP: 2.300; NA: 1d4 (1d4); TT: H ● Magia (1x dia / cada): 3x magias de primeiro círculo, 3x magias de segundo círculo, 3x magias de terceiro círculo (apenas CG: AR).\n\nLivro Base V2, p. 136.",
+        "notes": "CA: -1 [20]\nDV: 10* (45 PV)\nAtq: 2x garra (1d8), 1x mordida (4d8) ou baforada\nTAC0: 10 [+9]\nMV: 30’ | 80’ (voo)\nSV: 9\nML: 10\nAl: C\nCG: SR | AR (3: 6)\nId: dracônico\nXP: 2.300\nNA: 1d4 (1d4)\nTT: H",
+        "saves": {
+          "death": {
+            "target": 9,
+            "bonus": 0
+          },
+          "contact": {
+            "target": 9,
+            "bonus": 0
+          },
+          "paralysis": {
+            "target": 9,
+            "bonus": 0
+          },
+          "eruption": {
+            "target": 9,
+            "bonus": 0
+          },
+          "spell": {
+            "target": 9,
+            "bonus": 0
+          }
+        }
+      },
+      "items": [
+        {
+          "_id": "42314fc7cda33ebe",
+          "name": "2× garra",
+          "type": "weapon",
+          "img": "systems/d20age/assets/icons/c2bfdc06e6bc52d9.svg",
+          "system": {
+            "description": "Ataque do bloco original: 2x garra (1d8), 1x mordida (4d8) ou baforada\n1d8\nCada clique rola um ataque. Repita conforme a quantidade indicada.\n\nLivro Base V2, p. 136.",
+            "damage": "1d8",
+            "strengthDamage": false,
+            "weight": 0,
+            "equipped": true,
+            "properties": "1d8"
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "pack",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "3cc662bdeec36818",
+          "name": "1x mordida",
+          "type": "weapon",
+          "img": "systems/d20age/assets/icons/969eee7504a13c6e.svg",
+          "system": {
+            "description": "Ataque do bloco original: 2x garra (1d8), 1x mordida (4d8) ou baforada\n4d8\nCada clique rola um ataque. Repita conforme a quantidade indicada.\n\nLivro Base V2, p. 136.",
+            "damage": "4d8",
+            "strengthDamage": false,
+            "weight": 0,
+            "equipped": true,
+            "properties": "4d8"
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "pack",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "51df0f3018e30fc5",
+          "name": "Comportamento",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/d1df38cc4083077c.svg",
+          "system": {
+            "description": "Comportamento: tem relação com alinhamento. Dragões caóticos geralmente apreciam a carne humana (e humanoide), e tenderão a atacar ou subjugar humanoides. Quando alinhados à neutralidade, atacam ou ignoram de acordo as circunstâncias, e dragões alinhados à ordem podem até se aliar à humanoides dignos da honra.\n\nLivro Base V2, p. 136."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "c47a36bb88aad456",
+          "name": "Orgulho",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/88f310b475a7b003.svg",
+          "system": {
+            "description": "Orgulho: criatura orgulhosa, que adora bajulações.\n\nLivro Base V2, p. 136."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "e82e163eeeac04eb",
+          "name": "Combate",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/2f7d87436740f56e.svg",
+          "system": {
+            "description": "Combate: geralmente ataca com sua baforada logo de imediato, e pode repeti-la ou usar seus ataques corpo a corpo em igual chance por rodada.\n\nLivro Base V2, p. 136."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "446283d48b4da808",
+          "name": "Baforada (3x / dia)",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/0e4edff56c49c7c9.svg",
+          "system": {
+            "description": "Baforada (3x / dia): tudo na área sofre o efeito da baforada, cujo dano é equivalente ao valor do PV atual do dragão. (SV-I para metade). A forma pode ser: Tabela – Escama e tipo de baforada Escama Tipo SV Azul Raio (linha 5’ x 100’) C Branco Gelo (cone 80’) I Verde Veneno (raio 30’) M Vermelho Fogo (cone 90’) I Preto Ácido (linha 5’ x 60’) C NOTA Para dragões metálicos use: bronze (azul), cobre (preto), dourado (vermelho), latão (verde) e prata (branco).\n\nLivro Base V2, p. 136."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "c82ea8bc4049270a",
+          "name": "Imunidade",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/bc6710c33263979e.svg",
+          "system": {
+            "description": "Imunidade: imune a dano correspondente ao tipo de sua baforada.\n\nLivro Base V2, p. 136."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "4530ee79bb44acf5",
+          "name": "Sentidos",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/c0a5ffff3b48fe8d.svg",
+          "system": {
+            "description": "Sentidos: ultravisão (120’), tremorsenso (120’) e faro aguçado (1 mi).\n\nLivro Base V2, p. 136."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "84625430b865eba4",
+          "name": "Cognição, idioma e magia",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/d32d9bd1d9fd4ac8.svg",
+          "system": {
+            "description": "Cognição, idioma e magia: todo dragão compreende o idioma dracônico. Seu comportamento varia de semi-racional até altamente racional, e estes podem falar e usar magia (chance entre parêntese, em cognição). Para avaliar aleatoriamente se um dragão altamente racional fala o idioma comum, a chance é de 1:6.\n\nLivro Base V2, p. 136."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "0883f9e82f539f2e",
+          "name": "Dormindo",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/0ff43fed1298c9a2.svg",
+          "system": {
+            "description": "Dormindo: a chance de um dragão estar dormindo quando em seu covil é de 2:6. Ataques contra dragões dormindo recebem bônus de +2. Dragões podem fingir estar dormindo!\n\nLivro Base V2, p. 136."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "dc7e0557aaced8ca",
+          "name": "Rendição",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/6508c7c253cebb51.svg",
+          "system": {
+            "description": "Rendição: se tiver seu PV reduzida à 0 por danos não letais admitirá derrota e fica subjugado (danos não letais não interferem no dano da baforada). Quando subjugado, tentará escapar ou atacar seus captores, se a oportunidade se apresentar ou se receber ordens suicidas. Um dragão cativo pode ser vendido por 1.000 po por PV.\n\nLivro Base V2, p. 136."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "5e256e6a9e1cec21",
+          "name": "Idade",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/feff47cb5c0dd0f2.svg",
+          "system": {
+            "description": "Idade: as fichas a seguir descrevem dragões adultos, de tamanho “enorme”. Dragões mais jovens podem ter até 3 DV a menos e ¼ ou ½ do tesouro, e são de tamanho “grande”. Dragões anciões terão até 3 DV a mais, o dobro do tesouro e são considerados “imensos”.\n\nLivro Base V2, p. 136."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "1951e9126a2a12a8",
+          "name": "Covis",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/a3db93651fcef05f.svg",
+          "system": {
+            "description": "Covis: o tesouro de um dragão é sempre mantido em seu covil bem escondido e raramente ficará desprotegido.\n\nLivro Base V2, p. 136."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        },
+        {
+          "_id": "ff1ceccde40daad5",
+          "name": "Magia (1x dia / cada)",
+          "type": "ability",
+          "img": "systems/d20age/assets/icons/ed5c97ee9c4ae792.svg",
+          "system": {
+            "description": "Magia (1x dia / cada): 3x magias de primeiro círculo, 3x magias de segundo círculo, 3x magias de terceiro círculo (apenas CG: AR).\n\nLivro Base V2, p. 136."
+          },
+          "flags": {
+            "d20age": {
+              "source": "d20age RPG - LB (V2)",
+              "page": 136,
+              "pdfPage": 141,
+              "iconMotif": "book",
+              "visualVersion": "0.2.1"
+            }
+          }
+        }
+      ],
+      "prototypeToken": {
+        "actorLink": false,
+        "bar1": {
+          "attribute": "hp"
+        },
+        "disposition": -1,
+        "texture": {
+          "src": "systems/d20age/assets/icons/0d3f1b46a4834782.svg"
+        }
+      },
+      "flags": {
+        "d20age": {
+          "source": "d20age RPG - LB (V2)",
+          "page": 136,
+          "pdfPage": 141,
+          "rawStats": {
+            "CA": "-1 [20]",
+            "DV": "10* (45 PV)",
+            "Atq": "2x garra (1d8), 1x mordida (4d8) ou baforada",
+            "TAC0": "10 [+9]",
+            "MV": "30’ | 80’ (voo)",
+            "SV": "9",
+            "ML": "10",
+            "Al": "C",
+            "CG": "SR | AR (3: 6)",
+            "Id": "dracônico",
+            "XP": "2.300",
+            "NA": "1d4 (1d4)",
+            "TT": "H"
+          },
+          "folderPath": [
+            "Dracônicos",
+            "Dragão"
+          ],
+          "iconMotif": "dragon",
+          "visualVersion": "0.2.1"
+        }
+      },
+      "folder": "7ffcbb7156219387"
+    }
+  ]
+}

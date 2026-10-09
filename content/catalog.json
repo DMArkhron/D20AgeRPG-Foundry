@@ -1,0 +1,18 @@
+{
+  "version": "0.5.0",
+  "source": "d20age RPG - LB (V2)",
+  "counts": {
+    "equipment": 132,
+    "spells": 60,
+    "magic-items": 183,
+    "abilities": 651,
+    "bestiary": 162,
+    "rolltables": 60,
+    "references": 92,
+    "macros": 79
+  },
+  "creatureStatsExpected": 162,
+  "indexedTables": 87,
+  "icons": 2148,
+  "folders": 114
+}

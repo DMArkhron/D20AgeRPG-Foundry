@@ -1,0 +1,2687 @@
+[
+  {
+    "name": "Abelha assassina operária · diminuto",
+    "img": "systems/d20age/assets/icons/7d7bdcca7fa5a36e.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Abelha assassina guardiã · diminuto",
+    "img": "systems/d20age/assets/icons/d951ea4bffa95241.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Abelha assassina rainha · diminuto",
+    "img": "systems/d20age/assets/icons/4c9869b9d5cce93e.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Camelo · grande",
+    "img": "systems/d20age/assets/icons/8e33dbd2a8b853c8.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Cavalo de guerra · grande",
+    "img": "systems/d20age/assets/icons/f167ff1b4628605a.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Cavalo de tração · grande",
+    "img": "systems/d20age/assets/icons/dc99c0ab540d665b.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Cavalo de cavalgada · grande",
+    "img": "systems/d20age/assets/icons/413291089dc92cb7.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Mula · médio",
+    "img": "systems/d20age/assets/icons/edf70e1aee47ae2b.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Pônei · médio",
+    "img": "systems/d20age/assets/icons/3a49a484e90fd006.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Águia · pequeno",
+    "img": "systems/d20age/assets/icons/42c56fad0f94226c.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Águia gigante · grande",
+    "img": "systems/d20age/assets/icons/46cdda3d7ea64528.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Aranha aquática · médio",
+    "img": "systems/d20age/assets/icons/f15ccbd43e390666.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Aranha caranguejeira · médio",
+    "img": "systems/d20age/assets/icons/179ea66dccf6a95d.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Rhagodessa · enorme",
+    "img": "systems/d20age/assets/icons/9f3a2543e3f25683.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Viúva negra · médio",
+    "img": "systems/d20age/assets/icons/c6067c484ebb1f74.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Tarântula · grande",
+    "img": "systems/d20age/assets/icons/56354581c7cdc1af.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Babuíno das rochas",
+    "img": "systems/d20age/assets/icons/ee626a4ca53d09ad.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Besouro de fogo · pequeno",
+    "img": "systems/d20age/assets/icons/5c466c514e2652b5.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Besouro viscoso · pequeno",
+    "img": "systems/d20age/assets/icons/7df779e7c3471467.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Besouro Tigre · médio",
+    "img": "systems/d20age/assets/icons/51a04db11374817d.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Cão de caça · médio",
+    "img": "systems/d20age/assets/icons/91023378c8e23462.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Cão de batalha · médio",
+    "img": "systems/d20age/assets/icons/3b399904f96d192d.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Caranguejo gigante",
+    "img": "systems/d20age/assets/icons/6f8a3de3794f1bd5.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Centopeia gigante",
+    "img": "systems/d20age/assets/icons/f94464076b7292c6.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Cascavel gigante · grande",
+    "img": "systems/d20age/assets/icons/2b494b8b09c11dc3.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Naja · pequeno",
+    "img": "systems/d20age/assets/icons/f1d7f471d5087ec2.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Cobra marinha · médio",
+    "img": "systems/d20age/assets/icons/6e547d24899affe4.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Píton · grande",
+    "img": "systems/d20age/assets/icons/f012d6bf344dd46f.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Víbora · médio",
+    "img": "systems/d20age/assets/icons/7057f3c51dc5e891.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Crocodilo-de-água-doce · grande",
+    "img": "systems/d20age/assets/icons/defdd8d4a443588c.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Crocodilo-de-água-salgada · grande",
+    "img": "systems/d20age/assets/icons/47d41f0e88bb98b5.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Crocodilo gigante · enorme",
+    "img": "systems/d20age/assets/icons/5fd8ac251846c6a0.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Cupim gigante",
+    "img": "systems/d20age/assets/icons/4a0f84f622456565.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Enxame de insetos",
+    "img": "systems/d20age/assets/icons/81a3affda036c416.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Escorpião gigante",
+    "img": "systems/d20age/assets/icons/0e604df760549b9d.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Formiga gigante",
+    "img": "systems/d20age/assets/icons/01b3cd11d23c8615.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Gralha · diminuto",
+    "img": "systems/d20age/assets/icons/d18e3cac866221e6.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Gralha gigante · grande",
+    "img": "systems/d20age/assets/icons/c9ab06b95f1693fd.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Javali · médio",
+    "img": "systems/d20age/assets/icons/01080e0bc7470567.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Javali Atroz · grande",
+    "img": "systems/d20age/assets/icons/1aa3192f0dfc6917.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Lobo comum · médio",
+    "img": "systems/d20age/assets/icons/436619418c2083f8.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Lobo atroz · grande",
+    "img": "systems/d20age/assets/icons/e80cf0d674fbb65d.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Warg · grande",
+    "img": "systems/d20age/assets/icons/c76817c9bb3c64b7.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Animal de rebanho · grande",
+    "img": "systems/d20age/assets/icons/0302d7316721def7.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Animal de rebanho · médio",
+    "img": "systems/d20age/assets/icons/71d2b9fef7beb39c.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Animal de rebanho · pequeno",
+    "img": "systems/d20age/assets/icons/db28e2acb8247b88.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Morcego comum (colônia)",
+    "img": "systems/d20age/assets/icons/3d291ec4a2b0444c.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Morcego gigante · pequeno",
+    "img": "systems/d20age/assets/icons/acb342ba1a79b018.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Morcego vampiro · médio",
+    "img": "systems/d20age/assets/icons/d1a92aafef8f6d46.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Polvo gigante",
+    "img": "systems/d20age/assets/icons/196ece3000411ac2.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Rato comum (colônia, M)",
+    "img": "systems/d20age/assets/icons/39bcc14d482662bf.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Rato gigante · pequeno",
+    "img": "systems/d20age/assets/icons/b62e8163ec60eba9.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Sanguessuga gigante",
+    "img": "systems/d20age/assets/icons/86d744227b5854a3.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Tubarão comum · grande",
+    "img": "systems/d20age/assets/icons/82e6599aab43826c.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Tubarão gigante · enorme",
+    "img": "systems/d20age/assets/icons/bef75848e96bbe96.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Urso negro · médio",
+    "img": "systems/d20age/assets/icons/d5c4109daaa40b73.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Urso pardo · grande",
+    "img": "systems/d20age/assets/icons/77fe25efd545ca89.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Urso polar · grande",
+    "img": "systems/d20age/assets/icons/ffe4afb3dcb60af7.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Urso atroz · grande",
+    "img": "systems/d20age/assets/icons/0e5baa0d99d4282c.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Golem de carne · grande",
+    "img": "systems/d20age/assets/icons/0ba3969598ea21aa.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Golem de ossos · médio",
+    "img": "systems/d20age/assets/icons/4830723984ed99dc.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Armadura animada · médio",
+    "img": "systems/d20age/assets/icons/b227e3767ddce301.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Punhal animado · diminuto",
+    "img": "systems/d20age/assets/icons/80c33462e047207c.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Tapete animado · grande",
+    "img": "systems/d20age/assets/icons/a640ec0c37dcae77.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Cãoniçal",
+    "img": "systems/d20age/assets/icons/e3545050a46ebf58.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Carniçal",
+    "img": "systems/d20age/assets/icons/be6b3bbbcda8d243.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Esqueleto",
+    "img": "systems/d20age/assets/icons/431c621b8d5aebcc.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Espectro",
+    "img": "systems/d20age/assets/icons/5514f81874cb2b42.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Fantasma",
+    "img": "systems/d20age/assets/icons/b98446594c9e31a3.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Inumano",
+    "img": "systems/d20age/assets/icons/f8e5445017da35ab.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Lich",
+    "img": "systems/d20age/assets/icons/999c93cf110003cd.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Múmia",
+    "img": "systems/d20age/assets/icons/00cd1e64bad86c72.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Vampiro",
+    "img": "systems/d20age/assets/icons/f173b9ec48f597f6.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Zumbi",
+    "img": "systems/d20age/assets/icons/5cc3144f003d82a1.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Draco dos pântanos · grande",
+    "img": "systems/d20age/assets/icons/0c91314a8a6c4cdd.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Draco camaleão · grande",
+    "img": "systems/d20age/assets/icons/36a8cf4b0a2caf2c.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Draconato",
+    "img": "systems/d20age/assets/icons/926c3ba6df4d9994.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Dragão azul · enorme",
+    "img": "systems/d20age/assets/icons/426875116bb2937e.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Dragão branco · enorme",
+    "img": "systems/d20age/assets/icons/469faa3bf3f6db9b.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Dragão negro · enorme",
+    "img": "systems/d20age/assets/icons/25a7c571d3b4b8e5.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Dragão verde · enorme",
+    "img": "systems/d20age/assets/icons/bfb047b19398bd67.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Dragão vermelho · enorme",
+    "img": "systems/d20age/assets/icons/0d3f1b46a4834782.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Dragão dourado · enorme",
+    "img": "systems/d20age/assets/icons/95c42cf1aafb9d61.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Hidra das colinas · enorme",
+    "img": "systems/d20age/assets/icons/9acebb094c3a7bb7.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Hidra dos pântanos · enorme",
+    "img": "systems/d20age/assets/icons/44a9bafc00705d32.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Hidra vulcânica · enorme",
+    "img": "systems/d20age/assets/icons/ede1f9358d6687ef.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Salamandra ignea",
+    "img": "systems/d20age/assets/icons/e091cb0a50e01550.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Serpe",
+    "img": "systems/d20age/assets/icons/bd19314b54a458b6.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Cão infernal",
+    "img": "systems/d20age/assets/icons/9d965038ef8d25fe.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Elemental da água · grande",
+    "img": "systems/d20age/assets/icons/392e3f46fd40e603.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Elemental do ar · grande",
+    "img": "systems/d20age/assets/icons/7c861a920107d02c.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Elemental de fogo · grande",
+    "img": "systems/d20age/assets/icons/b2e58e5e8744c60a.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Elemental da terra · grande",
+    "img": "systems/d20age/assets/icons/70d4e27fda38248d.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Gênio do ar · médio",
+    "img": "systems/d20age/assets/icons/6808b91456511cd1.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Gênio do fogo · grande",
+    "img": "systems/d20age/assets/icons/47865fd86566c63a.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Estriga dos bosques · médio",
+    "img": "systems/d20age/assets/icons/d55bbeb8123447d6.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Estriga da noite · médio",
+    "img": "systems/d20age/assets/icons/bb54a42f42a78b8d.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Estriga dos pântanos · médio",
+    "img": "systems/d20age/assets/icons/45885c0334edc2b5.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Fada",
+    "img": "systems/d20age/assets/icons/3f44d189bd7be313.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Sereia · médio",
+    "img": "systems/d20age/assets/icons/7e62994064ab943d.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Tritão · médio",
+    "img": "systems/d20age/assets/icons/06aada0d63ef8179.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Ninfa",
+    "img": "systems/d20age/assets/icons/1f21da575fbf40e0.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Pégaso",
+    "img": "systems/d20age/assets/icons/2d54ebe4359ea28c.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Raposa lampejante",
+    "img": "systems/d20age/assets/icons/8032f72c811a5b87.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Sátiro",
+    "img": "systems/d20age/assets/icons/3d89d923e1ac18ee.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Trasgo",
+    "img": "systems/d20age/assets/icons/fb96d1f65007aa4d.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Unicórnio",
+    "img": "systems/d20age/assets/icons/8fdd9cfd38560a9a.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Ente",
+    "img": "systems/d20age/assets/icons/7c9b73146919edb4.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Árvore animada",
+    "img": "systems/d20age/assets/icons/8112d3e39c210e41.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Cogumelo gritador · pequeno",
+    "img": "systems/d20age/assets/icons/9d9dc0d691e517ff.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Cogumelo violeta · médio",
+    "img": "systems/d20age/assets/icons/d373f42eef1e8b73.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Lodo verde",
+    "img": "systems/d20age/assets/icons/0ac7fe00cbed45a5.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Mofo amarelo",
+    "img": "systems/d20age/assets/icons/cbb5f6567a4984fc.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Ettin",
+    "img": "systems/d20age/assets/icons/8af0a34c1611c8a8.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Gigante da colina · grande",
+    "img": "systems/d20age/assets/icons/b6180fe3ac3355aa.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Gigante do fogo · enorme",
+    "img": "systems/d20age/assets/icons/4f0ee9057fb429ea.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Gigante do gelo · enorme",
+    "img": "systems/d20age/assets/icons/57b9348014cf9b7a.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Gigante das nuvens · enorme",
+    "img": "systems/d20age/assets/icons/812dce99e1d8775d.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Gigante de pedra · grande",
+    "img": "systems/d20age/assets/icons/7ae5d8372498e85d.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Gigante das tempestades · enorme",
+    "img": "systems/d20age/assets/icons/1a23b655def49638.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Ogro",
+    "img": "systems/d20age/assets/icons/d62a82f525d1714e.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Trol",
+    "img": "systems/d20age/assets/icons/45f0344a300ff487.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Anão",
+    "img": "systems/d20age/assets/icons/06da151b91e2c84f.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Bandido",
+    "img": "systems/d20age/assets/icons/7f3d45149620d5fc.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Centauro",
+    "img": "systems/d20age/assets/icons/d07a4956e31478dd.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Duende verde · pequeno",
+    "img": "systems/d20age/assets/icons/7b42758223fca937.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Duende macabro · médio",
+    "img": "systems/d20age/assets/icons/6555754e243dff4f.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Duende-rei · grande",
+    "img": "systems/d20age/assets/icons/81186ff82cf70807.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Elfo",
+    "img": "systems/d20age/assets/icons/1ad7db92a0d2874c.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Gnomo",
+    "img": "systems/d20age/assets/icons/ce15befd3f78757b.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Guarda comum",
+    "img": "systems/d20age/assets/icons/8e9bb521e35faf6f.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Pessoa comum",
+    "img": "systems/d20age/assets/icons/dba5ef66702af6ba.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Orque",
+    "img": "systems/d20age/assets/icons/28d07380f4f2e1db.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Troglodita",
+    "img": "systems/d20age/assets/icons/a52fa820ec9dd36e.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Veterano · arcanista",
+    "img": "systems/d20age/assets/icons/86f87ed38fcb19b1.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Veterano · combatente",
+    "img": "systems/d20age/assets/icons/7430bda5b8499f9e.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Veterano · especialista",
+    "img": "systems/d20age/assets/icons/0d5db743e687af1b.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Veterano · magista",
+    "img": "systems/d20age/assets/icons/a0fcc12e74e1443b.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Beija-sangue",
+    "img": "systems/d20age/assets/icons/78ae943052f6f7e4.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Cocatriz",
+    "img": "systems/d20age/assets/icons/8b01c3e0b52c233b.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Cubo gelatinoso",
+    "img": "systems/d20age/assets/icons/d89521d11bbcc488.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Duplicador",
+    "img": "systems/d20age/assets/icons/f67df5374f51c31d.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Gárgula",
+    "img": "systems/d20age/assets/icons/03e6f4ddebe5ee90.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Górgona",
+    "img": "systems/d20age/assets/icons/05c075e54ec38e95.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Grifo",
+    "img": "systems/d20age/assets/icons/df4dbb640b972f6f.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Gosma preta",
+    "img": "systems/d20age/assets/icons/e64f71ad4b7491a5.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Homem-javali · médio",
+    "img": "systems/d20age/assets/icons/657f00ea9a7eebb0.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Homem-rato · médio",
+    "img": "systems/d20age/assets/icons/bfd1966910dba958.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Homem-tigre · médio",
+    "img": "systems/d20age/assets/icons/91a8a5d17b56e965.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Homem-urso · médio",
+    "img": "systems/d20age/assets/icons/c9bb576a0efcd71c.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Lobisomem · médio",
+    "img": "systems/d20age/assets/icons/e5794b3cd378c282.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Porco diabólico · médio",
+    "img": "systems/d20age/assets/icons/e3d61540ff9e68c4.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Minotauro",
+    "img": "systems/d20age/assets/icons/840bb573227cc412.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Mímico",
+    "img": "systems/d20age/assets/icons/0579595ce3ed2d09.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Monstro da ferrugem",
+    "img": "systems/d20age/assets/icons/dcad558fd9527d61.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Olho tirano",
+    "img": "systems/d20age/assets/icons/360fe6f1fe131a96.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Perfurador",
+    "img": "systems/d20age/assets/icons/372ac8e4000804ea.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Quimera",
+    "img": "systems/d20age/assets/icons/53ae4f06e65acbe3.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Sombra",
+    "img": "systems/d20age/assets/icons/5223151dae17eb32.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Urso coruja",
+    "img": "systems/d20age/assets/icons/c3b1a0db0b0f7219.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Verme carniceiro",
+    "img": "systems/d20age/assets/icons/80de7bd6bc67b7d7.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Verme púrpura",
+    "img": "systems/d20age/assets/icons/e3d4a78c7880097b.svg",
+    "category": "bestiary"
+  },
+  {
+    "name": "Agulha (1’’)",
+    "img": "systems/d20age/assets/icons/f1ae64cf8127623c.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Alicate",
+    "img": "systems/d20age/assets/icons/0840dd3e6dfbe4b7.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Algema (par)",
+    "img": "systems/d20age/assets/icons/7b647b14ceb64fa9.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Ampulheta (10 min)",
+    "img": "systems/d20age/assets/icons/e7d034f25abf7269.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Apito",
+    "img": "systems/d20age/assets/icons/1f6a2479bc65c61a.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Balança e pesos",
+    "img": "systems/d20age/assets/icons/0165ec986933c43a.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Bandolim",
+    "img": "systems/d20age/assets/icons/4d2f30b08b6ca5d1.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Barbante (rolo de 100’)",
+    "img": "systems/d20age/assets/icons/acd3f27bff2c9aa5.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Berrante",
+    "img": "systems/d20age/assets/icons/fff2f00399fc3c1d.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Bolas de gude (6)",
+    "img": "systems/d20age/assets/icons/f0d65c3539a58071.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Bolsa de cinto (25 cn)",
+    "img": "systems/d20age/assets/icons/c4c21ee0f01f4cd8.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Capa",
+    "img": "systems/d20age/assets/icons/50918aeeae95b0a6.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Carvão (saco)",
+    "img": "systems/d20age/assets/icons/a558452b03b76c10.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Cera de abelha",
+    "img": "systems/d20age/assets/icons/f5bc1f5b5e8ad668.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Cobertor",
+    "img": "systems/d20age/assets/icons/3a334ab4a217161e.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Corda (50’)",
+    "img": "systems/d20age/assets/icons/6cd9e735fbee2dad.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Dados (2)",
+    "img": "systems/d20age/assets/icons/df2971a15fb437ae.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Espelho (pequeno)",
+    "img": "systems/d20age/assets/icons/59cac89207f75da0.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Estacas de madeira (3)",
+    "img": "systems/d20age/assets/icons/d8d5677195396ba0.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Estrepes (bolsa com 10)",
+    "img": "systems/d20age/assets/icons/715036bdad56a817.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Frasco de vidro (1 qt)",
+    "img": "systems/d20age/assets/icons/e79d342603854e51.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Gancho",
+    "img": "systems/d20age/assets/icons/f605ab24c28dc8b6.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Gazua",
+    "img": "systems/d20age/assets/icons/497cce124d17b573.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Giz",
+    "img": "systems/d20age/assets/icons/ad2924b8627a11bd.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Lampião",
+    "img": "systems/d20age/assets/icons/5cd8ae6f662e7b1e.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Lona",
+    "img": "systems/d20age/assets/icons/4f340d94ce14e276.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Lupa",
+    "img": "systems/d20age/assets/icons/b5731656c4c6ad42.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Luvas de couro",
+    "img": "systems/d20age/assets/icons/0e441b5ec45951cf.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Marreta",
+    "img": "systems/d20age/assets/icons/b966a5f25dcedc4a.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Mochila (80 cn)",
+    "img": "systems/d20age/assets/icons/aaea60ae3fd300f0.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Óleo (frasco)",
+    "img": "systems/d20age/assets/icons/f9bce413df1bd20d.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Odre",
+    "img": "systems/d20age/assets/icons/540d31d30f0c783e.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Pá",
+    "img": "systems/d20age/assets/icons/9d21678285634ef2.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Panela de ferro",
+    "img": "systems/d20age/assets/icons/03011f17f53228b0.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Papiro",
+    "img": "systems/d20age/assets/icons/393c661960a3df2d.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Pé de cabra",
+    "img": "systems/d20age/assets/icons/7730230d5e258852.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Pederneira",
+    "img": "systems/d20age/assets/icons/3608a12875d61f01.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Picareta",
+    "img": "systems/d20age/assets/icons/48b23254cc0d4a68.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Pinos (12)",
+    "img": "systems/d20age/assets/icons/b0d66d10256f96fb.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Polia",
+    "img": "systems/d20age/assets/icons/c17a28244b3cb012.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Porta-mapas",
+    "img": "systems/d20age/assets/icons/85106b42b5229e0b.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Ração, 7 dias (simples)",
+    "img": "systems/d20age/assets/icons/482fa767cffb6ea8.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Ração, 7 dias (especial)",
+    "img": "systems/d20age/assets/icons/062bdfcaf4177b41.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Roupa (nobre)",
+    "img": "systems/d20age/assets/icons/b50441c33c9009f6.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Saco de dormir",
+    "img": "systems/d20age/assets/icons/13ae63917d9b9c2f.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Saco (suporta até 400 cn)",
+    "img": "systems/d20age/assets/icons/a1c68473743629c7.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Serrote",
+    "img": "systems/d20age/assets/icons/0a3f6c4f08368b69.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Sino",
+    "img": "systems/d20age/assets/icons/45c3651bac33ea77.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Tesoura",
+    "img": "systems/d20age/assets/icons/5b92f29bf34c5528.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Tinta (frasqueta) e pena",
+    "img": "systems/d20age/assets/icons/fbd26d07a8309a5a.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Tochas (3)",
+    "img": "systems/d20age/assets/icons/b9e48c8459939528.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Velas (10)",
+    "img": "systems/d20age/assets/icons/9112d5bf645b6cfb.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Barraca (2 pessoas)",
+    "img": "systems/d20age/assets/icons/3dcdc313813c6673.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Baú (pequeno)",
+    "img": "systems/d20age/assets/icons/cfd7efda615d2210.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Baú (médio)",
+    "img": "systems/d20age/assets/icons/57b08291b83c309b.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Baú (grande)",
+    "img": "systems/d20age/assets/icons/8dea30667122c2e0.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Corrente (10’)",
+    "img": "systems/d20age/assets/icons/7e85f820a173440f.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Escada (10’)",
+    "img": "systems/d20age/assets/icons/f4c78b7a1f7f28de.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Rede (5’x5’)",
+    "img": "systems/d20age/assets/icons/368bf407c04de1cf.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Traje de inverno",
+    "img": "systems/d20age/assets/icons/eb946c40a85c0594.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Vara de exploração",
+    "img": "systems/d20age/assets/icons/0f4257fc188972f6.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Vara de pescaria",
+    "img": "systems/d20age/assets/icons/f0bd3fa7eb5eb4c3.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Couro simples",
+    "img": "systems/d20age/assets/icons/3ab799d9f031a321.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Couro fervido",
+    "img": "systems/d20age/assets/icons/ff225a6cd4d3d74b.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Lamelar",
+    "img": "systems/d20age/assets/icons/e8f169d913d36ede.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Anelar",
+    "img": "systems/d20age/assets/icons/1c5a691604969ba9.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Segmentada",
+    "img": "systems/d20age/assets/icons/c04ff0141792fe2c.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Couraça",
+    "img": "systems/d20age/assets/icons/72193c9b476e9f67.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Escudo",
+    "img": "systems/d20age/assets/icons/fa3627decdd236b6.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Adaga",
+    "img": "systems/d20age/assets/icons/2ff5326278fc7f35.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Machadinha",
+    "img": "systems/d20age/assets/icons/57f6a356082d7059.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Cajado",
+    "img": "systems/d20age/assets/icons/a4c4577f26a737df.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Clava",
+    "img": "systems/d20age/assets/icons/85248a10508f2764.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Besta",
+    "img": "systems/d20age/assets/icons/e1a9b004b7bddc70.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Funda",
+    "img": "systems/d20age/assets/icons/340c8f84495e10f6.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Azagaia",
+    "img": "systems/d20age/assets/icons/1a0a6cdf052bec6e.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Espada curta",
+    "img": "systems/d20age/assets/icons/81ce1f309033dcef.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Maça",
+    "img": "systems/d20age/assets/icons/e1aa129021474c00.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Espada longa",
+    "img": "systems/d20age/assets/icons/e5b21694b69ec22f.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Lança",
+    "img": "systems/d20age/assets/icons/75faafba735ec37d.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Lança de cavalaria",
+    "img": "systems/d20age/assets/icons/a6afca00f660f70a.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Machado de batalha",
+    "img": "systems/d20age/assets/icons/236c3eb9cf39844d.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Martelo de batalha",
+    "img": "systems/d20age/assets/icons/7b62c34a40fbe412.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Alabarda",
+    "img": "systems/d20age/assets/icons/557fe1e326744eed.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Martelo de guerra",
+    "img": "systems/d20age/assets/icons/19874d612632bda0.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Machado de guerra",
+    "img": "systems/d20age/assets/icons/92ee802df441dbfa.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Montante",
+    "img": "systems/d20age/assets/icons/d0ef83f222899d62.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Arco curto",
+    "img": "systems/d20age/assets/icons/4f0f97adc04b0c76.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Arco longo",
+    "img": "systems/d20age/assets/icons/3806bcb4ac386806.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Aljava",
+    "img": "systems/d20age/assets/icons/888c00a10021a048.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Munições (20)",
+    "img": "systems/d20age/assets/icons/a8c3270bab3736c1.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Alforge",
+    "img": "systems/d20age/assets/icons/34818ee2c007327f.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Sela",
+    "img": "systems/d20age/assets/icons/4a92d41914d03edc.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Acônito (dose)",
+    "img": "systems/d20age/assets/icons/1a7ddc3474b866ce.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Alecrim (dose)",
+    "img": "systems/d20age/assets/icons/cbbe0a152a2c98a6.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Alho (dose)",
+    "img": "systems/d20age/assets/icons/c2a41200513b7f05.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Arruda (dose)",
+    "img": "systems/d20age/assets/icons/0c2d147cd583573d.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Camomila (dose)",
+    "img": "systems/d20age/assets/icons/dead705d399cede8.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Dente-de-leão (dose)",
+    "img": "systems/d20age/assets/icons/8efa0500f1a76dd9.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Erva-cidreira (dose)",
+    "img": "systems/d20age/assets/icons/539382c1a5307280.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Gengibre (dose)",
+    "img": "systems/d20age/assets/icons/da3cc407931a6821.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Sálvia (dose)",
+    "img": "systems/d20age/assets/icons/2a0bbe0b525f6f1c.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Valeriana (dose)",
+    "img": "systems/d20age/assets/icons/c3c678f93b04189e.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Canoa",
+    "img": "systems/d20age/assets/icons/ab4b0d159102f4e4.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Jangada",
+    "img": "systems/d20age/assets/icons/d5129a1f7ff81417.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Barco fluvial",
+    "img": "systems/d20age/assets/icons/86dfc50473bc9672.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Barco a vela",
+    "img": "systems/d20age/assets/icons/3f84d1fb2c7b7d4d.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Galé a remos",
+    "img": "systems/d20age/assets/icons/d6d4327bf6273038.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Galé a vela",
+    "img": "systems/d20age/assets/icons/86b5e018804d1352.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Galé de guerra",
+    "img": "systems/d20age/assets/icons/04ca0f64d5ec1e52.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Nau",
+    "img": "systems/d20age/assets/icons/3a3be4f20a684a06.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Charrete",
+    "img": "systems/d20age/assets/icons/8eeb3cac5c5a7e39.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Carroça",
+    "img": "systems/d20age/assets/icons/045ce2c6767294ba.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Carruagem",
+    "img": "systems/d20age/assets/icons/6c353c76d9e09a87.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Aríete",
+    "img": "systems/d20age/assets/icons/6a936e72b22a7927.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Balista",
+    "img": "systems/d20age/assets/icons/62c71cba9081b9f1.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Munição (balista)",
+    "img": "systems/d20age/assets/icons/9fb9414412cf8076.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Catapulta",
+    "img": "systems/d20age/assets/icons/503b21f7eb3c7b48.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Pedra (catapulta)",
+    "img": "systems/d20age/assets/icons/555790a54f9363e5.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Piche flamejante",
+    "img": "systems/d20age/assets/icons/fef0452f48e26c1a.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Veneno · Aranha aquática",
+    "img": "systems/d20age/assets/icons/8c9e8ea6c6872fec.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Veneno · Aranha da noite",
+    "img": "systems/d20age/assets/icons/47027f13def00dee.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Veneno · Centopeia gigante",
+    "img": "systems/d20age/assets/icons/dd31f5e1b7685dac.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Veneno · Chá de cogumelo",
+    "img": "systems/d20age/assets/icons/fb346a242f86a33b.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Veneno · Flor de nebulosa",
+    "img": "systems/d20age/assets/icons/7f9ebe4bd4814215.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Veneno · Pó de trasgo",
+    "img": "systems/d20age/assets/icons/3e8c89fbc80d0f07.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Veneno · Sapo",
+    "img": "systems/d20age/assets/icons/d7d7debe32957682.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Veneno · Serpe",
+    "img": "systems/d20age/assets/icons/224172a07cc3c8df.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Veneno · Vapor de miasma",
+    "img": "systems/d20age/assets/icons/e7ff163aa79abc1e.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Veneno · Verme carniceiro",
+    "img": "systems/d20age/assets/icons/cc5e952cfd633ac9.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Veneno · Víbora",
+    "img": "systems/d20age/assets/icons/06201eb9a3765417.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Veneno · Viúva negra",
+    "img": "systems/d20age/assets/icons/21450b5bd87176f8.svg",
+    "category": "equipment"
+  },
+  {
+    "name": "Aferrolhar",
+    "img": "systems/d20age/assets/icons/3b2826543773d21d.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Alarme",
+    "img": "systems/d20age/assets/icons/a079be1f6539f3c6.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Amarração",
+    "img": "systems/d20age/assets/icons/0429460f3dd9e45f.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Armadura mágica",
+    "img": "systems/d20age/assets/icons/3e3ad37ed95da466.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Detectar magia",
+    "img": "systems/d20age/assets/icons/603a61455a14b402.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Disco flutuante",
+    "img": "systems/d20age/assets/icons/a87c0624180328ba.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Escudo místico",
+    "img": "systems/d20age/assets/icons/ee988a6ef88b426c.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Emaranhar",
+    "img": "systems/d20age/assets/icons/2048822c6a8131ba.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Encantar pessoas",
+    "img": "systems/d20age/assets/icons/0f7118fa31435ad5.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Exorcismo",
+    "img": "systems/d20age/assets/icons/bd6cd3cba31b02cf.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Flecha mágica",
+    "img": "systems/d20age/assets/icons/c1882e04481e2800.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Heroísmo",
+    "img": "systems/d20age/assets/icons/c53fe9395da91e01.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Leitura mágica",
+    "img": "systems/d20age/assets/icons/62f9ebe1c69adb38.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Luz",
+    "img": "systems/d20age/assets/icons/2d56c7d6f9041db5.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Mãos flamejantes",
+    "img": "systems/d20age/assets/icons/f6c2c2e258fc66ae.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Patas de aranha",
+    "img": "systems/d20age/assets/icons/0f9c22f400697118.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Proteção contra o mal",
+    "img": "systems/d20age/assets/icons/52118c5e3add32ed.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Restauração",
+    "img": "systems/d20age/assets/icons/7ea1ea78209ba163.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Sono",
+    "img": "systems/d20age/assets/icons/4c5e3968780cda5a.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Ventriloquismo",
+    "img": "systems/d20age/assets/icons/5347015f8f063deb.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Abençoar arma",
+    "img": "systems/d20age/assets/icons/b54784f93ece356a.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Alterar-se",
+    "img": "systems/d20age/assets/icons/b0b91ddc78024fcc.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Desfocar",
+    "img": "systems/d20age/assets/icons/8bf40c44cc48a104.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Invisibilidade",
+    "img": "systems/d20age/assets/icons/f8a843071f985727.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Levitar",
+    "img": "systems/d20age/assets/icons/62748428c72a4933.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Neutralizar veneno",
+    "img": "systems/d20age/assets/icons/70972fe350921dfa.svg",
+    "category": "spells"
+  },
+  {
+    "name": "PES - Percepção Extra Sensorial",
+    "img": "systems/d20age/assets/icons/cdd8f97cd2ff97aa.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Reflexos",
+    "img": "systems/d20age/assets/icons/b66b024cbcc3aa2b.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Resistência a elementos",
+    "img": "systems/d20age/assets/icons/e5aaa7409c86227b.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Silêncio",
+    "img": "systems/d20age/assets/icons/7572154ad9b97461.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Teia",
+    "img": "systems/d20age/assets/icons/c808fbffbdfa88a4.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Tranca arcana",
+    "img": "systems/d20age/assets/icons/e5ab43f57856c0a5.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Aceleração",
+    "img": "systems/d20age/assets/icons/23574865bf420652.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Bola de fogo",
+    "img": "systems/d20age/assets/icons/1d6952bd18b8e4ab.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Clarividência",
+    "img": "systems/d20age/assets/icons/0b3deaa7eb10f8e7.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Dissipar magia",
+    "img": "systems/d20age/assets/icons/496967b5324b231a.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Falar com mortos",
+    "img": "systems/d20age/assets/icons/7718a155d8f0d3e8.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Imobilizar pessoas",
+    "img": "systems/d20age/assets/icons/bb09ba3b3f1f824b.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Respiração aquática",
+    "img": "systems/d20age/assets/icons/b56f50610100a88b.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Remover doença",
+    "img": "systems/d20age/assets/icons/0640d53da8009799.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Ultravisão",
+    "img": "systems/d20age/assets/icons/21caf95e01f5d621.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Voar",
+    "img": "systems/d20age/assets/icons/41803bfa6e2f7669.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Encantar criaturas",
+    "img": "systems/d20age/assets/icons/99120372873e486c.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Globo da invulnerabilidade",
+    "img": "systems/d20age/assets/icons/0387735bece39b3b.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Maldição",
+    "img": "systems/d20age/assets/icons/1028cdcba9b38b44.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Medo",
+    "img": "systems/d20age/assets/icons/00c807c9f4396c7a.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Olho mágico",
+    "img": "systems/d20age/assets/icons/9747401a1f6d6b3e.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Polimorfismo",
+    "img": "systems/d20age/assets/icons/4d617391c929eb44.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Porta dimensional",
+    "img": "systems/d20age/assets/icons/cea35468aefa515f.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Terreno ilusório",
+    "img": "systems/d20age/assets/icons/412a14afe7305311.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Animar mortos",
+    "img": "systems/d20age/assets/icons/9172676a2e8c9aeb.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Círculo de teleporte",
+    "img": "systems/d20age/assets/icons/4a4cb2957e511708.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Conjurar elemental",
+    "img": "systems/d20age/assets/icons/b734ec86d1559800.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Raio da morte",
+    "img": "systems/d20age/assets/icons/024f900bb37cd03e.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Receptáculo",
+    "img": "systems/d20age/assets/icons/bdb93e3699c04738.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Telecinesia",
+    "img": "systems/d20age/assets/icons/0e227981e34354c4.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Criar comida",
+    "img": "systems/d20age/assets/icons/bbaed11352e2d1bd.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Desintegrar",
+    "img": "systems/d20age/assets/icons/2971d1f007403455.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Petrificação",
+    "img": "systems/d20age/assets/icons/8c0607abdd6a6954.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Ressurreição",
+    "img": "systems/d20age/assets/icons/ea51436ca499b2eb.svg",
+    "category": "spells"
+  },
+  {
+    "name": "Água benta",
+    "img": "systems/d20age/assets/icons/ad0cb46c4e4e6bbf.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Biotônico",
+    "img": "systems/d20age/assets/icons/7caad6bf14eb7ec3.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Chá de equinácea",
+    "img": "systems/d20age/assets/icons/51497ff352cf238b.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Chá de lixia",
+    "img": "systems/d20age/assets/icons/d7514d3c148bf337.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Elixir da montanha",
+    "img": "systems/d20age/assets/icons/e3fa48151584f2af.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Suco de mangostão",
+    "img": "systems/d20age/assets/icons/d9902d32230d5235.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Super cola",
+    "img": "systems/d20age/assets/icons/77805ca5575ffe64.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Super solvente",
+    "img": "systems/d20age/assets/icons/44f779eac24f2399.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Pomada de bardana",
+    "img": "systems/d20age/assets/icons/e4afdd9e32489134.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Vapor de guaco",
+    "img": "systems/d20age/assets/icons/e69174a189476738.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Bola de cristal",
+    "img": "systems/d20age/assets/icons/28837f492139c46a.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Corda especial",
+    "img": "systems/d20age/assets/icons/e43b5ac6fbdde367.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Fogo alquímico",
+    "img": "systems/d20age/assets/icons/b40de479000175d1.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Grimório",
+    "img": "systems/d20age/assets/icons/3eee35f222a9cd6e.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Isqueiro",
+    "img": "systems/d20age/assets/icons/a5cc06cb44df39fc.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Lanterna furta-fogo",
+    "img": "systems/d20age/assets/icons/9bf13bba9b39d721.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Luneta",
+    "img": "systems/d20age/assets/icons/0c95c400c40d9922.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Mochila de viajante",
+    "img": "systems/d20age/assets/icons/3a24f093032dde96.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Mochila impermeável",
+    "img": "systems/d20age/assets/icons/d71ea407829e5ad2.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Óleo especial",
+    "img": "systems/d20age/assets/icons/9ac237baa7260350.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Papiros",
+    "img": "systems/d20age/assets/icons/c54ad7280b289e85.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Pedra anã",
+    "img": "systems/d20age/assets/icons/1c147596e267bbf5.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Adamantina",
+    "img": "systems/d20age/assets/icons/f5ab2bb20c34e552.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Arco composto",
+    "img": "systems/d20age/assets/icons/c07a394a87a2c3c0.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Argênteo",
+    "img": "systems/d20age/assets/icons/0cbd048071b95e44.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Couro feérico",
+    "img": "systems/d20age/assets/icons/631352998542ed9f.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Escama dracônica",
+    "img": "systems/d20age/assets/icons/33beed26adff2907.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Ferro-frio",
+    "img": "systems/d20age/assets/icons/cfcfa0a04524d334.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Prata",
+    "img": "systems/d20age/assets/icons/060598304641e591.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Óleo da acurácia",
+    "img": "systems/d20age/assets/icons/73bcc2fcebe6b30a.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Óleo da escalada",
+    "img": "systems/d20age/assets/icons/2eac2eb46db3d7d9.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Óleo da proteção",
+    "img": "systems/d20age/assets/icons/bf0227980c6fe143.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Poção da restauração",
+    "img": "systems/d20age/assets/icons/30af7ecf5b745ea7.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Poção do amor",
+    "img": "systems/d20age/assets/icons/2c3a4dea60023697.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Poção do heroísmo",
+    "img": "systems/d20age/assets/icons/ab944e2c3026e15d.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Óleo da invisibilidade",
+    "img": "systems/d20age/assets/icons/bcab1f561b12219c.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Poção da levitação",
+    "img": "systems/d20age/assets/icons/e47cb27076fb6735.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Poção da agilidade",
+    "img": "systems/d20age/assets/icons/b4503db12945f537.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Poção da clarividência",
+    "img": "systems/d20age/assets/icons/3b4245a6d0131b28.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Poção de crescimento",
+    "img": "systems/d20age/assets/icons/ee8f5ccca6d8e713.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Poção de diminuição",
+    "img": "systems/d20age/assets/icons/4384bc39d49c832d.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Poção da ultravisão",
+    "img": "systems/d20age/assets/icons/39fb5328b31633ce.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Poção da oclumência",
+    "img": "systems/d20age/assets/icons/062df8a2c2d17b8c.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Poção de respirar na água",
+    "img": "systems/d20age/assets/icons/7af3e37f07f022b2.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Poção de voo",
+    "img": "systems/d20age/assets/icons/fd21b51e2a8a8207.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Pomada de resistência",
+    "img": "systems/d20age/assets/icons/26dc3b8e005b8442.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Poção da grande restauração",
+    "img": "systems/d20age/assets/icons/dff600c92bba5da9.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Poção da sorte",
+    "img": "systems/d20age/assets/icons/73967771cc1b6d4c.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Poção da juventude",
+    "img": "systems/d20age/assets/icons/701b462893a4abff.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Cajado da arquimagia",
+    "img": "systems/d20age/assets/icons/5aa0bfd3505593ab.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Cajado da restauração",
+    "img": "systems/d20age/assets/icons/1304b365b51a407e.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Cajado da serpente",
+    "img": "systems/d20age/assets/icons/a3d9df5d04453846.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Cajado de comando",
+    "img": "systems/d20age/assets/icons/d6f3a8b2d2a9d191.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Cajado do poder",
+    "img": "systems/d20age/assets/icons/a6f897d82a4ba76f.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Orbe de cristal",
+    "img": "systems/d20age/assets/icons/a9b6ccd24e73f168.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Orbe da predição",
+    "img": "systems/d20age/assets/icons/1fe5e739c4488aac.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Orbe da verdade",
+    "img": "systems/d20age/assets/icons/fffaaf1885b83c64.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Varinha congelante",
+    "img": "systems/d20age/assets/icons/dd01346dd380a7df.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Varinha da amarração",
+    "img": "systems/d20age/assets/icons/d1d3f85e206f681e.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Varinha da detecção mágica",
+    "img": "systems/d20age/assets/icons/774823b49162d192.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Varinha da chave arcana",
+    "img": "systems/d20age/assets/icons/2709f4a1acceebee.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Varinha da fechadura",
+    "img": "systems/d20age/assets/icons/c764532e49960f7e.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Varinha da negação",
+    "img": "systems/d20age/assets/icons/06f89b0960190c6c.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Varinha da revelação",
+    "img": "systems/d20age/assets/icons/9206659aa87e2620.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Varinha de encantamento",
+    "img": "systems/d20age/assets/icons/1aa6ef1d5472cd4f.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Varinha de flecha mágica",
+    "img": "systems/d20age/assets/icons/1fea5f82e9a338b9.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Varinha de luz",
+    "img": "systems/d20age/assets/icons/35e32f833dc73a79.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Varinha de paralisia",
+    "img": "systems/d20age/assets/icons/5e4d61a7716dff4b.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Varinha de raios",
+    "img": "systems/d20age/assets/icons/52b97f1ec6278fe9.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Varinha do medo",
+    "img": "systems/d20age/assets/icons/d649e92ad13fa211.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Varinha do polimorfismo",
+    "img": "systems/d20age/assets/icons/f26eb60b717a658b.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Varinha flamejante",
+    "img": "systems/d20age/assets/icons/f86a267c0892fb04.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Amuleto de oclumência",
+    "img": "systems/d20age/assets/icons/b72b32688c0405c0.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Amuleto da ocultação",
+    "img": "systems/d20age/assets/icons/09121bdacdf66c67.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Bandolim melódico",
+    "img": "systems/d20age/assets/icons/6a2062f37d3087c6.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Berrante do brado heroico",
+    "img": "systems/d20age/assets/icons/948baaeb50968f44.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Bolsa devoradora",
+    "img": "systems/d20age/assets/icons/243752dbcca70949.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Bolsa porta-treco",
+    "img": "systems/d20age/assets/icons/1cf260003736b0d3.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Bota élfica",
+    "img": "systems/d20age/assets/icons/8ef04aac07bf9995.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Botas de levitação",
+    "img": "systems/d20age/assets/icons/35f6bd2b612c8778.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Bracelete de força gigante",
+    "img": "systems/d20age/assets/icons/2df1a5d0c560c69a.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Capa élfica",
+    "img": "systems/d20age/assets/icons/df3906809670bb6e.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Capa protetora",
+    "img": "systems/d20age/assets/icons/2cfa915eb7ce9eba.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Chapéu de disfarce",
+    "img": "systems/d20age/assets/icons/6c7dec82d3e093f0.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Chapéu falador",
+    "img": "systems/d20age/assets/icons/cb02b77ad203c629.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Corda élfica",
+    "img": "systems/d20age/assets/icons/11e59cdfab2086f3.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Escaravelhos guardiões",
+    "img": "systems/d20age/assets/icons/bdc7483fa62d0990.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Lâmpada dos desejos",
+    "img": "systems/d20age/assets/icons/c8cee31a13f07def.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Máscara da respiração aquática",
+    "img": "systems/d20age/assets/icons/7dbf88ee8fa8afbf.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Óculos de leitura mágica",
+    "img": "systems/d20age/assets/icons/ae09de1fc9e5a14c.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Pedra iônica",
+    "img": "systems/d20age/assets/icons/313db1f3294751de.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Tapete voador",
+    "img": "systems/d20age/assets/icons/b2115a4fc5c9b3ea.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Anel da fraqueza",
+    "img": "systems/d20age/assets/icons/a60ae7c6eb7d3ff9.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Anel da ilusão",
+    "img": "systems/d20age/assets/icons/b1ba7d12cee8c942.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Anel da invisibilidade",
+    "img": "systems/d20age/assets/icons/305d44dfccf34b92.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Anel da proteção",
+    "img": "systems/d20age/assets/icons/b5e998efa80d09d1.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Anel da reflexão mágica",
+    "img": "systems/d20age/assets/icons/d42fe5d540c0d882.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Anel da revigoração",
+    "img": "systems/d20age/assets/icons/edb90840cc393fd1.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Anel guarda-magia",
+    "img": "systems/d20age/assets/icons/21a9d50e5e30b2da.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Anel de resistência a fogo",
+    "img": "systems/d20age/assets/icons/9e296ae3ece7c178.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Anel de resistência a frio",
+    "img": "systems/d20age/assets/icons/4187658ae4179b21.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Anel da telecinesia",
+    "img": "systems/d20age/assets/icons/2b91f4074086ffb4.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Couro simples +1",
+    "img": "systems/d20age/assets/icons/b66525d50075d878.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Couro simples +2",
+    "img": "systems/d20age/assets/icons/b828820d2ea985aa.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Couro simples +3",
+    "img": "systems/d20age/assets/icons/76d1fccfb83bfb56.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Couro fervido +1",
+    "img": "systems/d20age/assets/icons/b9389d059529198c.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Couro fervido +2",
+    "img": "systems/d20age/assets/icons/f2a36e8ffea66002.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Couro fervido +3",
+    "img": "systems/d20age/assets/icons/4340a75af6b69e28.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Lamelar +1",
+    "img": "systems/d20age/assets/icons/d6a5e478b459260f.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Lamelar +2",
+    "img": "systems/d20age/assets/icons/abe5aca5835a791f.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Lamelar +3",
+    "img": "systems/d20age/assets/icons/42bd9a869bad33d3.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Anelar +1",
+    "img": "systems/d20age/assets/icons/369ffe878021cc3b.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Anelar +2",
+    "img": "systems/d20age/assets/icons/4b55699eee88264c.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Anelar +3",
+    "img": "systems/d20age/assets/icons/ecf9fee708c60d7b.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Segmentada +1",
+    "img": "systems/d20age/assets/icons/a7b3ba28f8894b69.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Segmentada +2",
+    "img": "systems/d20age/assets/icons/295051cbe07b25e8.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Segmentada +3",
+    "img": "systems/d20age/assets/icons/c1c4012b4ed2c4dc.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Couraça +1",
+    "img": "systems/d20age/assets/icons/4d0314dc5b62d1d3.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Couraça +2",
+    "img": "systems/d20age/assets/icons/b018c757a3e82e14.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Couraça +3",
+    "img": "systems/d20age/assets/icons/5e3374d34a0bf6f9.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Escudo +1",
+    "img": "systems/d20age/assets/icons/1f3ba921b315f035.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Escudo +2",
+    "img": "systems/d20age/assets/icons/004d8de9a2203b60.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Escudo +3",
+    "img": "systems/d20age/assets/icons/b37624fa2eea047c.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Adaga +1",
+    "img": "systems/d20age/assets/icons/2e95de33fa8c3a97.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Adaga +2",
+    "img": "systems/d20age/assets/icons/04ed49e9451bb0d4.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Adaga +3",
+    "img": "systems/d20age/assets/icons/a819db9b6923c707.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Machadinha +1",
+    "img": "systems/d20age/assets/icons/6e700b8f89c638d2.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Machadinha +2",
+    "img": "systems/d20age/assets/icons/d294c32cfe600f09.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Machadinha +3",
+    "img": "systems/d20age/assets/icons/f36b61937024f90b.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Cajado +1",
+    "img": "systems/d20age/assets/icons/924cf81850584f24.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Cajado +2",
+    "img": "systems/d20age/assets/icons/f294e07c69b90f1a.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Cajado +3",
+    "img": "systems/d20age/assets/icons/91ef28a2ff5f4f11.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Clava +1",
+    "img": "systems/d20age/assets/icons/7be4d722fc09401b.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Clava +2",
+    "img": "systems/d20age/assets/icons/6d6e1b3a6ab27341.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Clava +3",
+    "img": "systems/d20age/assets/icons/95cb261bdd616709.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Besta +1",
+    "img": "systems/d20age/assets/icons/50030ec660491b1e.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Besta +2",
+    "img": "systems/d20age/assets/icons/f233191efd188e56.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Besta +3",
+    "img": "systems/d20age/assets/icons/806997daa3e449e7.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Funda +1",
+    "img": "systems/d20age/assets/icons/b07c75fa0faf2563.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Funda +2",
+    "img": "systems/d20age/assets/icons/042ba479be8565be.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Funda +3",
+    "img": "systems/d20age/assets/icons/c7c18c6e1a212521.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Azagaia +1",
+    "img": "systems/d20age/assets/icons/6772c69fcea12531.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Azagaia +2",
+    "img": "systems/d20age/assets/icons/1a419a8838ef2197.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Azagaia +3",
+    "img": "systems/d20age/assets/icons/731d47b9d69983ef.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Espada curta +1",
+    "img": "systems/d20age/assets/icons/6c6f9642a435ff42.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Espada curta +2",
+    "img": "systems/d20age/assets/icons/92245d1b26a40d23.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Espada curta +3",
+    "img": "systems/d20age/assets/icons/11918e92511574ac.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Maça +1",
+    "img": "systems/d20age/assets/icons/fbda63cb0d5a5435.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Maça +2",
+    "img": "systems/d20age/assets/icons/c8e38d26851fa708.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Maça +3",
+    "img": "systems/d20age/assets/icons/a4fb441d2bedf080.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Espada longa +1",
+    "img": "systems/d20age/assets/icons/21c3ff44648baaad.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Espada longa +2",
+    "img": "systems/d20age/assets/icons/b6c048e06638e643.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Espada longa +3",
+    "img": "systems/d20age/assets/icons/2351572d5d71b253.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Lança +1",
+    "img": "systems/d20age/assets/icons/2d7b6152a6a7b8d1.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Lança +2",
+    "img": "systems/d20age/assets/icons/34db5b909d185cd6.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Lança +3",
+    "img": "systems/d20age/assets/icons/0c412ca1b9012e8f.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Lança de cavalaria +1",
+    "img": "systems/d20age/assets/icons/c31cf9692a46592d.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Lança de cavalaria +2",
+    "img": "systems/d20age/assets/icons/80159b8abd4fde0e.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Lança de cavalaria +3",
+    "img": "systems/d20age/assets/icons/9acc114e2012c4c5.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Machado de batalha +1",
+    "img": "systems/d20age/assets/icons/feabafc5f2d706b4.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Machado de batalha +2",
+    "img": "systems/d20age/assets/icons/14a0042276de577b.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Machado de batalha +3",
+    "img": "systems/d20age/assets/icons/dbd62499c0ed4ea3.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Martelo de batalha +1",
+    "img": "systems/d20age/assets/icons/5157943607778f72.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Martelo de batalha +2",
+    "img": "systems/d20age/assets/icons/27f5be859698e654.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Martelo de batalha +3",
+    "img": "systems/d20age/assets/icons/c980be0c30f27e69.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Alabarda +1",
+    "img": "systems/d20age/assets/icons/885d1adc6e633235.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Alabarda +2",
+    "img": "systems/d20age/assets/icons/d38977bd0fc596e3.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Alabarda +3",
+    "img": "systems/d20age/assets/icons/d7dcabb9dbf4d233.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Martelo de guerra +1",
+    "img": "systems/d20age/assets/icons/4bea04f742b26317.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Martelo de guerra +2",
+    "img": "systems/d20age/assets/icons/84ed55dede5389b5.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Martelo de guerra +3",
+    "img": "systems/d20age/assets/icons/8f79e810dd5c559b.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Machado de guerra +1",
+    "img": "systems/d20age/assets/icons/db9f03d6711dec1e.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Machado de guerra +2",
+    "img": "systems/d20age/assets/icons/d66993bbf7ea67f2.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Machado de guerra +3",
+    "img": "systems/d20age/assets/icons/0d981ef68182212c.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Montante +1",
+    "img": "systems/d20age/assets/icons/3841bc6d59288433.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Montante +2",
+    "img": "systems/d20age/assets/icons/c8532602e86e8656.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Montante +3",
+    "img": "systems/d20age/assets/icons/0db226bb6388628e.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Arco curto +1",
+    "img": "systems/d20age/assets/icons/db8c10fa7f81fb9b.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Arco curto +2",
+    "img": "systems/d20age/assets/icons/0c0a371921e20f5f.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Arco curto +3",
+    "img": "systems/d20age/assets/icons/843ebec97b0722bc.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Arco longo +1",
+    "img": "systems/d20age/assets/icons/28d115ee1396924d.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Arco longo +2",
+    "img": "systems/d20age/assets/icons/75a6c41f0f699229.svg",
+    "category": "magic-items"
+  },
+  {
+    "name": "Arco longo +3",
+    "img": "systems/d20age/assets/icons/763a44f9569f8fd3.svg",
+    "category": "magic-items"
+  }
+]

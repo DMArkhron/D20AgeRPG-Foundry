@@ -1,0 +1,1500 @@
+{
+  "bestiary": [
+    {
+      "_id": "83c34f2421d45a6c",
+      "name": "Bestas",
+      "type": "Actor",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Bestas"
+        }
+      }
+    },
+    {
+      "_id": "d2ff9a0024d9180f",
+      "name": "Abelha assassina",
+      "type": "Actor",
+      "folder": "83c34f2421d45a6c",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Bestas/Abelha assassina"
+        }
+      }
+    },
+    {
+      "_id": "48994c42bc216dd0",
+      "name": "Animal de carga",
+      "type": "Actor",
+      "folder": "83c34f2421d45a6c",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Bestas/Animal de carga"
+        }
+      }
+    },
+    {
+      "_id": "e033dfc278e7a808",
+      "name": "Ave de rapina",
+      "type": "Actor",
+      "folder": "83c34f2421d45a6c",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Bestas/Ave de rapina"
+        }
+      }
+    },
+    {
+      "_id": "95c2fab2e79ec389",
+      "name": "Aranha gigante",
+      "type": "Actor",
+      "folder": "83c34f2421d45a6c",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Bestas/Aranha gigante"
+        }
+      }
+    },
+    {
+      "_id": "a4fdcf59456b1bef",
+      "name": "Besouro gigante",
+      "type": "Actor",
+      "folder": "83c34f2421d45a6c",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Bestas/Besouro gigante"
+        }
+      }
+    },
+    {
+      "_id": "bfb92a2f502e3cea",
+      "name": "Cão",
+      "type": "Actor",
+      "folder": "83c34f2421d45a6c",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Bestas/Cão"
+        }
+      }
+    },
+    {
+      "_id": "7729b4b37c6f3bb8",
+      "name": "Cobra",
+      "type": "Actor",
+      "folder": "83c34f2421d45a6c",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Bestas/Cobra"
+        }
+      }
+    },
+    {
+      "_id": "ff90a33cbb07fce9",
+      "name": "Crocodilo",
+      "type": "Actor",
+      "folder": "83c34f2421d45a6c",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Bestas/Crocodilo"
+        }
+      }
+    },
+    {
+      "_id": "b28074a94c564c1f",
+      "name": "Gralha",
+      "type": "Actor",
+      "folder": "83c34f2421d45a6c",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Bestas/Gralha"
+        }
+      }
+    },
+    {
+      "_id": "fda70303f5745a80",
+      "name": "Javali",
+      "type": "Actor",
+      "folder": "83c34f2421d45a6c",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Bestas/Javali"
+        }
+      }
+    },
+    {
+      "_id": "0cb7b948a1356222",
+      "name": "Lobo",
+      "type": "Actor",
+      "folder": "83c34f2421d45a6c",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Bestas/Lobo"
+        }
+      }
+    },
+    {
+      "_id": "a479bfa5740b2c3e",
+      "name": "Mamífero de rebanho",
+      "type": "Actor",
+      "folder": "83c34f2421d45a6c",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Bestas/Mamífero de rebanho"
+        }
+      }
+    },
+    {
+      "_id": "90659bbbf4ec864f",
+      "name": "Morcego",
+      "type": "Actor",
+      "folder": "83c34f2421d45a6c",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Bestas/Morcego"
+        }
+      }
+    },
+    {
+      "_id": "3e7dc07e3d850f8f",
+      "name": "Rato",
+      "type": "Actor",
+      "folder": "83c34f2421d45a6c",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Bestas/Rato"
+        }
+      }
+    },
+    {
+      "_id": "76dabb26010f7b31",
+      "name": "Tubarão",
+      "type": "Actor",
+      "folder": "83c34f2421d45a6c",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Bestas/Tubarão"
+        }
+      }
+    },
+    {
+      "_id": "bece6a4c3e93e2a1",
+      "name": "Urso",
+      "type": "Actor",
+      "folder": "83c34f2421d45a6c",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Bestas/Urso"
+        }
+      }
+    },
+    {
+      "_id": "a82860ddd49c6c33",
+      "name": "Construtos",
+      "type": "Actor",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Construtos"
+        }
+      }
+    },
+    {
+      "_id": "96210ffde1f62dd0",
+      "name": "Golem",
+      "type": "Actor",
+      "folder": "a82860ddd49c6c33",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Construtos/Golem"
+        }
+      }
+    },
+    {
+      "_id": "f2c8e4d73bba5e08",
+      "name": "Objeto animado",
+      "type": "Actor",
+      "folder": "a82860ddd49c6c33",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Construtos/Objeto animado"
+        }
+      }
+    },
+    {
+      "_id": "6e92e17d2fcb56d1",
+      "name": "Desmortos",
+      "type": "Actor",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Desmortos"
+        }
+      }
+    },
+    {
+      "_id": "569b896823b6c44a",
+      "name": "Dracônicos",
+      "type": "Actor",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Dracônicos"
+        }
+      }
+    },
+    {
+      "_id": "ad675d09940a86e6",
+      "name": "Draco",
+      "type": "Actor",
+      "folder": "569b896823b6c44a",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Dracônicos/Draco"
+        }
+      }
+    },
+    {
+      "_id": "7ffcbb7156219387",
+      "name": "Dragão",
+      "type": "Actor",
+      "folder": "569b896823b6c44a",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Dracônicos/Dragão"
+        }
+      }
+    },
+    {
+      "_id": "ecb5dcda2f182b68",
+      "name": "Hidra",
+      "type": "Actor",
+      "folder": "569b896823b6c44a",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Dracônicos/Hidra"
+        }
+      }
+    },
+    {
+      "_id": "a9a6f3672eb89c6a",
+      "name": "Extraplanares",
+      "type": "Actor",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Extraplanares"
+        }
+      }
+    },
+    {
+      "_id": "66e010cec27c53e8",
+      "name": "Elemental",
+      "type": "Actor",
+      "folder": "a9a6f3672eb89c6a",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Extraplanares/Elemental"
+        }
+      }
+    },
+    {
+      "_id": "7efec79bb8727391",
+      "name": "Gênio",
+      "type": "Actor",
+      "folder": "a9a6f3672eb89c6a",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Extraplanares/Gênio"
+        }
+      }
+    },
+    {
+      "_id": "6f4ffe404ed9d549",
+      "name": "Feéricos",
+      "type": "Actor",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Feéricos"
+        }
+      }
+    },
+    {
+      "_id": "43a4e73bc96d0ccc",
+      "name": "Estriga",
+      "type": "Actor",
+      "folder": "6f4ffe404ed9d549",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Feéricos/Estriga"
+        }
+      }
+    },
+    {
+      "_id": "3ed01f3268f47860",
+      "name": "Nereída",
+      "type": "Actor",
+      "folder": "6f4ffe404ed9d549",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Feéricos/Nereída"
+        }
+      }
+    },
+    {
+      "_id": "d751d49751a3d4d4",
+      "name": "Floranídeos",
+      "type": "Actor",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Floranídeos"
+        }
+      }
+    },
+    {
+      "_id": "8670e66d469ee54a",
+      "name": "Ente",
+      "type": "Actor",
+      "folder": "d751d49751a3d4d4",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Floranídeos/Ente"
+        }
+      }
+    },
+    {
+      "_id": "3776543c86281b16",
+      "name": "Cogumelo",
+      "type": "Actor",
+      "folder": "d751d49751a3d4d4",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Floranídeos/Cogumelo"
+        }
+      }
+    },
+    {
+      "_id": "777164b5d28c6405",
+      "name": "Gigantes",
+      "type": "Actor",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Gigantes"
+        }
+      }
+    },
+    {
+      "_id": "97f2c415c83f9e00",
+      "name": "Gigante",
+      "type": "Actor",
+      "folder": "777164b5d28c6405",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Gigantes/Gigante"
+        }
+      }
+    },
+    {
+      "_id": "39efc9e89bb508ee",
+      "name": "Humanoides",
+      "type": "Actor",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Humanoides"
+        }
+      }
+    },
+    {
+      "_id": "fb6772074edd9b19",
+      "name": "Duende",
+      "type": "Actor",
+      "folder": "39efc9e89bb508ee",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Humanoides/Duende"
+        }
+      }
+    },
+    {
+      "_id": "0397df027998ac5b",
+      "name": "Veterano",
+      "type": "Actor",
+      "folder": "39efc9e89bb508ee",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Humanoides/Veterano"
+        }
+      }
+    },
+    {
+      "_id": "1c0793fb7a035cac",
+      "name": "Monstros",
+      "type": "Actor",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Monstros"
+        }
+      }
+    },
+    {
+      "_id": "d84941c9bf4ed4de",
+      "name": "Licantropo",
+      "type": "Actor",
+      "folder": "1c0793fb7a035cac",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Monstros/Licantropo"
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "_id": "10ac516ad42653e5",
+      "name": "Equipamentos",
+      "type": "Item",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Equipamentos"
+        }
+      }
+    },
+    {
+      "_id": "ea5e3480c162e481",
+      "name": "Miscelâneas",
+      "type": "Item",
+      "folder": "10ac516ad42653e5",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Equipamentos/Miscelâneas"
+        }
+      }
+    },
+    {
+      "_id": "d19c0747538e68a4",
+      "name": "Utensílios",
+      "type": "Item",
+      "folder": "10ac516ad42653e5",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Equipamentos/Utensílios"
+        }
+      }
+    },
+    {
+      "_id": "18be373fad3e9ae2",
+      "name": "Proteções",
+      "type": "Item",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Proteções"
+        }
+      }
+    },
+    {
+      "_id": "40e43030a52872ca",
+      "name": "Armaduras",
+      "type": "Item",
+      "folder": "18be373fad3e9ae2",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Proteções/Armaduras"
+        }
+      }
+    },
+    {
+      "_id": "d4ee847c33746c43",
+      "name": "Escudos",
+      "type": "Item",
+      "folder": "18be373fad3e9ae2",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Proteções/Escudos"
+        }
+      }
+    },
+    {
+      "_id": "cc2e4662fe5b22bb",
+      "name": "Armas",
+      "type": "Item",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Armas"
+        }
+      }
+    },
+    {
+      "_id": "c2bfc5c12f8563fe",
+      "name": "Arremesso",
+      "type": "Item",
+      "folder": "cc2e4662fe5b22bb",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Armas/Arremesso"
+        }
+      }
+    },
+    {
+      "_id": "023c3bd365bbc636",
+      "name": "Corpo a corpo",
+      "type": "Item",
+      "folder": "cc2e4662fe5b22bb",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Armas/Corpo a corpo"
+        }
+      }
+    },
+    {
+      "_id": "68dbce3b8d79230e",
+      "name": "Projéteis",
+      "type": "Item",
+      "folder": "cc2e4662fe5b22bb",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Armas/Projéteis"
+        }
+      }
+    },
+    {
+      "_id": "ef38d5b0643d70f4",
+      "name": "Consumíveis",
+      "type": "Item",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Consumíveis"
+        }
+      }
+    },
+    {
+      "_id": "fbe1a909333ce16e",
+      "name": "Ervas medicinais",
+      "type": "Item",
+      "folder": "ef38d5b0643d70f4",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Consumíveis/Ervas medicinais"
+        }
+      }
+    },
+    {
+      "_id": "ccf8a121f82752a4",
+      "name": "Transporte e cerco",
+      "type": "Item",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Transporte e cerco"
+        }
+      }
+    },
+    {
+      "_id": "594b77f4eef89c63",
+      "name": "Veículos",
+      "type": "Item",
+      "folder": "ccf8a121f82752a4",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Transporte e cerco/Veículos"
+        }
+      }
+    },
+    {
+      "_id": "161d805b1faed8a4",
+      "name": "Máquinas de guerra",
+      "type": "Item",
+      "folder": "ccf8a121f82752a4",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Transporte e cerco/Máquinas de guerra"
+        }
+      }
+    },
+    {
+      "_id": "e080a5cd5027eef4",
+      "name": "Venenos",
+      "type": "Item",
+      "folder": "ef38d5b0643d70f4",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Consumíveis/Venenos"
+        }
+      }
+    }
+  ],
+  "spells": [
+    {
+      "_id": "d2f3f9630adc3935",
+      "name": "Magias",
+      "type": "Item",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Magias"
+        }
+      }
+    },
+    {
+      "_id": "7dc2de62f36fb965",
+      "name": "1º círculo",
+      "type": "Item",
+      "folder": "d2f3f9630adc3935",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Magias/1º círculo"
+        }
+      }
+    },
+    {
+      "_id": "41e67ac1062f5307",
+      "name": "2º círculo",
+      "type": "Item",
+      "folder": "d2f3f9630adc3935",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Magias/2º círculo"
+        }
+      }
+    },
+    {
+      "_id": "4c15dcd972e57238",
+      "name": "3º círculo",
+      "type": "Item",
+      "folder": "d2f3f9630adc3935",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Magias/3º círculo"
+        }
+      }
+    },
+    {
+      "_id": "776a804576f3c6f6",
+      "name": "4º círculo",
+      "type": "Item",
+      "folder": "d2f3f9630adc3935",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Magias/4º círculo"
+        }
+      }
+    },
+    {
+      "_id": "22d5c78a6d257a3d",
+      "name": "5º círculo",
+      "type": "Item",
+      "folder": "d2f3f9630adc3935",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Magias/5º círculo"
+        }
+      }
+    },
+    {
+      "_id": "f218eaf7042cabd3",
+      "name": "6º círculo",
+      "type": "Item",
+      "folder": "d2f3f9630adc3935",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Magias/6º círculo"
+        }
+      }
+    }
+  ],
+  "abilities": [
+    {
+      "_id": "56c84d38c0f16e6b",
+      "name": "Criaturas",
+      "type": "Item",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Criaturas"
+        }
+      }
+    },
+    {
+      "_id": "0d20a5e86cdb1fce",
+      "name": "Poderes especiais",
+      "type": "Item",
+      "folder": "56c84d38c0f16e6b",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Criaturas/Poderes especiais"
+        }
+      }
+    },
+    {
+      "_id": "e58aa0f08f3390f0",
+      "name": "Bestas",
+      "type": "Item",
+      "folder": "56c84d38c0f16e6b",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Criaturas/Bestas"
+        }
+      }
+    },
+    {
+      "_id": "7ec9db68774ade9f",
+      "name": "Desmortos",
+      "type": "Item",
+      "folder": "56c84d38c0f16e6b",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Criaturas/Desmortos"
+        }
+      }
+    },
+    {
+      "_id": "d38b21b718e9f604",
+      "name": "Dracônicos",
+      "type": "Item",
+      "folder": "56c84d38c0f16e6b",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Criaturas/Dracônicos"
+        }
+      }
+    },
+    {
+      "_id": "27085e84a5f00d6b",
+      "name": "Extraplanares",
+      "type": "Item",
+      "folder": "56c84d38c0f16e6b",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Criaturas/Extraplanares"
+        }
+      }
+    },
+    {
+      "_id": "949eb735d8286f07",
+      "name": "Feéricos",
+      "type": "Item",
+      "folder": "56c84d38c0f16e6b",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Criaturas/Feéricos"
+        }
+      }
+    },
+    {
+      "_id": "782a8f264f2d8dbf",
+      "name": "Floranídeos",
+      "type": "Item",
+      "folder": "56c84d38c0f16e6b",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Criaturas/Floranídeos"
+        }
+      }
+    },
+    {
+      "_id": "d0dde3fbc40c5941",
+      "name": "Gigantes",
+      "type": "Item",
+      "folder": "56c84d38c0f16e6b",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Criaturas/Gigantes"
+        }
+      }
+    },
+    {
+      "_id": "815b99520e26dbd2",
+      "name": "Personagens",
+      "type": "Item",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Personagens"
+        }
+      }
+    },
+    {
+      "_id": "c6984fc9e45d4070",
+      "name": "Anão",
+      "type": "Item",
+      "folder": "815b99520e26dbd2",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Personagens/Anão"
+        }
+      }
+    },
+    {
+      "_id": "ac6a8c9ea74a37e6",
+      "name": "Humanoides",
+      "type": "Item",
+      "folder": "56c84d38c0f16e6b",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Criaturas/Humanoides"
+        }
+      }
+    },
+    {
+      "_id": "b2c4b019b331d03a",
+      "name": "Elfo",
+      "type": "Item",
+      "folder": "815b99520e26dbd2",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Personagens/Elfo"
+        }
+      }
+    },
+    {
+      "_id": "d16d075a7f69d8b8",
+      "name": "Gnomo",
+      "type": "Item",
+      "folder": "815b99520e26dbd2",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Personagens/Gnomo"
+        }
+      }
+    },
+    {
+      "_id": "038e4462f26032d1",
+      "name": "Monstros",
+      "type": "Item",
+      "folder": "56c84d38c0f16e6b",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Criaturas/Monstros"
+        }
+      }
+    },
+    {
+      "_id": "b4a73f8ec1c9b99c",
+      "name": "Arcanista",
+      "type": "Item",
+      "folder": "815b99520e26dbd2",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Personagens/Arcanista"
+        }
+      }
+    },
+    {
+      "_id": "ab43b3ea4758cad4",
+      "name": "Combatente",
+      "type": "Item",
+      "folder": "815b99520e26dbd2",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Personagens/Combatente"
+        }
+      }
+    },
+    {
+      "_id": "70b363474283de4c",
+      "name": "Especialista",
+      "type": "Item",
+      "folder": "815b99520e26dbd2",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Personagens/Especialista"
+        }
+      }
+    },
+    {
+      "_id": "ace63219d6bcb166",
+      "name": "Magista",
+      "type": "Item",
+      "folder": "815b99520e26dbd2",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Personagens/Magista"
+        }
+      }
+    },
+    {
+      "_id": "12032c241cb290d3",
+      "name": "Perícia",
+      "type": "Item",
+      "folder": "815b99520e26dbd2",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Personagens/Perícia"
+        }
+      }
+    },
+    {
+      "_id": "643f1b3c3da7c414",
+      "name": "Fortuna",
+      "type": "Item",
+      "folder": "815b99520e26dbd2",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Personagens/Fortuna"
+        }
+      }
+    }
+  ],
+  "magic-items": [
+    {
+      "_id": "bb4d8b342a96a696",
+      "name": "Itens especiais",
+      "type": "Item",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Itens especiais"
+        }
+      }
+    },
+    {
+      "_id": "921ca0d429e9918d",
+      "name": "Poções e preparos",
+      "type": "Item",
+      "folder": "bb4d8b342a96a696",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Itens especiais/Poções e preparos"
+        }
+      }
+    },
+    {
+      "_id": "a0d675bce705077b",
+      "name": "Miscelâneas",
+      "type": "Item",
+      "folder": "bb4d8b342a96a696",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Itens especiais/Miscelâneas"
+        }
+      }
+    },
+    {
+      "_id": "57829e489abb7631",
+      "name": "Itens mágicos",
+      "type": "Item",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Itens mágicos"
+        }
+      }
+    },
+    {
+      "_id": "05e8b08a1be63305",
+      "name": "Poções e preparos",
+      "type": "Item",
+      "folder": "57829e489abb7631",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Itens mágicos/Poções e preparos"
+        }
+      }
+    },
+    {
+      "_id": "22da1695b8cf6206",
+      "name": "Cajados e orbes",
+      "type": "Item",
+      "folder": "57829e489abb7631",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Itens mágicos/Cajados e orbes"
+        }
+      }
+    },
+    {
+      "_id": "1a46fa0c0dc5b173",
+      "name": "Varinhas",
+      "type": "Item",
+      "folder": "57829e489abb7631",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Itens mágicos/Varinhas"
+        }
+      }
+    },
+    {
+      "_id": "f4325aab5ca879c6",
+      "name": "Miscelâneas",
+      "type": "Item",
+      "folder": "57829e489abb7631",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Itens mágicos/Miscelâneas"
+        }
+      }
+    },
+    {
+      "_id": "d61f577ab6420cc5",
+      "name": "Anéis",
+      "type": "Item",
+      "folder": "57829e489abb7631",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Itens mágicos/Anéis"
+        }
+      }
+    },
+    {
+      "_id": "2d2d4bfb83098d7f",
+      "name": "Equipamento encantado",
+      "type": "Item",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Equipamento encantado"
+        }
+      }
+    },
+    {
+      "_id": "ff5e0fff2f0cc0b2",
+      "name": "Proteções",
+      "type": "Item",
+      "folder": "2d2d4bfb83098d7f",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Equipamento encantado/Proteções"
+        }
+      }
+    },
+    {
+      "_id": "9896b59b857197af",
+      "name": "Armas",
+      "type": "Item",
+      "folder": "2d2d4bfb83098d7f",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Equipamento encantado/Armas"
+        }
+      }
+    }
+  ],
+  "rolltables": [
+    {
+      "_id": "c69b0585ce904cb5",
+      "name": "Regras e personagens",
+      "type": "RollTable",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Regras e personagens"
+        }
+      }
+    },
+    {
+      "_id": "ecd87ae21e5cb412",
+      "name": "Aventura e exploração",
+      "type": "RollTable",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Aventura e exploração"
+        }
+      }
+    },
+    {
+      "_id": "78a67ef0b7aabcd1",
+      "name": "Tesouros e magia",
+      "type": "RollTable",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Tesouros e magia"
+        }
+      }
+    },
+    {
+      "_id": "777dc0e83e68141b",
+      "name": "Apêndices",
+      "type": "RollTable",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Apêndices"
+        }
+      }
+    },
+    {
+      "_id": "837b34cf9802187d",
+      "name": "Criaturas",
+      "type": "RollTable",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Criaturas"
+        }
+      }
+    }
+  ],
+  "references": [
+    {
+      "_id": "718546e55ede8460",
+      "name": "Aventura e exploração",
+      "type": "JournalEntry",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Aventura e exploração"
+        }
+      }
+    },
+    {
+      "_id": "dd5589e47cbc552a",
+      "name": "Regras e personagens",
+      "type": "JournalEntry",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Regras e personagens"
+        }
+      }
+    },
+    {
+      "_id": "7e0c2751bb62eda8",
+      "name": "Tesouros e magia",
+      "type": "JournalEntry",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Tesouros e magia"
+        }
+      }
+    },
+    {
+      "_id": "47450c87f635380a",
+      "name": "Criaturas",
+      "type": "JournalEntry",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Criaturas"
+        }
+      }
+    },
+    {
+      "_id": "f7b0517a7e3e2e00",
+      "name": "Apêndices",
+      "type": "JournalEntry",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Apêndices"
+        }
+      }
+    }
+  ],
+  "macros": [
+    {
+      "_id": "3418bdb5d4826b05",
+      "name": "Ferramentas",
+      "type": "Macro",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Ferramentas"
+        }
+      }
+    },
+    {
+      "_id": "ac1100389653bcf5",
+      "name": "Ficha e mesa",
+      "type": "Macro",
+      "folder": "3418bdb5d4826b05",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Ferramentas/Ficha e mesa"
+        }
+      }
+    },
+    {
+      "_id": "2e3c752452d19d70",
+      "name": "Mestre",
+      "type": "Macro",
+      "folder": "3418bdb5d4826b05",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Ferramentas/Mestre"
+        }
+      }
+    },
+    {
+      "_id": "dc9cfe2a9b3a3559",
+      "name": "Sorteios",
+      "type": "Macro",
+      "folder": null,
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Sorteios"
+        }
+      }
+    },
+    {
+      "_id": "34cf2333455b1aa1",
+      "name": "Geradores",
+      "type": "Macro",
+      "folder": "dc9cfe2a9b3a3559",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Sorteios/Geradores"
+        }
+      }
+    },
+    {
+      "_id": "a9cfd38ca70f5f3c",
+      "name": "Magias",
+      "type": "Macro",
+      "folder": "dc9cfe2a9b3a3559",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Sorteios/Magias"
+        }
+      }
+    },
+    {
+      "_id": "742b18501fe30104",
+      "name": "Encontros",
+      "type": "Macro",
+      "folder": "dc9cfe2a9b3a3559",
+      "color": "#373737",
+      "sorting": "a",
+      "flags": {
+        "d20age": {
+          "path": "Sorteios/Encontros"
+        }
+      }
+    }
+  ]
+}

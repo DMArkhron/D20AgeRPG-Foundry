@@ -1,0 +1,5375 @@
+[
+  {
+    "_id": "b41238d7f9af54ef",
+    "name": "Água benta",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/ad0cb46c4e4e6bbf.svg",
+    "system": {
+      "description": "Causa dano em desmortos (1d8 por rodada, por duas rodadas).\n\nLivro Base V2, p. 161.",
+      "price": 25,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 161,
+        "pdfPage": 166,
+        "folderPath": [
+          "Itens especiais",
+          "Poções e preparos"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "921ca0d429e9918d"
+  },
+  {
+    "_id": "2cab06096b18116e",
+    "name": "Biotônico",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/7caad6bf14eb7ec3.svg",
+    "system": {
+      "description": "Uma criatura humanoide causa +1 de dano por seis turnos.\n\nLivro Base V2, p. 161.",
+      "price": 100,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 161,
+        "pdfPage": 166,
+        "folderPath": [
+          "Itens especiais",
+          "Poções e preparos"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "921ca0d429e9918d"
+  },
+  {
+    "_id": "46ef56419f5b831d",
+    "name": "Chá de equinácea",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/51497ff352cf238b.svg",
+    "system": {
+      "description": "Solução usada para combater efeitos de envenenamento por injeção.\n\nLivro Base V2, p. 161.",
+      "price": 200,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 161,
+        "pdfPage": 166,
+        "folderPath": [
+          "Itens especiais",
+          "Poções e preparos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "921ca0d429e9918d"
+  },
+  {
+    "_id": "cfd9c9351e754c46",
+    "name": "Chá de lixia",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/d7514d3c148bf337.svg",
+    "system": {
+      "description": "Composto laxativo que possui aplicações terapêuticas para combater envenenamento por ingestão.\n\nLivro Base V2, p. 161.",
+      "price": 50,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 161,
+        "pdfPage": 166,
+        "folderPath": [
+          "Itens especiais",
+          "Poções e preparos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "921ca0d429e9918d"
+  },
+  {
+    "_id": "5f549a7b7e53746f",
+    "name": "Elixir da montanha",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/e3fa48151584f2af.svg",
+    "system": {
+      "description": "Solução que ao ser ingerida remove efeitos de cansaço ou sono. O uso exagerado pode resultar em problemas de insônia.\n\nLivro Base V2, p. 161.",
+      "price": 10,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 161,
+        "pdfPage": 166,
+        "folderPath": [
+          "Itens especiais",
+          "Poções e preparos"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "921ca0d429e9918d"
+  },
+  {
+    "_id": "71cb3a0b96933403",
+    "name": "Suco de mangostão",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/d9902d32230d5235.svg",
+    "system": {
+      "description": "Sua ingestão mitiga a sensação de fome ou sede. Pode ser usado sem riscos uma vez por semana.\n\nLivro Base V2, p. 161.",
+      "price": 50,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 161,
+        "pdfPage": 166,
+        "folderPath": [
+          "Itens especiais",
+          "Poções e preparos"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "921ca0d429e9918d"
+  },
+  {
+    "_id": "e7099f08e33d4791",
+    "name": "Super cola",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/77805ca5575ffe64.svg",
+    "system": {
+      "description": "Grude capaz de cobrir uma superfície de 1’. A aderência é equivalente a uma força de dez humanoides comuns.\n\nLivro Base V2, p. 161.",
+      "price": 500,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 161,
+        "pdfPage": 166,
+        "folderPath": [
+          "Itens especiais",
+          "Poções e preparos"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "921ca0d429e9918d"
+  },
+  {
+    "_id": "09a562f162d23921",
+    "name": "Super solvente",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/44f779eac24f2399.svg",
+    "system": {
+      "description": "Líquido capaz de dissolver colas mundanas, além de corroer metais.\n\nLivro Base V2, p. 161.",
+      "price": 100,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 161,
+        "pdfPage": 166,
+        "folderPath": [
+          "Itens especiais",
+          "Poções e preparos"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "921ca0d429e9918d"
+  },
+  {
+    "_id": "aec891b343fdf16b",
+    "name": "Pomada de bardana",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/e4afdd9e32489134.svg",
+    "system": {
+      "description": "Acelera a restauração de 1DV extra quando associado a um descanso diário.\n\nLivro Base V2, p. 161.",
+      "price": 50,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 161,
+        "pdfPage": 166,
+        "folderPath": [
+          "Itens especiais",
+          "Poções e preparos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "921ca0d429e9918d"
+  },
+  {
+    "_id": "4bb477e13a3c2bb9",
+    "name": "Vapor de guaco",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/e69174a189476738.svg",
+    "system": {
+      "description": "Preparo que quando aquecido gera vapores medicinais. Sua inalação reforça as vias aéreas (útil contra venenos por inalação).\n\nLivro Base V2, p. 161.",
+      "price": 50,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 161,
+        "pdfPage": 166,
+        "folderPath": [
+          "Itens especiais",
+          "Poções e preparos"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "921ca0d429e9918d"
+  },
+  {
+    "_id": "0872a3d4b5177c03",
+    "name": "Bola de cristal",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/28837f492139c46a.svg",
+    "system": {
+      "description": "Uma esfera de cristal pouco maior que um punho fechado, que serve como implemento para magias de adivinhação.\n\nLivro Base V2, p. 162.",
+      "price": 500,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 162,
+        "pdfPage": 167,
+        "folderPath": [
+          "Itens especiais",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a0d675bce705077b"
+  },
+  {
+    "_id": "c8e98d6e01713726",
+    "name": "Corda especial",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/e43b5ac6fbdde367.svg",
+    "system": {
+      "description": "De material resistente, suporta 10.000 cn.\n\nLivro Base V2, p. 162.",
+      "price": 20,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 162,
+        "pdfPage": 167,
+        "folderPath": [
+          "Itens especiais",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a0d675bce705077b"
+  },
+  {
+    "_id": "60bdda20e00802e4",
+    "name": "Fogo alquímico",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/b40de479000175d1.svg",
+    "system": {
+      "description": "Líquido altamente inflamável se em contato com o ar ou água, guardado em frasco completamente vedado. Quando quebrado gera uma explosão de raio 5’, que causa 2d6 de dano (SV-I para metade). Criaturas sofrerão um dano adicional de 1d6 na próxima rodada se não apagarem as chamas sobre seu corpo.\n\nLivro Base V2, p. 162.",
+      "price": 50,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 162,
+        "pdfPage": 167,
+        "folderPath": [
+          "Itens especiais",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a0d675bce705077b"
+  },
+  {
+    "_id": "45af56d53d1f6742",
+    "name": "Grimório",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/3eee35f222a9cd6e.svg",
+    "system": {
+      "description": "Um livro com 100 páginas de pergaminho para receber transcrição mágica.\n\nLivro Base V2, p. 162.",
+      "price": 25,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 162,
+        "pdfPage": 167,
+        "folderPath": [
+          "Itens especiais",
+          "Miscelâneas"
+        ],
+        "iconMotif": "book",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a0d675bce705077b"
+  },
+  {
+    "_id": "bdad86585e49f08a",
+    "name": "Isqueiro",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/a5cc06cb44df39fc.svg",
+    "system": {
+      "description": "Engenhoca que permite ignições com precisão (não possuem a chance de falha de 2:6 de pederneiras). Cada isqueiro possui 10 doses de uso.\n\nLivro Base V2, p. 162.",
+      "price": 10,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 162,
+        "pdfPage": 167,
+        "folderPath": [
+          "Itens especiais",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a0d675bce705077b"
+  },
+  {
+    "_id": "429c5302e92d57a9",
+    "name": "Lanterna furta-fogo",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/9bf13bba9b39d721.svg",
+    "system": {
+      "description": "Um tipo de lampião confeccionado com espelhos internos, que permite foco de luz em um cone de 60’, ou uso aberto, como lampião comum.\n\nLivro Base V2, p. 162.",
+      "price": 50,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 162,
+        "pdfPage": 167,
+        "folderPath": [
+          "Itens especiais",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a0d675bce705077b"
+  },
+  {
+    "_id": "c00da9963a9ec677",
+    "name": "Luneta",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/0c95c400c40d9922.svg",
+    "system": {
+      "description": "Amplia o alcance da visão em 4x (12 mi).\n\nLivro Base V2, p. 162.",
+      "price": 1000,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 162,
+        "pdfPage": 167,
+        "folderPath": [
+          "Itens especiais",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a0d675bce705077b"
+  },
+  {
+    "_id": "2f72d74a7d566904",
+    "name": "Mochila de viajante",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/3a24f093032dde96.svg",
+    "system": {
+      "description": "Uma mochila com bolsos laterais e maior capacidade de carga. Ela pode armazenar até quatorze miscelâneas, sendo quatro delas de fácil acesso, no total de até 600 cn.\n\nLivro Base V2, p. 162.",
+      "price": 50,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 162,
+        "pdfPage": 167,
+        "folderPath": [
+          "Itens especiais",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a0d675bce705077b"
+  },
+  {
+    "_id": "bccc81a3953a43db",
+    "name": "Mochila impermeável",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/d71ea407829e5ad2.svg",
+    "system": {
+      "description": "Uma mochila feita de material impermeável, que protege seu conteúdo de chuvas ou imersões rápidas.\n\nLivro Base V2, p. 162.",
+      "price": 50,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 162,
+        "pdfPage": 167,
+        "folderPath": [
+          "Itens especiais",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a0d675bce705077b"
+  },
+  {
+    "_id": "ff30a4a2ed32fb52",
+    "name": "Óleo especial",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/9ac237baa7260350.svg",
+    "system": {
+      "description": "Usado em lampiões ou fogareiros, e queima o dobro do tempo normal (4 horas).\n\nLivro Base V2, p. 162.",
+      "price": 10,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 162,
+        "pdfPage": 167,
+        "folderPath": [
+          "Itens especiais",
+          "Poções e preparos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "921ca0d429e9918d"
+  },
+  {
+    "_id": "ea5ecb17214515d2",
+    "name": "Papiros",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/c54ad7280b289e85.svg",
+    "system": {
+      "description": "Um ou mais papeis ou um livro que contém acontecimentos, formulações, um mapa para tesouros ou relatos históricos.\n\nLivro Base V2, p. 162.",
+      "price": 100,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 162,
+        "pdfPage": 167,
+        "folderPath": [
+          "Itens especiais",
+          "Miscelâneas"
+        ],
+        "iconMotif": "scroll",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a0d675bce705077b"
+  },
+  {
+    "_id": "467f0a4e71fe7bde",
+    "name": "Pedra anã",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/1c147596e267bbf5.svg",
+    "system": {
+      "description": "Uma gema que ao ser trincada gera efeito de luz (como magia) por 1d4 horas. Uma vez utilizada, seu pó vale 10% do preço.\n\nLivro Base V2, p. 162.",
+      "price": 100,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 162,
+        "pdfPage": 167,
+        "folderPath": [
+          "Itens especiais",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a0d675bce705077b"
+  },
+  {
+    "_id": "b35bafa8605ccf02",
+    "name": "Adamantina",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/f5ab2bb20c34e552.svg",
+    "system": {
+      "description": "Também chamado de “ferro anão”, esses povos dominam sua manipulação extraído de profundas minas. Esse componente é mais denso que o ferro (1.5 x peso), e quatro vezes mais resistente. Arma: +1 de dano Armadura: CA: melhora a CA em 1 Escudo: Melhora a CA em 1\n\nLivro Base V2, p. 163.",
+      "price": 0,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 163,
+        "pdfPage": 168,
+        "folderPath": [
+          "Itens especiais",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a0d675bce705077b"
+  },
+  {
+    "_id": "26ee592a20e2d466",
+    "name": "Arco composto",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/c07a394a87a2c3c0.svg",
+    "system": {
+      "description": "Esse tipo de arco longo é raro, e demanda uma força extra para ser usado (FOR 13+). O dano causado recebe modificador da força.\n\nLivro Base V2, p. 163.",
+      "price": 0,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 163,
+        "pdfPage": 168,
+        "folderPath": [
+          "Itens especiais",
+          "Miscelâneas"
+        ],
+        "iconMotif": "bow",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a0d675bce705077b"
+  },
+  {
+    "_id": "07e8dcfff36e1ea8",
+    "name": "Argênteo",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/0cbd048071b95e44.svg",
+    "system": {
+      "description": "Também conhecida como prata élfica, esse povo trabalha em segredo suas formas de manipulação. Escudos e cotas de malhas feitos desse mineral não desgastam com o tempo e são de extrema leveza (considere metade da cn).\n\nLivro Base V2, p. 163.",
+      "price": 0,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 163,
+        "pdfPage": 168,
+        "folderPath": [
+          "Itens especiais",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a0d675bce705077b"
+  },
+  {
+    "_id": "34ee4d73534f0d66",
+    "name": "Couro feérico",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/631352998542ed9f.svg",
+    "system": {
+      "description": "Armadura leve (CA: 6 [13]; 100 cn) feita de couro de criaturas encantadas.\n\nLivro Base V2, p. 163.",
+      "price": 0,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 163,
+        "pdfPage": 168,
+        "folderPath": [
+          "Itens especiais",
+          "Miscelâneas"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a0d675bce705077b"
+  },
+  {
+    "_id": "927ee5bd58e7890d",
+    "name": "Escama dracônica",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/33beed26adff2907.svg",
+    "system": {
+      "description": "Armadura leve (CA: 4 [15]; 200 cn) feita de escamas de dragão ou similar.\n\nLivro Base V2, p. 163.",
+      "price": 0,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 163,
+        "pdfPage": 168,
+        "folderPath": [
+          "Itens especiais",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a0d675bce705077b"
+  },
+  {
+    "_id": "f31a87b53bc0856f",
+    "name": "Ferro-frio",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/cfcfa0a04524d334.svg",
+    "system": {
+      "description": "Um misterioso metal extraído de montanhas espiculares, conhecido por este nome pela sensação gélida que se dá ao toque. Esse objeto é considerado mágico contra seres abissais ou feéricos, e causam 1d4 de dano extra contra essas criaturas. Caso causem dano de toque contra quem porta escudo ou armadura, esses seres também sofrem esse 1d4 de dano.\n\nLivro Base V2, p. 163.",
+      "price": 0,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 163,
+        "pdfPage": 168,
+        "folderPath": [
+          "Itens especiais",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a0d675bce705077b"
+  },
+  {
+    "_id": "e323ed1fe5a2c382",
+    "name": "Prata",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/060598304641e591.svg",
+    "system": {
+      "description": "Trata-se de uma arma de difícil confecção por sua natureza maleável. Pessoas com hábil treinamento conseguem fazer uma liga rica em prata, que funciona como arma e joia. Há criaturas que possuem alergia à prata, como vampiros, por exemplo. Contra esses seres essas armas funcionam como mágicas.\n\nLivro Base V2, p. 163.",
+      "price": 0,
+      "properties": "Item especial"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 163,
+        "pdfPage": 168,
+        "folderPath": [
+          "Itens especiais",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a0d675bce705077b"
+  },
+  {
+    "_id": "b0f00a1351f47de2",
+    "name": "Óleo da acurácia",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/73bcc2fcebe6b30a.svg",
+    "system": {
+      "description": "Sua aplicação (1 rodada) em uma arma de combate corpo a corpo (ou três projéteis) resulta no encantamento do objeto, que passa a ser considerado mágico, o que confere +1 de acerto e dano.\n\nDuração padrão de poção mágica: 1d6+6 turnos (salvo efeito permanente indicado).\n\nLivro Base V2, p. 169.",
+      "price": 500,
+      "properties": "Item mágico",
+      "duration": "1d6+6 turnos"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 169,
+        "pdfPage": 174,
+        "folderPath": [
+          "Itens mágicos",
+          "Poções e preparos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "05e8b08a1be63305"
+  },
+  {
+    "_id": "fc6a571eb2eb21c1",
+    "name": "Óleo da escalada",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/2eac2eb46db3d7d9.svg",
+    "system": {
+      "description": "Sua aplicação nas mãos (1 rodada) confere efeito similar à magia patas de aranha.\n\nDuração padrão de poção mágica: 1d6+6 turnos (salvo efeito permanente indicado).\n\nLivro Base V2, p. 169.",
+      "price": 500,
+      "properties": "Item mágico",
+      "duration": "1d6+6 turnos"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 169,
+        "pdfPage": 174,
+        "folderPath": [
+          "Itens mágicos",
+          "Poções e preparos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "05e8b08a1be63305"
+  },
+  {
+    "_id": "968dd19c31ea1b0d",
+    "name": "Óleo da proteção",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/bf0227980c6fe143.svg",
+    "system": {
+      "description": "Sua aplicação por todo o corpo (1 turno) confere efeito similar à magia proteção contra o mal.\n\nDuração padrão de poção mágica: 1d6+6 turnos (salvo efeito permanente indicado).\n\nLivro Base V2, p. 169.",
+      "price": 500,
+      "properties": "Item mágico",
+      "duration": "1d6+6 turnos"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 169,
+        "pdfPage": 174,
+        "folderPath": [
+          "Itens mágicos",
+          "Poções e preparos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "05e8b08a1be63305"
+  },
+  {
+    "_id": "e7ed02d774f92cec",
+    "name": "Poção da restauração",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/30af7ecf5b745ea7.svg",
+    "system": {
+      "description": "Sua ingestão revigora 1d6+1 PV ou remove efeito de paralisia.\n\nDuração padrão de poção mágica: 1d6+6 turnos (salvo efeito permanente indicado).\n\nLivro Base V2, p. 169.",
+      "price": 500,
+      "properties": "Item mágico",
+      "duration": "1d6+6 turnos"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 169,
+        "pdfPage": 174,
+        "folderPath": [
+          "Itens mágicos",
+          "Poções e preparos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "05e8b08a1be63305"
+  },
+  {
+    "_id": "dfedff330496e8d0",
+    "name": "Poção do amor",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/2c3a4dea60023697.svg",
+    "system": {
+      "description": "Sua ingestão aplicará um efeito similar à magia encantar pessoas, para a primeira criatura humanoide que avistar (SV-F para evitar). Caso o alvo seja de sexo oposto, há penalidade de -4 na SV.\n\nDuração padrão de poção mágica: 1d6+6 turnos (salvo efeito permanente indicado).\n\nLivro Base V2, p. 169.",
+      "price": 500,
+      "properties": "Item mágico",
+      "duration": "1d6+6 turnos"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 169,
+        "pdfPage": 174,
+        "folderPath": [
+          "Itens mágicos",
+          "Poções e preparos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "05e8b08a1be63305"
+  },
+  {
+    "_id": "08ef9cb0389c2930",
+    "name": "Poção do heroísmo",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/ab944e2c3026e15d.svg",
+    "system": {
+      "description": "Sua ingestão confere efeito similar à magia heroísmo.\n\nDuração padrão de poção mágica: 1d6+6 turnos (salvo efeito permanente indicado).\n\nLivro Base V2, p. 169.",
+      "price": 500,
+      "properties": "Item mágico",
+      "duration": "1d6+6 turnos"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 169,
+        "pdfPage": 174,
+        "folderPath": [
+          "Itens mágicos",
+          "Poções e preparos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "05e8b08a1be63305"
+  },
+  {
+    "_id": "1767dc529d883390",
+    "name": "Óleo da invisibilidade",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/bcab1f561b12219c.svg",
+    "system": {
+      "description": "Sua aplicação por todo o corpo (1 turno) confere efeito similar à magia invisibilidade.\n\nDuração padrão de poção mágica: 1d6+6 turnos (salvo efeito permanente indicado).\n\nLivro Base V2, p. 169.",
+      "price": 1000,
+      "properties": "Item mágico",
+      "duration": "1d6+6 turnos"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 169,
+        "pdfPage": 174,
+        "folderPath": [
+          "Itens mágicos",
+          "Poções e preparos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "05e8b08a1be63305"
+  },
+  {
+    "_id": "39c3fe4251f5a03b",
+    "name": "Poção da levitação",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/e47cb27076fb6735.svg",
+    "system": {
+      "description": "Sua ingestão resulta no efeito similar à magia levitar.\n\nDuração padrão de poção mágica: 1d6+6 turnos (salvo efeito permanente indicado).\n\nLivro Base V2, p. 169.",
+      "price": 1000,
+      "properties": "Item mágico",
+      "duration": "1d6+6 turnos"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 169,
+        "pdfPage": 174,
+        "folderPath": [
+          "Itens mágicos",
+          "Poções e preparos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "05e8b08a1be63305"
+  },
+  {
+    "_id": "fe64ae8014721b82",
+    "name": "Poção da agilidade",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/b4503db12945f537.svg",
+    "system": {
+      "description": "Sua ingestão resulta no efeito similar à magia aceleração.\n\nDuração padrão de poção mágica: 1d6+6 turnos (salvo efeito permanente indicado).\n\nLivro Base V2, p. 169.",
+      "price": 1500,
+      "properties": "Item mágico",
+      "duration": "1d6+6 turnos"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 169,
+        "pdfPage": 174,
+        "folderPath": [
+          "Itens mágicos",
+          "Poções e preparos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "05e8b08a1be63305"
+  },
+  {
+    "_id": "f4339400bcf33703",
+    "name": "Poção da clarividência",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/3b4245a6d0131b28.svg",
+    "system": {
+      "description": "Sua ingestão resulta no efeito similar à magia clarividência.\n\nDuração padrão de poção mágica: 1d6+6 turnos (salvo efeito permanente indicado).\n\nLivro Base V2, p. 169.",
+      "price": 1500,
+      "properties": "Item mágico",
+      "duration": "1d6+6 turnos"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 169,
+        "pdfPage": 174,
+        "folderPath": [
+          "Itens mágicos",
+          "Poções e preparos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "05e8b08a1be63305"
+  },
+  {
+    "_id": "e1a335349a06dedb",
+    "name": "Poção de crescimento",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/ee8f5ccca6d8e713.svg",
+    "system": {
+      "description": "Sua ingestão faz dobrar de tamanho, o que confere força sobre-humana, com o dobro da capacidade e “FOR 19” (+3 de dano em combate corpo a corpo).\n\nDuração padrão de poção mágica: 1d6+6 turnos (salvo efeito permanente indicado).\n\nLivro Base V2, p. 169.",
+      "price": 1500,
+      "properties": "Item mágico",
+      "duration": "1d6+6 turnos"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 169,
+        "pdfPage": 174,
+        "folderPath": [
+          "Itens mágicos",
+          "Poções e preparos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "05e8b08a1be63305"
+  },
+  {
+    "_id": "0bffa482c6a3f1d4",
+    "name": "Poção de diminuição",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/4384bc39d49c832d.svg",
+    "system": {
+      "description": "Humanoides médios ou pequenos (e seus equipamentos) que a bebam ficam do tamanho de um palmo (1’).\n\nDuração padrão de poção mágica: 1d6+6 turnos (salvo efeito permanente indicado).\n\nLivro Base V2, p. 169.",
+      "price": 1500,
+      "properties": "Item mágico",
+      "duration": "1d6+6 turnos"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 169,
+        "pdfPage": 174,
+        "folderPath": [
+          "Itens mágicos",
+          "Poções e preparos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "05e8b08a1be63305"
+  },
+  {
+    "_id": "691570d362d913a4",
+    "name": "Poção da ultravisão",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/39fb5328b31633ce.svg",
+    "system": {
+      "description": "Sua ingestão confere ultravisão.\n\nDuração padrão de poção mágica: 1d6+6 turnos (salvo efeito permanente indicado).\n\nLivro Base V2, p. 169.",
+      "price": 1500,
+      "properties": "Item mágico",
+      "duration": "1d6+6 turnos"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 169,
+        "pdfPage": 174,
+        "folderPath": [
+          "Itens mágicos",
+          "Poções e preparos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "05e8b08a1be63305"
+  },
+  {
+    "_id": "5ee5290a10e015c6",
+    "name": "Poção da oclumência",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/062df8a2c2d17b8c.svg",
+    "system": {
+      "description": "Sua ingestão fecha a mente contra qualquer efeito mágico mental (ex.: sono).\n\nDuração padrão de poção mágica: 1d6+6 turnos (salvo efeito permanente indicado).\n\nLivro Base V2, p. 169.",
+      "price": 1500,
+      "properties": "Item mágico",
+      "duration": "1d6+6 turnos"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 169,
+        "pdfPage": 174,
+        "folderPath": [
+          "Itens mágicos",
+          "Poções e preparos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "05e8b08a1be63305"
+  },
+  {
+    "_id": "41db3eff99fabe12",
+    "name": "Poção de respirar na água",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/7af3e37f07f022b2.svg",
+    "system": {
+      "description": "Sua ingestão permite respirar na água.\n\nDuração padrão de poção mágica: 1d6+6 turnos (salvo efeito permanente indicado).\n\nLivro Base V2, p. 169.",
+      "price": 1500,
+      "properties": "Item mágico",
+      "duration": "1d6+6 turnos"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 169,
+        "pdfPage": 174,
+        "folderPath": [
+          "Itens mágicos",
+          "Poções e preparos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "05e8b08a1be63305"
+  },
+  {
+    "_id": "880cff8363d29df4",
+    "name": "Poção de voo",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/fd21b51e2a8a8207.svg",
+    "system": {
+      "description": "Sua ingestão permite voo com efeito similar ao da magia voar.\n\nDuração padrão de poção mágica: 1d6+6 turnos (salvo efeito permanente indicado).\n\nLivro Base V2, p. 169.",
+      "price": 1500,
+      "properties": "Item mágico",
+      "duration": "1d6+6 turnos"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 169,
+        "pdfPage": 174,
+        "folderPath": [
+          "Itens mágicos",
+          "Poções e preparos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "05e8b08a1be63305"
+  },
+  {
+    "_id": "ed0f1e6e707efcc9",
+    "name": "Pomada de resistência",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/26dc3b8e005b8442.svg",
+    "system": {
+      "description": "Sua aplicação (1 turno) confere efeito similar à magia resistência a elementos (sortear qual).\n\nDuração padrão de poção mágica: 1d6+6 turnos (salvo efeito permanente indicado).\n\nLivro Base V2, p. 169.",
+      "price": 1500,
+      "properties": "Item mágico",
+      "duration": "1d6+6 turnos"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 169,
+        "pdfPage": 174,
+        "folderPath": [
+          "Itens mágicos",
+          "Poções e preparos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "05e8b08a1be63305"
+  },
+  {
+    "_id": "703760443e29b7b9",
+    "name": "Poção da grande restauração",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/dff600c92bba5da9.svg",
+    "system": {
+      "description": "Sua ingestão revigora 4+4 DV ou remove efeito de paralisia.\n\nDuração padrão de poção mágica: 1d6+6 turnos (salvo efeito permanente indicado).\n\nLivro Base V2, p. 169.",
+      "price": 2000,
+      "properties": "Item mágico",
+      "duration": "1d6+6 turnos"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 169,
+        "pdfPage": 174,
+        "folderPath": [
+          "Itens mágicos",
+          "Poções e preparos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "05e8b08a1be63305"
+  },
+  {
+    "_id": "a34faad7e77e3274",
+    "name": "Poção da sorte",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/73967771cc1b6d4c.svg",
+    "system": {
+      "description": "Sua ingestão permite que, por até três vezes, sempre que lançar um d20 de ataque ou SV, pode-se refazer o lance, e ficar obrigatoriamente com o novo resultado.\n\nDuração padrão de poção mágica: 1d6+6 turnos (salvo efeito permanente indicado).\n\nLivro Base V2, p. 169.",
+      "price": 2000,
+      "properties": "Item mágico",
+      "duration": "1d6+6 turnos"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 169,
+        "pdfPage": 174,
+        "folderPath": [
+          "Itens mágicos",
+          "Poções e preparos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "05e8b08a1be63305"
+  },
+  {
+    "_id": "4c337323d2753551",
+    "name": "Poção da juventude",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/701b462893a4abff.svg",
+    "system": {
+      "description": "Sua ingestão resulta no rejuvenescimento imediato de 10 anos, de forma permanente.\n\nDuração padrão de poção mágica: 1d6+6 turnos (salvo efeito permanente indicado).\n\nLivro Base V2, p. 169.",
+      "price": 10000,
+      "properties": "Item mágico",
+      "duration": "1d6+6 turnos"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 169,
+        "pdfPage": 174,
+        "folderPath": [
+          "Itens mágicos",
+          "Poções e preparos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "05e8b08a1be63305"
+  },
+  {
+    "_id": "7a7d28ae1d55df94",
+    "name": "Cajado da arquimagia",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/5aa0bfd3505593ab.svg",
+    "system": {
+      "description": "Este é um objeto de suprema arcana, feito de um metal extraplanar completamente negro, contendo uma esfera magenta na ponta. > Em combate: arma mágica +2 (2d6+2). > Cargas (10x): regenera 1d10 a cada 24h. > Salvaguardas: magias conjuradas com uso deste implemento conferem -2 na SV de alvos. > Conjuração (1x carga): conjurações de “uma rodada” são feitas como “ação”, com uso deste implemento. > Memorização (6x carga): é possível “aprisionar” (no cajado) uma magia de sexto círculo como um processo de memorização. Estas cargas só são recuperadas se esta magia for conjurada.\n\nLivro Base V2, p. 174.",
+      "price": 275000,
+      "properties": "Item mágico",
+      "charges": {
+        "value": 10,
+        "max": 10
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 174,
+        "pdfPage": 179,
+        "folderPath": [
+          "Itens mágicos",
+          "Cajados e orbes"
+        ],
+        "iconMotif": "staff",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "22da1695b8cf6206"
+  },
+  {
+    "_id": "6d0e9fc381ff57ad",
+    "name": "Cajado da restauração",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/1304b365b51a407e.svg",
+    "system": {
+      "description": "Um cajado feito de uma madeira amarelo palha, contendo uma pérola branca na ponta. Magias de restauração conjuradas com suporte deste item como implemento adicionam o nível de arcanista no valor final. > Cargas: 3x, regenera 1d3 a cada 24h. > Restauração (1x carga): como magia. > Grande restauração (3x cargas): como magia restauração de 4º círculo.\n\nLivro Base V2, p. 174.",
+      "price": 22500,
+      "properties": "Item mágico",
+      "charges": {
+        "value": 3,
+        "max": 3
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 174,
+        "pdfPage": 179,
+        "folderPath": [
+          "Itens mágicos",
+          "Cajados e orbes"
+        ],
+        "iconMotif": "staff",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "22da1695b8cf6206"
+  },
+  {
+    "_id": "d8265fb95ab199f7",
+    "name": "Cajado da serpente",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/a3d9df5d04453846.svg",
+    "system": {
+      "description": "Um cajado de um metal esverdeado, com um rosto de serpente de olhos âmbar. > Em combate: arma mágica +1. > Carga: uso ilimitado (sem carga). > Cobra: ataque bem-sucedido contra uma criatura de tamanho médio ou inferior transforma o implemento em uma cobra (com uso da senha), que automaticamente se enrola na vítima, deixando-a paralisada por 1d4 turnos (SV-P para evitar). Cobra (besta média): CA: 5 [14], DV: 3 (20 PV), MV: 20’. > Retorno: com um comando (ação), pode-se conjurar a cobra automaticamente para sua mão, que se transforma novamente no cajado. Caso a cobra seja morta, o cajado é destruído (deixa de ser mágico).\n\nLivro Base V2, p. 174.",
+      "price": 50000,
+      "properties": "Item mágico",
+      "charges": {
+        "value": 0,
+        "max": 0
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 174,
+        "pdfPage": 179,
+        "folderPath": [
+          "Itens mágicos",
+          "Cajados e orbes"
+        ],
+        "iconMotif": "staff",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "22da1695b8cf6206"
+  },
+  {
+    "_id": "bdbb33abb57c95aa",
+    "name": "Cajado de comando",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/d6f3a8b2d2a9d191.svg",
+    "system": {
+      "description": "Um cajado fino, de madeira escura e uma cabeça demoníaca de prata na ponta. > Em combate: arma mágica +1 (1d6+1). > Cargas: 3x, regenera 1d3 a cada 24h. > Comandar bestas (1x carga): 1d6 bestas normais ou uma gigante (bestas mágicas ou inteligentes são imunes) em até 100’ sofrem influência mágica, e passam a obedecer a todos os comandos. Este controle precisa ser mantido sob concentração.\n\nNOTA DE ARBITRAGEM Quando o feitiço for quebrado a reação da criatura pode mudar (testar reação com -1) > Comandar humanoides (1x carga): uma criatura humanoide de até 6 DV sofre efeito similar à magia encantar pessoas. (SV-F com -2, para evitar). A carga desse cajado só é recuperada sob liberação da criatura encantada. > Comandar plantas (1x carga): todas as plantas (incluindo floranídeos) em até 60’, em uma área de raio 5’ são afetadas podem ser comandadas a se moverem como desejar. Este controle precisa ser mantido sob concentração.\n\nLivro Base V2, p. 174.",
+      "price": 75000,
+      "properties": "Item mágico",
+      "charges": {
+        "value": 3,
+        "max": 3
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 174,
+        "pdfPage": 179,
+        "folderPath": [
+          "Itens mágicos",
+          "Cajados e orbes"
+        ],
+        "iconMotif": "staff",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "22da1695b8cf6206"
+  },
+  {
+    "_id": "97deff66538787d2",
+    "name": "Cajado do poder",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/a6f897d82a4ba76f.svg",
+    "system": {
+      "description": "Um cajado feito de uma madeira vermelho sangue, contendo um rubi na ponta. > Cargas: 3x, regenera 1d3 a cada 24h. > Salvaguardas: magias elementais (fogo, ar, água ou terra) conjuradas com auxílio deste cajado conferem -2 na SV de alvos. > Dano (1x carga): magias de elementais (fogo, ar, água ou terra) causam um dano adicional por dado de dano (ex.: arcanista de sexto nível, que use bola de fogo, causará 6d6+6 de dano). > Flecha elemental (1x carga): conjura-se uma magia similar à magia “flecha mágica”, de um elemento, com dano de 1d6+1. > Bola de fogo (3x cargas): conjura-se uma bola de fogo (6d6+6 de dano, SV-I para metade), como a magia.\n\nLivro Base V2, p. 175.",
+      "price": 125000,
+      "properties": "Item mágico",
+      "charges": {
+        "value": 3,
+        "max": 3
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 175,
+        "pdfPage": 180,
+        "folderPath": [
+          "Itens mágicos",
+          "Cajados e orbes"
+        ],
+        "iconMotif": "staff",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "22da1695b8cf6206"
+  },
+  {
+    "_id": "88c4bfc185e6501c",
+    "name": "Orbe de cristal",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/a9b6ccd24e73f168.svg",
+    "system": {
+      "description": "Uma esfera de 1’ de diâmetro, usada como implemento de magias de adivinhação. > Carga: 3x, recarrega 1d3 a cada 24h. > Clarividência (1x carga): permite que se veja uma área desejada (raio 10’), por um turno, como a magia clarividência. > Concentração: demanda concentração, caso contrário a magia se encerra. > Bloqueio: não é possível usar magias através da bola de cristal, além disso, esse feitiço não ultrapassa barreias de chumbo.\n\nLivro Base V2, p. 175.",
+      "price": 25000,
+      "properties": "Item mágico",
+      "charges": {
+        "value": 3,
+        "max": 3
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 175,
+        "pdfPage": 180,
+        "folderPath": [
+          "Itens mágicos",
+          "Cajados e orbes"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "22da1695b8cf6206"
+  },
+  {
+    "_id": "3a7c89b7e0993cb4",
+    "name": "Orbe da predição",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/1fe5e739c4488aac.svg",
+    "system": {
+      "description": "Também conhecida como “bola de cristal”, com cerca de ~1’ de diâmetro, trata-se de uma esfera parcialmente translúcida, com um aspecto enevoado interno, que permite uso de magias de adivinhação. > Carga: 3x, recarrega 1d3 a cada 24h. > Clarividência (1x carga): permite que se veja e ouça tudo em uma área desejada (raio 10’), por um turno, como clarividência. > Concentração: a magia é encerrada se a concentração for quebrada. > Bloqueio: não é possível usar magias através da bola de cristal, além disso, esse feitiço não ultrapassa barreias de chumbo.\n\nLivro Base V2, p. 175.",
+      "price": 45000,
+      "properties": "Item mágico",
+      "charges": {
+        "value": 3,
+        "max": 3
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 175,
+        "pdfPage": 180,
+        "folderPath": [
+          "Itens mágicos",
+          "Cajados e orbes"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "22da1695b8cf6206"
+  },
+  {
+    "_id": "e2ddd1c38311d8a4",
+    "name": "Orbe da verdade",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/fffaaf1885b83c64.svg",
+    "system": {
+      "description": "A mais poderosa das “bolas de cristal”, com cerca de ~1’ de diâmetro, trata-se de uma esfera púrpura, que permite uso de magias do tipo adivinhação. > Carga: 3x, recarrega 1d3 a cada 24h. > Clarividência (1x carga): permite que se veja e perceba pensamentos (como magia Percepção Extra Sensorial) de uma criatura e o que tiver em suas proximidades (até 10’), por um turno, como a magia clarividência. > Concentração: demanda concentração, caso contrário a magia se encerra. > Bloqueio: não é possível usar magias através da bola de cristal, além disso, esse feitiço não ultrapassa barreias de chumbo.\n\nLivro Base V2, p. 175.",
+      "price": 55000,
+      "properties": "Item mágico",
+      "charges": {
+        "value": 3,
+        "max": 3
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 175,
+        "pdfPage": 180,
+        "folderPath": [
+          "Itens mágicos",
+          "Cajados e orbes"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "22da1695b8cf6206"
+  },
+  {
+    "_id": "193bd5bc53198f80",
+    "name": "Varinha congelante",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/dd01346dd380a7df.svg",
+    "system": {
+      "description": "Uma haste branca, contendo uma água- marinha na ponta. > Cone de gelo: 60’x20’, que causa 6d6 de dano (SV-I para metade).\n\nExemplar preparado com carga plena (20). Para um exemplar encontrado, o livro orienta sortear 2d10 cargas. Usar consome uma carga; não há recarga diária.\n\nLivro Base V2, p. 175.",
+      "price": 50000,
+      "properties": "Item mágico",
+      "charges": {
+        "value": 20,
+        "max": 20
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 175,
+        "pdfPage": 180,
+        "folderPath": [
+          "Itens mágicos",
+          "Varinhas"
+        ],
+        "iconMotif": "wand",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "1a46fa0c0dc5b173"
+  },
+  {
+    "_id": "ebd110235e078504",
+    "name": "Varinha da amarração",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/d1d3f85e206f681e.svg",
+    "system": {
+      "description": "Uma haste de madeira marrom, com runas élficas escondidas na madeira. > Amarração: como a magia amarração, conjurada por arcanista de primeiro nível.\n\nExemplar preparado com carga plena (20). Para um exemplar encontrado, o livro orienta sortear 2d10 cargas. Usar consome uma carga; não há recarga diária.\n\nLivro Base V2, p. 175.",
+      "price": 10000,
+      "properties": "Item mágico",
+      "charges": {
+        "value": 20,
+        "max": 20
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 175,
+        "pdfPage": 180,
+        "folderPath": [
+          "Itens mágicos",
+          "Varinhas"
+        ],
+        "iconMotif": "wand",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "1a46fa0c0dc5b173"
+  },
+  {
+    "_id": "ff5914897876065e",
+    "name": "Varinha da detecção mágica",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/774823b49162d192.svg",
+    "system": {
+      "description": "Uma haste de madeira azul, contendo uma pérola branca na ponta. > Efeito: objetos mágicos em até 20’ emitem um brilho purpurinado.\n\nExemplar preparado com carga plena (20). Para um exemplar encontrado, o livro orienta sortear 2d10 cargas. Usar consome uma carga; não há recarga diária.\n\nLivro Base V2, p. 176.",
+      "price": 10000,
+      "properties": "Item mágico",
+      "charges": {
+        "value": 20,
+        "max": 20
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 176,
+        "pdfPage": 181,
+        "folderPath": [
+          "Itens mágicos",
+          "Varinhas"
+        ],
+        "iconMotif": "wand",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "1a46fa0c0dc5b173"
+  },
+  {
+    "_id": "2ad7700c26ecb7b4",
+    "name": "Varinha da chave arcana",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/2709f4a1acceebee.svg",
+    "system": {
+      "description": "Uma haste retorcida, de madeira acobreada. > Efeito: abre magicamente uma fechadura ordinária de porta, janela ou similar, a 10’.\n\nExemplar preparado com carga plena (20). Para um exemplar encontrado, o livro orienta sortear 2d10 cargas. Usar consome uma carga; não há recarga diária.\n\nLivro Base V2, p. 176.",
+      "price": 10000,
+      "properties": "Item mágico",
+      "charges": {
+        "value": 20,
+        "max": 20
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 176,
+        "pdfPage": 181,
+        "folderPath": [
+          "Itens mágicos",
+          "Varinhas"
+        ],
+        "iconMotif": "wand",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "1a46fa0c0dc5b173"
+  },
+  {
+    "_id": "1588a4a9316f02da",
+    "name": "Varinha da fechadura",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/c764532e49960f7e.svg",
+    "system": {
+      "description": "Uma haste negra, contendo uma pedra âmbar avermelhada na ponta. > Efeito: gera uma runa invisível que tranca permanentemente uma fechadura de porta ou similar, a 10’, com criação concomitante de uma senha. Só é possível ultrapassar com uso da palavra-passe adequada ou com uso de efeitos mágicos.\n\nNOTA DE ARBITRAGEM Dissipar magia remove permanentemente essa tranca, já este feitiço invertido (chave- arcana) anula-a por 6 turnos. O uso da magia desaferrolhar (versão invertida de aferrolhar) desabilita a tranca por um turno.\n\nExemplar preparado com carga plena (20). Para um exemplar encontrado, o livro orienta sortear 2d10 cargas. Usar consome uma carga; não há recarga diária.\n\nLivro Base V2, p. 176.",
+      "price": 20000,
+      "properties": "Item mágico",
+      "charges": {
+        "value": 20,
+        "max": 20
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 176,
+        "pdfPage": 181,
+        "folderPath": [
+          "Itens mágicos",
+          "Varinhas"
+        ],
+        "iconMotif": "wand",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "1a46fa0c0dc5b173"
+  },
+  {
+    "_id": "49dc34eee918e29e",
+    "name": "Varinha da negação",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/06f89b0960190c6c.svg",
+    "system": {
+      "description": "Uma haste cinza, contendo um pequenino crânio prateado na ponta. > Efeito: capaz de cancelar uma conjuração em processo, em até 100’, de magia não memorizada (de outros implementos) como, por exemplo: de orbe, cajados ou varinhas.\n\nNOTA DE ARBITRAGEM Durante uma conjuração, almeja-se um implemento alvo, e define-se por iniciativa.\n\nExemplar preparado com carga plena (20). Para um exemplar encontrado, o livro orienta sortear 2d10 cargas. Usar consome uma carga; não há recarga diária.\n\nLivro Base V2, p. 176.",
+      "price": 60000,
+      "properties": "Item mágico",
+      "charges": {
+        "value": 20,
+        "max": 20
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 176,
+        "pdfPage": 181,
+        "folderPath": [
+          "Itens mágicos",
+          "Varinhas"
+        ],
+        "iconMotif": "wand",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "1a46fa0c0dc5b173"
+  },
+  {
+    "_id": "baf81a9c857cdc82",
+    "name": "Varinha da revelação",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/9206659aa87e2620.svg",
+    "system": {
+      "description": "Uma haste de madeira alaranjada, contendo uma pérola negra na ponta. > Efeito: qualquer criatura à 60’ (mesmo invisíveis) que possua intenções negativas contra você brilham.\n\nExemplar preparado com carga plena (20). Para um exemplar encontrado, o livro orienta sortear 2d10 cargas. Usar consome uma carga; não há recarga diária.\n\nLivro Base V2, p. 176.",
+      "price": 60000,
+      "properties": "Item mágico",
+      "charges": {
+        "value": 20,
+        "max": 20
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 176,
+        "pdfPage": 181,
+        "folderPath": [
+          "Itens mágicos",
+          "Varinhas"
+        ],
+        "iconMotif": "wand",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "1a46fa0c0dc5b173"
+  },
+  {
+    "_id": "13db6519ab0f2d73",
+    "name": "Varinha de encantamento",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/1aa6ef1d5472cd4f.svg",
+    "system": {
+      "description": "Uma haste roseada, contendo uma ametista na ponta. > Efeito: Encanta uma criatura humanoide em até 120’, que passará a ter fidelidade (SV-F para evitar). Se receber comandos que dissonem de sua normalidade o encanto pode ser quebrado.\n\nExemplar preparado com carga plena (20). Para um exemplar encontrado, o livro orienta sortear 2d10 cargas. Usar consome uma carga; não há recarga diária.\n\nLivro Base V2, p. 176.",
+      "price": 10000,
+      "properties": "Item mágico",
+      "charges": {
+        "value": 20,
+        "max": 20
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 176,
+        "pdfPage": 181,
+        "folderPath": [
+          "Itens mágicos",
+          "Varinhas"
+        ],
+        "iconMotif": "wand",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "1a46fa0c0dc5b173"
+  },
+  {
+    "_id": "74fcf909e9917d14",
+    "name": "Varinha de flecha mágica",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/1fea5f82e9a338b9.svg",
+    "system": {
+      "description": "Uma haste marrom amarelada, contendo um cristal. > Efeito: emana uma flecha arcana em um alvo em até 100’, com dano de 1d6+1.\n\nExemplar preparado com carga plena (20). Para um exemplar encontrado, o livro orienta sortear 2d10 cargas. Usar consome uma carga; não há recarga diária.\n\nLivro Base V2, p. 176.",
+      "price": 10000,
+      "properties": "Item mágico",
+      "charges": {
+        "value": 20,
+        "max": 20
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 176,
+        "pdfPage": 181,
+        "folderPath": [
+          "Itens mágicos",
+          "Varinhas"
+        ],
+        "iconMotif": "wand",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "1a46fa0c0dc5b173"
+  },
+  {
+    "_id": "b0cf726ad1ad1eba",
+    "name": "Varinha de luz",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/35e32f833dc73a79.svg",
+    "system": {
+      "description": "Uma haste amarela, contendo uma pedra lunar. > Efeito: da magia luz.\n\nExemplar preparado com carga plena (20). Para um exemplar encontrado, o livro orienta sortear 2d10 cargas. Usar consome uma carga; não há recarga diária.\n\nLivro Base V2, p. 176.",
+      "price": 10000,
+      "properties": "Item mágico",
+      "charges": {
+        "value": 20,
+        "max": 20
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 176,
+        "pdfPage": 181,
+        "folderPath": [
+          "Itens mágicos",
+          "Varinhas"
+        ],
+        "iconMotif": "wand",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "1a46fa0c0dc5b173"
+  },
+  {
+    "_id": "7bb44a249bcf969d",
+    "name": "Varinha de paralisia",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/5e4d61a7716dff4b.svg",
+    "system": {
+      "description": "Uma haste verde-escura, contendo uma ágata na ponta. > Efeito: imobiliza automaticamente 1d4 humanoides em até 120’, por 1d4 turnos (SV-P para evitar). Caso seja direcionada contra um único alvo, confere -2 na SV.\n\nExemplar preparado com carga plena (20). Para um exemplar encontrado, o livro orienta sortear 2d10 cargas. Usar consome uma carga; não há recarga diária.\n\nLivro Base V2, p. 176.",
+      "price": 30000,
+      "properties": "Item mágico",
+      "charges": {
+        "value": 20,
+        "max": 20
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 176,
+        "pdfPage": 181,
+        "folderPath": [
+          "Itens mágicos",
+          "Varinhas"
+        ],
+        "iconMotif": "wand",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "1a46fa0c0dc5b173"
+  },
+  {
+    "_id": "c18d1e9366d9264b",
+    "name": "Varinha de raios",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/52b97f1ec6278fe9.svg",
+    "system": {
+      "description": "Uma haste azul-marinho, contendo uma minúscula esfera de cristal na ponta. > Efeito: um ponto em até 180’ se torna a origem de um raio mágico evocado, de dimensões 60’x5’, que causa 6d6 de dano elétrico (SV-I para metade).\n\nExemplar preparado com carga plena (20). Para um exemplar encontrado, o livro orienta sortear 2d10 cargas. Usar consome uma carga; não há recarga diária.\n\nLivro Base V2, p. 176.",
+      "price": 30000,
+      "properties": "Item mágico",
+      "charges": {
+        "value": 20,
+        "max": 20
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 176,
+        "pdfPage": 181,
+        "folderPath": [
+          "Itens mágicos",
+          "Varinhas"
+        ],
+        "iconMotif": "wand",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "1a46fa0c0dc5b173"
+  },
+  {
+    "_id": "95ebef082515a6e4",
+    "name": "Varinha do medo",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/d649e92ad13fa211.svg",
+    "system": {
+      "description": "Uma haste com uma acobreada cabeça demoníaca na ponta. > Efeito: um cone de terror de 60’x30’ gera pânico em todas as criaturas viventes, que fugirão desesperadamente por 30 rodadas (SV-F para evitar).\n\nExemplar preparado com carga plena (20). Para um exemplar encontrado, o livro orienta sortear 2d10 cargas. Usar consome uma carga; não há recarga diária.\n\nLivro Base V2, p. 177.",
+      "price": 40000,
+      "properties": "Item mágico",
+      "charges": {
+        "value": 20,
+        "max": 20
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 177,
+        "pdfPage": 182,
+        "folderPath": [
+          "Itens mágicos",
+          "Varinhas"
+        ],
+        "iconMotif": "wand",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "1a46fa0c0dc5b173"
+  },
+  {
+    "_id": "3cc58c812da36c9a",
+    "name": "Varinha do polimorfismo",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/f26eb60b717a658b.svg",
+    "system": {
+      "description": "Uma haste verde, de madeira retorcida. > Efeito: se transforma em uma criatura vivente de tamanho entre diminuto e grande, assumindo suas habilidades físicas, como respiração ou voo, por seis turnos. Caso lançada contra um outro alvo, o efeito é permanente (SV-F para evitar).\n\nNOTA DE ARBITRAGREM As características em geral são mantidas, como PV, cognição e salvaguardas.\n\nExemplar preparado com carga plena (20). Para um exemplar encontrado, o livro orienta sortear 2d10 cargas. Usar consome uma carga; não há recarga diária.\n\nLivro Base V2, p. 177.",
+      "price": 40000,
+      "properties": "Item mágico",
+      "charges": {
+        "value": 20,
+        "max": 20
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 177,
+        "pdfPage": 182,
+        "folderPath": [
+          "Itens mágicos",
+          "Varinhas"
+        ],
+        "iconMotif": "wand",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "1a46fa0c0dc5b173"
+  },
+  {
+    "_id": "8bd1b392af47d87a",
+    "name": "Varinha flamejante",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/f86a267c0892fb04.svg",
+    "system": {
+      "description": "Uma haste negra com um rubi na ponta. > Efeito: uma bola de fogo é arremessada em até 240’, explodindo em chamas em uma área de diâmetro 40’, causando 6d6 de dano de fogo (SV-I para metade).\n\nExemplar preparado com carga plena (20). Para um exemplar encontrado, o livro orienta sortear 2d10 cargas. Usar consome uma carga; não há recarga diária.\n\nLivro Base V2, p. 177.",
+      "price": 30000,
+      "properties": "Item mágico",
+      "charges": {
+        "value": 20,
+        "max": 20
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 177,
+        "pdfPage": 182,
+        "folderPath": [
+          "Itens mágicos",
+          "Varinhas"
+        ],
+        "iconMotif": "wand",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "1a46fa0c0dc5b173"
+  },
+  {
+    "_id": "929dbd387e97b36c",
+    "name": "Amuleto de oclumência",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/b72b32688c0405c0.svg",
+    "system": {
+      "description": "Um cordão com um pingente na ponta, que confere imunidade contra possessões e encantamentos (ex.: encantar pessoas).\n\nLivro Base V2, p. 177.",
+      "price": 5000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 177,
+        "pdfPage": 182,
+        "folderPath": [
+          "Itens mágicos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "f4325aab5ca879c6"
+  },
+  {
+    "_id": "f00e81e739d07a32",
+    "name": "Amuleto da ocultação",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/09121bdacdf66c67.svg",
+    "system": {
+      "description": "Um cordão com um pingente na ponta, que confere imunidade contra efeitos de adivinhação (ex.: uso da magia percepção extrassensorial ou vidência por orbe de cristal).\n\nLivro Base V2, p. 177.",
+      "price": 5000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 177,
+        "pdfPage": 182,
+        "folderPath": [
+          "Itens mágicos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "f4325aab5ca879c6"
+  },
+  {
+    "_id": "0c02e3cfaa532761",
+    "name": "Bandolim melódico",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/6a2062f37d3087c6.svg",
+    "system": {
+      "description": "Instrumento mágico de cordas. Se alguém treinado em arcanismo com CAR igual ou superior a 13 o utilizar, pode reproduzir as magias: encantar pessoas, sono e ventriloquismo (1x dia / cada).\n\nLivro Base V2, p. 178.",
+      "price": 10000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 178,
+        "pdfPage": 183,
+        "folderPath": [
+          "Itens mágicos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "f4325aab5ca879c6"
+  },
+  {
+    "_id": "3284ef4487a21b6f",
+    "name": "Berrante do brado heroico",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/948baaeb50968f44.svg",
+    "system": {
+      "description": "Feito do chifre de uma criatura mágica, encrustado em runas, permite ser soprado magicamente uma vez por dia. Todas as criaturas aliadas capazes de ouvirem seu som são afetadas por efeito similar à magia heroísmo.\n\nLivro Base V2, p. 178.",
+      "price": 10000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 178,
+        "pdfPage": 183,
+        "folderPath": [
+          "Itens mágicos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "f4325aab5ca879c6"
+  },
+  {
+    "_id": "e97eecb52f1135b2",
+    "name": "Bolsa devoradora",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/243752dbcca70949.svg",
+    "system": {
+      "description": "Um pequeno saco de aparência normal (diâmetro 2’) que devora (desintegra) miscelâneas ou objetos menores quando colocados em seu interior em 2d6 rodadas.\n\nLivro Base V2, p. 178.",
+      "price": 5000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 178,
+        "pdfPage": 183,
+        "folderPath": [
+          "Itens mágicos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "f4325aab5ca879c6"
+  },
+  {
+    "_id": "d56d4cbc452246ac",
+    "name": "Bolsa porta-treco",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/1cf260003736b0d3.svg",
+    "system": {
+      "description": "Uma pequena bolsa com um rosto desenhado em costura, que fala o idioma dos duendes. Caso consiga se comunicar com ela, pode-se criar uma conexão. Ela trabalhará a seu serviço, armazenando até 20 miscelâneas, com capacidade total de até 1.000 cn (carga de 80 cn) e lhe entregará o item desejado com um comando simples.\n\nLivro Base V2, p. 178.",
+      "price": 10000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 178,
+        "pdfPage": 183,
+        "folderPath": [
+          "Itens mágicos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "f4325aab5ca879c6"
+  },
+  {
+    "_id": "813a5ee66cc1ba4f",
+    "name": "Bota élfica",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/8ef04aac07bf9995.svg",
+    "system": {
+      "description": "Permite o deslocamento inaudível se estiver de carga leve.\n\nLivro Base V2, p. 178.",
+      "price": 10000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 178,
+        "pdfPage": 183,
+        "folderPath": [
+          "Itens mágicos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "boot",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "f4325aab5ca879c6"
+  },
+  {
+    "_id": "a75aabf2ab86f2db",
+    "name": "Botas de levitação",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/35f6bd2b612c8778.svg",
+    "system": {
+      "description": "Permitem, com seu movimento, se deslocar verticalmente 20’ por rodada. Pode-se usar de impulsos em superfícies para movimento horizontal. Não altera capacidade de carga.\n\nLivro Base V2, p. 178.",
+      "price": 20000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 178,
+        "pdfPage": 183,
+        "folderPath": [
+          "Itens mágicos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "boot",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "f4325aab5ca879c6"
+  },
+  {
+    "_id": "cfbb7bbdfc37a3c5",
+    "name": "Bracelete de força gigante",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/2df1a5d0c560c69a.svg",
+    "system": {
+      "description": "Um par de braçadeiras metálicas que juntas conferem o valor do atributo força igual a “19” (sobre-humana), o que resulta em ignorar a penalidade de movimento de carga pesada e dobra o alcance de arremessos.\n\nLivro Base V2, p. 178.",
+      "price": 30000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 178,
+        "pdfPage": 183,
+        "folderPath": [
+          "Itens mágicos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "f4325aab5ca879c6"
+  },
+  {
+    "_id": "8839285b696bec00",
+    "name": "Capa élfica",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/df3906809670bb6e.svg",
+    "system": {
+      "description": "Se mistura ilusoriamente ao ambiente e gera efeito do tipo “quase invisibilidade”, quando completamente imóvel.\n\nLivro Base V2, p. 178.",
+      "price": 20000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 178,
+        "pdfPage": 183,
+        "folderPath": [
+          "Itens mágicos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "f4325aab5ca879c6"
+  },
+  {
+    "_id": "959dac50c70bc7a3",
+    "name": "Capa protetora",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/2cfa915eb7ce9eba.svg",
+    "system": {
+      "description": "Feito de um maravilhoso e chamativo tecido de cores vibrantes, que confere bônus na CA e SV (1d10): 1-7) +1; 8-9) +2; 10) +3.\n\nLivro Base V2, p. 178.",
+      "price": 25000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 178,
+        "pdfPage": 183,
+        "folderPath": [
+          "Itens mágicos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "f4325aab5ca879c6"
+  },
+  {
+    "_id": "ffaba5810dd18300",
+    "name": "Chapéu de disfarce",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/6c7dec82d3e093f0.svg",
+    "system": {
+      "description": "Um chapéu simples, com uma pena lateral, que permite, como conjuração, modificar sua aparência com alterações simples, como crescer uma longa barba ou parecer alguém décadas mais velho. Esse efeito pode ser feito uma vez por dia e persiste enquanto estiver usando o chapéu, mas pode ser desfeita a qualquer momento por desejo de quem fez seu uso.\n\nLivro Base V2, p. 178.",
+      "price": 10000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 178,
+        "pdfPage": 183,
+        "folderPath": [
+          "Itens mágicos",
+          "Poções e preparos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "05e8b08a1be63305"
+  },
+  {
+    "_id": "9b06c1c20b9b6786",
+    "name": "Chapéu falador",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/cb02b77ad203c629.svg",
+    "system": {
+      "description": "Um espírito extraplanar foi aprisionado nesse velho chapéu de tecido rugoso, pontiagudo e desgastado. Ele é capaz de falar seis idiomas (sortear na lista de idiomas), e pode funcionar como intérprete de seu dono. Uma vez por dia, ele pode conjurar o feitiço compreender idiomas, com duração de três turnos.\n\nLivro Base V2, p. 178.",
+      "price": 20000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 178,
+        "pdfPage": 183,
+        "folderPath": [
+          "Itens mágicos",
+          "Poções e preparos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "05e8b08a1be63305"
+  },
+  {
+    "_id": "2f6c74ccb9baf902",
+    "name": "Corda élfica",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/11e59cdfab2086f3.svg",
+    "system": {
+      "description": "Uma corda mágica de 50’ de comprimento, capaz de sustentar até 15.000 cn. Com um comando da senha em élfico se enrola magicamente de maneira firme em alguma superfície possível de ser enrolada, só soltando sob comando ou se arrebentada.\n\nLivro Base V2, p. 179.",
+      "price": 5000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 179,
+        "pdfPage": 184,
+        "folderPath": [
+          "Itens mágicos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "f4325aab5ca879c6"
+  },
+  {
+    "_id": "f8d85e442931ac08",
+    "name": "Escaravelhos guardiões",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/bdc7483fa62d0990.svg",
+    "system": {
+      "description": "Um broche contendo 2d6 escaravelhos (cargas), que protegem de maldições ou a magia flecha mágica. Após descarregado completamente se torna inútil.\n\nExemplar de referência com 7 cargas; para geração aleatória, use 2d6.\n\nLivro Base V2, p. 179.",
+      "price": 10000,
+      "properties": "Item mágico",
+      "charges": {
+        "value": 7,
+        "max": 7
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 179,
+        "pdfPage": 184,
+        "folderPath": [
+          "Itens mágicos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "f4325aab5ca879c6"
+  },
+  {
+    "_id": "a282c9f35df181df",
+    "name": "Lâmpada dos desejos",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/c8cee31a13f07def.svg",
+    "system": {
+      "description": "Uma lâmpada dourada que ao receber o esfregão de mãos humanoides nuas libera um gênio servo.\n\nLivro Base V2, p. 179.",
+      "price": 50000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 179,
+        "pdfPage": 184,
+        "folderPath": [
+          "Itens mágicos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "f4325aab5ca879c6"
+  },
+  {
+    "_id": "230d8a60b139c01f",
+    "name": "Máscara da respiração aquática",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/7dbf88ee8fa8afbf.svg",
+    "system": {
+      "description": "Uma máscara feita de escamas de sereia, com runas internas. Ao ser colocada sobre o rosto ela se gruda, permitindo respiração abaixo d’água. Conectar-se ou desconectar-se com a máscara requer uma rodada.\n\nLivro Base V2, p. 179.",
+      "price": 5000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 179,
+        "pdfPage": 184,
+        "folderPath": [
+          "Itens mágicos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "f4325aab5ca879c6"
+  },
+  {
+    "_id": "3bf548b58edde554",
+    "name": "Óculos de leitura mágica",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/ae09de1fc9e5a14c.svg",
+    "system": {
+      "description": "Objeto frágil, mimetiza o efeito da magia leitura mágica.\n\nLivro Base V2, p. 179.",
+      "price": 5000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 179,
+        "pdfPage": 184,
+        "folderPath": [
+          "Itens mágicos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "f4325aab5ca879c6"
+  },
+  {
+    "_id": "04b568b7b768a595",
+    "name": "Pedra iônica",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/313db1f3294751de.svg",
+    "system": {
+      "description": "Uma pedra mágica que flutua em órbita da cabeça e confere poderes (ignore a massa). O processo de conexão leva um turno e só desativa se desejado, se for impedida de orbitar, destruída (CA: 0[19] e 10 PV) ou perda da consciência (ou dormir).\n\nTipos de pedra (1d8):\n\n1. Azul +1 dano (corpo a corpo)\n\n2. Escarlate +1 idioma (sortear)\n\n3. Turquesa +10% de XP\n\n4. Vermelho +1 acerto\n\n5. Rosa +1 CA e SV (proteção)\n\n6. Verde Imunidade a venenos\n\n7. Branca: consome metade de água e comida\n\n8. Cinza Respirar na água\n\nLivro Base V2, p. 179.",
+      "price": 30000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 179,
+        "pdfPage": 184,
+        "folderPath": [
+          "Itens mágicos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "f4325aab5ca879c6"
+  },
+  {
+    "_id": "b56cb08652fd90f3",
+    "name": "Tapete voador",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/b2115a4fc5c9b3ea.svg",
+    "system": {
+      "description": "Um tapete 10’ x 10’, construído com tecido mágico, com as bordas cheias de runas, que aprisionam um espírito elemental do ar. Quem dominar sua senha (escrita na língua elemental, escondida entre suas artes) passa a ter um vínculo com ele, e pode ordená-lo a voar. Ele possui instintos similares ao do cavalo de montaria (MV: 80’ até 3.000 cn, 40’ até 6.000 cn).\n\nLivro Base V2, p. 179.",
+      "price": 50000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 179,
+        "pdfPage": 184,
+        "folderPath": [
+          "Itens mágicos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "f4325aab5ca879c6"
+  },
+  {
+    "_id": "4c3142da8ff2cd0a",
+    "name": "Anel da fraqueza",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/a60ae7c6eb7d3ff9.svg",
+    "system": {
+      "description": "Item amaldiçoado Maldição: após 6 rodadas a pessoa sente uma extrema fraqueza (FOR 3), suportando carga máxima de 800 cn (carga média).\n\nLivro Base V2, p. 180.",
+      "price": 1000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 180,
+        "pdfPage": 185,
+        "folderPath": [
+          "Itens mágicos",
+          "Anéis"
+        ],
+        "iconMotif": "ring",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "d61f577ab6420cc5"
+  },
+  {
+    "_id": "ae0920254112553f",
+    "name": "Anel da ilusão",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/b1ba7d12cee8c942.svg",
+    "system": {
+      "description": "A pessoa acredita estar sobre o efeito de outro anel mágico, mas trata-se de uma ilusão sem efeito real.\n\nNOTA DE ARBITRAGEM O resultado obtido passa a sensação de um efeito mágico, mas apenas uma crença ilusória sobre o efeito\n\nLivro Base V2, p. 180.",
+      "price": 10000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 180,
+        "pdfPage": 185,
+        "folderPath": [
+          "Itens mágicos",
+          "Anéis"
+        ],
+        "iconMotif": "ring",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "d61f577ab6420cc5"
+  },
+  {
+    "_id": "411f32f879c679c1",
+    "name": "Anel da invisibilidade",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/305d44dfccf34b92.svg",
+    "system": {
+      "description": "Uma vez por dia simula efeito da magia invisibilidade, se desejado mentalmente.\n\nLivro Base V2, p. 180.",
+      "price": 50000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 180,
+        "pdfPage": 185,
+        "folderPath": [
+          "Itens mágicos",
+          "Anéis"
+        ],
+        "iconMotif": "ring",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "d61f577ab6420cc5"
+  },
+  {
+    "_id": "9b4db93853f0fdbf",
+    "name": "Anel da proteção",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/b5e998efa80d09d1.svg",
+    "system": {
+      "description": "Confere bônus na SV e CA de (1d6): 1-3) +1; 4-5) +2; 6) +3.\n\nLivro Base V2, p. 180.",
+      "price": 30000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 180,
+        "pdfPage": 185,
+        "folderPath": [
+          "Itens mágicos",
+          "Anéis"
+        ],
+        "iconMotif": "ring",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "d61f577ab6420cc5"
+  },
+  {
+    "_id": "e74f57a7644298bd",
+    "name": "Anel da reflexão mágica",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/d42fe5d540c0d882.svg",
+    "system": {
+      "description": "Cargas: 2d6 (perde efeito com zero cargas). Magias 3º círculo (ou inferior) que alvejem diretamente a pessoa são refletidas em quem a lançou, e uma carga é consumida.\n\nExemplar de referência com 7 cargas; para geração aleatória, use 2d6.\n\nLivro Base V2, p. 180.",
+      "price": 50000,
+      "properties": "Item mágico",
+      "charges": {
+        "value": 7,
+        "max": 7
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 180,
+        "pdfPage": 185,
+        "folderPath": [
+          "Itens mágicos",
+          "Anéis"
+        ],
+        "iconMotif": "ring",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "d61f577ab6420cc5"
+  },
+  {
+    "_id": "06a4435b6524cadb",
+    "name": "Anel da revigoração",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/edb90840cc393fd1.svg",
+    "system": {
+      "description": "Uma vez por dia simula o efeito da magia restaurar. Em adicional, recupera-se quatro vezes mais durante descansos.\n\nLivro Base V2, p. 180.",
+      "price": 25000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 180,
+        "pdfPage": 185,
+        "folderPath": [
+          "Itens mágicos",
+          "Anéis"
+        ],
+        "iconMotif": "ring",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "d61f577ab6420cc5"
+  },
+  {
+    "_id": "a5952f40cafb77fd",
+    "name": "Anel guarda-magia",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/21a9d50e5e30b2da.svg",
+    "system": {
+      "description": "Durante o processo de memorização, pode-se armazenar uma magia no anel ao invés da mente (o que permite uma magia extra), que ficará estocada até ser conjurada. Este anel só armazena uma magia.\n\nLivro Base V2, p. 180.",
+      "price": 25000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 180,
+        "pdfPage": 185,
+        "folderPath": [
+          "Itens mágicos",
+          "Anéis"
+        ],
+        "iconMotif": "ring",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "d61f577ab6420cc5"
+  },
+  {
+    "_id": "dcd421a5a0b7fa10",
+    "name": "Anel de resistência a fogo",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/9e296ae3ece7c178.svg",
+    "system": {
+      "description": "Não sofre efeitos de fogo mundano, recebe bônus de +2 na SV contra qualquer tipo de fogo mágico, além de redução de dano desse tipo na ordem de -1 por dado (mínimo de um dano por dado).\n\nLivro Base V2, p. 180.",
+      "price": 15000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 180,
+        "pdfPage": 185,
+        "folderPath": [
+          "Itens mágicos",
+          "Anéis"
+        ],
+        "iconMotif": "ring",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "d61f577ab6420cc5"
+  },
+  {
+    "_id": "c9cf96ce4b6c3b31",
+    "name": "Anel de resistência a frio",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/4187658ae4179b21.svg",
+    "system": {
+      "description": "Não sofre efeitos de frio mundano, recebe bônus de +2 na SV contra qualquer tipo de frio mágico, além de redução de dano desse tipo na ordem de -1 por dado (mínimo de um dano por dado).\n\nLivro Base V2, p. 180.",
+      "price": 15000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 180,
+        "pdfPage": 185,
+        "folderPath": [
+          "Itens mágicos",
+          "Anéis"
+        ],
+        "iconMotif": "ring",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "d61f577ab6420cc5"
+  },
+  {
+    "_id": "1d5e8963de9ce5e2",
+    "name": "Anel da telecinesia",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/2b91f4074086ffb4.svg",
+    "system": {
+      "description": "Efeito idêntico ao da magia telecinesia (concentração para uso).\n\nLivro Base V2, p. 180.",
+      "price": 100000,
+      "properties": "Item mágico"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 180,
+        "pdfPage": 185,
+        "folderPath": [
+          "Itens mágicos",
+          "Anéis"
+        ],
+        "iconMotif": "ring",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "d61f577ab6420cc5"
+  },
+  {
+    "_id": "ca9acf22eb555d5b",
+    "name": "Couro simples +1",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/b66525d50075d878.svg",
+    "system": {
+      "description": "Armadura leve. CA: 8 [11]. Equipar exige seis rodadas. Combater sem treinamento causa exaustão.\n\nEncantamento +1. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 48.\n\nLivro Base V2, p. 170.",
+      "price": 5000,
+      "weight": 100,
+      "ac": 8,
+      "shield": false,
+      "magicBonus": 1
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 170,
+        "pdfPage": 175,
+        "folderPath": [
+          "Equipamento encantado",
+          "Proteções"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ff5e0fff2f0cc0b2"
+  },
+  {
+    "_id": "5c99afef3aee8d1b",
+    "name": "Couro simples +2",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/b828820d2ea985aa.svg",
+    "system": {
+      "description": "Armadura leve. CA: 8 [11]. Equipar exige seis rodadas. Combater sem treinamento causa exaustão.\n\nEncantamento +2. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 48.\n\nLivro Base V2, p. 170.",
+      "price": 15000,
+      "weight": 100,
+      "ac": 8,
+      "shield": false,
+      "magicBonus": 2
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 170,
+        "pdfPage": 175,
+        "folderPath": [
+          "Equipamento encantado",
+          "Proteções"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ff5e0fff2f0cc0b2"
+  },
+  {
+    "_id": "a8fba335eebd770f",
+    "name": "Couro simples +3",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/76d1fccfb83bfb56.svg",
+    "system": {
+      "description": "Armadura leve. CA: 8 [11]. Equipar exige seis rodadas. Combater sem treinamento causa exaustão.\n\nEncantamento +3. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 48.\n\nLivro Base V2, p. 170.",
+      "price": 35000,
+      "weight": 100,
+      "ac": 8,
+      "shield": false,
+      "magicBonus": 3
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 170,
+        "pdfPage": 175,
+        "folderPath": [
+          "Equipamento encantado",
+          "Proteções"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ff5e0fff2f0cc0b2"
+  },
+  {
+    "_id": "2201d5a2f5de6438",
+    "name": "Couro fervido +1",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/b9389d059529198c.svg",
+    "system": {
+      "description": "Armadura leve. CA: 7 [12]. Equipar exige seis rodadas. Combater sem treinamento causa exaustão.\n\nEncantamento +1. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 48.\n\nLivro Base V2, p. 170.",
+      "price": 5000,
+      "weight": 200,
+      "ac": 7,
+      "shield": false,
+      "magicBonus": 1
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 170,
+        "pdfPage": 175,
+        "folderPath": [
+          "Equipamento encantado",
+          "Proteções"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ff5e0fff2f0cc0b2"
+  },
+  {
+    "_id": "8f0af232dd2336e9",
+    "name": "Couro fervido +2",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/f2a36e8ffea66002.svg",
+    "system": {
+      "description": "Armadura leve. CA: 7 [12]. Equipar exige seis rodadas. Combater sem treinamento causa exaustão.\n\nEncantamento +2. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 48.\n\nLivro Base V2, p. 170.",
+      "price": 15000,
+      "weight": 200,
+      "ac": 7,
+      "shield": false,
+      "magicBonus": 2
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 170,
+        "pdfPage": 175,
+        "folderPath": [
+          "Equipamento encantado",
+          "Proteções"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ff5e0fff2f0cc0b2"
+  },
+  {
+    "_id": "474dcad98c8cb272",
+    "name": "Couro fervido +3",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/4340a75af6b69e28.svg",
+    "system": {
+      "description": "Armadura leve. CA: 7 [12]. Equipar exige seis rodadas. Combater sem treinamento causa exaustão.\n\nEncantamento +3. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 48.\n\nLivro Base V2, p. 170.",
+      "price": 35000,
+      "weight": 200,
+      "ac": 7,
+      "shield": false,
+      "magicBonus": 3
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 170,
+        "pdfPage": 175,
+        "folderPath": [
+          "Equipamento encantado",
+          "Proteções"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ff5e0fff2f0cc0b2"
+  },
+  {
+    "_id": "e61201c9a60f2c2f",
+    "name": "Lamelar +1",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/d6a5e478b459260f.svg",
+    "system": {
+      "description": "Armadura média. CA: 6 [13]. Equipar exige um turno. Combater sem treinamento causa exaustão.\n\nElmo, braçadeiras, botas e acessórios estão incluídos. Remover parte da armadura reduz a carga e piora a CA em 1 ponto para cada 100 cn removidos.\n\nEncantamento +1. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 48.\n\nLivro Base V2, p. 170.",
+      "price": 5000,
+      "weight": 300,
+      "ac": 6,
+      "shield": false,
+      "magicBonus": 1
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 170,
+        "pdfPage": 175,
+        "folderPath": [
+          "Equipamento encantado",
+          "Proteções"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ff5e0fff2f0cc0b2"
+  },
+  {
+    "_id": "558473b49dc0f329",
+    "name": "Lamelar +2",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/abe5aca5835a791f.svg",
+    "system": {
+      "description": "Armadura média. CA: 6 [13]. Equipar exige um turno. Combater sem treinamento causa exaustão.\n\nElmo, braçadeiras, botas e acessórios estão incluídos. Remover parte da armadura reduz a carga e piora a CA em 1 ponto para cada 100 cn removidos.\n\nEncantamento +2. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 48.\n\nLivro Base V2, p. 170.",
+      "price": 15000,
+      "weight": 300,
+      "ac": 6,
+      "shield": false,
+      "magicBonus": 2
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 170,
+        "pdfPage": 175,
+        "folderPath": [
+          "Equipamento encantado",
+          "Proteções"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ff5e0fff2f0cc0b2"
+  },
+  {
+    "_id": "19a4593c07b2d824",
+    "name": "Lamelar +3",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/42bd9a869bad33d3.svg",
+    "system": {
+      "description": "Armadura média. CA: 6 [13]. Equipar exige um turno. Combater sem treinamento causa exaustão.\n\nElmo, braçadeiras, botas e acessórios estão incluídos. Remover parte da armadura reduz a carga e piora a CA em 1 ponto para cada 100 cn removidos.\n\nEncantamento +3. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 48.\n\nLivro Base V2, p. 170.",
+      "price": 35000,
+      "weight": 300,
+      "ac": 6,
+      "shield": false,
+      "magicBonus": 3
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 170,
+        "pdfPage": 175,
+        "folderPath": [
+          "Equipamento encantado",
+          "Proteções"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ff5e0fff2f0cc0b2"
+  },
+  {
+    "_id": "739f9c819f17734f",
+    "name": "Anelar +1",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/369ffe878021cc3b.svg",
+    "system": {
+      "description": "Armadura média. CA: 5 [14]. Equipar exige um turno. Combater sem treinamento causa exaustão.\n\nElmo, braçadeiras, botas e acessórios estão incluídos. Remover parte da armadura reduz a carga e piora a CA em 1 ponto para cada 100 cn removidos.\n\nEncantamento +1. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 48.\n\nLivro Base V2, p. 170.",
+      "price": 5000,
+      "weight": 400,
+      "ac": 5,
+      "shield": false,
+      "magicBonus": 1
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 170,
+        "pdfPage": 175,
+        "folderPath": [
+          "Equipamento encantado",
+          "Proteções"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ff5e0fff2f0cc0b2"
+  },
+  {
+    "_id": "a0a04e28027636e9",
+    "name": "Anelar +2",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/4b55699eee88264c.svg",
+    "system": {
+      "description": "Armadura média. CA: 5 [14]. Equipar exige um turno. Combater sem treinamento causa exaustão.\n\nElmo, braçadeiras, botas e acessórios estão incluídos. Remover parte da armadura reduz a carga e piora a CA em 1 ponto para cada 100 cn removidos.\n\nEncantamento +2. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 48.\n\nLivro Base V2, p. 170.",
+      "price": 15000,
+      "weight": 400,
+      "ac": 5,
+      "shield": false,
+      "magicBonus": 2
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 170,
+        "pdfPage": 175,
+        "folderPath": [
+          "Equipamento encantado",
+          "Proteções"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ff5e0fff2f0cc0b2"
+  },
+  {
+    "_id": "71c39444463e0ceb",
+    "name": "Anelar +3",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/ecf9fee708c60d7b.svg",
+    "system": {
+      "description": "Armadura média. CA: 5 [14]. Equipar exige um turno. Combater sem treinamento causa exaustão.\n\nElmo, braçadeiras, botas e acessórios estão incluídos. Remover parte da armadura reduz a carga e piora a CA em 1 ponto para cada 100 cn removidos.\n\nEncantamento +3. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 48.\n\nLivro Base V2, p. 170.",
+      "price": 35000,
+      "weight": 400,
+      "ac": 5,
+      "shield": false,
+      "magicBonus": 3
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 170,
+        "pdfPage": 175,
+        "folderPath": [
+          "Equipamento encantado",
+          "Proteções"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ff5e0fff2f0cc0b2"
+  },
+  {
+    "_id": "b55ee5a6c69ef6ad",
+    "name": "Segmentada +1",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/a7b3ba28f8894b69.svg",
+    "system": {
+      "description": "Armadura pesada. CA: 4 [15]. Equipar exige um turno (o dobro sem auxílio). Combater sem treinamento causa exaustão.\n\nElmo, braçadeiras, botas e acessórios estão incluídos. Remover parte da armadura reduz a carga e piora a CA em 1 ponto para cada 100 cn removidos.\n\nEncantamento +1. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 48.\n\nLivro Base V2, p. 170.",
+      "price": 5000,
+      "weight": 500,
+      "ac": 4,
+      "shield": false,
+      "magicBonus": 1
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 170,
+        "pdfPage": 175,
+        "folderPath": [
+          "Equipamento encantado",
+          "Proteções"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ff5e0fff2f0cc0b2"
+  },
+  {
+    "_id": "7dfe540a2179acda",
+    "name": "Segmentada +2",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/295051cbe07b25e8.svg",
+    "system": {
+      "description": "Armadura pesada. CA: 4 [15]. Equipar exige um turno (o dobro sem auxílio). Combater sem treinamento causa exaustão.\n\nElmo, braçadeiras, botas e acessórios estão incluídos. Remover parte da armadura reduz a carga e piora a CA em 1 ponto para cada 100 cn removidos.\n\nEncantamento +2. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 48.\n\nLivro Base V2, p. 170.",
+      "price": 15000,
+      "weight": 500,
+      "ac": 4,
+      "shield": false,
+      "magicBonus": 2
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 170,
+        "pdfPage": 175,
+        "folderPath": [
+          "Equipamento encantado",
+          "Proteções"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ff5e0fff2f0cc0b2"
+  },
+  {
+    "_id": "f9c7c5ced0fa59fd",
+    "name": "Segmentada +3",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/c1c4012b4ed2c4dc.svg",
+    "system": {
+      "description": "Armadura pesada. CA: 4 [15]. Equipar exige um turno (o dobro sem auxílio). Combater sem treinamento causa exaustão.\n\nElmo, braçadeiras, botas e acessórios estão incluídos. Remover parte da armadura reduz a carga e piora a CA em 1 ponto para cada 100 cn removidos.\n\nEncantamento +3. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 48.\n\nLivro Base V2, p. 170.",
+      "price": 35000,
+      "weight": 500,
+      "ac": 4,
+      "shield": false,
+      "magicBonus": 3
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 170,
+        "pdfPage": 175,
+        "folderPath": [
+          "Equipamento encantado",
+          "Proteções"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ff5e0fff2f0cc0b2"
+  },
+  {
+    "_id": "56ee9e8c21f7e1cf",
+    "name": "Couraça +1",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/4d0314dc5b62d1d3.svg",
+    "system": {
+      "description": "Armadura pesada. CA: 3 [16]. Equipar exige um turno (o dobro sem auxílio). Combater sem treinamento causa exaustão.\n\nElmo, braçadeiras, botas e acessórios estão incluídos. Remover parte da armadura reduz a carga e piora a CA em 1 ponto para cada 100 cn removidos.\n\nEncantamento +1. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 48.\n\nLivro Base V2, p. 170.",
+      "price": 5000,
+      "weight": 600,
+      "ac": 3,
+      "shield": false,
+      "magicBonus": 1
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 170,
+        "pdfPage": 175,
+        "folderPath": [
+          "Equipamento encantado",
+          "Proteções"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ff5e0fff2f0cc0b2"
+  },
+  {
+    "_id": "2a61e46e59274ae4",
+    "name": "Couraça +2",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/b018c757a3e82e14.svg",
+    "system": {
+      "description": "Armadura pesada. CA: 3 [16]. Equipar exige um turno (o dobro sem auxílio). Combater sem treinamento causa exaustão.\n\nElmo, braçadeiras, botas e acessórios estão incluídos. Remover parte da armadura reduz a carga e piora a CA em 1 ponto para cada 100 cn removidos.\n\nEncantamento +2. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 48.\n\nLivro Base V2, p. 170.",
+      "price": 15000,
+      "weight": 600,
+      "ac": 3,
+      "shield": false,
+      "magicBonus": 2
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 170,
+        "pdfPage": 175,
+        "folderPath": [
+          "Equipamento encantado",
+          "Proteções"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ff5e0fff2f0cc0b2"
+  },
+  {
+    "_id": "0a5cf182238895fa",
+    "name": "Couraça +3",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/5e3374d34a0bf6f9.svg",
+    "system": {
+      "description": "Armadura pesada. CA: 3 [16]. Equipar exige um turno (o dobro sem auxílio). Combater sem treinamento causa exaustão.\n\nElmo, braçadeiras, botas e acessórios estão incluídos. Remover parte da armadura reduz a carga e piora a CA em 1 ponto para cada 100 cn removidos.\n\nEncantamento +3. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 48.\n\nLivro Base V2, p. 170.",
+      "price": 35000,
+      "weight": 600,
+      "ac": 3,
+      "shield": false,
+      "magicBonus": 3
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 170,
+        "pdfPage": 175,
+        "folderPath": [
+          "Equipamento encantado",
+          "Proteções"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ff5e0fff2f0cc0b2"
+  },
+  {
+    "_id": "6313651b26338a69",
+    "name": "Escudo +1",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/1f3ba921b315f035.svg",
+    "system": {
+      "description": "O escudo melhora a CA em 1 ponto. Equipá-lo exige uma ação. Pode ser usado intencionalmente como cobertura.\n\nEncantamento +1. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 48.\n\nLivro Base V2, p. 170.",
+      "price": 5000,
+      "weight": 100,
+      "ac": 9,
+      "shield": true,
+      "magicBonus": 1
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 170,
+        "pdfPage": 175,
+        "folderPath": [
+          "Equipamento encantado",
+          "Proteções"
+        ],
+        "iconMotif": "shield",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ff5e0fff2f0cc0b2"
+  },
+  {
+    "_id": "46e2cdf82c6c28d8",
+    "name": "Escudo +2",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/004d8de9a2203b60.svg",
+    "system": {
+      "description": "O escudo melhora a CA em 1 ponto. Equipá-lo exige uma ação. Pode ser usado intencionalmente como cobertura.\n\nEncantamento +2. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 48.\n\nLivro Base V2, p. 170.",
+      "price": 15000,
+      "weight": 100,
+      "ac": 9,
+      "shield": true,
+      "magicBonus": 2
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 170,
+        "pdfPage": 175,
+        "folderPath": [
+          "Equipamento encantado",
+          "Proteções"
+        ],
+        "iconMotif": "shield",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ff5e0fff2f0cc0b2"
+  },
+  {
+    "_id": "4b536509ff4b120e",
+    "name": "Escudo +3",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/b37624fa2eea047c.svg",
+    "system": {
+      "description": "O escudo melhora a CA em 1 ponto. Equipá-lo exige uma ação. Pode ser usado intencionalmente como cobertura.\n\nEncantamento +3. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 48.\n\nLivro Base V2, p. 170.",
+      "price": 35000,
+      "weight": 100,
+      "ac": 9,
+      "shield": true,
+      "magicBonus": 3
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 170,
+        "pdfPage": 175,
+        "folderPath": [
+          "Equipamento encantado",
+          "Proteções"
+        ],
+        "iconMotif": "shield",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ff5e0fff2f0cc0b2"
+  },
+  {
+    "_id": "de22cd1183ea3814",
+    "name": "Adaga +1",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/2e95de33fa8c3a97.svg",
+    "system": {
+      "description": "Dano: 1d4. Perfurante; arremesso 10’/20’/30’.\n\nArremesso: o modificador positivo de FOR é adicionado ao dano apenas no primeiro intervalo.\n\nEncantamento +1. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 5000,
+      "weight": 10,
+      "damage": "1d4",
+      "properties": "Perfurante; arremesso 10’/20’/30’",
+      "mode": "thrown",
+      "range": "5’",
+      "strengthDamage": false,
+      "attackBonus": 1,
+      "damageBonus": 1
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "sword",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "5ce3f66c4e2d87a0",
+    "name": "Adaga +2",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/04ed49e9451bb0d4.svg",
+    "system": {
+      "description": "Dano: 1d4. Perfurante; arremesso 10’/20’/30’.\n\nArremesso: o modificador positivo de FOR é adicionado ao dano apenas no primeiro intervalo.\n\nEncantamento +2. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 15000,
+      "weight": 10,
+      "damage": "1d4",
+      "properties": "Perfurante; arremesso 10’/20’/30’",
+      "mode": "thrown",
+      "range": "5’",
+      "strengthDamage": false,
+      "attackBonus": 2,
+      "damageBonus": 2
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "sword",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "7b221207b6f0c3fd",
+    "name": "Adaga +3",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/a819db9b6923c707.svg",
+    "system": {
+      "description": "Dano: 1d4. Perfurante; arremesso 10’/20’/30’.\n\nArremesso: o modificador positivo de FOR é adicionado ao dano apenas no primeiro intervalo.\n\nEncantamento +3. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 35000,
+      "weight": 10,
+      "damage": "1d4",
+      "properties": "Perfurante; arremesso 10’/20’/30’",
+      "mode": "thrown",
+      "range": "5’",
+      "strengthDamage": false,
+      "attackBonus": 3,
+      "damageBonus": 3
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "sword",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "ae64d0d80312a5b6",
+    "name": "Machadinha +1",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/6e700b8f89c638d2.svg",
+    "system": {
+      "description": "Dano: 1d4. Cortante; arremesso 10’/20’/30’.\n\nArremesso: o modificador positivo de FOR é adicionado ao dano apenas no primeiro intervalo.\n\nEncantamento +1. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 5000,
+      "weight": 20,
+      "damage": "1d4",
+      "properties": "Cortante; arremesso 10’/20’/30’",
+      "mode": "thrown",
+      "range": "5’",
+      "strengthDamage": false,
+      "attackBonus": 1,
+      "damageBonus": 1
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "axe",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "c37d525c2d85cb55",
+    "name": "Machadinha +2",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/d294c32cfe600f09.svg",
+    "system": {
+      "description": "Dano: 1d4. Cortante; arremesso 10’/20’/30’.\n\nArremesso: o modificador positivo de FOR é adicionado ao dano apenas no primeiro intervalo.\n\nEncantamento +2. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 15000,
+      "weight": 20,
+      "damage": "1d4",
+      "properties": "Cortante; arremesso 10’/20’/30’",
+      "mode": "thrown",
+      "range": "5’",
+      "strengthDamage": false,
+      "attackBonus": 2,
+      "damageBonus": 2
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "axe",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "b98930ef4704246d",
+    "name": "Machadinha +3",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/f36b61937024f90b.svg",
+    "system": {
+      "description": "Dano: 1d4. Cortante; arremesso 10’/20’/30’.\n\nArremesso: o modificador positivo de FOR é adicionado ao dano apenas no primeiro intervalo.\n\nEncantamento +3. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 35000,
+      "weight": 20,
+      "damage": "1d4",
+      "properties": "Cortante; arremesso 10’/20’/30’",
+      "mode": "thrown",
+      "range": "5’",
+      "strengthDamage": false,
+      "attackBonus": 3,
+      "damageBonus": 3
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "axe",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "395d45c4fa0a992d",
+    "name": "Cajado +1",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/924cf81850584f24.svg",
+    "system": {
+      "description": "Dano: 1d4. Impacto; frágil.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +1. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 5000,
+      "weight": 20,
+      "damage": "1d4",
+      "properties": "Impacto; frágil",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 1,
+      "damageBonus": 1,
+      "charges": {
+        "value": 3,
+        "max": 3
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "staff",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "d040b6638f7df138",
+    "name": "Cajado +2",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/f294e07c69b90f1a.svg",
+    "system": {
+      "description": "Dano: 1d4. Impacto; frágil.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +2. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 15000,
+      "weight": 20,
+      "damage": "1d4",
+      "properties": "Impacto; frágil",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 2,
+      "damageBonus": 2,
+      "charges": {
+        "value": 3,
+        "max": 3
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "staff",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "a37285ae88615a6b",
+    "name": "Cajado +3",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/91ef28a2ff5f4f11.svg",
+    "system": {
+      "description": "Dano: 1d4. Impacto; frágil.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +3. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 35000,
+      "weight": 20,
+      "damage": "1d4",
+      "properties": "Impacto; frágil",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 3,
+      "damageBonus": 3,
+      "charges": {
+        "value": 3,
+        "max": 3
+      }
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "staff",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "da6a994798c51ace",
+    "name": "Clava +1",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/7be4d722fc09401b.svg",
+    "system": {
+      "description": "Dano: 1d4. Impacto; frágil.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +1. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 5000,
+      "weight": 30,
+      "damage": "1d4",
+      "properties": "Impacto; frágil",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 1,
+      "damageBonus": 1
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "f6d02b2a4b5b45d0",
+    "name": "Clava +2",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/6d6e1b3a6ab27341.svg",
+    "system": {
+      "description": "Dano: 1d4. Impacto; frágil.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +2. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 15000,
+      "weight": 30,
+      "damage": "1d4",
+      "properties": "Impacto; frágil",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 2,
+      "damageBonus": 2
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "ef9970430f93f87b",
+    "name": "Clava +3",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/95cb261bdd616709.svg",
+    "system": {
+      "description": "Dano: 1d4. Impacto; frágil.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +3. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 35000,
+      "weight": 30,
+      "damage": "1d4",
+      "properties": "Impacto; frágil",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 3,
+      "damageBonus": 3
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "2a4852a094627423",
+    "name": "Besta +1",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/50030ec660491b1e.svg",
+    "system": {
+      "description": "Dano: 1d6. Perfurante; alcance 50’/100’/150’; recarga: rodada completa.\n\nProjétil: modificadores de +1, +0 e −1 no acerto nos três intervalos, respectivamente.\n\nA recarga exige uma rodada completa (ação e movimento). Uma besta já carregada é ágil e geralmente ganha a iniciativa. Exige duas mãos.\n\nEncantamento +1. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 5000,
+      "weight": 50,
+      "damage": "1d6",
+      "properties": "Perfurante; alcance 50’/100’/150’; recarga: rodada completa",
+      "mode": "ranged",
+      "range": "50’/100’/150’; recarga: rodada completa",
+      "strengthDamage": false,
+      "attackBonus": 1,
+      "damageBonus": 1
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "bow",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "54611069e618faba",
+    "name": "Besta +2",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/f233191efd188e56.svg",
+    "system": {
+      "description": "Dano: 1d6. Perfurante; alcance 50’/100’/150’; recarga: rodada completa.\n\nProjétil: modificadores de +1, +0 e −1 no acerto nos três intervalos, respectivamente.\n\nA recarga exige uma rodada completa (ação e movimento). Uma besta já carregada é ágil e geralmente ganha a iniciativa. Exige duas mãos.\n\nEncantamento +2. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 15000,
+      "weight": 50,
+      "damage": "1d6",
+      "properties": "Perfurante; alcance 50’/100’/150’; recarga: rodada completa",
+      "mode": "ranged",
+      "range": "50’/100’/150’; recarga: rodada completa",
+      "strengthDamage": false,
+      "attackBonus": 2,
+      "damageBonus": 2
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "bow",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "08a75c7d46fdecd2",
+    "name": "Besta +3",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/806997daa3e449e7.svg",
+    "system": {
+      "description": "Dano: 1d6. Perfurante; alcance 50’/100’/150’; recarga: rodada completa.\n\nProjétil: modificadores de +1, +0 e −1 no acerto nos três intervalos, respectivamente.\n\nA recarga exige uma rodada completa (ação e movimento). Uma besta já carregada é ágil e geralmente ganha a iniciativa. Exige duas mãos.\n\nEncantamento +3. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 35000,
+      "weight": 50,
+      "damage": "1d6",
+      "properties": "Perfurante; alcance 50’/100’/150’; recarga: rodada completa",
+      "mode": "ranged",
+      "range": "50’/100’/150’; recarga: rodada completa",
+      "strengthDamage": false,
+      "attackBonus": 3,
+      "damageBonus": 3
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "bow",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "d9e95adbd4eea4ed",
+    "name": "Funda +1",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/b07c75fa0faf2563.svg",
+    "system": {
+      "description": "Dano: 1d4. Impacto; alcance 30’/60’/90’.\n\nProjétil: modificadores de +1, +0 e −1 no acerto nos três intervalos, respectivamente.\n\nEncantamento +1. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 5000,
+      "weight": 1,
+      "damage": "1d4",
+      "properties": "Impacto; alcance 30’/60’/90’",
+      "mode": "ranged",
+      "range": "30’/60’/90’",
+      "strengthDamage": false,
+      "attackBonus": 1,
+      "damageBonus": 1
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "bow",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "4161950d2ff91c41",
+    "name": "Funda +2",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/042ba479be8565be.svg",
+    "system": {
+      "description": "Dano: 1d4. Impacto; alcance 30’/60’/90’.\n\nProjétil: modificadores de +1, +0 e −1 no acerto nos três intervalos, respectivamente.\n\nEncantamento +2. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 15000,
+      "weight": 1,
+      "damage": "1d4",
+      "properties": "Impacto; alcance 30’/60’/90’",
+      "mode": "ranged",
+      "range": "30’/60’/90’",
+      "strengthDamage": false,
+      "attackBonus": 2,
+      "damageBonus": 2
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "bow",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "cc6ac594a760a483",
+    "name": "Funda +3",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/c7c18c6e1a212521.svg",
+    "system": {
+      "description": "Dano: 1d4. Impacto; alcance 30’/60’/90’.\n\nProjétil: modificadores de +1, +0 e −1 no acerto nos três intervalos, respectivamente.\n\nEncantamento +3. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 35000,
+      "weight": 1,
+      "damage": "1d4",
+      "properties": "Impacto; alcance 30’/60’/90’",
+      "mode": "ranged",
+      "range": "30’/60’/90’",
+      "strengthDamage": false,
+      "attackBonus": 3,
+      "damageBonus": 3
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "bow",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "b3a53b17473c17a5",
+    "name": "Azagaia +1",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/6772c69fcea12531.svg",
+    "system": {
+      "description": "Dano: 1d4. Perfurante; arremesso 20’/40’/60’.\n\nArremesso: o modificador positivo de FOR é adicionado ao dano apenas no primeiro intervalo.\n\nEncantamento +1. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 5000,
+      "weight": 20,
+      "damage": "1d4",
+      "properties": "Perfurante; arremesso 20’/40’/60’",
+      "mode": "thrown",
+      "range": "5’",
+      "strengthDamage": false,
+      "attackBonus": 1,
+      "damageBonus": 1
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "0bc87067bb1e4732",
+    "name": "Azagaia +2",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/1a419a8838ef2197.svg",
+    "system": {
+      "description": "Dano: 1d4. Perfurante; arremesso 20’/40’/60’.\n\nArremesso: o modificador positivo de FOR é adicionado ao dano apenas no primeiro intervalo.\n\nEncantamento +2. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 15000,
+      "weight": 20,
+      "damage": "1d4",
+      "properties": "Perfurante; arremesso 20’/40’/60’",
+      "mode": "thrown",
+      "range": "5’",
+      "strengthDamage": false,
+      "attackBonus": 2,
+      "damageBonus": 2
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "c904cce105f92412",
+    "name": "Azagaia +3",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/731d47b9d69983ef.svg",
+    "system": {
+      "description": "Dano: 1d4. Perfurante; arremesso 20’/40’/60’.\n\nArremesso: o modificador positivo de FOR é adicionado ao dano apenas no primeiro intervalo.\n\nEncantamento +3. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 35000,
+      "weight": 20,
+      "damage": "1d4",
+      "properties": "Perfurante; arremesso 20’/40’/60’",
+      "mode": "thrown",
+      "range": "5’",
+      "strengthDamage": false,
+      "attackBonus": 3,
+      "damageBonus": 3
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "a94fa99a55210971",
+    "name": "Espada curta +1",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/6c6f9642a435ff42.svg",
+    "system": {
+      "description": "Dano: 1d6. Perfurante.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +1. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 5000,
+      "weight": 30,
+      "damage": "1d6",
+      "properties": "Perfurante",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 1,
+      "damageBonus": 1
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "sword",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "93b89d22bca63b36",
+    "name": "Espada curta +2",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/92245d1b26a40d23.svg",
+    "system": {
+      "description": "Dano: 1d6. Perfurante.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +2. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 15000,
+      "weight": 30,
+      "damage": "1d6",
+      "properties": "Perfurante",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 2,
+      "damageBonus": 2
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "sword",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "7786a0bfa0432f0b",
+    "name": "Espada curta +3",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/11918e92511574ac.svg",
+    "system": {
+      "description": "Dano: 1d6. Perfurante.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +3. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 35000,
+      "weight": 30,
+      "damage": "1d6",
+      "properties": "Perfurante",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 3,
+      "damageBonus": 3
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "sword",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "31beb5a9605a032f",
+    "name": "Maça +1",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/fbda63cb0d5a5435.svg",
+    "system": {
+      "description": "Dano: 1d6. Impacto.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +1. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 5000,
+      "weight": 40,
+      "damage": "1d6",
+      "properties": "Impacto",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 1,
+      "damageBonus": 1
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "a31121ba8eebf72e",
+    "name": "Maça +2",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/c8e38d26851fa708.svg",
+    "system": {
+      "description": "Dano: 1d6. Impacto.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +2. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 15000,
+      "weight": 40,
+      "damage": "1d6",
+      "properties": "Impacto",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 2,
+      "damageBonus": 2
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "9f5ac725abc3754c",
+    "name": "Maça +3",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/a4fb441d2bedf080.svg",
+    "system": {
+      "description": "Dano: 1d6. Impacto.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +3. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 35000,
+      "weight": 40,
+      "damage": "1d6",
+      "properties": "Impacto",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 3,
+      "damageBonus": 3
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "20e1378b11f95e1d",
+    "name": "Espada longa +1",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/21c3ff44648baaad.svg",
+    "system": {
+      "description": "Dano: 1d8. Perfurante; cortante.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +1. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 5000,
+      "weight": 50,
+      "damage": "1d8",
+      "properties": "Perfurante; cortante",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 1,
+      "damageBonus": 1
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "sword",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "39c8bbb00e67e0b3",
+    "name": "Espada longa +2",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/b6c048e06638e643.svg",
+    "system": {
+      "description": "Dano: 1d8. Perfurante; cortante.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +2. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 15000,
+      "weight": 50,
+      "damage": "1d8",
+      "properties": "Perfurante; cortante",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 2,
+      "damageBonus": 2
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "sword",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "ef3eec355a54cea1",
+    "name": "Espada longa +3",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/2351572d5d71b253.svg",
+    "system": {
+      "description": "Dano: 1d8. Perfurante; cortante.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +3. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 35000,
+      "weight": 50,
+      "damage": "1d8",
+      "properties": "Perfurante; cortante",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 3,
+      "damageBonus": 3
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "sword",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "ad6da166912365ad",
+    "name": "Lança +1",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/2d7b6152a6a7b8d1.svg",
+    "system": {
+      "description": "Dano: 1d6. Perfurante.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +1. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 5000,
+      "weight": 50,
+      "damage": "1d6",
+      "properties": "Perfurante",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 1,
+      "damageBonus": 1
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "8521cdbc17d902f2",
+    "name": "Lança +2",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/34db5b909d185cd6.svg",
+    "system": {
+      "description": "Dano: 1d6. Perfurante.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +2. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 15000,
+      "weight": 50,
+      "damage": "1d6",
+      "properties": "Perfurante",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 2,
+      "damageBonus": 2
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "8f806476b21d9b4f",
+    "name": "Lança +3",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/0c412ca1b9012e8f.svg",
+    "system": {
+      "description": "Dano: 1d6. Perfurante.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +3. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 35000,
+      "weight": 50,
+      "damage": "1d6",
+      "properties": "Perfurante",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 3,
+      "damageBonus": 3
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "096c2ae928e262ec",
+    "name": "Lança de cavalaria +1",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/c31cf9692a46592d.svg",
+    "system": {
+      "description": "Dano: 1d6. Perfurante; investida.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nInvestida com montaria: deslocar ao menos 60’ causa o dobro de dano.\n\nEncantamento +1. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 5000,
+      "weight": 100,
+      "damage": "1d6",
+      "properties": "Perfurante; investida",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 1,
+      "damageBonus": 1
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "c6bd17cdadf03223",
+    "name": "Lança de cavalaria +2",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/80159b8abd4fde0e.svg",
+    "system": {
+      "description": "Dano: 1d6. Perfurante; investida.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nInvestida com montaria: deslocar ao menos 60’ causa o dobro de dano.\n\nEncantamento +2. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 15000,
+      "weight": 100,
+      "damage": "1d6",
+      "properties": "Perfurante; investida",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 2,
+      "damageBonus": 2
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "83de8ee72537553e",
+    "name": "Lança de cavalaria +3",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/9acc114e2012c4c5.svg",
+    "system": {
+      "description": "Dano: 1d6. Perfurante; investida.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nInvestida com montaria: deslocar ao menos 60’ causa o dobro de dano.\n\nEncantamento +3. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 35000,
+      "weight": 100,
+      "damage": "1d6",
+      "properties": "Perfurante; investida",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 3,
+      "damageBonus": 3
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "33789f8ad59c0853",
+    "name": "Machado de batalha +1",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/feabafc5f2d706b4.svg",
+    "system": {
+      "description": "Dano: 1d8. Cortante.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +1. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 5000,
+      "weight": 70,
+      "damage": "1d8",
+      "properties": "Cortante",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 1,
+      "damageBonus": 1
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "axe",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "5cb039464e00fa60",
+    "name": "Machado de batalha +2",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/14a0042276de577b.svg",
+    "system": {
+      "description": "Dano: 1d8. Cortante.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +2. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 15000,
+      "weight": 70,
+      "damage": "1d8",
+      "properties": "Cortante",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 2,
+      "damageBonus": 2
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "axe",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "233e58a05b745d9e",
+    "name": "Machado de batalha +3",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/dbd62499c0ed4ea3.svg",
+    "system": {
+      "description": "Dano: 1d8. Cortante.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +3. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 35000,
+      "weight": 70,
+      "damage": "1d8",
+      "properties": "Cortante",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 3,
+      "damageBonus": 3
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "axe",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "35332d216b2b44d4",
+    "name": "Martelo de batalha +1",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/5157943607778f72.svg",
+    "system": {
+      "description": "Dano: 1d8. Impacto.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +1. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 5000,
+      "weight": 70,
+      "damage": "1d8",
+      "properties": "Impacto",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 1,
+      "damageBonus": 1
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "ea58379578378836",
+    "name": "Martelo de batalha +2",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/27f5be859698e654.svg",
+    "system": {
+      "description": "Dano: 1d8. Impacto.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +2. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 15000,
+      "weight": 70,
+      "damage": "1d8",
+      "properties": "Impacto",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 2,
+      "damageBonus": 2
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "2359118fd4db866b",
+    "name": "Martelo de batalha +3",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/c980be0c30f27e69.svg",
+    "system": {
+      "description": "Dano: 1d8. Impacto.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +3. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 35000,
+      "weight": 70,
+      "damage": "1d8",
+      "properties": "Impacto",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 3,
+      "damageBonus": 3
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "6285db0b4b0e69ac",
+    "name": "Alabarda +1",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/885d1adc6e633235.svg",
+    "system": {
+      "description": "Dano: 1d8. Cortante; duas mãos.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +1. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 5000,
+      "weight": 100,
+      "damage": "1d8",
+      "properties": "Cortante; duas mãos",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 1,
+      "damageBonus": 1
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "sword",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "ce77fb685a824bed",
+    "name": "Alabarda +2",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/d38977bd0fc596e3.svg",
+    "system": {
+      "description": "Dano: 1d8. Cortante; duas mãos.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +2. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 15000,
+      "weight": 100,
+      "damage": "1d8",
+      "properties": "Cortante; duas mãos",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 2,
+      "damageBonus": 2
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "sword",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "edeb09cd8abc0a7b",
+    "name": "Alabarda +3",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/d7dcabb9dbf4d233.svg",
+    "system": {
+      "description": "Dano: 1d8. Cortante; duas mãos.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +3. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 35000,
+      "weight": 100,
+      "damage": "1d8",
+      "properties": "Cortante; duas mãos",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 3,
+      "damageBonus": 3
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "sword",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "1536e1be70065933",
+    "name": "Martelo de guerra +1",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/4bea04f742b26317.svg",
+    "system": {
+      "description": "Dano: 1d10. Impacto; duas mãos.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +1. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 5000,
+      "weight": 150,
+      "damage": "1d10",
+      "properties": "Impacto; duas mãos",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 1,
+      "damageBonus": 1
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "ad3911ae5b57cd7e",
+    "name": "Martelo de guerra +2",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/84ed55dede5389b5.svg",
+    "system": {
+      "description": "Dano: 1d10. Impacto; duas mãos.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +2. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 15000,
+      "weight": 150,
+      "damage": "1d10",
+      "properties": "Impacto; duas mãos",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 2,
+      "damageBonus": 2
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "458c76a55e046bf9",
+    "name": "Martelo de guerra +3",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/8f79e810dd5c559b.svg",
+    "system": {
+      "description": "Dano: 1d10. Impacto; duas mãos.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +3. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 35000,
+      "weight": 150,
+      "damage": "1d10",
+      "properties": "Impacto; duas mãos",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 3,
+      "damageBonus": 3
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "9c5db6963438bb20",
+    "name": "Machado de guerra +1",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/db9f03d6711dec1e.svg",
+    "system": {
+      "description": "Dano: 1d10. Cortante; duas mãos.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +1. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 5000,
+      "weight": 150,
+      "damage": "1d10",
+      "properties": "Cortante; duas mãos",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 1,
+      "damageBonus": 1
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "axe",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "3b179bd5a1f2a0b1",
+    "name": "Machado de guerra +2",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/d66993bbf7ea67f2.svg",
+    "system": {
+      "description": "Dano: 1d10. Cortante; duas mãos.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +2. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 15000,
+      "weight": 150,
+      "damage": "1d10",
+      "properties": "Cortante; duas mãos",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 2,
+      "damageBonus": 2
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "axe",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "ac636dacf863acd3",
+    "name": "Machado de guerra +3",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/0d981ef68182212c.svg",
+    "system": {
+      "description": "Dano: 1d10. Cortante; duas mãos.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +3. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 35000,
+      "weight": 150,
+      "damage": "1d10",
+      "properties": "Cortante; duas mãos",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 3,
+      "damageBonus": 3
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "axe",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "5da968de7d0254ee",
+    "name": "Montante +1",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/3841bc6d59288433.svg",
+    "system": {
+      "description": "Dano: 1d10. Perfurante; cortante; duas mãos.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +1. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 5000,
+      "weight": 100,
+      "damage": "1d10",
+      "properties": "Perfurante; cortante; duas mãos",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 1,
+      "damageBonus": 1
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "sword",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "2a6517f84af77419",
+    "name": "Montante +2",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/c8532602e86e8656.svg",
+    "system": {
+      "description": "Dano: 1d10. Perfurante; cortante; duas mãos.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +2. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 15000,
+      "weight": 100,
+      "damage": "1d10",
+      "properties": "Perfurante; cortante; duas mãos",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 2,
+      "damageBonus": 2
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "sword",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "d0fb7e3d1c77f513",
+    "name": "Montante +3",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/0db226bb6388628e.svg",
+    "system": {
+      "description": "Dano: 1d10. Perfurante; cortante; duas mãos.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nEncantamento +3. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 35000,
+      "weight": 100,
+      "damage": "1d10",
+      "properties": "Perfurante; cortante; duas mãos",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true,
+      "attackBonus": 3,
+      "damageBonus": 3
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "sword",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "015ff11594562fe6",
+    "name": "Arco curto +1",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/db8c10fa7f81fb9b.svg",
+    "system": {
+      "description": "Dano: 1d6. Perfurante; alcance 50’/100’/150’; duas mãos.\n\nProjétil: modificadores de +1, +0 e −1 no acerto nos três intervalos, respectivamente.\n\nA recarga exige movimento. Exige duas mãos.\n\nEncantamento +1. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 5000,
+      "weight": 25,
+      "damage": "1d6",
+      "properties": "Perfurante; alcance 50’/100’/150’; duas mãos",
+      "mode": "ranged",
+      "range": "50’/100’/150’; duas mãos",
+      "strengthDamage": false,
+      "attackBonus": 1,
+      "damageBonus": 1
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "bow",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "b2b33a7a9b042261",
+    "name": "Arco curto +2",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/0c0a371921e20f5f.svg",
+    "system": {
+      "description": "Dano: 1d6. Perfurante; alcance 50’/100’/150’; duas mãos.\n\nProjétil: modificadores de +1, +0 e −1 no acerto nos três intervalos, respectivamente.\n\nA recarga exige movimento. Exige duas mãos.\n\nEncantamento +2. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 15000,
+      "weight": 25,
+      "damage": "1d6",
+      "properties": "Perfurante; alcance 50’/100’/150’; duas mãos",
+      "mode": "ranged",
+      "range": "50’/100’/150’; duas mãos",
+      "strengthDamage": false,
+      "attackBonus": 2,
+      "damageBonus": 2
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "bow",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "d8d79103b814ba47",
+    "name": "Arco curto +3",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/843ebec97b0722bc.svg",
+    "system": {
+      "description": "Dano: 1d6. Perfurante; alcance 50’/100’/150’; duas mãos.\n\nProjétil: modificadores de +1, +0 e −1 no acerto nos três intervalos, respectivamente.\n\nA recarga exige movimento. Exige duas mãos.\n\nEncantamento +3. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 35000,
+      "weight": 25,
+      "damage": "1d6",
+      "properties": "Perfurante; alcance 50’/100’/150’; duas mãos",
+      "mode": "ranged",
+      "range": "50’/100’/150’; duas mãos",
+      "strengthDamage": false,
+      "attackBonus": 3,
+      "damageBonus": 3
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "bow",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "ea77ea3a58c4f19e",
+    "name": "Arco longo +1",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/28d115ee1396924d.svg",
+    "system": {
+      "description": "Dano: 1d6. Perfurante; alcance 70’/140’/210’; duas mãos.\n\nProjétil: modificadores de +1, +0 e −1 no acerto nos três intervalos, respectivamente.\n\nA recarga exige movimento. Exige duas mãos.\n\nEncantamento +1. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 5000,
+      "weight": 50,
+      "damage": "1d6",
+      "properties": "Perfurante; alcance 70’/140’/210’; duas mãos",
+      "mode": "ranged",
+      "range": "70’/140’/210’; duas mãos",
+      "strengthDamage": false,
+      "attackBonus": 1,
+      "damageBonus": 1
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "bow",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "8289e6ff76551d54",
+    "name": "Arco longo +2",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/75a6c41f0f699229.svg",
+    "system": {
+      "description": "Dano: 1d6. Perfurante; alcance 70’/140’/210’; duas mãos.\n\nProjétil: modificadores de +1, +0 e −1 no acerto nos três intervalos, respectivamente.\n\nA recarga exige movimento. Exige duas mãos.\n\nEncantamento +2. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 15000,
+      "weight": 50,
+      "damage": "1d6",
+      "properties": "Perfurante; alcance 70’/140’/210’; duas mãos",
+      "mode": "ranged",
+      "range": "70’/140’/210’; duas mãos",
+      "strengthDamage": false,
+      "attackBonus": 2,
+      "damageBonus": 2
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "bow",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  },
+  {
+    "_id": "d2abd905866a72fa",
+    "name": "Arco longo +3",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/763a44f9569f8fd3.svg",
+    "system": {
+      "description": "Dano: 1d6. Perfurante; alcance 70’/140’/210’; duas mãos.\n\nProjétil: modificadores de +1, +0 e −1 no acerto nos três intervalos, respectivamente.\n\nA recarga exige movimento. Exige duas mãos.\n\nEncantamento +3. Consulte as propriedades especiais do livro.\n\nLivro Base V2, p. 49.\n\nLivro Base V2, p. 171.",
+      "price": 35000,
+      "weight": 50,
+      "damage": "1d6",
+      "properties": "Perfurante; alcance 70’/140’/210’; duas mãos",
+      "mode": "ranged",
+      "range": "70’/140’/210’; duas mãos",
+      "strengthDamage": false,
+      "attackBonus": 3,
+      "damageBonus": 3
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 171,
+        "pdfPage": 176,
+        "folderPath": [
+          "Equipamento encantado",
+          "Armas"
+        ],
+        "iconMotif": "bow",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "9896b59b857197af"
+  }
+]

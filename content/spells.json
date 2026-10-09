@@ -1,0 +1,2462 @@
+[
+  {
+    "_id": "657ab0637fa122aa",
+    "name": "Aferrolhar",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/3b2826543773d21d.svg",
+    "system": {
+      "description": "Duração: 1d6 turnos / nível\n\nAlcance: 10’\n\nAlvo: fechadura ou similar\n\nTranca magicamente uma passagem, como porta, janela ou similar, como se tivesse usado um cadeado duas vezes mais resistente do que um ordinário.\n\nLivro Base V2, p. 35.",
+      "circle": 1,
+      "preparedCircle": 1,
+      "duration": "1d6 turnos / nível",
+      "range": "10’",
+      "save": "",
+      "target": "fechadura ou similar",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 35,
+        "pdfPage": 40,
+        "folderPath": [
+          "Magias",
+          "1º círculo"
+        ],
+        "iconMotif": "key",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "7dc2de62f36fb965"
+  },
+  {
+    "_id": "6583245fd42fcd2d",
+    "name": "Alarme",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/a079be1f6539f3c6.svg",
+    "system": {
+      "description": "Duração: permanente (até ser ativado)\n\nAlcance: toque\n\nAlvo: superfície\n\nUma runa mágica é desenhada ao longo de um turno, como parte da conjuração. É possível manter uma runa ativa por nível, que possui efeito de detecção em uma área de raio 20’, mas não ultrapassa barreiras superiores a 1’’. Qualquer criatura pequena ou maior que entrar na área ativará o alarme, que pode possuir gatilho mental ou audível, decidido durante a conjuração. O gatilho mental funciona em até 5 milhas / nível, já o audível ativa uma sirene por uma rodada, que pode ser ouvida em até 200’.\n\nLivro Base V2, p. 35.",
+      "circle": 1,
+      "preparedCircle": 1,
+      "duration": "permanente (até ser ativado)",
+      "range": "toque",
+      "save": "",
+      "target": "superfície",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 35,
+        "pdfPage": 40,
+        "folderPath": [
+          "Magias",
+          "1º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "7dc2de62f36fb965"
+  },
+  {
+    "_id": "3767bdf46e8a3ecf",
+    "name": "Amarração",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/0429460f3dd9e45f.svg",
+    "system": {
+      "description": "Duração: 2d6 rodadas\n\nAlcance: 60’\n\nAlvo: uma criatura viva\n\nUma criatura viva ficará completamente imobilizada (SV-P para evitar). Caso o alvo tenha mais DV do que quem conjura, ocorre letargia ao invés de paralisia, resultando em uma penalidade de -1 em acertos e danos e -10’ na movimentação.\n\nLivro Base V2, p. 35.",
+      "circle": 1,
+      "preparedCircle": 1,
+      "duration": "2d6 rodadas",
+      "range": "60’",
+      "save": "SV-P",
+      "target": "uma criatura viva",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 35,
+        "pdfPage": 40,
+        "folderPath": [
+          "Magias",
+          "1º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "7dc2de62f36fb965"
+  },
+  {
+    "_id": "b4dfb77265d7ecdb",
+    "name": "Armadura mágica",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/3e3ad37ed95da466.svg",
+    "system": {
+      "description": "Duração: 1 turno / nível\n\nAlcance: pessoal\n\nAlvo: pessoal\n\nUma película visível mística cobre o corpo, conferindo 1d4 de PV temporário por nível. Qualquer criatura que causar dano por contato sofre um retorno mágico de 1d4 de dano. Essa armadura é destruída na perda completa do PV temporário gerado.\n\nLivro Base V2, p. 35.",
+      "circle": 1,
+      "preparedCircle": 1,
+      "duration": "1 turno / nível",
+      "range": "pessoal",
+      "save": "",
+      "target": "pessoal",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "1d4",
+      "spellScaling": "temporaryLevel",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 35,
+        "pdfPage": 40,
+        "folderPath": [
+          "Magias",
+          "1º círculo"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "7dc2de62f36fb965"
+  },
+  {
+    "_id": "35f64801c00ed719",
+    "name": "Detectar magia",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/603a61455a14b402.svg",
+    "system": {
+      "description": "Duração: 6 turnos / nível\n\nAlcance: 30’\n\nAlvo: pessoal\n\nDetecta magia em objetos ou criaturas.\n\nLivro Base V2, p. 36.",
+      "circle": 1,
+      "preparedCircle": 1,
+      "duration": "6 turnos / nível",
+      "range": "30’",
+      "save": "",
+      "target": "pessoal",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 36,
+        "pdfPage": 41,
+        "folderPath": [
+          "Magias",
+          "1º círculo"
+        ],
+        "iconMotif": "eye",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "7dc2de62f36fb965"
+  },
+  {
+    "_id": "ab36e1e512d6d6af",
+    "name": "Disco flutuante",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/a87c0624180328ba.svg",
+    "system": {
+      "description": "Duração: 6 turnos + 1 turno / nível\n\nAlcance: 60’\n\nAlvo: pessoal\n\nUma placa translúcida 3’x3’ flutua a 3’ de altura, próximo, e suporta 5.000 cn, que acompanha sempre quem o conjurou. Com comando (ação) é possível movimentá-lo (20’/rodada) horizontalmente dentro do alcance.\n\nLivro Base V2, p. 36.",
+      "circle": 1,
+      "preparedCircle": 1,
+      "duration": "6 turnos + 1 turno / nível",
+      "range": "60’",
+      "save": "",
+      "target": "pessoal",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 36,
+        "pdfPage": 41,
+        "folderPath": [
+          "Magias",
+          "1º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "7dc2de62f36fb965"
+  },
+  {
+    "_id": "0ee0f94964866dec",
+    "name": "Escudo místico",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/ee988a6ef88b426c.svg",
+    "system": {
+      "description": "Duração: 1 turno / nível\n\nAlcance: pessoal\n\nAlvo: pessoal\n\nUma barreira translúcida envolve seu corpo, conferindo CA: 3 [16] (contra projéteis CA: 0 [19]) e imunidade contra a magia do tipo “flecha mágica”.\n\nLivro Base V2, p. 36.",
+      "circle": 1,
+      "preparedCircle": 1,
+      "duration": "1 turno / nível",
+      "range": "pessoal",
+      "save": "",
+      "target": "pessoal",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 36,
+        "pdfPage": 41,
+        "folderPath": [
+          "Magias",
+          "1º círculo"
+        ],
+        "iconMotif": "shield",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "7dc2de62f36fb965"
+  },
+  {
+    "_id": "c5967ec3900b95db",
+    "name": "Emaranhar",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/2048822c6a8131ba.svg",
+    "system": {
+      "description": "Duração: 1 turno / nível\n\nAlcance: 50’ + 10’ / nível\n\nAlvo: criaturas na área\n\nCria uma área de raio 5’ de terreno difícil (ex. vinhas). Criaturas na área não podem se mover (SV-P para evitar).\n\nLivro Base V2, p. 36.",
+      "circle": 1,
+      "preparedCircle": 1,
+      "duration": "1 turno / nível",
+      "range": "50’ + 10’ / nível",
+      "save": "SV-P",
+      "target": "criaturas na área",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 36,
+        "pdfPage": 41,
+        "folderPath": [
+          "Magias",
+          "1º círculo"
+        ],
+        "iconMotif": "leaf",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "7dc2de62f36fb965"
+  },
+  {
+    "_id": "5bfefad93fcdafd5",
+    "name": "Encantar pessoas",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/0f7118fa31435ad5.svg",
+    "system": {
+      "description": "Duração: permanente (até ser quebrado).\n\nAlcance: 120’\n\nAlvo: humanoide\n\nEncanta uma criatura humanoide que passa a ter fidelidade (SV-F para evitar). Se receber comandos que dissonem de sua normalidade o encanto pode ser quebrado.\n\nLivro Base V2, p. 36.",
+      "circle": 1,
+      "preparedCircle": 1,
+      "duration": "permanente (até ser quebrado).",
+      "range": "120’",
+      "save": "SV-F",
+      "target": "humanoide",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 36,
+        "pdfPage": 41,
+        "folderPath": [
+          "Magias",
+          "1º círculo"
+        ],
+        "iconMotif": "eye",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "7dc2de62f36fb965"
+  },
+  {
+    "_id": "80da1a595f885d41",
+    "name": "Exorcismo",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/bd6cd3cba31b02cf.svg",
+    "system": {
+      "description": "Duração: 1 turno / nível\n\nAlcance: 60’\n\nAlvo: desmortos, demônios e diabos.\n\nEm um raio 20’ essa energia afeta 2d8 DV em ordem crescente de criaturas (criaturas com menos que 1 DV contam como 1 DV), que fogem em desespero. Alvos com quatro DV menores do que quem conjura são destruídos, e criaturas com DV superior fazem salvaguarda contra feitiço para evitar efeito. (O sucesso será automático para DV quatro níveis superior).\n\nLivro Base V2, p. 36.",
+      "circle": 1,
+      "preparedCircle": 1,
+      "duration": "1 turno / nível",
+      "range": "60’",
+      "save": "",
+      "target": "desmortos, demônios e diabos.",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 36,
+        "pdfPage": 41,
+        "folderPath": [
+          "Magias",
+          "1º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "7dc2de62f36fb965"
+  },
+  {
+    "_id": "7b453ed7fab446cf",
+    "name": "Flecha mágica",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/c1882e04481e2800.svg",
+    "system": {
+      "description": "Duração: instantâneo\n\nAlcance: 100’ + 10’ / nível\n\nAlvo: criatura ou objeto\n\nUm projétil de energia surge de suas mãos, imediatamente disparado contra um alvo, causando 1d6+1 de dano. Essa magia gera uma nova flecha a cada novo nível ímpar (3, 5, 7 e 9), que podem ser disparadas contra qualquer alvo dentro do alcance.\n\nLivro Base V2, p. 36.",
+      "circle": 1,
+      "preparedCircle": 1,
+      "duration": "instantâneo",
+      "range": "100’ + 10’ / nível",
+      "save": "",
+      "target": "criatura ou objeto",
+      "spellDamage": "1d6+1",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "missiles",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 36,
+        "pdfPage": 41,
+        "folderPath": [
+          "Magias",
+          "1º círculo"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "7dc2de62f36fb965"
+  },
+  {
+    "_id": "a23dfca44eb63008",
+    "name": "Heroísmo",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/c53fe9395da91e01.svg",
+    "system": {
+      "description": "Duração: 6 turnos / nível\n\nAlcance: 30’\n\nAlvo: uma criatura / nível\n\nUma aura gera coragem mágica em uma criatura por nível, conferindo bônus de +1 no acerto e dano, além de imunidade a medo.\n\nLivro Base V2, p. 36.",
+      "circle": 1,
+      "preparedCircle": 1,
+      "duration": "6 turnos / nível",
+      "range": "30’",
+      "save": "",
+      "target": "uma criatura / nível",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 1,
+      "effectDamage": 1,
+      "effectCondition": "Também concede imunidade a medo, arbitrada pela mesa."
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 36,
+        "pdfPage": 41,
+        "folderPath": [
+          "Magias",
+          "1º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "7dc2de62f36fb965"
+  },
+  {
+    "_id": "ac0591314bbe9965",
+    "name": "Leitura mágica",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/62f9ebe1c69adb38.svg",
+    "system": {
+      "description": "Duração: 1 turno / nível\n\nAlcance: pessoal\n\nAlvo: pessoal\n\nPermite a compreensão de textos pela duração da magia (inclusive mapas). Textos mágicos demandam um turno por círculo de magia. Qualquer texto lido dessa forma passa a ser legível sem uso da magia.\n\nLivro Base V2, p. 36.",
+      "circle": 1,
+      "preparedCircle": 1,
+      "duration": "1 turno / nível",
+      "range": "pessoal",
+      "save": "",
+      "target": "pessoal",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 36,
+        "pdfPage": 41,
+        "folderPath": [
+          "Magias",
+          "1º círculo"
+        ],
+        "iconMotif": "eye",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "7dc2de62f36fb965"
+  },
+  {
+    "_id": "a0d29d51ad62e7ac",
+    "name": "Luz",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/2d56c7d6f9041db5.svg",
+    "system": {
+      "description": "Duração: 6 turnos / nível\n\nAlcance: 60’\n\nAlvo: criatura ou objeto\n\nUm ponto de luz se adere ao alvo e ilumina um raio de 60’ (dobro de uma tocha).\n\nLivro Base V2, p. 37.",
+      "circle": 1,
+      "preparedCircle": 1,
+      "duration": "6 turnos / nível",
+      "range": "60’",
+      "save": "",
+      "target": "criatura ou objeto",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 37,
+        "pdfPage": 42,
+        "folderPath": [
+          "Magias",
+          "1º círculo"
+        ],
+        "iconMotif": "light",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "7dc2de62f36fb965"
+  },
+  {
+    "_id": "779ab043de83df7f",
+    "name": "Mãos flamejantes",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/f6c2c2e258fc66ae.svg",
+    "system": {
+      "description": "Duração: instantâneo\n\nAlcance: cone de 30’\n\nAlvo: tudo na área de efeito\n\nUm cone de fogo emanado dos dedos que causa um dano de 1d4 (SV-I para metade).\n\nLivro Base V2, p. 37.",
+      "circle": 1,
+      "preparedCircle": 1,
+      "duration": "instantâneo",
+      "range": "cone de 30’",
+      "save": "SV-I",
+      "target": "tudo na área de efeito",
+      "spellDamage": "1d4",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 37,
+        "pdfPage": 42,
+        "folderPath": [
+          "Magias",
+          "1º círculo"
+        ],
+        "iconMotif": "fire",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "7dc2de62f36fb965"
+  },
+  {
+    "_id": "01501f20f3e66ab2",
+    "name": "Patas de aranha",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/0f9c22f400697118.svg",
+    "system": {
+      "description": "Duração: 1 hora / nível\n\nAlcance: pessoal\n\nAlvo: pessoal\n\nAs mãos nuas possuem uma aderência mágica, o que permite movimentos sem risco sobre qualquer tipo de superfície, com deslocamento similar ao de caminhar.\n\nLivro Base V2, p. 37.",
+      "circle": 1,
+      "preparedCircle": 1,
+      "duration": "1 hora / nível",
+      "range": "pessoal",
+      "save": "",
+      "target": "pessoal",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 37,
+        "pdfPage": 42,
+        "folderPath": [
+          "Magias",
+          "1º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "7dc2de62f36fb965"
+  },
+  {
+    "_id": "cb8197de8c73c86f",
+    "name": "Proteção contra o mal",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/52118c5e3add32ed.svg",
+    "system": {
+      "description": "Duração: 6 turnos / nível\n\nAlcance: pessoal\n\nAlvo: pessoal\n\nUma energia lhe confere bônus de +1 na CA e em todas as salvaguardas contra inimigos de alinhamento diferente. Em adicional, criaturas encantadas, invocadas ou constructos não conseguem fazer ataques corpo a corpo, desde que não sejam atacadas por quem conjurou.\n\nLivro Base V2, p. 37.",
+      "circle": 1,
+      "preparedCircle": 1,
+      "duration": "6 turnos / nível",
+      "range": "pessoal",
+      "save": "",
+      "target": "pessoal",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": -1,
+      "effectSave": 1,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": "Apenas contra inimigos de alinhamento diferente. Ative para esse confronto e encerre ao deixar de se aplicar; veja outras restrições na descrição."
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 37,
+        "pdfPage": 42,
+        "folderPath": [
+          "Magias",
+          "1º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "7dc2de62f36fb965"
+  },
+  {
+    "_id": "f83d44515668e27a",
+    "name": "Restauração",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/7ea1ea78209ba163.svg",
+    "system": {
+      "description": "Duração: instantânea\n\nAlcance: toque\n\nAlvo: criatura viva\n\nRecupera 1d6+1 PV de alvo (por círculo memorizado) ou remove efeito de paralisia.\n\nLivro Base V2, p. 37.",
+      "circle": 1,
+      "preparedCircle": 1,
+      "duration": "instantânea",
+      "range": "toque",
+      "save": "",
+      "target": "criatura viva",
+      "spellDamage": "",
+      "spellHealing": "1d6+1",
+      "spellTemporary": "",
+      "spellScaling": "circle",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 37,
+        "pdfPage": 42,
+        "folderPath": [
+          "Magias",
+          "1º círculo"
+        ],
+        "iconMotif": "leaf",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "7dc2de62f36fb965"
+  },
+  {
+    "_id": "916f918898d5a167",
+    "name": "Sono",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/4c5e3968780cda5a.svg",
+    "system": {
+      "description": "Duração: 1d4 turnos / nível\n\nAlcance: 240’\n\nAlvo: 2d8\n\nDV de criaturas Esse encantamento afeta 2d8 DV (ou uma criatura de 4+1 DV) em uma área de 20’ x 20’, em ordem crescente de DV, que cairão em sono profundo, só acordando ao fim da duração ou por evento significativo, como ferimento ou um sacolejo (criaturas com DV inferior a 1DV contam como 1 DV, e deve-se desconsiderar excessos). Alvos com DV superior a 4+1 são imunes.\n\nLivro Base V2, p. 37.",
+      "circle": 1,
+      "preparedCircle": 1,
+      "duration": "1d4 turnos / nível",
+      "range": "240’",
+      "save": "",
+      "target": "2d8",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 37,
+        "pdfPage": 42,
+        "folderPath": [
+          "Magias",
+          "1º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "7dc2de62f36fb965"
+  },
+  {
+    "_id": "8e084e4d457d6084",
+    "name": "Ventriloquismo",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/5347015f8f063deb.svg",
+    "system": {
+      "description": "Duração: 1 turno +1 turno / nível\n\nAlcance: 120’ + 10’ / nível\n\nAlvo: pessoal\n\nPermite a projeção de sons pela voz em qualquer local no alcance pela duração da magia.\n\nLivro Base V2, p. 37.",
+      "circle": 1,
+      "preparedCircle": 1,
+      "duration": "1 turno +1 turno / nível",
+      "range": "120’ + 10’ / nível",
+      "save": "",
+      "target": "pessoal",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 37,
+        "pdfPage": 42,
+        "folderPath": [
+          "Magias",
+          "1º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "7dc2de62f36fb965"
+  },
+  {
+    "_id": "6268bb20f6c87c98",
+    "name": "Abençoar arma",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/b54784f93ece356a.svg",
+    "system": {
+      "description": "Duração: 6 turnos / nível\n\nAlcance: toque\n\nAlvo: objeto\n\nUma arma passa a ser considerada mágica, com efeito de +1 de acerto e dano.\n\nLivro Base V2, p. 38.",
+      "circle": 2,
+      "preparedCircle": 2,
+      "duration": "6 turnos / nível",
+      "range": "toque",
+      "save": "",
+      "target": "objeto",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 38,
+        "pdfPage": 43,
+        "folderPath": [
+          "Magias",
+          "2º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "41e67ac1062f5307"
+  },
+  {
+    "_id": "4e2f2623330cb5a8",
+    "name": "Alterar-se",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/b0b91ddc78024fcc.svg",
+    "system": {
+      "description": "Duração: 24h\n\nAlcance: pessoal\n\nAlvo: pessoal\n\nModifica sua aparência para qualquer outro tipo de humanoide de tamanho similar. As alterações são desde as simples, como ter ou não barba, cabelo longo ou curto, até complexas, como alterar idade, sexo ou transformar-se em outro humanoide.\n\nLivro Base V2, p. 38.",
+      "circle": 2,
+      "preparedCircle": 2,
+      "duration": "24h",
+      "range": "pessoal",
+      "save": "",
+      "target": "pessoal",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 38,
+        "pdfPage": 43,
+        "folderPath": [
+          "Magias",
+          "2º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "41e67ac1062f5307"
+  },
+  {
+    "_id": "a01403c00601d83d",
+    "name": "Desfocar",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/8bf40c44cc48a104.svg",
+    "system": {
+      "description": "Duração: 1 turno / nível\n\nAlcance: pessoal\n\nAlvo: pessoal\n\nEnergia que confere efeito de incorpóreo. Ataques realizados só são considerados bem-sucedidos se, além de atingirem sua CA, ser um número par lançado no d20.\n\nLivro Base V2, p. 38.",
+      "circle": 2,
+      "preparedCircle": 2,
+      "duration": "1 turno / nível",
+      "range": "pessoal",
+      "save": "",
+      "target": "pessoal",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 38,
+        "pdfPage": 43,
+        "folderPath": [
+          "Magias",
+          "2º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "41e67ac1062f5307"
+  },
+  {
+    "_id": "ea488b9f9f913e5d",
+    "name": "Invisibilidade",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/f8a843071f985727.svg",
+    "system": {
+      "description": "Duração: permanente\n\nAlcance: 240’\n\nAlvo: criatura ou objeto\n\nUm alvo de tamanho grande ou menor e seus objetos carregados se tornam invisíveis. Este efeito é quebrado se a criatura invisível atacar, conjurar uma magia ou voluntariamente.\n\nLivro Base V2, p. 38.",
+      "circle": 2,
+      "preparedCircle": 2,
+      "duration": "permanente",
+      "range": "240’",
+      "save": "",
+      "target": "criatura ou objeto",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 38,
+        "pdfPage": 43,
+        "folderPath": [
+          "Magias",
+          "2º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "41e67ac1062f5307"
+  },
+  {
+    "_id": "c9cf5160de00ffbf",
+    "name": "Levitar",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/62748428c72a4933.svg",
+    "system": {
+      "description": "Duração: 6 turnos + 1 turno / nível\n\nAlcance: pessoal\n\nAlvo: pessoal\n\nPermite a mentalização para movimentação vertical de 20’ por rodada (movimento). É possível o uso de impulsos em superfícies para movimento horizontal.\n\nLivro Base V2, p. 38.",
+      "circle": 2,
+      "preparedCircle": 2,
+      "duration": "6 turnos + 1 turno / nível",
+      "range": "pessoal",
+      "save": "",
+      "target": "pessoal",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 38,
+        "pdfPage": 43,
+        "folderPath": [
+          "Magias",
+          "2º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "41e67ac1062f5307"
+  },
+  {
+    "_id": "138c178f3a9210db",
+    "name": "Neutralizar veneno",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/70972fe350921dfa.svg",
+    "system": {
+      "description": "Duração: 6 turnos / nível\n\nAlcance: toque\n\nAlvo: vivente\n\nElimina imediatamente um efeito de veneno mundano ou mágico. Se usado de forma preventiva, confere +4 de bônus em SV contra venenos. Mesmo na falha, o efeito ocorrerá no dobro do tempo normal.\n\nLivro Base V2, p. 39.",
+      "circle": 2,
+      "preparedCircle": 2,
+      "duration": "6 turnos / nível",
+      "range": "toque",
+      "save": "",
+      "target": "vivente",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 39,
+        "pdfPage": 44,
+        "folderPath": [
+          "Magias",
+          "2º círculo"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "41e67ac1062f5307"
+  },
+  {
+    "_id": "e966d43aa806946a",
+    "name": "PES - Percepção Extra Sensorial",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/cdd8f97cd2ff97aa.svg",
+    "system": {
+      "description": "Duração: 6 turnos / nível\n\nAlcance: 60’\n\nAlvo: pessoal\n\nÉ possível a detecção de pensamentos superficiais de criaturas. Caso se concentre (um turno) em alvos pode-se coletar maiores detalhes. A magia perde efeito contra paredes de pedra com espessura maiores que 2’, e totalmente bloqueada por chumbo. Caso usada por uma criatura que você veja por um implemento adequado (ex.: bola de cristal), a distância não é mais pré-requisito.\n\nLivro Base V2, p. 39.",
+      "circle": 2,
+      "preparedCircle": 2,
+      "duration": "6 turnos / nível",
+      "range": "60’",
+      "save": "",
+      "target": "pessoal",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 39,
+        "pdfPage": 44,
+        "folderPath": [
+          "Magias",
+          "2º círculo"
+        ],
+        "iconMotif": "eye",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "41e67ac1062f5307"
+  },
+  {
+    "_id": "006854f3aa55adfa",
+    "name": "Reflexos",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/b66b024cbcc3aa2b.svg",
+    "system": {
+      "description": "Duração: 6 turnos / nível\n\nAlcance: pessoal\n\nAlvo: pessoal\n\nIlusões mágicas idênticas a você surgem e mimetizam seu comportamento. São geradas 1d4 delas. Um ataque direto pode ferir você ou desfazer uma das ilusões, determinado aleatoriamente (CA 9 [10]).\n\nLivro Base V2, p. 39.",
+      "circle": 2,
+      "preparedCircle": 2,
+      "duration": "6 turnos / nível",
+      "range": "pessoal",
+      "save": "",
+      "target": "pessoal",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 39,
+        "pdfPage": 44,
+        "folderPath": [
+          "Magias",
+          "2º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "41e67ac1062f5307"
+  },
+  {
+    "_id": "39b4a61e9363dc4b",
+    "name": "Resistência a elementos",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/e5aaa7409c86227b.svg",
+    "system": {
+      "description": "Duração: 12 turnos / nível\n\nAlcance: 180’\n\nAlvo: área ou criatura\n\nConfere resistência a um elemento de sua escolha (ex.: fogo). Contra este elemento ocorre imunidade à efeitos naturais (ex.: calor), +4 em SV e redução de dano na ordem de 1 por dado de dano.\n\nLivro Base V2, p. 39.",
+      "circle": 2,
+      "preparedCircle": 2,
+      "duration": "12 turnos / nível",
+      "range": "180’",
+      "save": "",
+      "target": "área ou criatura",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 4,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": "Apenas contra o elemento escolhido. Ative somente para essas salvaguardas; resistência ao dano é resolvida pela mesa."
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 39,
+        "pdfPage": 44,
+        "folderPath": [
+          "Magias",
+          "2º círculo"
+        ],
+        "iconMotif": "shield",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "41e67ac1062f5307"
+  },
+  {
+    "_id": "4ddc7d297f586adb",
+    "name": "Silêncio",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/7572154ad9b97461.svg",
+    "system": {
+      "description": "Duração: 12 turnos\n\nAlcance: 180’\n\nAlvo: área ou criatura\n\nGera um silêncio absoluto em uma área ou criatura alvo, com raio 15’. O alvo pode resistir (SV-F), no sucesso o efeito fica na área. Quem conjurou pode permitir (ação) que se ouça tudo que ocorre do lado fora.\n\nLivro Base V2, p. 39.",
+      "circle": 2,
+      "preparedCircle": 2,
+      "duration": "12 turnos",
+      "range": "180’",
+      "save": "SV-F",
+      "target": "área ou criatura",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 39,
+        "pdfPage": 44,
+        "folderPath": [
+          "Magias",
+          "2º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "41e67ac1062f5307"
+  },
+  {
+    "_id": "8a4baa1e47b0b33c",
+    "name": "Teia",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/c808fbffbdfa88a4.svg",
+    "system": {
+      "description": "Duração: 12 turnos / nível\n\nAlcance: 10’\n\nAlvo: qualquer criatura ou objeto na área\n\nUma teia pegajosa de raio 5’ que emaranha tudo na área (efeito de paralisia). A teia é inflamável, e pode ser destruída por fogo em 1d4 rodadas. Criaturas com força humana conseguem arrebentá-la em 2d4 turnos, mas força sobre-humana (ex.: gigantes) em 1d4 rodadas.\n\nLivro Base V2, p. 39.",
+      "circle": 2,
+      "preparedCircle": 2,
+      "duration": "12 turnos / nível",
+      "range": "10’",
+      "save": "",
+      "target": "qualquer criatura ou objeto na área",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 39,
+        "pdfPage": 44,
+        "folderPath": [
+          "Magias",
+          "2º círculo"
+        ],
+        "iconMotif": "leaf",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "41e67ac1062f5307"
+  },
+  {
+    "_id": "819feb1ffd6edbb8",
+    "name": "Tranca arcana",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/e5ab43f57856c0a5.svg",
+    "system": {
+      "description": "Duração: permanente\n\nAlcance: 10’\n\nAlvo: objeto 10’ x 10’\n\nUma runa invisível bloqueia magicamente uma passagem como porta, baú ou objeto similar, com criação de uma senha concomitante. Só é possível ultrapassar com uso da palavra-passe ou com uso de efeitos mágicos. Dissipar magia remove permanentemente essa tranca, já este feitiço invertido (“chave-arcana”) a anula por 6 turnos. A magia invertida “desaferrolhar” a desabilita por um turno.\n\nLivro Base V2, p. 40.",
+      "circle": 2,
+      "preparedCircle": 2,
+      "duration": "permanente",
+      "range": "10’",
+      "save": "",
+      "target": "objeto 10’ x 10’",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 40,
+        "pdfPage": 45,
+        "folderPath": [
+          "Magias",
+          "2º círculo"
+        ],
+        "iconMotif": "key",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "41e67ac1062f5307"
+  },
+  {
+    "_id": "edf5658a81be724f",
+    "name": "Aceleração",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/23574865bf420652.svg",
+    "system": {
+      "description": "Duração: 1 turno / nível\n\nAlcance: 240’\n\nAlvo: até 24 criaturas em raio de 30’\n\nAlvos se tornam magicamente velozes, ficando com dobro de movimento e com mais um ataque por rodada (mas não interfere na velocidade de conjuração de magias).\n\nLivro Base V2, p. 40.",
+      "circle": 3,
+      "preparedCircle": 3,
+      "duration": "1 turno / nível",
+      "range": "240’",
+      "save": "",
+      "target": "até 24 criaturas em raio de 30’",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 40,
+        "pdfPage": 45,
+        "folderPath": [
+          "Magias",
+          "3º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "4c15dcd972e57238"
+  },
+  {
+    "_id": "b8de5b67d19da0f6",
+    "name": "Bola de fogo",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/1d6952bd18b8e4ab.svg",
+    "system": {
+      "description": "Duração: instantânea\n\nAlcance: 240’\n\nAlvo: esfera de raio 20’\n\nUma esfera flamejante se projeta dos dedos nus e explodem em um ponto desejado, se espalhando em um raio de 20’. O dano de fogo causado é na ordem de 1d6 / nível (SV- I para metade).\n\nLivro Base V2, p. 40.",
+      "circle": 3,
+      "preparedCircle": 3,
+      "duration": "instantânea",
+      "range": "240’",
+      "save": "",
+      "target": "esfera de raio 20’",
+      "spellDamage": "1d6",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "level",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 40,
+        "pdfPage": 45,
+        "folderPath": [
+          "Magias",
+          "3º círculo"
+        ],
+        "iconMotif": "fire",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "4c15dcd972e57238"
+  },
+  {
+    "_id": "0b4c0ef5e661c8a5",
+    "name": "Clarividência",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/0b3deaa7eb10f8e7.svg",
+    "system": {
+      "description": "Duração: 12 turnos + 1 turno / nível\n\nAlcance: 60’\n\nAlvo: área 10’ x 10’ x 10’\n\nCom mentalização pode-se ver tudo na área. Caso conjurada sob um implemento adequado (ex.: bola de cristal), o alcance passa a ser ilimitado, desde que tenha memória visual da área. Barreiras finas de cobre (1”) ou magias de proteção frustram esse feitiço.\n\nLivro Base V2, p. 40.",
+      "circle": 3,
+      "preparedCircle": 3,
+      "duration": "12 turnos + 1 turno / nível",
+      "range": "60’",
+      "save": "",
+      "target": "área 10’ x 10’ x 10’",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 40,
+        "pdfPage": 45,
+        "folderPath": [
+          "Magias",
+          "3º círculo"
+        ],
+        "iconMotif": "eye",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "4c15dcd972e57238"
+  },
+  {
+    "_id": "2cce0a7ba0be345b",
+    "name": "Dissipar magia",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/496967b5324b231a.svg",
+    "system": {
+      "description": "Duração: 1 turno / nível\n\nAlcance: 120’\n\nAlvo: esfera de raio 10’\n\nNeutraliza efeitos mágicos em objetos, criaturas ou áreas, automaticamente para efeitos de círculo inferior. Para efeitos de mesmo círculo, ou superiores, deve-se fazer SV-F com penalidade igual à diferença de poder para cada efeito. Um “20” sempre dissipa e “1” sempre falha. Itens mágicos se tornam desativados por 1 turno.\n\nLivro Base V2, p. 40.",
+      "circle": 3,
+      "preparedCircle": 3,
+      "duration": "1 turno / nível",
+      "range": "120’",
+      "save": "SV-F",
+      "target": "esfera de raio 10’",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 40,
+        "pdfPage": 45,
+        "folderPath": [
+          "Magias",
+          "3º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "4c15dcd972e57238"
+  },
+  {
+    "_id": "709b923d94f4ee1a",
+    "name": "Falar com mortos",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/7718a155d8f0d3e8.svg",
+    "system": {
+      "description": "Duração: 1 turno\n\nAlcance: 10’\n\nAlvo: pessoal\n\nCria um vínculo com um corpo morto há um dia / nível, o que permite a comunicação por meio de três perguntas. Para nível 8 ou superior, pode ter sido morto há 1d4 meses.\n\nLivro Base V2, p. 40.",
+      "circle": 3,
+      "preparedCircle": 3,
+      "duration": "1 turno",
+      "range": "10’",
+      "save": "",
+      "target": "pessoal",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 40,
+        "pdfPage": 45,
+        "folderPath": [
+          "Magias",
+          "3º círculo"
+        ],
+        "iconMotif": "ghost",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "4c15dcd972e57238"
+  },
+  {
+    "_id": "0afb6d30c6da2cfb",
+    "name": "Imobilizar pessoas",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/bb09ba3b3f1f824b.svg",
+    "system": {
+      "description": "Duração: 1 turno / nível\n\nAlcance: 120’\n\nAlvo: 1d4 humanoides 1d4 humanoides ficam imobilizados (SV-P para evitar).\n\nSe for direcionada contra um único alvo, gera penalidade de -2 na SV.\n\nLivro Base V2, p. 41.",
+      "circle": 3,
+      "preparedCircle": 3,
+      "duration": "1 turno / nível",
+      "range": "120’",
+      "save": "SV-P",
+      "target": "1d4 humanoides",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 41,
+        "pdfPage": 46,
+        "folderPath": [
+          "Magias",
+          "3º círculo"
+        ],
+        "iconMotif": "eye",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "4c15dcd972e57238"
+  },
+  {
+    "_id": "776cc2bba4be10c3",
+    "name": "Respiração aquática",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/b56f50610100a88b.svg",
+    "system": {
+      "description": "Duração: 1 hora / nível\n\nAlcance: 30’\n\nAlvo: criatura\n\nTorna o alvo capaz de respirar na água.\n\nLivro Base V2, p. 41.",
+      "circle": 3,
+      "preparedCircle": 3,
+      "duration": "1 hora / nível",
+      "range": "30’",
+      "save": "",
+      "target": "criatura",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 41,
+        "pdfPage": 46,
+        "folderPath": [
+          "Magias",
+          "3º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "4c15dcd972e57238"
+  },
+  {
+    "_id": "bf97aa85e0f9138d",
+    "name": "Remover doença",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/0640d53da8009799.svg",
+    "system": {
+      "description": "Duração: permanente\n\nAlcance: 30’\n\nAlvo: uma criatura\n\nRemove uma doença mundana ou mágica de um alvo instantaneamente.\n\nLivro Base V2, p. 41.",
+      "circle": 3,
+      "preparedCircle": 3,
+      "duration": "permanente",
+      "range": "30’",
+      "save": "",
+      "target": "uma criatura",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 41,
+        "pdfPage": 46,
+        "folderPath": [
+          "Magias",
+          "3º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "4c15dcd972e57238"
+  },
+  {
+    "_id": "09501708c2725423",
+    "name": "Ultravisão",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/21caf95e01f5d621.svg",
+    "system": {
+      "description": "Duração: 1 dia\n\nAlcance: pessoal\n\nAlvo: pessoal\n\nConfere o poder da ultravisão: adaptação da visão em áreas de pouca luminosidade ou escuridão total, que permite a visão com clareza, em tons de cinza, em até 60’.\n\nLivro Base V2, p. 41.",
+      "circle": 3,
+      "preparedCircle": 3,
+      "duration": "1 dia",
+      "range": "pessoal",
+      "save": "",
+      "target": "pessoal",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 41,
+        "pdfPage": 46,
+        "folderPath": [
+          "Magias",
+          "3º círculo"
+        ],
+        "iconMotif": "eye",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "4c15dcd972e57238"
+  },
+  {
+    "_id": "35e39386e82fe23c",
+    "name": "Voar",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/41803bfa6e2f7669.svg",
+    "system": {
+      "description": "Duração: 1d6 turnos + 1 turno / nível\n\nAlcance: toque\n\nAlvo: alvo tocado\n\nPermite voar (MV: 120’) com perfeição de manobras. Os movimentos exigem atenção similar à de andar, o que habilita, inclusive, levitar como se estivesse parado.\n\nLivro Base V2, p. 41.",
+      "circle": 3,
+      "preparedCircle": 3,
+      "duration": "1d6 turnos + 1 turno / nível",
+      "range": "toque",
+      "save": "",
+      "target": "alvo tocado",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 41,
+        "pdfPage": 46,
+        "folderPath": [
+          "Magias",
+          "3º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "4c15dcd972e57238"
+  },
+  {
+    "_id": "9d392c4436fc3264",
+    "name": "Encantar criaturas",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/99120372873e486c.svg",
+    "system": {
+      "description": "Duração: permanente (até ser quebrado).\n\nAlcance: 120’\n\nAlvo: criaturas viventes\n\nEncanta 3d6 criaturas de até 3 DV (ou uma criatura com mais de 3 DV), que passam a ter fidelidade (SV-F para evitar). Se receber comandos dissonantes de sua normalidade o encanto pode ser quebrado.\n\nLivro Base V2, p. 41.",
+      "circle": 4,
+      "preparedCircle": 4,
+      "duration": "permanente (até ser quebrado).",
+      "range": "120’",
+      "save": "SV-F",
+      "target": "criaturas viventes",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 41,
+        "pdfPage": 46,
+        "folderPath": [
+          "Magias",
+          "4º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "776a804576f3c6f6"
+  },
+  {
+    "_id": "698e2e23ee889b3b",
+    "name": "Globo da invulnerabilidade",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/0387735bece39b3b.svg",
+    "system": {
+      "description": "Duração: 1d4 rodadas / nível\n\nAlcance: pessoal\n\nAlvo: pessoal\n\nUm globo mágico envolve todo o corpo, conferindo imunidade à efeitos de magias de até 3º círculo.\n\nLivro Base V2, p. 41.",
+      "circle": 4,
+      "preparedCircle": 4,
+      "duration": "1d4 rodadas / nível",
+      "range": "pessoal",
+      "save": "",
+      "target": "pessoal",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 41,
+        "pdfPage": 46,
+        "folderPath": [
+          "Magias",
+          "4º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "776a804576f3c6f6"
+  },
+  {
+    "_id": "f0f27a98f114e03c",
+    "name": "Maldição",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/1028cdcba9b38b44.svg",
+    "system": {
+      "description": "Duração: permanente\n\nAlcance: 30’\n\nAlvo: criatura\n\nInflige uma maldição mágica em um alvo com efeito à sua escolha, como, por exemplo: um malogro, que confere -2 em ataques, CA e SV. Uma alternativa é lançar um efeito aleatório na tabela de corrupções.\n\nLivro Base V2, p. 41.",
+      "circle": 4,
+      "preparedCircle": 4,
+      "duration": "permanente",
+      "range": "30’",
+      "save": "",
+      "target": "criatura",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 41,
+        "pdfPage": 46,
+        "folderPath": [
+          "Magias",
+          "4º círculo"
+        ],
+        "iconMotif": "ghost",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "776a804576f3c6f6"
+  },
+  {
+    "_id": "f0d67aeda4b51b7c",
+    "name": "Medo",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/00c807c9f4396c7a.svg",
+    "system": {
+      "description": "Duração: 1 turno / nível\n\nAlcance: 60’\n\nAlvo: criaturas viventes na área\n\nUma visão aterrorizante afeta criaturas em um cone de alcance 60’, que fugirão em desespero (SV-F para evitar).\n\nLivro Base V2, p. 42.",
+      "circle": 4,
+      "preparedCircle": 4,
+      "duration": "1 turno / nível",
+      "range": "60’",
+      "save": "SV-F",
+      "target": "criaturas viventes na área",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 42,
+        "pdfPage": 47,
+        "folderPath": [
+          "Magias",
+          "4º círculo"
+        ],
+        "iconMotif": "ghost",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "776a804576f3c6f6"
+  },
+  {
+    "_id": "9b82a41b564eee83",
+    "name": "Olho mágico",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/9747401a1f6d6b3e.svg",
+    "system": {
+      "description": "Duração: 6 turnos\n\nAlcance: 240’\n\nAlvo: pessoal\n\nCria um olho mágico invisível (de 1’’) que flutua lentamente (MV: 10’) e pode se mover em qualquer direção até 240’ de você. É possível ver pelo olho, que também possui ultravisão e é capaz de detectar contornos de magias em criaturas e objetos.\n\nLivro Base V2, p. 42.",
+      "circle": 4,
+      "preparedCircle": 4,
+      "duration": "6 turnos",
+      "range": "240’",
+      "save": "",
+      "target": "pessoal",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 42,
+        "pdfPage": 47,
+        "folderPath": [
+          "Magias",
+          "4º círculo"
+        ],
+        "iconMotif": "eye",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "776a804576f3c6f6"
+  },
+  {
+    "_id": "6b7c8d61e548c45e",
+    "name": "Polimorfismo",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/4d617391c929eb44.svg",
+    "system": {
+      "description": "Duração: 6 turnos + 1 turno / nível\n\nAlcance: pessoal\n\nAlvo: pessoal\n\nPermite assumir a forma de qualquer criatura vivente, de tamanho diminuto (1’) à grande (10’), incluindo suas habilidades físicas, como tipo de respiração ou voo. As características gerais são mantidas, como mente, PV e SV.\n\nLivro Base V2, p. 42.",
+      "circle": 4,
+      "preparedCircle": 4,
+      "duration": "6 turnos + 1 turno / nível",
+      "range": "pessoal",
+      "save": "",
+      "target": "pessoal",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 42,
+        "pdfPage": 47,
+        "folderPath": [
+          "Magias",
+          "4º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "776a804576f3c6f6"
+  },
+  {
+    "_id": "bb97b4b9035054f2",
+    "name": "Porta dimensional",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/cea35468aefa515f.svg",
+    "system": {
+      "description": "Duração: 1 rodada\n\nAlcance: 10’\n\nAlvo: pessoal ou uma criatura\n\nTeletransporta quem conjurou ou uma criatura de tamanho grande ou inferior (SV- F para evitar, se tentar resistir) de imediato a um local exato em até 360’ de distância. Caso se estipule diretrizes para um local de destino que não permita a ocupação dos corpos, a magia falha.\n\nLivro Base V2, p. 42.",
+      "circle": 4,
+      "preparedCircle": 4,
+      "duration": "1 rodada",
+      "range": "10’",
+      "save": "",
+      "target": "pessoal ou uma criatura",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 42,
+        "pdfPage": 47,
+        "folderPath": [
+          "Magias",
+          "4º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "776a804576f3c6f6"
+  },
+  {
+    "_id": "cb06718ff0fbec93",
+    "name": "Terreno ilusório",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/412a14afe7305311.svg",
+    "system": {
+      "description": "Duração: permanente (ver descrição)\n\nAlcance: 240’\n\nAlvo: área de um marco de terreno\n\nCria ou esconde um marco de terreno, como um pico, um pântano ou uma torre. O efeito é dissipado se tocado por uma criatura semi- racional ou superior.\n\nLivro Base V2, p. 42.",
+      "circle": 4,
+      "preparedCircle": 4,
+      "duration": "permanente (ver descrição)",
+      "range": "240’",
+      "save": "",
+      "target": "área de um marco de terreno",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 42,
+        "pdfPage": 47,
+        "folderPath": [
+          "Magias",
+          "4º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "776a804576f3c6f6"
+  },
+  {
+    "_id": "3d0cdac029ad6820",
+    "name": "Animar mortos",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/9172676a2e8c9aeb.svg",
+    "system": {
+      "description": "Duração: permanente\n\nAlcance: 30’\n\nAlvo: restos mortais de humanoides\n\nRestos mortais de humanoides de tamanho médio ou inferior, na ordem de 1 / nível, são reanimados magicamente como esqueletos ou zumbis. As criaturas seguem comandos simples mentalmente, desde que à curta distância (até 60’), ou seguirão o último comando dado ferrenhamente.\n\nLivro Base V2, p. 43.",
+      "circle": 5,
+      "preparedCircle": 5,
+      "duration": "permanente",
+      "range": "30’",
+      "save": "",
+      "target": "restos mortais de humanoides",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 43,
+        "pdfPage": 48,
+        "folderPath": [
+          "Magias",
+          "5º círculo"
+        ],
+        "iconMotif": "ghost",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "22d5c78a6d257a3d"
+  },
+  {
+    "_id": "b9437afcdb04bd3c",
+    "name": "Círculo de teleporte",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/4a4cb2957e511708.svg",
+    "system": {
+      "description": "Duração: instantâneo\n\nAlcance: círculo\n\nAlvo: até seis criaturas no círculo\n\nPermite realizar o transporte mágico entre círculos arcanos. Para sua construção é preciso conjuração diária por um mês de trabalho dedicado, com uso de insumos no custo de 10.000 po. Para o transporte é preciso conhecer as duas senhas mágicas, do círculo de partida e do destino. Para decifrar a senha de um círculo é preciso uma semana de estudos dedicados em suas runas arcanas, além de compreender seu idioma. Até seis criaturas de tamanho grande ou inferior são transportas para o novo local (com consenso).\n\nLivro Base V2, p. 43.",
+      "circle": 5,
+      "preparedCircle": 5,
+      "duration": "instantâneo",
+      "range": "círculo",
+      "save": "",
+      "target": "até seis criaturas no círculo",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 43,
+        "pdfPage": 48,
+        "folderPath": [
+          "Magias",
+          "5º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "22d5c78a6d257a3d"
+  },
+  {
+    "_id": "dcbbf573ab5997cc",
+    "name": "Conjurar elemental",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/b734ec86d1559800.svg",
+    "system": {
+      "description": "Duração: permanente (ver descrição)\n\nAlcance: até 200’ do receptáculo\n\nAlvo: receptáculo\n\nEssa magia é feita inicialmente por um ritual de 1 hora, que vincula um dos elementais: água, ar, fogo ou terra a um receptáculo, com custo de 1.300 po (XP da criatura). A partir daí é possível invocá-lo ou devolvê-lo ao receptáculo como conjuração. Enquanto fora do receptáculo, é preciso concentração completa para comandá-lo, caso contrário ele se descontrolará e atacará qualquer criatura, aleatoriamente.\n\nLivro Base V2, p. 43.",
+      "circle": 5,
+      "preparedCircle": 5,
+      "duration": "permanente (ver descrição)",
+      "range": "até 200’ do receptáculo",
+      "save": "",
+      "target": "receptáculo",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 43,
+        "pdfPage": 48,
+        "folderPath": [
+          "Magias",
+          "5º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "22d5c78a6d257a3d"
+  },
+  {
+    "_id": "b740b13d9b70f189",
+    "name": "Raio da morte",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/024f900bb37cd03e.svg",
+    "system": {
+      "description": "Duração: instantâneo\n\nAlcance: 120’\n\nAlvo: besta ou humanoide\n\nUm raio de energia necrótica atinge um alvo que morrerá imediatamente (SV-M para evitar).\n\nLivro Base V2, p. 43.",
+      "circle": 5,
+      "preparedCircle": 5,
+      "duration": "instantâneo",
+      "range": "120’",
+      "save": "SV-M",
+      "target": "besta ou humanoide",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 43,
+        "pdfPage": 48,
+        "folderPath": [
+          "Magias",
+          "5º círculo"
+        ],
+        "iconMotif": "ghost",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "22d5c78a6d257a3d"
+  },
+  {
+    "_id": "c4f328a848bbfa2e",
+    "name": "Receptáculo",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/bdb93e3699c04738.svg",
+    "system": {
+      "description": "Duração: permanente\n\nAlcance: 30’\n\nAlvo: pessoal\n\nEste feitiço realoca a essência da vida em um objeto pequeno, como um jarro, há 30’. Uma vez que a alma esteja imersa ao objeto, é possível possuir o corpo de outra criatura a até 120’ (SV-F para evitar, no sucesso se torna imune por 24h). É possível retornar ao item a qualquer momento ou ao corpo original (o que encerra a magia). Se o corpo original for destruído, a alma perde sua essência original e se torna vinculada ao objeto. Se este for destruído com a alma, ela é perdida para sempre. Se for destruído com a alma em outro corpo, o receptáculo é perdido, se tornando presa ao novo corpo.\n\nLivro Base V2, p. 43.",
+      "circle": 5,
+      "preparedCircle": 5,
+      "duration": "permanente",
+      "range": "30’",
+      "save": "SV-F",
+      "target": "pessoal",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 43,
+        "pdfPage": 48,
+        "folderPath": [
+          "Magias",
+          "5º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "22d5c78a6d257a3d"
+  },
+  {
+    "_id": "d154fba6afc1941a",
+    "name": "Telecinesia",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/0e227981e34354c4.svg",
+    "system": {
+      "description": "Duração: 6 turnos ou concentração\n\nAlcance: 120’\n\nAlvo: objeto ou criatura\n\nPermite mover 400 cn / nível na velocidade de 20’ por rodada. Criaturas podem ser paralisadas ou levantadas (SV-P para resistir), mas caso resistam não anulam a magia, que se mantém pela duração ou quebra da concentração.\n\nLivro Base V2, p. 44.",
+      "circle": 5,
+      "preparedCircle": 5,
+      "duration": "6 turnos ou concentração",
+      "range": "120’",
+      "save": "SV-P",
+      "target": "objeto ou criatura",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 44,
+        "pdfPage": 49,
+        "folderPath": [
+          "Magias",
+          "5º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "22d5c78a6d257a3d"
+  },
+  {
+    "_id": "04d560f7a76a48e7",
+    "name": "Criar comida",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/bbaed11352e2d1bd.svg",
+    "system": {
+      "description": "Duração: instantâneo\n\nAlcance: 60’\n\nAlvo: área próxima\n\nComida suficiente para 24 pessoas para um dia aparecem magicamente.\n\nLivro Base V2, p. 44.",
+      "circle": 6,
+      "preparedCircle": 6,
+      "duration": "instantâneo",
+      "range": "60’",
+      "save": "",
+      "target": "área próxima",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 44,
+        "pdfPage": 49,
+        "folderPath": [
+          "Magias",
+          "6º círculo"
+        ],
+        "iconMotif": "leaf",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "f218eaf7042cabd3"
+  },
+  {
+    "_id": "f79bf1d5562a2353",
+    "name": "Desintegrar",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/2971d1f007403455.svg",
+    "system": {
+      "description": "Duração: permanente\n\nAlcance: 10’\n\nAlvo: criatura ou objeto\n\nUma criatura ou objeto (não-mágico) sofre destruição automática (SV-M para evitar). Se evitar, sofre 3d6 de dano.\n\nLivro Base V2, p. 44.",
+      "circle": 6,
+      "preparedCircle": 6,
+      "duration": "permanente",
+      "range": "10’",
+      "save": "SV-M",
+      "target": "criatura ou objeto",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 44,
+        "pdfPage": 49,
+        "folderPath": [
+          "Magias",
+          "6º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "f218eaf7042cabd3"
+  },
+  {
+    "_id": "dd36e841601adf2f",
+    "name": "Petrificação",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/8c0607abdd6a6954.svg",
+    "system": {
+      "description": "Duração: permanente\n\nAlcance: 120’\n\nAlvo: criatura\n\nTransforma imediatamente uma criatura e seus equipamentos em uma estátua de pedra (SV-P para evitar).\n\nLivro Base V2, p. 44.",
+      "circle": 6,
+      "preparedCircle": 6,
+      "duration": "permanente",
+      "range": "120’",
+      "save": "SV-P",
+      "target": "criatura",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 44,
+        "pdfPage": 49,
+        "folderPath": [
+          "Magias",
+          "6º círculo"
+        ],
+        "iconMotif": "star",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "f218eaf7042cabd3"
+  },
+  {
+    "_id": "87b43e28c806d7de",
+    "name": "Ressurreição",
+    "type": "spell",
+    "img": "systems/d20age/assets/icons/ea51436ca499b2eb.svg",
+    "system": {
+      "description": "Duração: instantâneo\n\nAlcance: 120’\n\nAlvo: corpo de criatura vivente\n\nUma energia mística permite o retorno à vida de uma criatura vivente que tenha morrido à no máximo um dia por nível de quem conjurar essa magia.\n\nLivro Base V2, p. 44.",
+      "circle": 6,
+      "preparedCircle": 6,
+      "duration": "instantâneo",
+      "range": "120’",
+      "save": "",
+      "target": "corpo de criatura vivente",
+      "spellDamage": "",
+      "spellHealing": "",
+      "spellTemporary": "",
+      "spellScaling": "none",
+      "effectAC": 0,
+      "effectSave": 0,
+      "effectHP": 0,
+      "effectAttack": 0,
+      "effectDamage": 0,
+      "effectCondition": ""
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 44,
+        "pdfPage": 49,
+        "folderPath": [
+          "Magias",
+          "6º círculo"
+        ],
+        "iconMotif": "leaf",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "mechanicsRevision": "0.5.0"
+      }
+    },
+    "folder": "f218eaf7042cabd3"
+  }
+]

@@ -1,0 +1,3645 @@
+[
+  {
+    "_id": "93ed7b5c2f8acfac",
+    "name": "Agulha (1’’)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/f1ae64cf8127623c.svg",
+    "system": {
+      "description": "Agulha (1’’). Registro da tabela de miscelâneas do Livro Base.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 1,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "da7fb92582a21129",
+    "name": "Alicate",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/0840dd3e6dfbe4b7.svg",
+    "system": {
+      "description": "ferramenta de 1’ usada em cortes ou em braseiros.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 2,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "e324b5927fa83e85",
+    "name": "Algema (par)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/7b647b14ceb64fa9.svg",
+    "system": {
+      "description": "com chave e fechadura.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 15,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "key",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "fb28d8dc41a1c678",
+    "name": "Ampulheta (10 min)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/e7d034f25abf7269.svg",
+    "system": {
+      "description": "Ampulheta (10 min). Registro da tabela de miscelâneas do Livro Base.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 10,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "5d6153339c41da5c",
+    "name": "Apito",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/1f6a2479bc65c61a.svg",
+    "system": {
+      "description": "sinalizador audível a cerca de 200’.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 3,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "aeffe3c73e2157e4",
+    "name": "Balança e pesos",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/0165ec986933c43a.svg",
+    "system": {
+      "description": "usada para aferição de massas de maneira exata e precisa.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 10,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "7fa491ae6c2e3fb3",
+    "name": "Bandolim",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/4d2f30b08b6ca5d1.svg",
+    "system": {
+      "description": "instrumento musical comum.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 15,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "b3deeefe7a4b7f2c",
+    "name": "Barbante (rolo de 100’)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/acd3f27bff2c9aa5.svg",
+    "system": {
+      "description": "Barbante (rolo de 100’). Registro da tabela de miscelâneas do Livro Base.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 1,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "d14218fef7ead571",
+    "name": "Berrante",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/fff2f00399fc3c1d.svg",
+    "system": {
+      "description": "sinalizador audível a 3 mi.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 5,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "bdce145e4036e282",
+    "name": "Bolas de gude (6)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/f0d65c3539a58071.svg",
+    "system": {
+      "description": "seis bolinas esféricas de 1’’.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 1,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "9bf29f5ae5569310",
+    "name": "Bolsa de cinto (25 cn)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/c4c21ee0f01f4cd8.svg",
+    "system": {
+      "description": "armazena três miscelâneas de acesso rápido, além de miudezas, no total de até 50 cn.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 3,
+      "weight": 25,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "71be869a31164d73",
+    "name": "Capa",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/50918aeeae95b0a6.svg",
+    "system": {
+      "description": "usada para proteger de ventos, frio moderado, identidade ou anonimato.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 1,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "2ed3064e1cc6a5cd",
+    "name": "Carvão (saco)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/a558452b03b76c10.svg",
+    "system": {
+      "description": "suficiente para fazer uma fogueira de 8 horas de duração.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 1,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "6adfebda6d76dce4",
+    "name": "Cera de abelha",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/f5bc1f5b5e8ad668.svg",
+    "system": {
+      "description": "dose que impermeabiliza uma área ou objeto 10’x10’.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 1,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "c4251ce9e734cf8a",
+    "name": "Cobertor",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/3a334ab4a217161e.svg",
+    "system": {
+      "description": "Cobertor. Registro da tabela de miscelâneas do Livro Base.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 1,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "db23999f12f2262b",
+    "name": "Corda (50’)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/6cd9e735fbee2dad.svg",
+    "system": {
+      "description": "suporta até 5.000 cn.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 1,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "e253f4796205a39c",
+    "name": "Dados (2)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/df2971a15fb437ae.svg",
+    "system": {
+      "description": "Dados (2). Registro da tabela de miscelâneas do Livro Base.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 1,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "61be9e4bd5101885",
+    "name": "Espelho (pequeno)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/59cac89207f75da0.svg",
+    "system": {
+      "description": "Espelho (pequeno). Registro da tabela de miscelâneas do Livro Base.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 5,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "9dfc3c9b58eae3bb",
+    "name": "Estacas de madeira (3)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/d8d5677195396ba0.svg",
+    "system": {
+      "description": "usadas para fixar barracas em acampamentos. Lendas dizem permitir paralisar vampiros.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 1,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "a5fa7f555aa560c0",
+    "name": "Estrepes (bolsa com 10)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/715036bdad56a817.svg",
+    "system": {
+      "description": "pregos que cobrem uma área de 10’x10’ e reduzem movimento pela metade.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 1,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "0a80e0234a139abd",
+    "name": "Frasco de vidro (1 qt)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/e79d342603854e51.svg",
+    "system": {
+      "description": "Frasco de vidro (1 qt). Registro da tabela de miscelâneas do Livro Base.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 1,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "d387da7fc7948303",
+    "name": "Gancho",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/f605ab24c28dc8b6.svg",
+    "system": {
+      "description": "de ferro, suporta até 20.000 cn.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 25,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "e256201af37d4a85",
+    "name": "Gazua",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/497cce124d17b573.svg",
+    "system": {
+      "description": "usada para arrombar fechaduras.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 20,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "key",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "00a9bf39ae2b72f3",
+    "name": "Giz",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/ad2924b8627a11bd.svg",
+    "system": {
+      "description": "faz 20 marcas de 1’.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 1,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "fa91af37b0a3a851",
+    "name": "Lampião",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/5cd8ae6f662e7b1e.svg",
+    "system": {
+      "description": "ilumina um raio de 30’, consome um frasco de óleo em 2 horas.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 10,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "torch",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "64ac56f9d3b5988b",
+    "name": "Lona",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/4f340d94ce14e276.svg",
+    "system": {
+      "description": "cabe até duas pessoas, impermeável.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 5,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "5141eaa271cf07a2",
+    "name": "Lupa",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/b5731656c4c6ad42.svg",
+    "system": {
+      "description": "amplia visão 4x (detalhes).\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 10,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "f2a670e2d6b28003",
+    "name": "Luvas de couro",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/0e441b5ec45951cf.svg",
+    "system": {
+      "description": "Luvas de couro. Registro da tabela de miscelâneas do Livro Base.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 1,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "daaae546fb8bb6e8",
+    "name": "Marreta",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/b966a5f25dcedc4a.svg",
+    "system": {
+      "description": "Ferramenta de usos diversos.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 2,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "1ea06e002a923bef",
+    "name": "Mochila (80 cn)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/aaea60ae3fd300f0.svg",
+    "system": {
+      "description": "armazena até dez miscelâneas, além de miudezas, no total de até 400 cn.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 5,
+      "weight": 80,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "1c844f9ced5eb1d4",
+    "name": "Óleo (frasco)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/f9bce413df1bd20d.svg",
+    "system": {
+      "description": "usado na culinária, fonte de iluminação (lampião) ou como arma, seja como combustível inflamável ou no preparo de ânforas, dependendo do tipo de óleo.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 2,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "11601e8459cc2951",
+    "name": "Odre",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/540d31d30f0c783e.svg",
+    "system": {
+      "description": "armazena duas doses diárias para uma pessoa (cerca de 2 qt).\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 1,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "ae8ba739f97dec32",
+    "name": "Pá",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/9d21678285634ef2.svg",
+    "system": {
+      "description": "Ferramenta de usos diversos.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 2,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "b24221afab08f9df",
+    "name": "Panela de ferro",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/03011f17f53228b0.svg",
+    "system": {
+      "description": "Panela de ferro. Registro da tabela de miscelâneas do Livro Base.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 1,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "ring",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "1566224a854f158e",
+    "name": "Papiro",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/393c661960a3df2d.svg",
+    "system": {
+      "description": "uma folha de papel para anotações.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 1,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "scroll",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "8ede1c4850463ce5",
+    "name": "Pé de cabra",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/7730230d5e258852.svg",
+    "system": {
+      "description": "Pé de cabra. Registro da tabela de miscelâneas do Livro Base.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 5,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "136838d5a56ca2e9",
+    "name": "Pederneira",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/3608a12875d61f01.svg",
+    "system": {
+      "description": "haste de ignição. Para uso urgente (uma rodada), chance de 2:6.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 2,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "cbe72ed61ddd8c73",
+    "name": "Picareta",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/48b23254cc0d4a68.svg",
+    "system": {
+      "description": "Ferramenta de usos diversos.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 3,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "260cc934b15d0156",
+    "name": "Pinos (12)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/b0d66d10256f96fb.svg",
+    "system": {
+      "description": "feitos de ferro, usados para suportar cordas de escaladas ou emperrar portas.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 1,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "67944fb518a89354",
+    "name": "Polia",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/c17a28244b3cb012.svg",
+    "system": {
+      "description": "demanda o dobro de corda, reduz a massa suportada à metade.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 5,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "bbf650ccb8662a45",
+    "name": "Porta-mapas",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/85106b42b5229e0b.svg",
+    "system": {
+      "description": "armazena 10 papiros.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 1,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "8d18b0a25ad42d80",
+    "name": "Ração, 7 dias (simples)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/482fa767cffb6ea8.svg",
+    "system": {
+      "description": "Alimento para viagens. A ração simples é perecível (por exemplo, pão) e dura uma semana.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 3,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "05135cfceddabec4",
+    "name": "Ração, 7 dias (especial)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/062bdfcaf4177b41.svg",
+    "system": {
+      "description": "Alimento para viagens. A ração especial é desidratada e duradoura.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 15,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "a5aa729c40b72d8d",
+    "name": "Roupa (nobre)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/b50441c33c9009f6.svg",
+    "system": {
+      "description": "Roupa (nobre). Registro da tabela de miscelâneas do Livro Base.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 25,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "cbf6a6cfedefb0d4",
+    "name": "Saco de dormir",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/13ae63917d9b9c2f.svg",
+    "system": {
+      "description": "Saco de dormir. Registro da tabela de miscelâneas do Livro Base.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 1,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "93f6e6da7b0e1e14",
+    "name": "Saco (suporta até 400 cn)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/a1c68473743629c7.svg",
+    "system": {
+      "description": "Saco (suporta até 400 cn). Registro da tabela de miscelâneas do Livro Base.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 1,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "e0f0b0c6533dfc65",
+    "name": "Serrote",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/0a3f6c4f08368b69.svg",
+    "system": {
+      "description": "Serrote. Registro da tabela de miscelâneas do Livro Base.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 5,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "d82a7269eb0fcf6a",
+    "name": "Sino",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/45c3651bac33ea77.svg",
+    "system": {
+      "description": "Sino. Registro da tabela de miscelâneas do Livro Base.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 1,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "383deae61d874c1c",
+    "name": "Tesoura",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/5b92f29bf34c5528.svg",
+    "system": {
+      "description": "Tesoura. Registro da tabela de miscelâneas do Livro Base.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 1,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "4c5098fd3e7de020",
+    "name": "Tinta (frasqueta) e pena",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/fbd26d07a8309a5a.svg",
+    "system": {
+      "description": "10 doses para textos de uma página.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 5,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "dd9e3b9e54f43e8b",
+    "name": "Tochas (3)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/b9e48c8459939528.svg",
+    "system": {
+      "description": "ilumina um raio 30’ e queima por 1h.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 1,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "66cd3c4b370592c3",
+    "name": "Velas (10)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/9112d5bf645b6cfb.svg",
+    "system": {
+      "description": "ilumina um raio de 10’ e queima por 2h.\n\nMiscelânea: a massa dos objetos guardados é contabilizada na mochila (80 cn) ou bolsa de cinto (25 cn); não some novamente a massa desses objetos.\n\nLivro Base V2, p. 46.",
+      "price": 1,
+      "weight": 0,
+      "properties": "Miscelânea"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 46,
+        "pdfPage": 51,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "torch",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "68f6aebf52ea3990",
+    "name": "Barraca (2 pessoas)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/3dcdc313813c6673.svg",
+    "system": {
+      "description": "montagem em 2 turnos.\n\nUtensílio: contabilize sua massa individual em cn.\n\nLivro Base V2, p. 47.",
+      "price": 5,
+      "weight": 100,
+      "properties": "Utensílio"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 47,
+        "pdfPage": 52,
+        "folderPath": [
+          "Equipamentos",
+          "Utensílios"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "d19c0747538e68a4"
+  },
+  {
+    "_id": "97393ac7e9ae629e",
+    "name": "Baú (pequeno)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/cfd7efda615d2210.svg",
+    "system": {
+      "description": "armazenam 20 vezes sua massa.\n\nUtensílio: contabilize sua massa individual em cn.\n\nLivro Base V2, p. 47.",
+      "price": 3,
+      "weight": 5,
+      "properties": "Utensílio"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 47,
+        "pdfPage": 52,
+        "folderPath": [
+          "Equipamentos",
+          "Utensílios"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "d19c0747538e68a4"
+  },
+  {
+    "_id": "d41d819bf4870180",
+    "name": "Baú (médio)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/57b08291b83c309b.svg",
+    "system": {
+      "description": "armazenam 20 vezes sua massa.\n\nUtensílio: contabilize sua massa individual em cn.\n\nLivro Base V2, p. 47.",
+      "price": 10,
+      "weight": 100,
+      "properties": "Utensílio"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 47,
+        "pdfPage": 52,
+        "folderPath": [
+          "Equipamentos",
+          "Utensílios"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "d19c0747538e68a4"
+  },
+  {
+    "_id": "f986c1ffbb0992db",
+    "name": "Baú (grande)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/8dea30667122c2e0.svg",
+    "system": {
+      "description": "armazenam 20 vezes sua massa.\n\nUtensílio: contabilize sua massa individual em cn.\n\nLivro Base V2, p. 47.",
+      "price": 20,
+      "weight": 400,
+      "properties": "Utensílio"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 47,
+        "pdfPage": 52,
+        "folderPath": [
+          "Equipamentos",
+          "Utensílios"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "d19c0747538e68a4"
+  },
+  {
+    "_id": "8e213865bcf8f4ef",
+    "name": "Corrente (10’)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/7e85f820a173440f.svg",
+    "system": {
+      "description": "suporta até 20.000 cn.\n\nUtensílio: contabilize sua massa individual em cn.\n\nLivro Base V2, p. 47.",
+      "price": 25,
+      "weight": 40,
+      "properties": "Utensílio"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 47,
+        "pdfPage": 52,
+        "folderPath": [
+          "Equipamentos",
+          "Utensílios"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "d19c0747538e68a4"
+  },
+  {
+    "_id": "7ad236649a495755",
+    "name": "Escada (10’)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/f4c78b7a1f7f28de.svg",
+    "system": {
+      "description": "Escada (10’). Registro da tabela de utensílios do Livro Base.\n\nUtensílio: contabilize sua massa individual em cn.\n\nLivro Base V2, p. 47.",
+      "price": 5,
+      "weight": 10,
+      "properties": "Utensílio"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 47,
+        "pdfPage": 52,
+        "folderPath": [
+          "Equipamentos",
+          "Utensílios"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "d19c0747538e68a4"
+  },
+  {
+    "_id": "f529529a1787ef3d",
+    "name": "Rede (5’x5’)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/368bf407c04de1cf.svg",
+    "system": {
+      "description": "5’ x 5’ com pesos nas pontas.\n\nUtensílio: contabilize sua massa individual em cn.\n\nLivro Base V2, p. 47.",
+      "price": 5,
+      "weight": 5,
+      "properties": "Utensílio"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 47,
+        "pdfPage": 52,
+        "folderPath": [
+          "Equipamentos",
+          "Utensílios"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "d19c0747538e68a4"
+  },
+  {
+    "_id": "51746180f4eb878f",
+    "name": "Traje de inverno",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/eb946c40a85c0594.svg",
+    "system": {
+      "description": "roupa que protege de baixas temperaturas (até muito frio).\n\nUtensílio: contabilize sua massa individual em cn.\n\nLivro Base V2, p. 47.",
+      "price": 10,
+      "weight": 50,
+      "properties": "Utensílio"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 47,
+        "pdfPage": 52,
+        "folderPath": [
+          "Equipamentos",
+          "Utensílios"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "d19c0747538e68a4"
+  },
+  {
+    "_id": "da08512c92189a55",
+    "name": "Vara de exploração",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/0f4257fc188972f6.svg",
+    "system": {
+      "description": "permite investigações à distância (até ~10’).\n\nUtensílio: contabilize sua massa individual em cn.\n\nLivro Base V2, p. 47.",
+      "price": 1,
+      "weight": 20,
+      "properties": "Utensílio"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 47,
+        "pdfPage": 52,
+        "folderPath": [
+          "Equipamentos",
+          "Utensílios"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "d19c0747538e68a4"
+  },
+  {
+    "_id": "b288f96f1255eefb",
+    "name": "Vara de pescaria",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/f0bd3fa7eb5eb4c3.svg",
+    "system": {
+      "description": "Vara de pescaria. Registro da tabela de utensílios do Livro Base.\n\nUtensílio: contabilize sua massa individual em cn.\n\nLivro Base V2, p. 47.",
+      "price": 5,
+      "weight": 5,
+      "properties": "Utensílio"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 47,
+        "pdfPage": 52,
+        "folderPath": [
+          "Equipamentos",
+          "Utensílios"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "d19c0747538e68a4"
+  },
+  {
+    "_id": "d0fd0367f4646bcd",
+    "name": "Couro simples",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/3ab799d9f031a321.svg",
+    "system": {
+      "description": "Armadura leve. CA: 8 [11]. Equipar exige seis rodadas. Combater sem treinamento causa exaustão.\n\nLivro Base V2, p. 48.",
+      "price": 10,
+      "weight": 100,
+      "ac": 8,
+      "shield": false
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 48,
+        "pdfPage": 53,
+        "folderPath": [
+          "Proteções",
+          "Armaduras"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "40e43030a52872ca"
+  },
+  {
+    "_id": "44e8b8abeb1b8623",
+    "name": "Couro fervido",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/ff225a6cd4d3d74b.svg",
+    "system": {
+      "description": "Armadura leve. CA: 7 [12]. Equipar exige seis rodadas. Combater sem treinamento causa exaustão.\n\nLivro Base V2, p. 48.",
+      "price": 20,
+      "weight": 200,
+      "ac": 7,
+      "shield": false
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 48,
+        "pdfPage": 53,
+        "folderPath": [
+          "Proteções",
+          "Armaduras"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "40e43030a52872ca"
+  },
+  {
+    "_id": "b4998f8d5fc3e3ae",
+    "name": "Lamelar",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/e8f169d913d36ede.svg",
+    "system": {
+      "description": "Armadura média. CA: 6 [13]. Equipar exige um turno. Combater sem treinamento causa exaustão.\n\nElmo, braçadeiras, botas e acessórios estão incluídos. Remover parte da armadura reduz a carga e piora a CA em 1 ponto para cada 100 cn removidos.\n\nLivro Base V2, p. 48.",
+      "price": 40,
+      "weight": 300,
+      "ac": 6,
+      "shield": false
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 48,
+        "pdfPage": 53,
+        "folderPath": [
+          "Proteções",
+          "Armaduras"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "40e43030a52872ca"
+  },
+  {
+    "_id": "ece1db3f56403f2a",
+    "name": "Anelar",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/1c5a691604969ba9.svg",
+    "system": {
+      "description": "Armadura média. CA: 5 [14]. Equipar exige um turno. Combater sem treinamento causa exaustão.\n\nElmo, braçadeiras, botas e acessórios estão incluídos. Remover parte da armadura reduz a carga e piora a CA em 1 ponto para cada 100 cn removidos.\n\nLivro Base V2, p. 48.",
+      "price": 80,
+      "weight": 400,
+      "ac": 5,
+      "shield": false
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 48,
+        "pdfPage": 53,
+        "folderPath": [
+          "Proteções",
+          "Armaduras"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "40e43030a52872ca"
+  },
+  {
+    "_id": "3ca620f1e9d19315",
+    "name": "Segmentada",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/c04ff0141792fe2c.svg",
+    "system": {
+      "description": "Armadura pesada. CA: 4 [15]. Equipar exige um turno (o dobro sem auxílio). Combater sem treinamento causa exaustão.\n\nElmo, braçadeiras, botas e acessórios estão incluídos. Remover parte da armadura reduz a carga e piora a CA em 1 ponto para cada 100 cn removidos.\n\nLivro Base V2, p. 48.",
+      "price": 100,
+      "weight": 500,
+      "ac": 4,
+      "shield": false
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 48,
+        "pdfPage": 53,
+        "folderPath": [
+          "Proteções",
+          "Armaduras"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "40e43030a52872ca"
+  },
+  {
+    "_id": "bfec715def9246d0",
+    "name": "Couraça",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/72193c9b476e9f67.svg",
+    "system": {
+      "description": "Armadura pesada. CA: 3 [16]. Equipar exige um turno (o dobro sem auxílio). Combater sem treinamento causa exaustão.\n\nElmo, braçadeiras, botas e acessórios estão incluídos. Remover parte da armadura reduz a carga e piora a CA em 1 ponto para cada 100 cn removidos.\n\nLivro Base V2, p. 48.",
+      "price": 200,
+      "weight": 600,
+      "ac": 3,
+      "shield": false
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 48,
+        "pdfPage": 53,
+        "folderPath": [
+          "Proteções",
+          "Armaduras"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "40e43030a52872ca"
+  },
+  {
+    "_id": "c1b37e848c850ed4",
+    "name": "Escudo",
+    "type": "armor",
+    "img": "systems/d20age/assets/icons/fa3627decdd236b6.svg",
+    "system": {
+      "description": "O escudo melhora a CA em 1 ponto. Equipá-lo exige uma ação. Pode ser usado intencionalmente como cobertura.\n\nLivro Base V2, p. 48.",
+      "price": 10,
+      "weight": 100,
+      "ac": 9,
+      "shield": true
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 48,
+        "pdfPage": 53,
+        "folderPath": [
+          "Proteções",
+          "Escudos"
+        ],
+        "iconMotif": "shield",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "d4ee847c33746c43"
+  },
+  {
+    "_id": "1e09f7cbf164c67f",
+    "name": "Adaga",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/2ff5326278fc7f35.svg",
+    "system": {
+      "description": "Dano: 1d4. Perfurante; arremesso 10’/20’/30’.\n\nArremesso: o modificador positivo de FOR é adicionado ao dano apenas no primeiro intervalo.\n\nLivro Base V2, p. 49.",
+      "price": 3,
+      "weight": 10,
+      "damage": "1d4",
+      "properties": "Perfurante; arremesso 10’/20’/30’",
+      "mode": "thrown",
+      "range": "5’",
+      "strengthDamage": false
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 49,
+        "pdfPage": 54,
+        "folderPath": [
+          "Armas",
+          "Arremesso"
+        ],
+        "iconMotif": "sword",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "c2bfc5c12f8563fe"
+  },
+  {
+    "_id": "49dba088e20ca48e",
+    "name": "Machadinha",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/57f6a356082d7059.svg",
+    "system": {
+      "description": "Dano: 1d4. Cortante; arremesso 10’/20’/30’.\n\nArremesso: o modificador positivo de FOR é adicionado ao dano apenas no primeiro intervalo.\n\nLivro Base V2, p. 49.",
+      "price": 1,
+      "weight": 20,
+      "damage": "1d4",
+      "properties": "Cortante; arremesso 10’/20’/30’",
+      "mode": "thrown",
+      "range": "5’",
+      "strengthDamage": false
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 49,
+        "pdfPage": 54,
+        "folderPath": [
+          "Armas",
+          "Arremesso"
+        ],
+        "iconMotif": "axe",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "c2bfc5c12f8563fe"
+  },
+  {
+    "_id": "560154a8f92294a9",
+    "name": "Cajado",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/a4c4577f26a737df.svg",
+    "system": {
+      "description": "Dano: 1d4. Impacto; frágil.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nLivro Base V2, p. 49.",
+      "price": 2,
+      "weight": 20,
+      "damage": "1d4",
+      "properties": "Impacto; frágil",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 49,
+        "pdfPage": 54,
+        "folderPath": [
+          "Armas",
+          "Corpo a corpo"
+        ],
+        "iconMotif": "staff",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "023c3bd365bbc636"
+  },
+  {
+    "_id": "ef7a10f35f8dbe0c",
+    "name": "Clava",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/85248a10508f2764.svg",
+    "system": {
+      "description": "Dano: 1d4. Impacto; frágil.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nLivro Base V2, p. 49.",
+      "price": 1,
+      "weight": 30,
+      "damage": "1d4",
+      "properties": "Impacto; frágil",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 49,
+        "pdfPage": 54,
+        "folderPath": [
+          "Armas",
+          "Corpo a corpo"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "023c3bd365bbc636"
+  },
+  {
+    "_id": "de6e42f945d15ef5",
+    "name": "Besta",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/e1a9b004b7bddc70.svg",
+    "system": {
+      "description": "Dano: 1d6. Perfurante; alcance 50’/100’/150’; recarga: rodada completa.\n\nProjétil: modificadores de +1, +0 e −1 no acerto nos três intervalos, respectivamente.\n\nA recarga exige uma rodada completa (ação e movimento). Uma besta já carregada é ágil e geralmente ganha a iniciativa. Exige duas mãos.\n\nLivro Base V2, p. 49.",
+      "price": 25,
+      "weight": 50,
+      "damage": "1d6",
+      "properties": "Perfurante; alcance 50’/100’/150’; recarga: rodada completa",
+      "mode": "ranged",
+      "range": "50’/100’/150’; recarga: rodada completa",
+      "strengthDamage": false
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 49,
+        "pdfPage": 54,
+        "folderPath": [
+          "Armas",
+          "Projéteis"
+        ],
+        "iconMotif": "bow",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "68dbce3b8d79230e"
+  },
+  {
+    "_id": "defd2bc142f73c26",
+    "name": "Funda",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/340c8f84495e10f6.svg",
+    "system": {
+      "description": "Dano: 1d4. Impacto; alcance 30’/60’/90’.\n\nProjétil: modificadores de +1, +0 e −1 no acerto nos três intervalos, respectivamente.\n\nLivro Base V2, p. 49.",
+      "price": 1,
+      "weight": 1,
+      "damage": "1d4",
+      "properties": "Impacto; alcance 30’/60’/90’",
+      "mode": "ranged",
+      "range": "30’/60’/90’",
+      "strengthDamage": false
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 49,
+        "pdfPage": 54,
+        "folderPath": [
+          "Armas",
+          "Projéteis"
+        ],
+        "iconMotif": "bow",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "68dbce3b8d79230e"
+  },
+  {
+    "_id": "3b5a8f2e20ea02f1",
+    "name": "Azagaia",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/1a0a6cdf052bec6e.svg",
+    "system": {
+      "description": "Dano: 1d4. Perfurante; arremesso 20’/40’/60’.\n\nArremesso: o modificador positivo de FOR é adicionado ao dano apenas no primeiro intervalo.\n\nLivro Base V2, p. 49.",
+      "price": 2,
+      "weight": 20,
+      "damage": "1d4",
+      "properties": "Perfurante; arremesso 20’/40’/60’",
+      "mode": "thrown",
+      "range": "5’",
+      "strengthDamage": false
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 49,
+        "pdfPage": 54,
+        "folderPath": [
+          "Armas",
+          "Arremesso"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "c2bfc5c12f8563fe"
+  },
+  {
+    "_id": "f270123a11932e98",
+    "name": "Espada curta",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/81ce1f309033dcef.svg",
+    "system": {
+      "description": "Dano: 1d6. Perfurante.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nLivro Base V2, p. 49.",
+      "price": 7,
+      "weight": 30,
+      "damage": "1d6",
+      "properties": "Perfurante",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 49,
+        "pdfPage": 54,
+        "folderPath": [
+          "Armas",
+          "Corpo a corpo"
+        ],
+        "iconMotif": "sword",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "023c3bd365bbc636"
+  },
+  {
+    "_id": "4180faf447489db7",
+    "name": "Maça",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/e1aa129021474c00.svg",
+    "system": {
+      "description": "Dano: 1d6. Impacto.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nLivro Base V2, p. 49.",
+      "price": 5,
+      "weight": 40,
+      "damage": "1d6",
+      "properties": "Impacto",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 49,
+        "pdfPage": 54,
+        "folderPath": [
+          "Armas",
+          "Corpo a corpo"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "023c3bd365bbc636"
+  },
+  {
+    "_id": "3ea39183328a399d",
+    "name": "Espada longa",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/e5b21694b69ec22f.svg",
+    "system": {
+      "description": "Dano: 1d8. Perfurante; cortante.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nLivro Base V2, p. 49.",
+      "price": 10,
+      "weight": 50,
+      "damage": "1d8",
+      "properties": "Perfurante; cortante",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 49,
+        "pdfPage": 54,
+        "folderPath": [
+          "Armas",
+          "Corpo a corpo"
+        ],
+        "iconMotif": "sword",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "023c3bd365bbc636"
+  },
+  {
+    "_id": "97cd72c8a97f6880",
+    "name": "Lança",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/75faafba735ec37d.svg",
+    "system": {
+      "description": "Dano: 1d6. Perfurante.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nLivro Base V2, p. 49.",
+      "price": 5,
+      "weight": 50,
+      "damage": "1d6",
+      "properties": "Perfurante",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 49,
+        "pdfPage": 54,
+        "folderPath": [
+          "Armas",
+          "Corpo a corpo"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "023c3bd365bbc636"
+  },
+  {
+    "_id": "18132f94174554f4",
+    "name": "Lança de cavalaria",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/a6afca00f660f70a.svg",
+    "system": {
+      "description": "Dano: 1d6. Perfurante; investida.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nInvestida com montaria: deslocar ao menos 60’ causa o dobro de dano.\n\nLivro Base V2, p. 49.",
+      "price": 10,
+      "weight": 100,
+      "damage": "1d6",
+      "properties": "Perfurante; investida",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 49,
+        "pdfPage": 54,
+        "folderPath": [
+          "Armas",
+          "Corpo a corpo"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "023c3bd365bbc636"
+  },
+  {
+    "_id": "cdb1c21dcbf16a3b",
+    "name": "Machado de batalha",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/236c3eb9cf39844d.svg",
+    "system": {
+      "description": "Dano: 1d8. Cortante.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nLivro Base V2, p. 49.",
+      "price": 7,
+      "weight": 70,
+      "damage": "1d8",
+      "properties": "Cortante",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 49,
+        "pdfPage": 54,
+        "folderPath": [
+          "Armas",
+          "Corpo a corpo"
+        ],
+        "iconMotif": "axe",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "023c3bd365bbc636"
+  },
+  {
+    "_id": "be47c6f33e3a2aed",
+    "name": "Martelo de batalha",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/7b62c34a40fbe412.svg",
+    "system": {
+      "description": "Dano: 1d8. Impacto.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nLivro Base V2, p. 49.",
+      "price": 7,
+      "weight": 70,
+      "damage": "1d8",
+      "properties": "Impacto",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 49,
+        "pdfPage": 54,
+        "folderPath": [
+          "Armas",
+          "Corpo a corpo"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "023c3bd365bbc636"
+  },
+  {
+    "_id": "90757b837b935a64",
+    "name": "Alabarda",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/557fe1e326744eed.svg",
+    "system": {
+      "description": "Dano: 1d8. Cortante; duas mãos.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nLivro Base V2, p. 49.",
+      "price": 20,
+      "weight": 100,
+      "damage": "1d8",
+      "properties": "Cortante; duas mãos",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 49,
+        "pdfPage": 54,
+        "folderPath": [
+          "Armas",
+          "Corpo a corpo"
+        ],
+        "iconMotif": "sword",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "023c3bd365bbc636"
+  },
+  {
+    "_id": "e2e22ff90a560903",
+    "name": "Martelo de guerra",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/19874d612632bda0.svg",
+    "system": {
+      "description": "Dano: 1d10. Impacto; duas mãos.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nLivro Base V2, p. 49.",
+      "price": 15,
+      "weight": 150,
+      "damage": "1d10",
+      "properties": "Impacto; duas mãos",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 49,
+        "pdfPage": 54,
+        "folderPath": [
+          "Armas",
+          "Corpo a corpo"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "023c3bd365bbc636"
+  },
+  {
+    "_id": "10224e60fae04ebc",
+    "name": "Machado de guerra",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/92ee802df441dbfa.svg",
+    "system": {
+      "description": "Dano: 1d10. Cortante; duas mãos.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nLivro Base V2, p. 49.",
+      "price": 15,
+      "weight": 150,
+      "damage": "1d10",
+      "properties": "Cortante; duas mãos",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 49,
+        "pdfPage": 54,
+        "folderPath": [
+          "Armas",
+          "Corpo a corpo"
+        ],
+        "iconMotif": "axe",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "023c3bd365bbc636"
+  },
+  {
+    "_id": "86bd6702dd5f4136",
+    "name": "Montante",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/d0ef83f222899d62.svg",
+    "system": {
+      "description": "Dano: 1d10. Perfurante; cortante; duas mãos.\n\nAlcance comum: 5’. Sacar a arma exige movimento.\n\nLivro Base V2, p. 49.",
+      "price": 30,
+      "weight": 100,
+      "damage": "1d10",
+      "properties": "Perfurante; cortante; duas mãos",
+      "mode": "melee",
+      "range": "5’",
+      "strengthDamage": true
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 49,
+        "pdfPage": 54,
+        "folderPath": [
+          "Armas",
+          "Corpo a corpo"
+        ],
+        "iconMotif": "sword",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "023c3bd365bbc636"
+  },
+  {
+    "_id": "00d556b64d52caf0",
+    "name": "Arco curto",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/4f0f97adc04b0c76.svg",
+    "system": {
+      "description": "Dano: 1d6. Perfurante; alcance 50’/100’/150’; duas mãos.\n\nProjétil: modificadores de +1, +0 e −1 no acerto nos três intervalos, respectivamente.\n\nA recarga exige movimento. Exige duas mãos.\n\nLivro Base V2, p. 49.",
+      "price": 25,
+      "weight": 25,
+      "damage": "1d6",
+      "properties": "Perfurante; alcance 50’/100’/150’; duas mãos",
+      "mode": "ranged",
+      "range": "50’/100’/150’; duas mãos",
+      "strengthDamage": false
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 49,
+        "pdfPage": 54,
+        "folderPath": [
+          "Armas",
+          "Projéteis"
+        ],
+        "iconMotif": "bow",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "68dbce3b8d79230e"
+  },
+  {
+    "_id": "542a29bc8fda2ab0",
+    "name": "Arco longo",
+    "type": "weapon",
+    "img": "systems/d20age/assets/icons/3806bcb4ac386806.svg",
+    "system": {
+      "description": "Dano: 1d6. Perfurante; alcance 70’/140’/210’; duas mãos.\n\nProjétil: modificadores de +1, +0 e −1 no acerto nos três intervalos, respectivamente.\n\nA recarga exige movimento. Exige duas mãos.\n\nLivro Base V2, p. 49.",
+      "price": 50,
+      "weight": 50,
+      "damage": "1d6",
+      "properties": "Perfurante; alcance 70’/140’/210’; duas mãos",
+      "mode": "ranged",
+      "range": "70’/140’/210’; duas mãos",
+      "strengthDamage": false
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 49,
+        "pdfPage": 54,
+        "folderPath": [
+          "Armas",
+          "Projéteis"
+        ],
+        "iconMotif": "bow",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "68dbce3b8d79230e"
+  },
+  {
+    "_id": "5041d58ff7e39654",
+    "name": "Aljava",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/888c00a10021a048.svg",
+    "system": {
+      "description": "Estojo ou bolsa que armazena até 20 munições. Sua massa é 20 cn, já considerando as munições.\n\nLivro Base V2, p. 49.",
+      "price": 2,
+      "weight": 20
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 49,
+        "pdfPage": 54,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "9e4cb3dc0da53885",
+    "name": "Munições (20)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/a8c3270bab3736c1.svg",
+    "system": {
+      "description": "Conjunto de 20 setas, flechas ou pedras. Sua massa já é considerada na aljava.\n\nLivro Base V2, p. 49.",
+      "price": 5,
+      "weight": 0
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 49,
+        "pdfPage": 54,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "b46da1c26bfcb7d3",
+    "name": "Alforge",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/34818ee2c007327f.svg",
+    "system": {
+      "description": "Alforge listado entre os adicionais para animais. Preço: 10 po.\n\nLivro Base V2, p. 50.",
+      "price": 10,
+      "weight": 0
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 50,
+        "pdfPage": 55,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "9f8db5f2b86f9026",
+    "name": "Sela",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/4a92d41914d03edc.svg",
+    "system": {
+      "description": "Sela listada entre os adicionais para animais. Preço: 10 po.\n\nLivro Base V2, p. 50.",
+      "price": 10,
+      "weight": 0
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 50,
+        "pdfPage": 55,
+        "folderPath": [
+          "Equipamentos",
+          "Miscelâneas"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ea5e3480c162e481"
+  },
+  {
+    "_id": "83f95c43bb5e2a67",
+    "name": "Acônito (dose)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/1a7ddc3474b866ce.svg",
+    "system": {
+      "description": "Repele lobos e licantropos.\n\nLivro Base V2, p. 50.",
+      "price": 10,
+      "properties": "Erva medicinal"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 50,
+        "pdfPage": 55,
+        "folderPath": [
+          "Consumíveis",
+          "Ervas medicinais"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "fbe1a909333ce16e"
+  },
+  {
+    "_id": "a5b00d8bb40c9420",
+    "name": "Alecrim (dose)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/cbbe0a152a2c98a6.svg",
+    "system": {
+      "description": "Estimulante mental; alívio de dores.\n\nLivro Base V2, p. 50.",
+      "price": 0.5,
+      "properties": "Erva medicinal"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 50,
+        "pdfPage": 55,
+        "folderPath": [
+          "Consumíveis",
+          "Ervas medicinais"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "fbe1a909333ce16e"
+  },
+  {
+    "_id": "e5116eeddac44276",
+    "name": "Alho (dose)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/c2a41200513b7f05.svg",
+    "system": {
+      "description": "Trata infecções e repele vampiros.\n\nLivro Base V2, p. 50.",
+      "price": 0.5,
+      "properties": "Erva medicinal"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 50,
+        "pdfPage": 55,
+        "folderPath": [
+          "Consumíveis",
+          "Ervas medicinais"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "fbe1a909333ce16e"
+  },
+  {
+    "_id": "542bbbacb6ee7d46",
+    "name": "Arruda (dose)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/0c2d147cd583573d.svg",
+    "system": {
+      "description": "Afasta maldições.\n\nLivro Base V2, p. 50.",
+      "price": 1,
+      "properties": "Erva medicinal"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 50,
+        "pdfPage": 55,
+        "folderPath": [
+          "Consumíveis",
+          "Ervas medicinais"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "fbe1a909333ce16e"
+  },
+  {
+    "_id": "371b6cd8f9f4e29b",
+    "name": "Camomila (dose)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/dead705d399cede8.svg",
+    "system": {
+      "description": "Calmante; tratamento de insônia e indigestão.\n\nLivro Base V2, p. 50.",
+      "price": 0.1,
+      "properties": "Erva medicinal"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 50,
+        "pdfPage": 55,
+        "folderPath": [
+          "Consumíveis",
+          "Ervas medicinais"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "fbe1a909333ce16e"
+  },
+  {
+    "_id": "e1d4858a6b9b1a52",
+    "name": "Dente-de-leão (dose)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/8efa0500f1a76dd9.svg",
+    "system": {
+      "description": "Desintoxicações alimentares.\n\nLivro Base V2, p. 50.",
+      "price": 0.5,
+      "properties": "Erva medicinal"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 50,
+        "pdfPage": 55,
+        "folderPath": [
+          "Consumíveis",
+          "Ervas medicinais"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "fbe1a909333ce16e"
+  },
+  {
+    "_id": "2a8f5b0f7cb78115",
+    "name": "Erva-cidreira (dose)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/539382c1a5307280.svg",
+    "system": {
+      "description": "Tratamento de ansiedade, insônia e problemas digestivos.\n\nLivro Base V2, p. 50.",
+      "price": 0.5,
+      "properties": "Erva medicinal"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 50,
+        "pdfPage": 55,
+        "folderPath": [
+          "Consumíveis",
+          "Ervas medicinais"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "fbe1a909333ce16e"
+  },
+  {
+    "_id": "4620115fd7aa8dc4",
+    "name": "Gengibre (dose)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/da3cc407931a6821.svg",
+    "system": {
+      "description": "Alívio de náuseas e dores musculares.\n\nLivro Base V2, p. 50.",
+      "price": 0.1,
+      "properties": "Erva medicinal"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 50,
+        "pdfPage": 55,
+        "folderPath": [
+          "Consumíveis",
+          "Ervas medicinais"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "fbe1a909333ce16e"
+  },
+  {
+    "_id": "fb59b6c481e6b97e",
+    "name": "Sálvia (dose)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/2a0bbe0b525f6f1c.svg",
+    "system": {
+      "description": "Tratamento de espasmos; melhora a concentração e trata indigestão.\n\nLivro Base V2, p. 50.",
+      "price": 0.1,
+      "properties": "Erva medicinal"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 50,
+        "pdfPage": 55,
+        "folderPath": [
+          "Consumíveis",
+          "Ervas medicinais"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "fbe1a909333ce16e"
+  },
+  {
+    "_id": "6da0252d5922ce4e",
+    "name": "Valeriana (dose)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/c3c678f93b04189e.svg",
+    "system": {
+      "description": "Tratamento de insônia; relaxante muscular.\n\nLivro Base V2, p. 50.",
+      "price": 0.5,
+      "properties": "Erva medicinal"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 50,
+        "pdfPage": 55,
+        "folderPath": [
+          "Consumíveis",
+          "Ervas medicinais"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "fbe1a909333ce16e"
+  },
+  {
+    "_id": "4d161323960359cf",
+    "name": "Canoa",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/ab4b0d159102f4e4.svg",
+    "system": {
+      "description": "Canoa: feita de madeira, couro e lona, movida a remos (pesa 500 cn).\n\nCapacidade de carga: 6.000 cn. Tração: 1 pessoa (remo). Movimento: 60’. CA: 9 [10]. PV: 15.\n\nLivro Base V2, p. 51.",
+      "price": 50,
+      "carried": false,
+      "properties": "Veículo; consultar capacidade, movimento e tripulação na descrição"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 51,
+        "pdfPage": 56,
+        "folderPath": [
+          "Transporte e cerco",
+          "Veículos"
+        ],
+        "iconMotif": "boat",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "594b77f4eef89c63"
+  },
+  {
+    "_id": "16d166b4e473cff8",
+    "name": "Jangada",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/d5129a1f7ff81417.svg",
+    "system": {
+      "description": "Jangada: feita de troncos de madeira e cordas (10’x10’), movida a remos.\n\nPode-se construir uma jangada improvisada (10’x10’) com uma corda e cortando madeira em um dia.\n\nCapacidade de carga: 5.000 cn. Tração: 1 pessoa (remo). Movimento: 30’. CA: 9 [10]. PV: 5.\n\nLivro Base V2, p. 51.",
+      "price": 30,
+      "carried": false,
+      "properties": "Veículo; consultar capacidade, movimento e tripulação na descrição"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 51,
+        "pdfPage": 56,
+        "folderPath": [
+          "Transporte e cerco",
+          "Veículos"
+        ],
+        "iconMotif": "boat",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "594b77f4eef89c63"
+  },
+  {
+    "_id": "f41662e6f872847b",
+    "name": "Barco fluvial",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/86dfc50473bc9672.svg",
+    "system": {
+      "description": "Barco fluvial: barcos fluviais são remados ou empurrados com varas. Um teto pode ser adicionado para proteger passageiros e carga, com custo extra de 1.000 po.\n\nCapacidade de carga: 30.000 cn. Tração: 8 pessoas (remos). Movimento: 60’. CA: 8 [11]. PV: 30.\n\nLivro Base V2, p. 51.",
+      "price": 4000,
+      "carried": false,
+      "properties": "Veículo; consultar capacidade, movimento e tripulação na descrição"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 51,
+        "pdfPage": 56,
+        "folderPath": [
+          "Transporte e cerco",
+          "Veículos"
+        ],
+        "iconMotif": "bow",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "594b77f4eef89c63"
+  },
+  {
+    "_id": "4976911f2cff8c89",
+    "name": "Barco a vela",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/3f84d1fb2c7b7d4d.svg",
+    "system": {
+      "description": "Barco a vela: pequeno, normalmente usado para pesca em lagos ou águas costeiras.\n\nCapacidade de carga: 20.000 cn. Tração: 1 pessoa (vela). Movimento: 120’. CA: 8 [11]. PV: 30.\n\nLivro Base V2, p. 51.",
+      "price": 2000,
+      "carried": false,
+      "properties": "Veículo; consultar capacidade, movimento e tripulação na descrição"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 51,
+        "pdfPage": 56,
+        "folderPath": [
+          "Transporte e cerco",
+          "Veículos"
+        ],
+        "iconMotif": "bow",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "594b77f4eef89c63"
+  },
+  {
+    "_id": "950b82f6b9af13a9",
+    "name": "Galé a remos",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/d6d4327bf6273038.svg",
+    "system": {
+      "description": "Galé a remos: um navio longo com um calado raso, movido a remos.\n\nCapacidade de carga: 300.000 cn. Tração: 180 pessoas (remos). Movimento: 90’. CA: 7 [12]. PV: 110.\n\nLivro Base V2, p. 51.",
+      "price": 30000,
+      "carried": false,
+      "properties": "Veículo; consultar capacidade, movimento e tripulação na descrição"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 51,
+        "pdfPage": 56,
+        "folderPath": [
+          "Transporte e cerco",
+          "Veículos"
+        ],
+        "iconMotif": "boat",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "594b77f4eef89c63"
+  },
+  {
+    "_id": "a541c72d0ed80849",
+    "name": "Galé a vela",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/86b5e018804d1352.svg",
+    "system": {
+      "description": "Galé a vela: um navio longo com um calado raso e um único mastro de vela quadrada.\n\nCapacidade de carga: 300.000 cn. Tração: 20 pessoas (velas). Movimento: 120’. CA: 7 [12]. PV: 110.\n\nLivro Base V2, p. 51.",
+      "price": 30000,
+      "carried": false,
+      "properties": "Veículo; consultar capacidade, movimento e tripulação na descrição"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 51,
+        "pdfPage": 56,
+        "folderPath": [
+          "Transporte e cerco",
+          "Veículos"
+        ],
+        "iconMotif": "torch",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "594b77f4eef89c63"
+  },
+  {
+    "_id": "c0fdcaf50afb6ea2",
+    "name": "Galé de guerra",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/04ca0f64d5ec1e52.svg",
+    "system": {
+      "description": "Galé de guerra: embarcação de grande porte, projetada para batalha. Possui dois mastros, um aríete acoplado e um convés acima da área de remadores.\n\nCapacidade de carga: 300.000 cn. Tração: 30 pessoas (velas). Movimento: 60’. CA: 7 [12]. PV: 150.\n\nLivro Base V2, p. 51.",
+      "price": 60000,
+      "carried": false,
+      "properties": "Veículo; consultar capacidade, movimento e tripulação na descrição"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 51,
+        "pdfPage": 56,
+        "folderPath": [
+          "Transporte e cerco",
+          "Veículos"
+        ],
+        "iconMotif": "boat",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "594b77f4eef89c63"
+  },
+  {
+    "_id": "234498dda5c96334",
+    "name": "Nau",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/3a3be4f20a684a06.svg",
+    "system": {
+      "description": "Nau: embarcação de grande porte, com dois mastros, projetada para navegação em mar aberto.\n\nCapacidade de carga: 400.000 cn. Tração: 75 pessoas (velas). Movimento: 150’. CA: 8 [11]. PV: 60.\n\nLivro Base V2, p. 51.",
+      "price": 15000,
+      "carried": false,
+      "properties": "Veículo; consultar capacidade, movimento e tripulação na descrição"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 51,
+        "pdfPage": 56,
+        "folderPath": [
+          "Transporte e cerco",
+          "Veículos"
+        ],
+        "iconMotif": "boat",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "594b77f4eef89c63"
+  },
+  {
+    "_id": "7f7f895b6826047f",
+    "name": "Charrete",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/8eeb3cac5c5a7e39.svg",
+    "system": {
+      "description": "Charrete: feita de madeira, com duas rodas. O movimento é dobrado quando se dobram os animais.\n\nCapacidade de carga: 6.000 cn. Tração: 1 mula. Movimento: 20’. CA: 9 [10]. PV: 5.\n\nLivro Base V2, p. 51.",
+      "price": 100,
+      "carried": false,
+      "properties": "Veículo; consultar capacidade, movimento e tripulação na descrição"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 51,
+        "pdfPage": 56,
+        "folderPath": [
+          "Transporte e cerco",
+          "Veículos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "594b77f4eef89c63"
+  },
+  {
+    "_id": "eb3069dd47b38ac0",
+    "name": "Carroça",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/045ce2c6767294ba.svg",
+    "system": {
+      "description": "Carroça: feita de madeira, com duas rodas.\n\nCapacidade de carga: 8.000 cn. Tração: 1 cavalo. Movimento: 20’. CA: 9 [10]. PV: 15.\n\nLivro Base V2, p. 51.",
+      "price": 400,
+      "carried": false,
+      "properties": "Veículo; consultar capacidade, movimento e tripulação na descrição"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 51,
+        "pdfPage": 56,
+        "folderPath": [
+          "Transporte e cerco",
+          "Veículos"
+        ],
+        "iconMotif": "boat",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "594b77f4eef89c63"
+  },
+  {
+    "_id": "bca408843c34ace6",
+    "name": "Carruagem",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/6c353c76d9e09a87.svg",
+    "system": {
+      "description": "Carruagem: feita de madeira, com quatro rodas. O movimento é dobrado (até metade da carga) ou quando se dobram os animais.\n\nCapacidade de carga: 25.000 cn. Tração: 2 cavalos. Movimento: 20’. CA: 8 [11]. PV: 20.\n\nLivro Base V2, p. 51.",
+      "price": 800,
+      "carried": false,
+      "properties": "Veículo; consultar capacidade, movimento e tripulação na descrição"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 51,
+        "pdfPage": 56,
+        "folderPath": [
+          "Transporte e cerco",
+          "Veículos"
+        ],
+        "iconMotif": "boat",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "594b77f4eef89c63"
+  },
+  {
+    "_id": "d772f2b981f5cc06",
+    "name": "Aríete",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/6a936e72b22a7927.svg",
+    "system": {
+      "description": "Aríete Arma usada contra veículos ou criaturas enormes, acoplado em veículos aquáticos, terrestres ou puxado por pessoas. TAC0: 19 [+0]; Atq: golpe (1d6+5 × 10 contra veículos ou 6d6 contra criaturas).\n\nLivro Base V2, p. 52.",
+      "price": 10000,
+      "weight": 0,
+      "carried": false,
+      "properties": "Máquina de guerra / munição"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 52,
+        "pdfPage": 57,
+        "folderPath": [
+          "Transporte e cerco",
+          "Máquinas de guerra"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "161d805b1faed8a4"
+  },
+  {
+    "_id": "25d923e4761152c3",
+    "name": "Balista",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/62c71cba9081b9f1.svg",
+    "system": {
+      "description": "Balista Uma máquina de guerra semelhante a uma besta gigante, que dispara setas. CA: 4 [15]; PV*: 9; TAC0: 19 [+0]; Atq: seta (3d6); Alcance: 200’/400’/600’ (projétil).\n\n● Massa: 6.000 cn;\n\n● Combate: dispara uma seta a cada 5 rodadas (com ajuda de uma pessoa, reduzida para 4 rodadas, com ajuda de duas pessoas, reduzida para 3 rodadas).\n\nLivro Base V2, p. 52.",
+      "price": 100,
+      "weight": 6000,
+      "carried": false,
+      "properties": "Máquina de guerra / munição"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 52,
+        "pdfPage": 57,
+        "folderPath": [
+          "Transporte e cerco",
+          "Máquinas de guerra"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "161d805b1faed8a4"
+  },
+  {
+    "_id": "a6afc80b03d4b2f7",
+    "name": "Munição (balista)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/9fb9414412cf8076.svg",
+    "system": {
+      "description": "Seta para balista. O disparo pela máquina causa 3d6 de dano, com alcance de 200’/400’/600’.\n\nLivro Base V2, p. 52.",
+      "price": 5,
+      "weight": 0,
+      "carried": false,
+      "properties": "Máquina de guerra / munição"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 52,
+        "pdfPage": 57,
+        "folderPath": [
+          "Transporte e cerco",
+          "Máquinas de guerra"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "161d805b1faed8a4"
+  },
+  {
+    "_id": "c961296d04c4ddf0",
+    "name": "Catapulta",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/503b21f7eb3c7b48.svg",
+    "system": {
+      "description": "Catapulta Dispara grandes pedras ou um recipiente com piche flamejante. CA: 4 [15]; PV*: 18; TAC0: 19 [+0]; Atq: pedra (3d6) ou piche flamejante (até 600’).\n\n● Massa: 10.000 cn;\n\n● Combate: mínimo duas pessoas\n\n▫ 2 pessoas - TAC0: 19 [+0]. Dispara a cada 10 rodadas.\n\n▫ 3 pessoas - TAC0: 18 [+1]. Dispara a cada 8 rodadas.\n\n▫ 4 pessoas - TAC0: 17 [+2]. Dispara a cada 6 rodadas.\n\n● Pedra: 3d6 de dano em construções ou veículos.\n\nLivro Base V2, p. 52.",
+      "price": 100,
+      "weight": 10000,
+      "carried": false,
+      "properties": "Máquina de guerra / munição"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 52,
+        "pdfPage": 57,
+        "folderPath": [
+          "Transporte e cerco",
+          "Máquinas de guerra"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "161d805b1faed8a4"
+  },
+  {
+    "_id": "e516fcb74797fff1",
+    "name": "Pedra (catapulta)",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/555790a54f9363e5.svg",
+    "system": {
+      "description": "● Pedra: 3d6 de dano em construções ou veículos.\n\nLivro Base V2, p. 52.",
+      "price": 5,
+      "weight": 0,
+      "carried": false,
+      "properties": "Máquina de guerra / munição"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 52,
+        "pdfPage": 57,
+        "folderPath": [
+          "Transporte e cerco",
+          "Máquinas de guerra"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "161d805b1faed8a4"
+  },
+  {
+    "_id": "e992a242947b9967",
+    "name": "Piche flamejante",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/fef0452f48e26c1a.svg",
+    "system": {
+      "description": "● Piche flamejante: incendeia uma área de 10' × 10'. A queimada causa 1d6 pontos de dano por turno (por pelo menos um turno) e se espalhará para outras áreas se não for extinta. Um incêndio pode ser apagado por cinco pessoas em 3 turnos, dez pessoas em 2 turnos ou quinze pessoas em 1 turno.\n\nLivro Base V2, p. 52.",
+      "price": 25,
+      "weight": 0,
+      "carried": false,
+      "properties": "Máquina de guerra / munição"
+    },
+    "flags": {
+      "d20age": {
+        "source": "d20age RPG - LB (V2)",
+        "page": 52,
+        "pdfPage": 57,
+        "folderPath": [
+          "Transporte e cerco",
+          "Máquinas de guerra"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "161d805b1faed8a4"
+  },
+  {
+    "_id": "d7857e9fe3b6e00a",
+    "name": "Veneno · Aranha aquática",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/8c9e8ea6c6872fec.svg",
+    "system": {
+      "price": 300,
+      "weight": 0,
+      "description": "Se causar ferimento (dano) imobiliza criaturas de tamanho grande ou inferior por 1d4 turnos (SV-M para evitar).\n\nDuração: uma semana se bem armazenado, até um ano com treinamento adequado. Aplicação e salvaguarda são resolvidas pela mesa.\n\nLivro Base V2, p. 192.",
+      "properties": "Veneno; dose"
+    },
+    "flags": {
+      "d20age": {
+        "page": 192,
+        "pdfPage": 197,
+        "source": "d20age RPG - LB (V2)",
+        "folderPath": [
+          "Consumíveis",
+          "Venenos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "e080a5cd5027eef4"
+  },
+  {
+    "_id": "bbbc43dc94b452b6",
+    "name": "Veneno · Aranha da noite",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/47027f13def00dee.svg",
+    "system": {
+      "price": 100,
+      "weight": 0,
+      "description": "Se acertar os olhos (SV-C) cega um alvo por 24h.\n\nDuração: uma semana se bem armazenado, até um ano com treinamento adequado. Aplicação e salvaguarda são resolvidas pela mesa.\n\nLivro Base V2, p. 192.",
+      "properties": "Veneno; dose"
+    },
+    "flags": {
+      "d20age": {
+        "page": 192,
+        "pdfPage": 197,
+        "source": "d20age RPG - LB (V2)",
+        "folderPath": [
+          "Consumíveis",
+          "Venenos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "e080a5cd5027eef4"
+  },
+  {
+    "_id": "34ef27ac47282f0a",
+    "name": "Veneno · Centopeia gigante",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/dd31f5e1b7685dac.svg",
+    "system": {
+      "price": 500,
+      "weight": 0,
+      "description": "Se causar ferimento (dano) gera inabilitação em criaturas de tamanho médio ou inferior por 2d4 dias (SV-M para evitar).\n\nDuração: uma semana se bem armazenado, até um ano com treinamento adequado. Aplicação e salvaguarda são resolvidas pela mesa.\n\nLivro Base V2, p. 192.",
+      "properties": "Veneno; dose"
+    },
+    "flags": {
+      "d20age": {
+        "page": 192,
+        "pdfPage": 197,
+        "source": "d20age RPG - LB (V2)",
+        "folderPath": [
+          "Consumíveis",
+          "Venenos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "e080a5cd5027eef4"
+  },
+  {
+    "_id": "85ef348101c3b3df",
+    "name": "Veneno · Chá de cogumelo",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/fb346a242f86a33b.svg",
+    "system": {
+      "price": 50,
+      "weight": 0,
+      "description": "Se ingerido por humanoides de tamanho grande ou inferior gera alucinações por 2d4 turnos (SV-M para evitar).\n\nDuração: uma semana se bem armazenado, até um ano com treinamento adequado. Aplicação e salvaguarda são resolvidas pela mesa.\n\nLivro Base V2, p. 192.",
+      "properties": "Veneno; dose"
+    },
+    "flags": {
+      "d20age": {
+        "page": 192,
+        "pdfPage": 197,
+        "source": "d20age RPG - LB (V2)",
+        "folderPath": [
+          "Consumíveis",
+          "Venenos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "e080a5cd5027eef4"
+  },
+  {
+    "_id": "8766f74901fc42c1",
+    "name": "Veneno · Flor de nebulosa",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/7f9ebe4bd4814215.svg",
+    "system": {
+      "price": 50,
+      "weight": 0,
+      "description": "Expele um gás em uma área de 10’, cegante por 1d4 rodadas (SV-M para evitar).\n\nDuração: uma semana se bem armazenado, até um ano com treinamento adequado. Aplicação e salvaguarda são resolvidas pela mesa.\n\nLivro Base V2, p. 192.",
+      "properties": "Veneno; dose"
+    },
+    "flags": {
+      "d20age": {
+        "page": 192,
+        "pdfPage": 197,
+        "source": "d20age RPG - LB (V2)",
+        "folderPath": [
+          "Consumíveis",
+          "Venenos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "e080a5cd5027eef4"
+  },
+  {
+    "_id": "64023d7e40c08433",
+    "name": "Veneno · Pó de trasgo",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/3e8c89fbc80d0f07.svg",
+    "system": {
+      "price": 100,
+      "weight": 0,
+      "description": "Expele um gás em área de 5’, se inalado causa alucinações em humanoides por 1 turno (SV-M para evitar).\n\nDuração: uma semana se bem armazenado, até um ano com treinamento adequado. Aplicação e salvaguarda são resolvidas pela mesa.\n\nLivro Base V2, p. 192.",
+      "properties": "Veneno; dose"
+    },
+    "flags": {
+      "d20age": {
+        "page": 192,
+        "pdfPage": 197,
+        "source": "d20age RPG - LB (V2)",
+        "folderPath": [
+          "Consumíveis",
+          "Venenos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "e080a5cd5027eef4"
+  },
+  {
+    "_id": "039de131e4ead90e",
+    "name": "Veneno · Sapo",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/d7d7debe32957682.svg",
+    "system": {
+      "price": 200,
+      "weight": 0,
+      "description": "Se causar ferimento (dano) imobiliza criaturas de tamanho médio ou inferior por 1 turno (SV-M para evitar).\n\nDuração: uma semana se bem armazenado, até um ano com treinamento adequado. Aplicação e salvaguarda são resolvidas pela mesa.\n\nLivro Base V2, p. 192.",
+      "properties": "Veneno; dose"
+    },
+    "flags": {
+      "d20age": {
+        "page": 192,
+        "pdfPage": 197,
+        "source": "d20age RPG - LB (V2)",
+        "folderPath": [
+          "Consumíveis",
+          "Venenos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "e080a5cd5027eef4"
+  },
+  {
+    "_id": "f5aee9bf4d02cd28",
+    "name": "Veneno · Serpe",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/224172a07cc3c8df.svg",
+    "system": {
+      "price": 2000,
+      "weight": 0,
+      "description": "Se causar ferimento (dano) mata o alvo de tamanho grande ou inferior imediatamente (SV-M para evitar).\n\nDuração: uma semana se bem armazenado, até um ano com treinamento adequado. Aplicação e salvaguarda são resolvidas pela mesa.\n\nLivro Base V2, p. 192.",
+      "properties": "Veneno; dose"
+    },
+    "flags": {
+      "d20age": {
+        "page": 192,
+        "pdfPage": 197,
+        "source": "d20age RPG - LB (V2)",
+        "folderPath": [
+          "Consumíveis",
+          "Venenos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "e080a5cd5027eef4"
+  },
+  {
+    "_id": "a038d300eaa70630",
+    "name": "Veneno · Vapor de miasma",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/e7ff163aa79abc1e.svg",
+    "system": {
+      "price": 1000,
+      "weight": 0,
+      "description": "Expele um gás em área de 5’, se inalado provoca perda da memória recente (últimos 2d6 turnos, SV-F para evitar).\n\nDuração: uma semana se bem armazenado, até um ano com treinamento adequado. Aplicação e salvaguarda são resolvidas pela mesa.\n\nLivro Base V2, p. 192.",
+      "properties": "Veneno; dose"
+    },
+    "flags": {
+      "d20age": {
+        "page": 192,
+        "pdfPage": 197,
+        "source": "d20age RPG - LB (V2)",
+        "folderPath": [
+          "Consumíveis",
+          "Venenos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "e080a5cd5027eef4"
+  },
+  {
+    "_id": "94683a1b57c74aac",
+    "name": "Veneno · Verme carniceiro",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/cc5e952cfd633ac9.svg",
+    "system": {
+      "price": 500,
+      "weight": 0,
+      "description": "Se tocado na pele, imobiliza criaturas de tamanho médio ou inferior por 1d4 turnos (SV-P para evitar).\n\nDuração: uma semana se bem armazenado, até um ano com treinamento adequado. Aplicação e salvaguarda são resolvidas pela mesa.\n\nLivro Base V2, p. 192.",
+      "properties": "Veneno; dose"
+    },
+    "flags": {
+      "d20age": {
+        "page": 192,
+        "pdfPage": 197,
+        "source": "d20age RPG - LB (V2)",
+        "folderPath": [
+          "Consumíveis",
+          "Venenos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "e080a5cd5027eef4"
+  },
+  {
+    "_id": "32016698fed46adb",
+    "name": "Veneno · Víbora",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/06201eb9a3765417.svg",
+    "system": {
+      "price": 1200,
+      "weight": 0,
+      "description": "Se causar ferimento (dano) mata um alvo de tamanho médio ou inferior imediatamente (SV-M para evitar).\n\nDuração: uma semana se bem armazenado, até um ano com treinamento adequado. Aplicação e salvaguarda são resolvidas pela mesa.\n\nLivro Base V2, p. 192.",
+      "properties": "Veneno; dose"
+    },
+    "flags": {
+      "d20age": {
+        "page": 192,
+        "pdfPage": 197,
+        "source": "d20age RPG - LB (V2)",
+        "folderPath": [
+          "Consumíveis",
+          "Venenos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "e080a5cd5027eef4"
+  },
+  {
+    "_id": "9913e4410d4dd9b1",
+    "name": "Veneno · Viúva negra",
+    "type": "equipment",
+    "img": "systems/d20age/assets/icons/21450b5bd87176f8.svg",
+    "system": {
+      "price": 1000,
+      "weight": 0,
+      "description": "Se penetrar no sangue (causar dano) mata um alvo de tamanho médio ou inferior em um turno (SV-M para evitar).\n\nDuração: uma semana se bem armazenado, até um ano com treinamento adequado. Aplicação e salvaguarda são resolvidas pela mesa.\n\nLivro Base V2, p. 192.",
+      "properties": "Veneno; dose"
+    },
+    "flags": {
+      "d20age": {
+        "page": 192,
+        "pdfPage": 197,
+        "source": "d20age RPG - LB (V2)",
+        "folderPath": [
+          "Consumíveis",
+          "Venenos"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "e080a5cd5027eef4"
+  }
+]

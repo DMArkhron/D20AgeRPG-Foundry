@@ -1,0 +1,68 @@
+{
+  "id": "d20age",
+  "title": "D20Age RPG",
+  "description": "Sistema independente em desenvolvimento para D20Age RPG, Livro Base V2. Fichas em preto e branco.",
+  "version": "0.6.1",
+  "compatibility": {
+    "minimum": "13",
+    "maximum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "DM Arkhron",
+      "url": "https://github.com/DMArkhron"
+    }
+  ],
+  "esmodules": [
+    "scripts/d20age.mjs"
+  ],
+  "styles": [
+    "styles/d20age.css"
+  ],
+  "languages": [
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "lang/pt-BR.json"
+    },
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "documentTypes": {
+    "Actor": {
+      "character": {},
+      "creature": {},
+      "party": {}
+    },
+    "Item": {
+      "weapon": {},
+      "armor": {},
+      "equipment": {},
+      "spell": {},
+      "ability": {}
+    }
+  },
+  "initiative": "1d6",
+  "grid": {
+    "distance": 5,
+    "units": "pés"
+  },
+  "primaryTokenAttribute": "hp",
+  "packs": [],
+  "socket": false,
+  "media": [
+    {
+      "type": "setup",
+      "url": "systems/d20age/assets/cover.png?v=0.5.1",
+      "thumbnail": "systems/d20age/assets/cover.png?v=0.5.1",
+      "caption": "D20Age RPG — aventuras em mapas de pergaminho"
+    }
+  ],
+  "url": "https://github.com/DMArkhron/D20AgeRPG-Foundry",
+  "manifest": "https://github.com/DMArkhron/D20AgeRPG-Foundry/releases/latest/download/system.json",
+  "download": "https://github.com/DMArkhron/D20AgeRPG-Foundry/releases/download/v0.6.1/d20age.zip"
+}

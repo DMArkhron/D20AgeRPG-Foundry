@@ -1,0 +1,3080 @@
+[
+  {
+    "name": "Abelha assassina operária · diminuto",
+    "pdfPage": 124,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "½ (2 PV)",
+      "Atq": "1x ferrão (1d3+veneno)",
+      "TAC0": "20 [-1]",
+      "MV": "50’ (voo)",
+      "SV": "17",
+      "ML": "9",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "6",
+      "NA": "1d6 (5d6)",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Abelha assassina guardiã · diminuto",
+    "pdfPage": 124,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "1 (4 PV)",
+      "Atq": "1x ferrão (1d4 + veneno)",
+      "TAC0": "19 [+0]",
+      "MV": "50’ (voo)",
+      "SV": "15",
+      "ML": "10",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "10",
+      "NA": "0 (0)",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Abelha assassina rainha · diminuto",
+    "pdfPage": 124,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "2 (9 PV)",
+      "Atq": "1x ferrão (1d4 + veneno)",
+      "TAC0": "18 [+1]",
+      "MV": "50’ (voo)",
+      "SV": "15",
+      "ML": "11",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "35",
+      "NA": "0 (0)",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Camelo · grande",
+    "pdfPage": 125,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "2 (9 PV)",
+      "Atq": "1x pata (1d4)",
+      "TAC0": "18 [+1]",
+      "MV": "50’",
+      "SV": "15",
+      "ML": "7",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "20",
+      "NA": "-",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Cavalo de guerra · grande",
+    "pdfPage": 125,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "3+1 (14 PV)",
+      "Atq": "2x patas (1d6)",
+      "TAC0": "16 [+3]",
+      "MV": "40’",
+      "SV": "13",
+      "ML": "9",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "",
+      "XP": "75",
+      "NA": "-",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Cavalo de tração · grande",
+    "pdfPage": 125,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "3 (13 PV)",
+      "Atq": "1x pata (1d6)",
+      "TAC0": "17 [+2]",
+      "MV": "40’",
+      "SV": "15",
+      "ML": "6",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "",
+      "XP": "35",
+      "NA": "-",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Cavalo de cavalgada · grande",
+    "pdfPage": 125,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "2 (9 PV)",
+      "Atq": "1x pata (1d6)",
+      "TAC0": "18 [+1]",
+      "MV": "80’",
+      "SV": "15",
+      "ML": "7",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "",
+      "XP": "35",
+      "NA": "-",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Mula · médio",
+    "pdfPage": 125,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "2 (9 PV)",
+      "Atq": "1x pata (1d4)",
+      "TAC0": "18 [+1]",
+      "MV": "30’",
+      "SV": "15",
+      "ML": "8",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "",
+      "XP": "20",
+      "NA": "-",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Pônei · médio",
+    "pdfPage": 125,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "2 (9 PV)",
+      "Atq": "1x pata (1d4)",
+      "TAC0": "18 [+1]",
+      "MV": "40’",
+      "SV": "15",
+      "ML": "8",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "",
+      "XP": "20",
+      "NA": "-",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Águia · pequeno",
+    "pdfPage": 125,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "1 (4 PV)",
+      "Atq": "2x garras (1d2) ou bico (1d4)",
+      "TAC0": "19 [+0]",
+      "MV": "150’ (voo)",
+      "SV": "15",
+      "ML": "8",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "10",
+      "NA": "0 (1d8)",
+      "TT": "J"
+    }
+  },
+  {
+    "name": "Águia gigante · grande",
+    "pdfPage": 125,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "4 (18 PV)",
+      "Atq": "2x garras (1d6) ou bico (1d10)",
+      "TAC0": "16 [+3]",
+      "MV": "150’ (voo)",
+      "SV": "13",
+      "ML": "9",
+      "Al": "N",
+      "CG": "SR",
+      "Id": "-",
+      "XP": "75",
+      "NA": "0 (1d3)",
+      "TT": "L"
+    }
+  },
+  {
+    "name": "Aranha aquática · médio",
+    "pdfPage": 126,
+    "stats": {
+      "CA": "5 [14]",
+      "DV": "3+1 (14 PV)",
+      "Atq": "1x picada (1d4 + veneno)",
+      "TAC0": "16 [+3]",
+      "MV": "50’ (nado)",
+      "SV": "13",
+      "ML": "7",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "75",
+      "NA": "2d10 (2d10)",
+      "TT": "J"
+    }
+  },
+  {
+    "name": "Aranha caranguejeira · médio",
+    "pdfPage": 126,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "2* (9 PV)",
+      "Atq": "1x picada (1d8 + veneno)",
+      "TAC0": "18 [+1]",
+      "MV": "40’ (escalada)",
+      "SV": "15",
+      "ML": "7",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "25",
+      "NA": "1d4 (1d4)",
+      "TT": "J"
+    }
+  },
+  {
+    "name": "Rhagodessa · enorme",
+    "pdfPage": 126,
+    "stats": {
+      "CA": "5 [14]",
+      "DV": "5 (22 PV)",
+      "Atq": "1x picada (2d8), 1x agarrão",
+      "TAC0": "15 [+4]",
+      "MV": "50’ (escalada)",
+      "SV": "13",
+      "ML": "9",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "175",
+      "NA": "1d4 (1d6)",
+      "TT": "C"
+    }
+  },
+  {
+    "name": "Viúva negra · médio",
+    "pdfPage": 126,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "3* (13 PV)",
+      "Atq": "1x picada (2d6 + veneno)",
+      "TAC0": "17 [+2]",
+      "MV": "20’ | 40’ (teia)",
+      "SV": "15",
+      "ML": "8",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "50",
+      "NA": "1d3 (1d3)",
+      "TT": "K"
+    }
+  },
+  {
+    "name": "Tarântula · grande",
+    "pdfPage": 126,
+    "stats": {
+      "CA": "5 [14]",
+      "DV": "4 (18 PV)",
+      "Atq": "1x picada (1d8 + veneno)",
+      "TAC0": "16 [+3]",
+      "MV": "40’ | 60’ (teia)",
+      "SV": "13",
+      "ML": "8",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "125",
+      "NA": "1d3 (1d3)",
+      "TT": "K"
+    }
+  },
+  {
+    "name": "Babuíno das rochas",
+    "pdfPage": 127,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "2 (9 PV)",
+      "Atq": "1x clava (1d4), 1x mordida (1d4)",
+      "TAC0": "18 [+1]",
+      "MV": "40’ (escalada)",
+      "SV": "15",
+      "ML": "8",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "20",
+      "NA": "2d6 (5d6)",
+      "TT": "K"
+    }
+  },
+  {
+    "name": "Besouro de fogo · pequeno",
+    "pdfPage": 127,
+    "stats": {
+      "CA": "4 [15]",
+      "DV": "1+2 (6 PV)",
+      "Atq": "1x picada (2d4)",
+      "TAC0": "18 [+1]",
+      "MV": "40’",
+      "SV": "15",
+      "ML": "7",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "15",
+      "NA": "1d8 (5d8)",
+      "TT": "L"
+    }
+  },
+  {
+    "name": "Besouro viscoso · pequeno",
+    "pdfPage": 127,
+    "stats": {
+      "CA": "4 [15]",
+      "DV": "2 (9 PV)",
+      "Atq": "1x picada (1d6)",
+      "TAC0": "18 [+1]",
+      "MV": "40’",
+      "SV": "15",
+      "ML": "7",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "25",
+      "NA": "1d8 (5d8)",
+      "TT": "L"
+    }
+  },
+  {
+    "name": "Besouro Tigre · médio",
+    "pdfPage": 127,
+    "stats": {
+      "CA": "3 [16]",
+      "DV": "4 (18 PV)",
+      "Atq": "1x picada (2d6)",
+      "TAC0": "16 [+3]",
+      "MV": "50’",
+      "SV": "13",
+      "ML": "9",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "75",
+      "NA": "1d6 (5d6)",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Cão de caça · médio",
+    "pdfPage": 127,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "1+1 (5 PV)",
+      "Atq": "1x mordida (1d4)",
+      "TAC0": "18 [+1]",
+      "MV": "60’",
+      "SV": "15",
+      "ML": "6",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "20",
+      "NA": "2d6 (3d6)",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Cão de batalha · médio",
+    "pdfPage": 127,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "2+2 (11 PV)",
+      "Atq": "1x mordida (2d4)",
+      "TAC0": "17 [+2]",
+      "MV": "50’",
+      "SV": "15",
+      "ML": "10",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "",
+      "XP": "35",
+      "NA": "-",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Caranguejo gigante",
+    "pdfPage": 127,
+    "stats": {
+      "CA": "2 [17]",
+      "DV": "3 (13 PV)",
+      "Atq": "2x pinças (2d6)",
+      "TAC0": "17 [+2]",
+      "MV": "20’",
+      "SV": "15",
+      "ML": "7",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "35",
+      "NA": "1d2 (1d6)",
+      "TT": "J"
+    }
+  },
+  {
+    "name": "Centopeia gigante",
+    "pdfPage": 128,
+    "stats": {
+      "CA": "9 [10]",
+      "DV": "½ (2 PV)",
+      "Atq": "1x picada (veneno)",
+      "TAC0": "19 [+0]",
+      "MV": "20’",
+      "SV": "15",
+      "ML": "7",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "5",
+      "NA": "2d4 (2d4)",
+      "TT": "J"
+    }
+  },
+  {
+    "name": "Cascavel gigante · grande",
+    "pdfPage": 128,
+    "stats": {
+      "CA": "5 [14]",
+      "DV": "4* (18 PV)",
+      "Atq": "1x picada (1d4+veneno)",
+      "TAC0": "16 [+3]",
+      "MV": "40’",
+      "SV": "13",
+      "ML": "8",
+      "Al": "N",
+      "CG": "",
+      "Id": "-",
+      "XP": "125",
+      "NA": "1d4 (1d6)",
+      "TT": "K"
+    }
+  },
+  {
+    "name": "Naja · pequeno",
+    "pdfPage": 128,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "1* (4 PV)",
+      "Atq": "1x picada (1d3+veneno) ou 1x jato (cegueira)",
+      "TAC0": "19 [+0]",
+      "MV": "30’",
+      "SV": "15",
+      "ML": "7",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "13",
+      "NA": "1d6 (1d6)",
+      "TT": "J"
+    }
+  },
+  {
+    "name": "Cobra marinha · médio",
+    "pdfPage": 128,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "3* (13 PV)",
+      "Atq": "1x picadas (1+veneno)",
+      "TAC0": "17 [+2]",
+      "MV": "30’ (inclui nado)",
+      "SV": "15",
+      "ML": "7",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "50",
+      "NA": "1d6 (1d8)",
+      "TT": "J"
+    }
+  },
+  {
+    "name": "Píton · grande",
+    "pdfPage": 128,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "5 (22 PV)",
+      "Atq": "1x picada (1d4+constrição)",
+      "TAC0": "15 [+4]",
+      "MV": "30’",
+      "SV": "13",
+      "ML": "8",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "175",
+      "NA": "1d3 (1d4)",
+      "TT": "K"
+    }
+  },
+  {
+    "name": "Víbora · médio",
+    "pdfPage": 128,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "2* (9 PV)",
+      "Atq": "1x picadas (1d4+veneno)",
+      "TAC0": "18 [+1]",
+      "MV": "30’",
+      "SV": "15",
+      "ML": "7",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "25",
+      "NA": "1d6 (1d8)",
+      "TT": "J"
+    }
+  },
+  {
+    "name": "Crocodilo-de-água-doce · grande",
+    "pdfPage": 129,
+    "stats": {
+      "CA": "5 [14]",
+      "DV": "2 (9 PV)",
+      "Atq": "1x mordida (1d8) ou cauda (1d4)",
+      "TAC0": "18 [+1]",
+      "MV": "30’ | 30’ (nado)",
+      "SV": "15",
+      "ML": "7",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "20",
+      "NA": "0 (1d8)",
+      "TT": "C"
+    }
+  },
+  {
+    "name": "Crocodilo-de-água-salgada · grande",
+    "pdfPage": 129,
+    "stats": {
+      "CA": "3 [16]",
+      "DV": "6 (27 PV)",
+      "Atq": "1x mordida (2d8), cauda (1d4)",
+      "TAC0": "14 [+5]",
+      "MV": "30’ | 30’ (nado)",
+      "SV": "13",
+      "ML": "7",
+      "Al": "N",
+      "CG": "",
+      "Id": "-",
+      "XP": "275",
+      "NA": "0 (1d4)",
+      "TT": "C"
+    }
+  },
+  {
+    "name": "Crocodilo gigante · enorme",
+    "pdfPage": 129,
+    "stats": {
+      "CA": "1 [18]",
+      "DV": "15 (67 PV)",
+      "Atq": "1x mordida (3d8), cauda (2d4)",
+      "TAC0": "8 [+11]",
+      "MV": "30’ | 30’ (nado)",
+      "SV": "7",
+      "ML": "9",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "1.350",
+      "NA": "0 (1d3)",
+      "TT": "C"
+    }
+  },
+  {
+    "name": "Cupim gigante",
+    "pdfPage": 129,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "2+1 (10 PV)",
+      "Atq": "1x mordida (1d4) ou esguicho",
+      "TAC0": "17 [+2]",
+      "MV": "40’",
+      "SV": "15",
+      "ML": "8",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "20",
+      "NA": "0 (1d3)",
+      "TT": "J"
+    }
+  },
+  {
+    "name": "Enxame de insetos",
+    "pdfPage": 130,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "2 (9 PV)",
+      "Atq": "enxame",
+      "TAC0": "-",
+      "MV": "10’ | 30’ (voo)",
+      "SV": "15",
+      "ML": "10",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "20",
+      "NA": "1 (1d3)",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Escorpião gigante",
+    "pdfPage": 130,
+    "stats": {
+      "CA": "2 [17]",
+      "DV": "4* (18 PV)",
+      "Atq": "2x pinça (1d10), 1x ferrão (1d4+veneno)",
+      "TAC0": "16 [+3]",
+      "MV": "50’",
+      "SV": "15",
+      "ML": "11",
+      "Al": "C",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "125",
+      "NA": "1d6 (1d6)",
+      "TT": "V"
+    }
+  },
+  {
+    "name": "Formiga gigante",
+    "pdfPage": 130,
+    "stats": {
+      "CA": "3 [16]",
+      "DV": "4 (18 PV)",
+      "Atq": "1x pinça (2d6)",
+      "TAC0": "16 [+3]",
+      "MV": "60’",
+      "SV": "13",
+      "ML": "7 (12*)",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "75",
+      "NA": "2d4 (4d6)",
+      "TT": "C*"
+    }
+  },
+  {
+    "name": "Gralha · diminuto",
+    "pdfPage": 131,
+    "stats": {
+      "CA": "8 [11]",
+      "DV": "½ (2 PV)",
+      "Atq": "1x agouro por revoada",
+      "TAC0": "19 [+0]",
+      "MV": "100’ (voo)",
+      "SV": "17",
+      "ML": "5",
+      "Al": "N",
+      "CG": "SR",
+      "Id": "gralha",
+      "XP": "50 (por revoada)",
+      "NA": "0 (3d10)",
+      "TT": "J"
+    }
+  },
+  {
+    "name": "Gralha gigante · grande",
+    "pdfPage": 131,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "2+2 (11 PV)",
+      "Atq": "1x agouro ou bicada (1d6)",
+      "TAC0": "17 [+2]",
+      "MV": "100’ (voo)",
+      "SV": "15",
+      "ML": "6",
+      "Al": "N",
+      "CG": "SR",
+      "Id": "gralha",
+      "XP": "15",
+      "NA": "0 (1d6)",
+      "TT": "J"
+    }
+  },
+  {
+    "name": "Javali · médio",
+    "pdfPage": 131,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "2 (9 PV)",
+      "Atq": "1x presas (1d6)",
+      "TAC0": "18 [+1]",
+      "MV": "50’",
+      "SV": "15",
+      "ML": "9",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "20",
+      "NA": "1d6 (3d6)",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Javali Atroz · grande",
+    "pdfPage": 131,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "4 (18 PV)",
+      "Atq": "1x presas (2d4)",
+      "TAC0": "16 [+3]",
+      "MV": "50’",
+      "SV": "13",
+      "ML": "9",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "75",
+      "NA": "1d6 (3d6)",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Lobo comum · médio",
+    "pdfPage": 131,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "2+2 (11 PV)",
+      "Atq": "1x mordida (1d6)",
+      "TAC0": "17 [+2]",
+      "MV": "60’",
+      "SV": "15",
+      "ML": "6",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "25",
+      "NA": "2d6 (3d6)",
+      "TT": "J"
+    }
+  },
+  {
+    "name": "Lobo atroz · grande",
+    "pdfPage": 131,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "4+1 (20 PV)",
+      "Atq": "1x mordida (2d4)",
+      "TAC0": "15 [+4]",
+      "MV": "50’",
+      "SV": "13",
+      "ML": "8",
+      "Al": "N",
+      "CG": "SR",
+      "Id": "duende (compreende)",
+      "XP": "125",
+      "NA": "1d4 (2d4)",
+      "TT": "J"
+    }
+  },
+  {
+    "name": "Warg · grande",
+    "pdfPage": 131,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "4+1 (20 PV)",
+      "Atq": "1x mordida (2d4)",
+      "TAC0": "15 [+4]",
+      "MV": "50’",
+      "SV": "13",
+      "ML": "8",
+      "Al": "N; CG; RA",
+      "CG": "",
+      "Id": "duende",
+      "XP": "200",
+      "NA": "1 (1)",
+      "TT": "C"
+    }
+  },
+  {
+    "name": "Animal de rebanho · grande",
+    "pdfPage": 132,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "4 (18 PV)",
+      "Atq": "1x chifre (1d8)",
+      "TAC0": "16 [+3]",
+      "MV": "60’",
+      "SV": "13",
+      "ML": "5",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "75",
+      "NA": "3d10 (3d10)",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Animal de rebanho · médio",
+    "pdfPage": 132,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "3 (13 PV)",
+      "Atq": "1x chifre (1d6)",
+      "TAC0": "17 [+2]",
+      "MV": "50’",
+      "SV": "15",
+      "ML": "5",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "35",
+      "NA": "3d10 (3d10)",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Animal de rebanho · pequeno",
+    "pdfPage": 132,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "1 (4 PV)",
+      "Atq": "1x chifre (1d4)",
+      "TAC0": "19 [+0]",
+      "MV": "40’",
+      "SV": "15",
+      "ML": "5",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "10",
+      "NA": "3d10 (3d10)",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Morcego comum (colônia)",
+    "pdfPage": 132,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "2 por cada 10 PV (1 PV por morcego)",
+      "Atq": "confusão",
+      "TAC0": "-",
+      "MV": "40’ (voo)",
+      "SV": "15",
+      "ML": "6",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "1 / morcego",
+      "NA": "1d100 (1d100)",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Morcego gigante · pequeno",
+    "pdfPage": 132,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "2 (9 PV)",
+      "Atq": "1x mordida (1d4)",
+      "TAC0": "18 [+1]",
+      "MV": "10’ | 60’ (voo)",
+      "SV": "15",
+      "ML": "8",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "20",
+      "NA": "1d10 (2d10)",
+      "TT": "J"
+    }
+  },
+  {
+    "name": "Morcego vampiro · médio",
+    "pdfPage": 132,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "2 (9 PV)",
+      "Atq": "1x mordida (1d4 + veneno)",
+      "TAC0": "18 [+1]",
+      "MV": "10’ | 60’ (voo)",
+      "SV": "15",
+      "ML": "8",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "20",
+      "NA": "1d10 (2d10)",
+      "TT": "C"
+    }
+  },
+  {
+    "name": "Polvo gigante",
+    "pdfPage": 133,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "8 (36 PV)",
+      "Atq": "8x tentáculos (1d3), 1x mordida (1d6) ou tinta",
+      "TAC0": "12 [+7]",
+      "MV": "30’",
+      "SV": "13",
+      "ML": "7",
+      "Al": "N",
+      "CG": "SR",
+      "Id": "-",
+      "XP": "650",
+      "NA": "0 (1d2)",
+      "TT": "C"
+    }
+  },
+  {
+    "name": "Rato comum (colônia, M)",
+    "pdfPage": 133,
+    "stats": {
+      "CA": "9 [10]",
+      "DV": "1 (1d6+4PV)",
+      "Atq": "1x ataque grupal",
+      "TAC0": "19 [+0]",
+      "MV": "30’",
+      "SV": "15",
+      "ML": "5",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "10",
+      "NA": "2d10 (2d10)",
+      "TT": "C"
+    }
+  },
+  {
+    "name": "Rato gigante · pequeno",
+    "pdfPage": 133,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "1 (4 PV)",
+      "Atq": "1x mordida (1d3)",
+      "TAC0": "19 [+0]",
+      "MV": "40’",
+      "SV": "15",
+      "ML": "8",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "10",
+      "NA": "3d6 (5d10)",
+      "TT": "C"
+    }
+  },
+  {
+    "name": "Sanguessuga gigante",
+    "pdfPage": 133,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "6 (27 PV)",
+      "Atq": "1x mordida (1d6 + fixação)",
+      "TAC0": "14 [+5]",
+      "MV": "30’",
+      "SV": "13",
+      "ML": "12",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "275",
+      "NA": "0 (1d4)",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Tubarão comum · grande",
+    "pdfPage": 134,
+    "stats": {
+      "CA": "4 [15]",
+      "DV": "2 (9 PV)",
+      "Atq": "1x mordida (2d4 + agarrão)",
+      "TAC0": "18 [+1]",
+      "MV": "60’ (nado)",
+      "SV": "15",
+      "ML": "7",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "20",
+      "NA": "0 (3d6)",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Tubarão gigante · enorme",
+    "pdfPage": 134,
+    "stats": {
+      "CA": "4 [15]",
+      "DV": "8 (36 PV)",
+      "Atq": "1x mordida (2d10 + agarrão)",
+      "TAC0": "12 [+7]",
+      "MV": "60’ (nado)",
+      "SV": "11",
+      "ML": "7",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "650",
+      "NA": "0 (1d4)",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Urso negro · médio",
+    "pdfPage": 134,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "4 (18 PV)",
+      "Atq": "2x garras (1d3 + abraço), 1x mordida (1d6)",
+      "TAC0": "16 [+3]",
+      "MV": "40’",
+      "SV": "13",
+      "ML": "7",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "75",
+      "NA": "1d4 (1d4)",
+      "TT": "K"
+    }
+  },
+  {
+    "name": "Urso pardo · grande",
+    "pdfPage": 134,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "5 (23 PV)",
+      "Atq": "2x garras (1d4 + abraço), 1x mordida (1d8)",
+      "TAC0": "15 [+4]",
+      "MV": "40’",
+      "SV": "13",
+      "ML": "8",
+      "Al": "N",
+      "CG": "",
+      "Id": "-",
+      "XP": "175",
+      "NA": "1 (1d4)",
+      "TT": "K"
+    }
+  },
+  {
+    "name": "Urso polar · grande",
+    "pdfPage": 134,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "6 (27 PV)",
+      "Atq": "2x garras (1d6 + abraço), 1x mordida (2d6)",
+      "TAC0": "14 [+5]",
+      "MV": "40’",
+      "SV": "13",
+      "ML": "8",
+      "Al": "N",
+      "CG": "",
+      "Id": "-",
+      "XP": "275",
+      "NA": "1 (1d2)",
+      "TT": "K"
+    }
+  },
+  {
+    "name": "Urso atroz · grande",
+    "pdfPage": 134,
+    "stats": {
+      "CA": "5 [14]",
+      "DV": "7 (31 PV)",
+      "Atq": "2x garras (1d8 + abraço), 1x mordida (2d6)",
+      "TAC0": "13 [+6]",
+      "MV": "40’",
+      "SV": "11",
+      "ML": "9",
+      "Al": "N",
+      "CG": "",
+      "Id": "-",
+      "XP": "450",
+      "NA": "1d2 (1d2)",
+      "TT": "K CONSTRUTOS Objetos animados por magia, transformados em criaturas. CARACTERÍSTICAS GERAIS"
+    }
+  },
+  {
+    "name": "Golem de carne · grande",
+    "pdfPage": 135,
+    "stats": {
+      "CA": "8 [11]",
+      "DV": "9 (40 PV)",
+      "Atq": "2x punho (2d8)",
+      "TAC0": "11 [+8]",
+      "MV": "30’",
+      "SV": "11",
+      "ML": "12",
+      "Al": "N",
+      "CG": "IR",
+      "Id": "-",
+      "XP": "900",
+      "NA": "1 (1)",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Golem de ossos · médio",
+    "pdfPage": 135,
+    "stats": {
+      "CA": "2 [17]",
+      "DV": "8 (45 PV)",
+      "Atq": "4x espadas curtas (1d6) ou 2x montantes (1d10)",
+      "TAC0": "12 [+7]",
+      "MV": "60’",
+      "SV": "13",
+      "ML": "12",
+      "Al": "N",
+      "CG": "",
+      "Id": "-",
+      "XP": "650",
+      "NA": "1 (1)",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Armadura animada · médio",
+    "pdfPage": 135,
+    "stats": {
+      "CA": "3 [16]",
+      "DV": "4 (18 PV)",
+      "Atq": "1x montante (1d10)",
+      "TAC0": "16 [+3]",
+      "MV": "20’",
+      "SV": "13",
+      "ML": "12",
+      "Al": "N",
+      "CG": "IR",
+      "Id": "-",
+      "XP": "75",
+      "NA": "1d4 (1d4)",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Punhal animado · diminuto",
+    "pdfPage": 135,
+    "stats": {
+      "CA": "9 [10]",
+      "DV": "½ (2 PV)",
+      "Atq": "1x golpe (1d4)",
+      "TAC0": "19 [+0]",
+      "MV": "40’ (voo)",
+      "SV": "17",
+      "ML": "12",
+      "Al": "N",
+      "CG": "",
+      "Id": "-",
+      "XP": "3",
+      "NA": "1d4 (1d4)",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Tapete animado · grande",
+    "pdfPage": 135,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "2 (9 PV)",
+      "Atq": "1x golpe (constrição)",
+      "TAC0": "18 [+1]",
+      "MV": "10’ (voo)",
+      "SV": "15",
+      "ML": "12",
+      "Al": "N",
+      "CG": "",
+      "Id": "-",
+      "XP": "25",
+      "NA": "1 (1)",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Cãoniçal",
+    "pdfPage": 136,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "2 (9 PV)",
+      "Atq": "1x mordida (1d6+paralisia)",
+      "TAC0": "18 [+1]",
+      "MV": "50’",
+      "SV": "15",
+      "ML": "10",
+      "Al": "C",
+      "CG": "SR",
+      "Id": "-",
+      "XP": "25",
+      "NA": "1d6 (5d6)",
+      "TT": "B"
+    }
+  },
+  {
+    "name": "Carniçal",
+    "pdfPage": 136,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "2 (9 PV)",
+      "Atq": "2x garra (1d4) e 1x mordida (1d4+paralisia)",
+      "TAC0": "18 [+1]",
+      "MV": "40’",
+      "SV": "15",
+      "ML": "9",
+      "Al": "C",
+      "CG": "PR",
+      "Id": "comum",
+      "XP": "30",
+      "NA": "1d6 (5d6)",
+      "TT": "B"
+    }
+  },
+  {
+    "name": "Esqueleto",
+    "pdfPage": 136,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "1 (4 PV)",
+      "Atq": "1x arma (1d6)",
+      "TAC0": "19 [+0]",
+      "MV": "50’",
+      "SV": "15",
+      "ML": "12",
+      "Al": "C",
+      "CG": "IR",
+      "Id": "-",
+      "XP": "20",
+      "NA": "3d4 (3d10)",
+      "TT": "J"
+    }
+  },
+  {
+    "name": "Espectro",
+    "pdfPage": 136,
+    "stats": {
+      "CA": "2 [17]",
+      "DV": "6** (27 PV)",
+      "Atq": "1x toque (1d8 + dreno vital)",
+      "TAC0": "14 [+5]",
+      "MV": "50’",
+      "SV": "11",
+      "ML": "11",
+      "Al": "C",
+      "CG": "RA",
+      "Id": "-",
+      "XP": "725",
+      "NA": "1d4 (1d8)",
+      "TT": "E"
+    }
+  },
+  {
+    "name": "Fantasma",
+    "pdfPage": 136,
+    "stats": {
+      "CA": "0 [19]",
+      "DV": "10** (45 PV)",
+      "Atq": "1x toque (dreno de vida) ou possessão",
+      "TAC0": "10 [+9]",
+      "MV": "30’ (flutua)",
+      "SV": "9",
+      "ML": "10",
+      "Al": "qualquer",
+      "CG": "RA",
+      "Id": "qualquer",
+      "XP": "3.300",
+      "NA": "1 (1)",
+      "TT": "E"
+    }
+  },
+  {
+    "name": "Inumano",
+    "pdfPage": 137,
+    "stats": {
+      "CA": "5 [14]",
+      "DV": "3* (13 PV)",
+      "Atq": "1x toque (dreno vital)",
+      "TAC0": "17 [+2]",
+      "MV": "30’",
+      "SV": "15",
+      "ML": "12",
+      "Al": "C",
+      "CG": "SR",
+      "Id": "comum",
+      "XP": "50",
+      "NA": "1d6 (1d8)",
+      "TT": "B"
+    }
+  },
+  {
+    "name": "Lich",
+    "pdfPage": 137,
+    "stats": {
+      "CA": "0 [19]",
+      "DV": "11** (49 PV)",
+      "Atq": "1x toque (1d10+paralisia)",
+      "TAC0": "10 [+9]",
+      "MV": "40’",
+      "SV": "9",
+      "ML": "10",
+      "Al": "C",
+      "CG": "RA",
+      "Id": "5x quaisquer",
+      "XP": "4.300",
+      "NA": "1 (1)",
+      "TT": "G + O"
+    }
+  },
+  {
+    "name": "Múmia",
+    "pdfPage": 137,
+    "stats": {
+      "CA": "3 [16]",
+      "DV": "5+1 (22 PV)",
+      "Atq": "1x toque (1d12 + doença)",
+      "TAC0": "15 [+4]",
+      "MV": "20’",
+      "SV": "13",
+      "ML": "12",
+      "Al": "C",
+      "CG": "SR",
+      "Id": "qualquer",
+      "XP": "400",
+      "NA": "1d4 (2d6)",
+      "TT": "D"
+    }
+  },
+  {
+    "name": "Vampiro",
+    "pdfPage": 138,
+    "stats": {
+      "CA": "2 [17]",
+      "DV": "7* (31 PV)",
+      "Atq": "1x garra (dreno vital) ou fascínio",
+      "TAC0": "13 [+6]",
+      "MV": "40’",
+      "SV": "13",
+      "ML": "11",
+      "Al": "C",
+      "CG": "RA",
+      "Id": "quatro",
+      "XP": "1.250",
+      "NA": "1d4 (1d6)",
+      "TT": "F"
+    }
+  },
+  {
+    "name": "Zumbi",
+    "pdfPage": 138,
+    "stats": {
+      "CA": "8 [11]",
+      "DV": "2 (9 PV)",
+      "Atq": "1x golpe (1d4)",
+      "TAC0": "18 [+1]",
+      "MV": "20’",
+      "SV": "15",
+      "ML": "12",
+      "Al": "C",
+      "CG": "IR",
+      "Id": "-",
+      "XP": "15",
+      "NA": "2d6 (10d6)",
+      "TT": "J"
+    }
+  },
+  {
+    "name": "Draco dos pântanos · grande",
+    "pdfPage": 139,
+    "stats": {
+      "CA": "3 [16]",
+      "DV": "8* (36 PV)",
+      "Atq": "1x mordida (3d6),1x cauda (2d4) ou baforada",
+      "TAC0": "12 [+7]",
+      "MV": "30’",
+      "SV": "11",
+      "ML": "9",
+      "Al": "C",
+      "CG": "PR",
+      "Id": "dracônico (compreende)",
+      "XP": "1.750",
+      "NA": "1d4 (1d4)",
+      "TT": "G"
+    }
+  },
+  {
+    "name": "Draco camaleão · grande",
+    "pdfPage": 139,
+    "stats": {
+      "CA": "3 [16]",
+      "DV": "8* (36 PV)",
+      "Atq": "1x mordida (3d6),1x cauda (2d4) ou baforada",
+      "TAC0": "12 [+7]",
+      "MV": "30’",
+      "SV": "11",
+      "ML": "9",
+      "Al": "C",
+      "CG": "PR",
+      "Id": "dracônico (compreende)",
+      "XP": "1.750",
+      "NA": "1d4 (1d4)",
+      "TT": "G"
+    }
+  },
+  {
+    "name": "Draconato",
+    "pdfPage": 139,
+    "stats": {
+      "CA": "5 [14]",
+      "DV": "2+2 (11 PV)",
+      "Atq": "1x arma (1d8+1) ou baforada",
+      "TAC0": "17 [+2]",
+      "MV": "30’ | 40’ (nado)",
+      "SV": "15",
+      "ML": "8",
+      "Al": "qualquer",
+      "CG": "SR",
+      "Id": "dracônico",
+      "XP": "20",
+      "NA": "2d4 (6d6)",
+      "TT": "D"
+    }
+  },
+  {
+    "name": "Dragão azul · enorme",
+    "pdfPage": 141,
+    "stats": {
+      "CA": "0 [19]",
+      "DV": "9* (40 PV)",
+      "Atq": "2x garra (1d6+1), 1x mordida (3d10) ou baforada",
+      "TAC0": "11 [+8]",
+      "MV": "30’ | 80’ (voo)",
+      "SV": "9",
+      "ML": "9",
+      "Al": "N",
+      "CG": "SR | AR (3: 6)",
+      "Id": "dracônico",
+      "XP": "2.300",
+      "NA": "1d4 (1d4)",
+      "TT": "H"
+    }
+  },
+  {
+    "name": "Dragão branco · enorme",
+    "pdfPage": 141,
+    "stats": {
+      "CA": "3 [16]",
+      "DV": "6* (27 PV)",
+      "Atq": "2x garra (1d4), 1x mordida (2d8) ou baforada",
+      "TAC0": "14 [+5]",
+      "MV": "30’ | 80’ (voo)",
+      "SV": "13",
+      "ML": "8",
+      "Al": "N",
+      "CG": "SR | AR (1: 6)",
+      "Id": "dracônico",
+      "XP": "725",
+      "NA": "1d4 (1d4)",
+      "TT": "H"
+    }
+  },
+  {
+    "name": "Dragão negro · enorme",
+    "pdfPage": 141,
+    "stats": {
+      "CA": "2 [17]",
+      "DV": "7* (31 PV)",
+      "Atq": "2x garra (1d4+1), 1x mordida (2d10) ou baforada",
+      "TAC0": "13 [+6]",
+      "MV": "30’ | 80’ (voo)",
+      "SV": "11",
+      "ML": "8",
+      "Al": "C",
+      "CG": "SR | AR (2: 6)",
+      "Id": "dracônico",
+      "XP": "1.250",
+      "NA": "1d4 (1d4)",
+      "TT": "H"
+    }
+  },
+  {
+    "name": "Dragão verde · enorme",
+    "pdfPage": 141,
+    "stats": {
+      "CA": "1 [18]",
+      "DV": "8* (36 PV)",
+      "Atq": "2x garra (1d6), 1x mordida (3d8) ou baforada",
+      "TAC0": "12 [+7]",
+      "MV": "30’ | 80’ (voo)",
+      "SV": "11",
+      "ML": "9",
+      "Al": "C",
+      "CG": "SR | AR (2: 6)",
+      "Id": "dracônico",
+      "XP": "1.750",
+      "NA": "1d4 (1d4)",
+      "TT": "H"
+    }
+  },
+  {
+    "name": "Dragão vermelho · enorme",
+    "pdfPage": 141,
+    "stats": {
+      "CA": "-1 [20]",
+      "DV": "10* (45 PV)",
+      "Atq": "2x garra (1d8), 1x mordida (4d8) ou baforada",
+      "TAC0": "10 [+9]",
+      "MV": "30’ | 80’ (voo)",
+      "SV": "9",
+      "ML": "10",
+      "Al": "C",
+      "CG": "SR | AR (3: 6)",
+      "Id": "dracônico",
+      "XP": "2.300",
+      "NA": "1d4 (1d4)",
+      "TT": "H"
+    }
+  },
+  {
+    "name": "Dragão dourado · enorme",
+    "pdfPage": 141,
+    "stats": {
+      "CA": "-2 [21]",
+      "DV": "11* (49 PV)",
+      "Atq": "2x garra (2d4), 1x mordida (6d6) ou baforada",
+      "TAC0": "10 [+9]",
+      "MV": "30’ | 80’ (voo)",
+      "SV": "9",
+      "ML": "10",
+      "Al": "O",
+      "CG": "SR | AR (4: 6)",
+      "Id": "dracônico",
+      "XP": "2.700",
+      "NA": "1d4 (1d4)",
+      "TT": "H"
+    }
+  },
+  {
+    "name": "Hidra das colinas · enorme",
+    "pdfPage": 142,
+    "stats": {
+      "CA": "5 [14]",
+      "DV": "5 (8 PV / cabeça)",
+      "Atq": "5x mordidas (1d10)",
+      "TAC0": "15 [+4]",
+      "MV": "40’",
+      "SV": "13",
+      "ML": "9",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "dracônico (compreende)",
+      "XP": "175",
+      "NA": "1 (1)",
+      "TT": "B"
+    }
+  },
+  {
+    "name": "Hidra dos pântanos · enorme",
+    "pdfPage": 142,
+    "stats": {
+      "CA": "5 [14]",
+      "DV": "5 (8 PV / cabeça)",
+      "Atq": "5x mordidas (1d10), 1x ferrão (1d4 + veneno)",
+      "TAC0": "15 [+4]",
+      "MV": "40’ (nado)",
+      "SV": "13",
+      "ML": "9",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "dracônico (compreende)",
+      "XP": "300",
+      "NA": "1 (1)",
+      "TT": "B"
+    }
+  },
+  {
+    "name": "Hidra vulcânica · enorme",
+    "pdfPage": 142,
+    "stats": {
+      "CA": "3 [16]",
+      "DV": "7* (8 PV / cabeça)",
+      "Atq": "7x mordidas (1d10) ou baforada (1d6 por cabeça)",
+      "TAC0": "13 [+6]",
+      "MV": "40’",
+      "SV": "11",
+      "ML": "10",
+      "Al": "N",
+      "CG": "",
+      "Id": "dracônico (compreende)",
+      "XP": "850",
+      "NA": "1 (1)",
+      "TT": "B"
+    }
+  },
+  {
+    "name": "Salamandra ignea",
+    "pdfPage": 142,
+    "stats": {
+      "CA": "2 [17]",
+      "DV": "8* (36 PV)",
+      "Atq": "2x garras (1d4), 1x mordida (1d8)",
+      "TAC0": "12 [+7]",
+      "MV": "40’",
+      "SV": "11",
+      "ML": "8",
+      "Al": "N",
+      "CG": "RA",
+      "Id": "dracônico / elemental",
+      "XP": "1.200",
+      "NA": "1d4 (2d4)",
+      "TT": "F"
+    }
+  },
+  {
+    "name": "Serpe",
+    "pdfPage": 142,
+    "stats": {
+      "CA": "3 [16]",
+      "DV": "7* (31 PV)",
+      "Atq": "1x mordida (2d8), 1x ferrão (1d6+veneno)",
+      "TAC0": "13 [+6]",
+      "MV": "30’ | 80’ (voo)",
+      "SV": "13",
+      "ML": "9",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "dracônico (compreende)",
+      "XP": "850",
+      "NA": "1d2 (1d6)",
+      "TT": "E"
+    }
+  },
+  {
+    "name": "Cão infernal",
+    "pdfPage": 143,
+    "stats": {
+      "CA": "4 [15]",
+      "DV": "3 (13 PV)",
+      "Atq": "1x mordida (1d6) ou baforada",
+      "TAC0": "16 [+3]",
+      "MV": "40’",
+      "SV": "15",
+      "ML": "9",
+      "Al": "C",
+      "CG": "SR",
+      "Id": "infernal",
+      "XP": "35",
+      "NA": "2d4 (2d4)",
+      "TT": "C"
+    }
+  },
+  {
+    "name": "Elemental da água · grande",
+    "pdfPage": 143,
+    "stats": {
+      "CA": "2 [17]",
+      "DV": "8 (36 PV)",
+      "Atq": "1x golpe (1d8) ou onda",
+      "TAC0": "12 [+7]",
+      "MV": "20’ | 60’ (água)",
+      "SV": "11",
+      "ML": "10",
+      "Al": "N",
+      "CG": "IR",
+      "Id": "primordial",
+      "XP": "1.200",
+      "NA": "1 (1)",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Elemental do ar · grande",
+    "pdfPage": 143,
+    "stats": {
+      "CA": "2 [17]",
+      "DV": "8 (36 PV)",
+      "Atq": "golpe 1x golpe (1d8) ou vórtex",
+      "TAC0": "12 [+7]",
+      "MV": "0’ | 120’ (voo)",
+      "SV": "11",
+      "ML": "10",
+      "Al": "N",
+      "CG": "IR",
+      "Id": "primordial",
+      "XP": "1.200",
+      "NA": "1 (1)",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Elemental de fogo · grande",
+    "pdfPage": 143,
+    "stats": {
+      "CA": "2 [17]",
+      "DV": "8 (46 PV)",
+      "Atq": "1x pancada (1d8)",
+      "TAC0": "12 [+7]",
+      "MV": "40’",
+      "SV": "11",
+      "ML": "10",
+      "Al": "N",
+      "CG": "IR",
+      "Id": "primordial",
+      "XP": "1.200",
+      "NA": "1 (1)",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Elemental da terra · grande",
+    "pdfPage": 143,
+    "stats": {
+      "CA": "2 [17]",
+      "DV": "8 (36 PV)",
+      "Atq": "1x pancada (1d8)",
+      "TAC0": "12 [+7]",
+      "MV": "40’",
+      "SV": "11",
+      "ML": "10",
+      "Al": "N",
+      "CG": "IR",
+      "Id": "primordial",
+      "XP": "1.200",
+      "NA": "1 (1)",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Gênio do ar · médio",
+    "pdfPage": 144,
+    "stats": {
+      "CA": "5 [14]",
+      "DV": "7* (31 PV)",
+      "Atq": "1x punho (2d8) ou magia",
+      "TAC0": "13 [+6]",
+      "MV": "40’ | 60’ (flutua)",
+      "SV": "11",
+      "ML": "12",
+      "Al": "C",
+      "CG": "AR",
+      "Id": "comum, primordial +2",
+      "XP": "850",
+      "NA": "1 (1)",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Gênio do fogo · grande",
+    "pdfPage": 144,
+    "stats": {
+      "CA": "3 [16]",
+      "DV": "10* (45 PV)",
+      "Atq": "1x punho (2d8) ou magia",
+      "TAC0": "10 [+9]",
+      "MV": "30’ | 80’ (voo)",
+      "SV": "11",
+      "ML": "12",
+      "Al": "C",
+      "CG": "AR",
+      "Id": "comum, primordial, +2",
+      "XP": "1.600",
+      "NA": "1 (1)",
+      "TT": "-"
+    }
+  },
+  {
+    "name": "Estriga dos bosques · médio",
+    "pdfPage": 145,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "3* (13 PV)",
+      "Atq": "1x adaga (1d4+3) ou grito horrível",
+      "TAC0": "17 [+2]",
+      "MV": "40’",
+      "SV": "15",
+      "ML": "8",
+      "Al": "C",
+      "CG": "RA",
+      "Id": "feérico +1",
+      "XP": "50",
+      "NA": "1d3 (1d3)",
+      "TT": "C + N"
+    }
+  },
+  {
+    "name": "Estriga da noite · médio",
+    "pdfPage": 145,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "4* (18 PV)",
+      "Atq": "1x garra (1d6+3) ou magia",
+      "TAC0": "16 [+3]",
+      "MV": "40’",
+      "SV": "15",
+      "ML": "9",
+      "Al": "C",
+      "CG": "RA",
+      "Id": "feérico +1",
+      "XP": "125",
+      "NA": "1d3 (1d3)",
+      "TT": "D + N"
+    }
+  },
+  {
+    "name": "Estriga dos pântanos · médio",
+    "pdfPage": 146,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "3* (13 PV)",
+      "Atq": "1x adaga (1d4+3) ou olhar mortal ou magia",
+      "TAC0": "17 [+2]",
+      "MV": "50’",
+      "SV": "15",
+      "ML": "10",
+      "Al": "C",
+      "CG": "RA",
+      "Id": "feérico +1",
+      "XP": "50",
+      "NA": "1d3 (1d3)",
+      "TT": "C + N"
+    }
+  },
+  {
+    "name": "Fada",
+    "pdfPage": 147,
+    "stats": {
+      "CA": "3 [16]",
+      "DV": "½ (2 PV)",
+      "Atq": "magia",
+      "TAC0": "19 [+0]",
+      "MV": "20’ | 60’(voo)",
+      "SV": "17",
+      "ML": "7",
+      "Al": "N",
+      "CG": "RA",
+      "Id": "feérico",
+      "XP": "10",
+      "NA": "3d6 (5d6)",
+      "TT": "S"
+    }
+  },
+  {
+    "name": "Sereia · médio",
+    "pdfPage": 147,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "2 (9 PV)",
+      "Atq": "1x arma (1d6) ou 1x rede ou canto",
+      "TAC0": "18 [+1]",
+      "MV": "40’ (nado)",
+      "SV": "15",
+      "ML": "8",
+      "Al": "N",
+      "CG": "RA",
+      "Id": "nereída",
+      "XP": "25",
+      "NA": "0 (2d10)",
+      "TT": "A"
+    }
+  },
+  {
+    "name": "Tritão · médio",
+    "pdfPage": 147,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "1 (4 PV)",
+      "Atq": "1x tridente (1d6) ou rede",
+      "TAC0": "19 [+0]",
+      "MV": "40’ (nado)",
+      "SV": "15",
+      "ML": "8",
+      "Al": "N",
+      "CG": "RA",
+      "Id": "nereída",
+      "XP": "10",
+      "NA": "0 (2d10)",
+      "TT": "A"
+    }
+  },
+  {
+    "name": "Ninfa",
+    "pdfPage": 147,
+    "stats": {
+      "CA": "5 [14]",
+      "DV": "2 (9 PV)",
+      "Atq": "magia",
+      "TAC0": "18 [+1]",
+      "MV": "40’",
+      "SV": "15",
+      "ML": "6",
+      "Al": "N",
+      "CG": "RA",
+      "Id": "feérico",
+      "XP": "25",
+      "NA": "0 (1d6)",
+      "TT": "D"
+    }
+  },
+  {
+    "name": "Pégaso",
+    "pdfPage": 147,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "2+2 (11 PV)",
+      "Atq": "2x patas (1d6)",
+      "TAC0": "17 [+2]",
+      "MV": "80’ | 160’ (voo)",
+      "SV": "15",
+      "ML": "8",
+      "Al": "O",
+      "CG": "SR",
+      "Id": "",
+      "XP": "25",
+      "NA": "0 (1d12)",
+      "TT": "K"
+    }
+  },
+  {
+    "name": "Raposa lampejante",
+    "pdfPage": 148,
+    "stats": {
+      "CA": "5 [14]",
+      "DV": "4* (10 PV)",
+      "Atq": "1x mordida (1d6)",
+      "TAC0": "16 [+3]",
+      "MV": "40’",
+      "SV": "13",
+      "ML": "6",
+      "Al": "O",
+      "CG": "",
+      "Id": "",
+      "XP": "125",
+      "NA": "1d6 (1d6)",
+      "TT": "C"
+    }
+  },
+  {
+    "name": "Sátiro",
+    "pdfPage": 148,
+    "stats": {
+      "CA": "5 [14]",
+      "DV": "5* (22 PV)",
+      "Atq": "1x chifre (2d4) ou magia",
+      "TAC0": "17 [+2]",
+      "MV": "60’",
+      "SV": "13",
+      "ML": "9",
+      "Al": "N; CG; RA",
+      "CG": "",
+      "Id": "feérico",
+      "XP": "300",
+      "NA": "1d4 (2d4)",
+      "TT": "C"
+    }
+  },
+  {
+    "name": "Trasgo",
+    "pdfPage": 148,
+    "stats": {
+      "CA": "5 [14]",
+      "DV": "½ (2 PV)",
+      "Atq": "1x magia",
+      "TAC0": "19 [+0]",
+      "MV": "20’",
+      "SV": "17",
+      "ML": "7",
+      "Al": "qualquer",
+      "CG": "RA",
+      "Id": "feérico",
+      "XP": "10",
+      "NA": "3d6 (5d8)",
+      "TT": "S"
+    }
+  },
+  {
+    "name": "Unicórnio",
+    "pdfPage": 148,
+    "stats": {
+      "CA": "2 [17]",
+      "DV": "4 (18 PV)",
+      "Atq": "2x cascos (1d8), 1x chifre (1d8)",
+      "TAC0": "16 [+3]",
+      "MV": "80’",
+      "SV": "13",
+      "ML": "7",
+      "Al": "O",
+      "CG": "",
+      "Id": "feérico",
+      "XP": "125",
+      "NA": "1d6 (1d8)",
+      "TT": "L"
+    }
+  },
+  {
+    "name": "Ente",
+    "pdfPage": 149,
+    "stats": {
+      "CA": "2 [17]",
+      "DV": "8 (36 PV)",
+      "Atq": "2x punho (2d6)",
+      "TAC0": "12 [+7]",
+      "MV": "20’",
+      "SV": "11",
+      "ML": "9",
+      "Al": "O",
+      "CG": "RA",
+      "Id": "ente",
+      "XP": "650",
+      "NA": "0 (1d8)",
+      "TT": "C"
+    }
+  },
+  {
+    "name": "Árvore animada",
+    "pdfPage": 149,
+    "stats": {
+      "CA": "4 [15]",
+      "DV": "4 (18 PV)",
+      "Atq": "2x punho (2d4)",
+      "TAC0": "16 [+3]",
+      "MV": "20’",
+      "SV": "15",
+      "ML": "9",
+      "Al": "O",
+      "CG": "PR",
+      "Id": "entês",
+      "XP": "100",
+      "NA": "",
+      "TT": ""
+    }
+  },
+  {
+    "name": "Cogumelo gritador · pequeno",
+    "pdfPage": 149,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "3 (13 PV)",
+      "Atq": "grito",
+      "TAC0": "-",
+      "MV": "2’",
+      "SV": "15",
+      "ML": "12",
+      "Al": "N",
+      "CG": "IR",
+      "Id": "-",
+      "XP": "35",
+      "NA": "1d8 (2d8)",
+      "TT": "J"
+    }
+  },
+  {
+    "name": "Cogumelo violeta · médio",
+    "pdfPage": 149,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "3 (13 PV)",
+      "Atq": "2x tentáculos (2d4 + paralisia)",
+      "TAC0": "16 [+3]",
+      "MV": "2’",
+      "SV": "15",
+      "ML": "12",
+      "Al": "N",
+      "CG": "IR",
+      "Id": "-",
+      "XP": "50",
+      "NA": "1d4 (1d4)",
+      "TT": "J"
+    }
+  },
+  {
+    "name": "Lodo verde",
+    "pdfPage": 149,
+    "stats": {
+      "CA": "9 [10]",
+      "DV": "2 (9 PV)",
+      "Atq": "-",
+      "TAC0": "-",
+      "MV": "1’ (aderência)",
+      "SV": "15",
+      "ML": "12",
+      "Al": "N",
+      "CG": "IR",
+      "Id": "-",
+      "XP": "25",
+      "NA": "1(0)",
+      "TT": "J"
+    }
+  },
+  {
+    "name": "Mofo amarelo",
+    "pdfPage": 149,
+    "stats": {
+      "CA": "-",
+      "DV": "2 (9 PV)",
+      "Atq": "1x esporos (1d6 + veneno)",
+      "TAC0": "18 [+1]",
+      "MV": "0",
+      "SV": "15",
+      "ML": "12",
+      "Al": "N",
+      "CG": "IR",
+      "Id": "-",
+      "XP": "25",
+      "NA": "1d8 (1d4)",
+      "TT": "J"
+    }
+  },
+  {
+    "name": "Ettin",
+    "pdfPage": 150,
+    "stats": {
+      "CA": "4 [15]",
+      "DV": "10 (45 PV)",
+      "Atq": "1x clava (2d6), 1x machado (2d8) ou pedra (3d6, até 90’)",
+      "TAC0": "10 [+9]",
+      "MV": "40’",
+      "SV": "9",
+      "ML": "8",
+      "Al": "C",
+      "CG": "SR",
+      "Id": "gigante",
+      "XP": "900",
+      "NA": "1d4 (1d4)",
+      "TT": "C"
+    }
+  },
+  {
+    "name": "Gigante da colina · grande",
+    "pdfPage": 150,
+    "stats": {
+      "CA": "4 [15]",
+      "DV": "8 (36 PV)",
+      "Atq": "1x clava (2d8) ou pedra (2d6, até 90’)",
+      "TAC0": "12 [+7]",
+      "MV": "40’",
+      "SV": "11",
+      "ML": "8",
+      "Al": "C",
+      "CG": "SR",
+      "Id": "gigante",
+      "XP": "650",
+      "NA": "1d4 (2d4)",
+      "TT": "E"
+    }
+  },
+  {
+    "name": "Gigante do fogo · enorme",
+    "pdfPage": 150,
+    "stats": {
+      "CA": "4 [15]",
+      "DV": "11+2 (51 PV)",
+      "Atq": "1x arma (5d6) ou pedra (3d6, até 200’)",
+      "TAC0": "9 [+10]",
+      "MV": "40’",
+      "SV": "9",
+      "ML": "9",
+      "Al": "C",
+      "CG": "RA",
+      "Id": "gigante",
+      "XP": "1.100",
+      "NA": "1d2 (1d3)",
+      "TT": "E"
+    }
+  },
+  {
+    "name": "Gigante do gelo · enorme",
+    "pdfPage": 150,
+    "stats": {
+      "CA": "4 [15]",
+      "DV": "10+1 (46 PV)",
+      "Atq": "1x arma (4d6) ou pedra (3d6, até 200’)",
+      "TAC0": "10 [+9]",
+      "MV": "40’",
+      "SV": "9",
+      "ML": "9",
+      "Al": "C",
+      "CG": "RA",
+      "Id": "gigante",
+      "XP": "900",
+      "NA": "1d2 (1d4)",
+      "TT": "E"
+    }
+  },
+  {
+    "name": "Gigante das nuvens · enorme",
+    "pdfPage": 150,
+    "stats": {
+      "CA": "4 [15]",
+      "DV": "12+3 (57 PV)",
+      "Atq": "1x arma (6d6) ou pedra (3d6, até 200’)",
+      "TAC0": "9 [+10]",
+      "MV": "40’",
+      "SV": "9",
+      "ML": "10",
+      "Al": "N",
+      "CG": "RA",
+      "Id": "gigante",
+      "XP": "1.100",
+      "NA": "1d2 (1d3)",
+      "TT": "E"
+    }
+  },
+  {
+    "name": "Gigante de pedra · grande",
+    "pdfPage": 151,
+    "stats": {
+      "CA": "4 [15]",
+      "DV": "9 (40 PV)",
+      "Atq": "1x arma (3d6) ou pedra (3d6, até 300’)",
+      "TAC0": "11 [+8]",
+      "MV": "40’",
+      "SV": "11",
+      "ML": "9",
+      "Al": "N",
+      "CG": "SR",
+      "Id": "gigante",
+      "XP": "900",
+      "NA": "1d2 (1d6)",
+      "TT": "E"
+    }
+  },
+  {
+    "name": "Gigante das tempestades · enorme",
+    "pdfPage": 151,
+    "stats": {
+      "CA": "4 [15]",
+      "DV": "15 (67 PV)",
+      "Atq": "1x arma (8d6) ou raio",
+      "TAC0": "8 [+11]",
+      "MV": "40’",
+      "SV": "5",
+      "ML": "10",
+      "Al": "L",
+      "CG": "RA",
+      "Id": "gigante",
+      "XP": "1.350",
+      "NA": "1 (1d3)",
+      "TT": "E"
+    }
+  },
+  {
+    "name": "Ogro",
+    "pdfPage": 151,
+    "stats": {
+      "CA": "4 [15]",
+      "DV": "4+1 (19 PV)",
+      "Atq": "1x clava (1d10) ou pedra (2d4, até 60’)",
+      "TAC0": "15 [+4]",
+      "MV": "40’",
+      "SV": "13",
+      "ML": "8",
+      "Al": "C",
+      "CG": "SR",
+      "Id": "gigante",
+      "XP": "50",
+      "NA": "1d6 (2d6)",
+      "TT": "C"
+    }
+  },
+  {
+    "name": "Trol",
+    "pdfPage": 151,
+    "stats": {
+      "CA": "4 [15]",
+      "DV": "6+3* (30 PV)",
+      "Atq": "2x garras (1d6 cada), 1x mordida (1d10)",
+      "TAC0": "13 [+6]",
+      "MV": "40’",
+      "SV": "11",
+      "ML": "10",
+      "Al": "C",
+      "CG": "",
+      "Id": "",
+      "XP": "650",
+      "NA": "1d8 (1d8)",
+      "TT": "D"
+    }
+  },
+  {
+    "name": "Anão",
+    "pdfPage": 152,
+    "stats": {
+      "CA": "5 [14]",
+      "DV": "1+1 (5 PV)",
+      "Atq": "1x arma (1d6)",
+      "TAC0": "18 [+1]",
+      "MV": "30’",
+      "SV": "15",
+      "ML": "7",
+      "Al": "O",
+      "CG": "RA",
+      "Id": "anão",
+      "XP": "5",
+      "NA": "1d6 (5d8)",
+      "TT": "E"
+    }
+  },
+  {
+    "name": "Bandido",
+    "pdfPage": 152,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "1 (4 PV)",
+      "Atq": "1x espada curta (1d6)",
+      "TAC0": "19 [+0]",
+      "MV": "40’",
+      "SV": "15",
+      "ML": "7",
+      "Al": "C",
+      "CG": "RA",
+      "Id": "comum",
+      "XP": "10",
+      "NA": "1d8 (3d10)",
+      "TT": "A"
+    }
+  },
+  {
+    "name": "Centauro",
+    "pdfPage": 152,
+    "stats": {
+      "CA": "5 [14]",
+      "DV": "4 (18 PV)",
+      "Atq": "2x cascos (1d6) e 1x arma (1d6)",
+      "TAC0": "16 [+3]",
+      "MV": "60’",
+      "SV": "13",
+      "ML": "8",
+      "Al": "N",
+      "CG": "RA",
+      "Id": "centauro",
+      "XP": "75",
+      "NA": "0 (2d10)",
+      "TT": "A"
+    }
+  },
+  {
+    "name": "Duende verde · pequeno",
+    "pdfPage": 152,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "1-1 (3 PV)",
+      "Atq": "1x arma (1d6)",
+      "TAC0": "19 [+0]",
+      "MV": "30’",
+      "SV": "15",
+      "ML": "7 (9 com líder)",
+      "Al": "C",
+      "CG": "RA",
+      "Id": "duende",
+      "XP": "5",
+      "NA": "2d4 (6d10)",
+      "TT": "C"
+    }
+  },
+  {
+    "name": "Duende macabro · médio",
+    "pdfPage": 152,
+    "stats": {
+      "CA": "5 [14]",
+      "DV": "4 (18 PV)",
+      "Atq": "1x arma (1d8+1)",
+      "TAC0": "16 [+3]",
+      "MV": "30’",
+      "SV": "13",
+      "ML": "9",
+      "Al": "C",
+      "CG": "RA",
+      "Id": "duende",
+      "XP": "40",
+      "NA": "1d6 (4d6)",
+      "TT": "D"
+    }
+  },
+  {
+    "name": "Duende-rei · grande",
+    "pdfPage": 152,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "6 (27 PV)",
+      "Atq": "1x arma (1d12) ou magia",
+      "TAC0": "14 [+5]",
+      "MV": "30’",
+      "SV": "11",
+      "ML": "10",
+      "Al": "C",
+      "CG": "RA",
+      "Id": "comum, duende",
+      "XP": "150",
+      "NA": "1 (0)",
+      "TT": "D"
+    }
+  },
+  {
+    "name": "Elfo",
+    "pdfPage": 153,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "1 (4 PV)",
+      "Atq": "1x arma (1d6)",
+      "TAC0": "19 [+0]",
+      "MV": "40’",
+      "SV": "15",
+      "ML": "8",
+      "Al": "N",
+      "CG": "RA",
+      "Id": "elfo",
+      "XP": "10",
+      "NA": "1d4 (2d12)",
+      "TT": "E"
+    }
+  },
+  {
+    "name": "Gnomo",
+    "pdfPage": 153,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "1-1 (3 PV)",
+      "Atq": "1x faca (1d4)",
+      "TAC0": "19 [+0]",
+      "MV": "30’",
+      "SV": "15",
+      "ML": "7",
+      "Al": "N",
+      "CG": "RA",
+      "Id": "Gnomo",
+      "XP": "5",
+      "NA": "3d6 (5d8)",
+      "TT": "B"
+    }
+  },
+  {
+    "name": "Guarda comum",
+    "pdfPage": 153,
+    "stats": {
+      "CA": "5 [14]",
+      "DV": "1 (4 PV)",
+      "Atq": "1x arma (1d6)",
+      "TAC0": "19 [+0]",
+      "MV": "30’",
+      "SV": "15",
+      "ML": "7",
+      "Al": "O",
+      "CG": "RA",
+      "Id": "comum",
+      "XP": "5",
+      "NA": "1d6",
+      "TT": "J"
+    }
+  },
+  {
+    "name": "Pessoa comum",
+    "pdfPage": 153,
+    "stats": {
+      "CA": "9 [10]",
+      "DV": "½ (2 PV)",
+      "Atq": "1x arma (1d4)",
+      "TAC0": "20 [-1]",
+      "MV": "40’",
+      "SV": "17",
+      "ML": "6",
+      "Al": "qualquer",
+      "CG": "RA",
+      "Id": "qualquer",
+      "XP": "3",
+      "NA": "qualquer",
+      "TT": "J"
+    }
+  },
+  {
+    "name": "Orque",
+    "pdfPage": 153,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "1 (4 PV)",
+      "Atq": "1x arma (1d6)",
+      "TAC0": "19 [+0]",
+      "MV": "30’",
+      "SV": "15",
+      "ML": "6 (8 com líder)",
+      "Al": "C",
+      "CG": "RA",
+      "Id": "orque",
+      "XP": "10",
+      "NA": "1d6 (3d6)",
+      "TT": "D"
+    }
+  },
+  {
+    "name": "Troglodita",
+    "pdfPage": 153,
+    "stats": {
+      "CA": "5 [14]",
+      "DV": "2* (9 PV)",
+      "Atq": "2x garras (1d4 cada), 1x mordida (1d4)",
+      "TAC0": "18 [+1]",
+      "MV": "40’",
+      "SV": "15",
+      "ML": "9",
+      "Al": "C",
+      "CG": "",
+      "Id": "",
+      "XP": "25",
+      "NA": "1d8 (5d8)",
+      "TT": "A"
+    }
+  },
+  {
+    "name": "Veterano · arcanista",
+    "pdfPage": 154,
+    "stats": {
+      "CA": "9 [10]",
+      "DV": "4 (10 PV)",
+      "Atq": "1x adaga (1d4) ou magia",
+      "TAC0": "16 [+3]",
+      "MV": "40’",
+      "SV": "13",
+      "ML": "7",
+      "Al": "qualquer",
+      "CG": "RA",
+      "Id": "",
+      "XP": "75",
+      "NA": "",
+      "TT": "J + O"
+    }
+  },
+  {
+    "name": "Veterano · combatente",
+    "pdfPage": 154,
+    "stats": {
+      "CA": "2 [17]",
+      "DV": "4 (22 PV)",
+      "Atq": "1x arma (1d8+3)",
+      "TAC0": "15 [+4]",
+      "MV": "30’",
+      "SV": "13",
+      "ML": "8",
+      "Al": "qualquer",
+      "CG": "",
+      "Id": "",
+      "XP": "75",
+      "NA": "",
+      "TT": "K"
+    }
+  },
+  {
+    "name": "Veterano · especialista",
+    "pdfPage": 154,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "4 (14 PV)",
+      "Atq": "1x arma (1d6)",
+      "TAC0": "16 [+3]",
+      "MV": "40’",
+      "SV": "13",
+      "ML": "7",
+      "Al": "qualquer",
+      "CG": "",
+      "Id": "",
+      "XP": "75",
+      "NA": "",
+      "TT": "K"
+    }
+  },
+  {
+    "name": "Veterano · magista",
+    "pdfPage": 154,
+    "stats": {
+      "CA": "4 [15]",
+      "DV": "4 (14 PV)",
+      "Atq": "1x arma (1d6)",
+      "TAC0": "16 [+3]",
+      "MV": "30’",
+      "SV": "13",
+      "ML": "7",
+      "Al": "qualquer",
+      "CG": "",
+      "Id": "",
+      "XP": "75",
+      "NA": "",
+      "TT": "J + O"
+    }
+  },
+  {
+    "name": "Beija-sangue",
+    "pdfPage": 155,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "1 (4 PV)",
+      "Atq": "1x bico (1d3+suga-sangue)",
+      "TAC0": "19 [+0]",
+      "MV": "0’ | 60’ (voo)",
+      "SV": "17",
+      "ML": "9",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "10",
+      "NA": "1d10 (3d12)",
+      "TT": "K"
+    }
+  },
+  {
+    "name": "Cocatriz",
+    "pdfPage": 155,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "5 (22 PV)",
+      "Atq": "1x bico (1d6 + petrificação)",
+      "TAC0": "15 [+4]",
+      "MV": "30’ | 60’ (voo)",
+      "SV": "13",
+      "ML": "7",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "Abissal (compreende)",
+      "XP": "425",
+      "NA": "1d8 (3d8)",
+      "TT": "D"
+    }
+  },
+  {
+    "name": "Cubo gelatinoso",
+    "pdfPage": 155,
+    "stats": {
+      "CA": "8 [11]",
+      "DV": "4* (18 PV)",
+      "Atq": "1x toque (2d4 + paralisia)",
+      "TAC0": "16 [+3]",
+      "MV": "20’ (aderência)",
+      "SV": "13",
+      "ML": "12",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "125",
+      "NA": "1 (1)",
+      "TT": "K"
+    }
+  },
+  {
+    "name": "Duplicador",
+    "pdfPage": 155,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "4 (18 PV)",
+      "Atq": "1x mordida (1d12)",
+      "TAC0": "16 [+3]",
+      "MV": "40’",
+      "SV": "8",
+      "ML": "10",
+      "Al": "C",
+      "CG": "RA",
+      "Id": "comum",
+      "XP": "125",
+      "NA": "1d6 (1d6)",
+      "TT": "E"
+    }
+  },
+  {
+    "name": "Gárgula",
+    "pdfPage": 156,
+    "stats": {
+      "CA": "5 [14]",
+      "DV": "4 (18 PV)",
+      "Atq": "2x garras (1d4), 1x mordida (1d6)",
+      "TAC0": "16 [+3]",
+      "MV": "30’ | 50’ (voo)",
+      "SV": "13",
+      "ML": "10",
+      "Al": "C",
+      "CG": "",
+      "Id": "gárgula",
+      "XP": "100",
+      "NA": "1d6 (2d6)",
+      "TT": "C"
+    }
+  },
+  {
+    "name": "Górgona",
+    "pdfPage": 156,
+    "stats": {
+      "CA": "8 [11]",
+      "DV": "4** (18 PV)",
+      "Atq": "1x cobras (1d6 + veneno)",
+      "TAC0": "16 [+3]",
+      "MV": "30’",
+      "SV": "13",
+      "ML": "8",
+      "Al": "C",
+      "CG": "",
+      "Id": "próprio",
+      "XP": "175",
+      "NA": "1d3 (1d4)",
+      "TT": "F"
+    }
+  },
+  {
+    "name": "Grifo",
+    "pdfPage": 156,
+    "stats": {
+      "CA": "5 [14]",
+      "DV": "7 (31 PV)",
+      "Atq": "2x garras (1d4); 1x bico (2d8)",
+      "TAC0": "13 [+6]",
+      "MV": "40’ | 120’(voando)",
+      "SV": "13",
+      "ML": "8",
+      "Al": "N",
+      "CG": "SR",
+      "Id": "feérico (compreende)",
+      "XP": "450",
+      "NA": "1d6 (5d6)",
+      "TT": "E"
+    }
+  },
+  {
+    "name": "Gosma preta",
+    "pdfPage": 156,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "10 (45 PV)",
+      "Atq": "1x toque (3d8)",
+      "TAC0": "10 [+9]",
+      "MV": "20’ (aderência)",
+      "SV": "9",
+      "ML": "12",
+      "Al": "N",
+      "CG": "IR",
+      "Id": "-",
+      "XP": "1.600",
+      "NA": "1(0)",
+      "TT": "D"
+    }
+  },
+  {
+    "name": "Homem-javali · médio",
+    "pdfPage": 157,
+    "stats": {
+      "CA": "4 [15] (9 [10] na forma humana)",
+      "DV": "4+1* (19 PV)",
+      "Atq": "1x presas (2d6)",
+      "TAC0": "15 [+4]",
+      "MV": "50’",
+      "SV": "13",
+      "ML": "9",
+      "Al": "N",
+      "CG": "SR",
+      "Id": "comum, fala com javalis",
+      "XP": "200",
+      "NA": "1d4 (2d4)",
+      "TT": "C"
+    }
+  },
+  {
+    "name": "Homem-rato · médio",
+    "pdfPage": 157,
+    "stats": {
+      "CA": "7 [12]; (9 [10] na forma humana)",
+      "DV": "3* (13 PV)",
+      "Atq": "1x mordida (1d4) ou 1x arma (1d6)",
+      "TAC0": "17 [+2]",
+      "MV": "40’",
+      "SV": "15",
+      "ML": "8",
+      "Al": "C",
+      "CG": "RA",
+      "Id": "comum, fala com ratos",
+      "XP": "50",
+      "NA": "1d8 (2d8)",
+      "TT": "C"
+    }
+  },
+  {
+    "name": "Homem-tigre · médio",
+    "pdfPage": 157,
+    "stats": {
+      "CA": "3 [16] (9 [10] na forma humana)",
+      "DV": "5* (13 PV)",
+      "Atq": "2x garras (1d6), 1x mordida (2d6)",
+      "TAC0": "15 [+4]",
+      "MV": "50’",
+      "SV": "13",
+      "ML": "9",
+      "Al": "N",
+      "CG": "",
+      "Id": "comum, fala com tigres",
+      "XP": "300",
+      "NA": "1d4 (1d4)",
+      "TT": "C"
+    }
+  },
+  {
+    "name": "Homem-urso · médio",
+    "pdfPage": 157,
+    "stats": {
+      "CA": "2 [17] (8 [11] na forma humana)",
+      "DV": "6* (27 PV)",
+      "Atq": "2x garras (2d4), 1x mordida (2d8)",
+      "TAC0": "14 [+5]",
+      "MV": "60’",
+      "SV": "13",
+      "ML": "10",
+      "Al": "N",
+      "CG": "RA",
+      "Id": "comum, fala com ursos",
+      "XP": "500",
+      "NA": "1 (1)",
+      "TT": "C"
+    }
+  },
+  {
+    "name": "Lobisomem · médio",
+    "pdfPage": 158,
+    "stats": {
+      "CA": "5 [14] (9 [10] na forma humana)",
+      "DV": "4* (18 PV)",
+      "Atq": "1x mordida (2d4)",
+      "TAC0": "16 [+3]",
+      "MV": "60’",
+      "SV": "13",
+      "ML": "10",
+      "Al": "",
+      "CG": "RA",
+      "Id": "comum, fala com lobos",
+      "XP": "125",
+      "NA": "1d6 (2d6)",
+      "TT": "C"
+    }
+  },
+  {
+    "name": "Porco diabólico · médio",
+    "pdfPage": 158,
+    "stats": {
+      "CA": "3 [16] (9 [10] na forma humana)",
+      "DV": "9* (40 PV)",
+      "Atq": "1x presas (2d6) ou arma (1d8) ou magia",
+      "TAC0": "11 [+8]",
+      "MV": "60’",
+      "SV": "11",
+      "ML": "10",
+      "Al": "C",
+      "CG": "RA",
+      "Id": "comum, fala com porcos",
+      "XP": "1.600",
+      "NA": "1d3 (1d4)",
+      "TT": "C"
+    }
+  },
+  {
+    "name": "Minotauro",
+    "pdfPage": 158,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "6 (27 PV)",
+      "Atq": "1x chifre (1d6), 1x mordida (1d6) ou 1x machado (1d12+2)",
+      "TAC0": "14 [+5]",
+      "MV": "40’",
+      "SV": "13",
+      "ML": "12",
+      "Al": "C",
+      "CG": "SR",
+      "Id": "Obscúrio",
+      "XP": "275",
+      "NA": "1d6 (1d6)",
+      "TT": "C"
+    }
+  },
+  {
+    "name": "Mímico",
+    "pdfPage": 158,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "9* (40 PV)",
+      "Atq": "1x golpe (3d4)",
+      "TAC0": "11 [+8]",
+      "MV": "10’",
+      "SV": "11",
+      "ML": "9",
+      "Al": "N",
+      "CG": "RA",
+      "Id": "mímico",
+      "XP": "1.600",
+      "NA": "1 (1)",
+      "TT": "C"
+    }
+  },
+  {
+    "name": "Monstro da ferrugem",
+    "pdfPage": 158,
+    "stats": {
+      "CA": "2 [17]",
+      "DV": "5 (22 PV)",
+      "Atq": "1x antena",
+      "TAC0": "15 [+4]",
+      "MV": "40’",
+      "SV": "13",
+      "ML": "7",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "-",
+      "XP": "175",
+      "NA": "1d4 (3d4)",
+      "TT": "L"
+    }
+  },
+  {
+    "name": "Olho tirano",
+    "pdfPage": 159,
+    "stats": {
+      "CA": "0 [19]",
+      "DV": "12** (58 PV)",
+      "Atq": "1x mordida (3d6) + tentáculos oculares",
+      "TAC0": "9 [+10]",
+      "MV": "10’ (flutua)",
+      "SV": "9",
+      "ML": "10",
+      "Al": "C",
+      "CG": "AR",
+      "Id": "6x quaisquer",
+      "XP": "2.600",
+      "NA": "1 (0)",
+      "TT": "G x2 + O"
+    }
+  },
+  {
+    "name": "Perfurador",
+    "pdfPage": 159,
+    "stats": {
+      "CA": "3 [16]",
+      "DV": "1 (4 PV)",
+      "Atq": "1x queda (1d10)",
+      "TAC0": "19 [+0]",
+      "MV": "5’",
+      "SV": "15",
+      "ML": "12",
+      "Al": "N",
+      "CG": "",
+      "Id": "-",
+      "XP": "10",
+      "NA": "0 (3d6)",
+      "TT": "J"
+    }
+  },
+  {
+    "name": "Quimera",
+    "pdfPage": 160,
+    "stats": {
+      "CA": "4 [15]",
+      "DV": "9** (40 PV)",
+      "Atq": "2x garras (1d4), 1x chifre (2d4), 1x mordida (leão, 2d4), 1x mordida (dragão, 3d4 ou baforada)",
+      "TAC0": "11 [+8]",
+      "MV": "30’ | 60’ (voo)",
+      "SV": "11",
+      "ML": "9",
+      "Al": "C",
+      "CG": "SR",
+      "Id": "dracônico",
+      "XP": "2.300",
+      "NA": "1d4 (1d4)",
+      "TT": "F"
+    }
+  },
+  {
+    "name": "Sombra",
+    "pdfPage": 160,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "2+2** (11 PV)",
+      "Atq": "1x toque (dreno)",
+      "TAC0": "17 [+2]",
+      "MV": "30’",
+      "SV": "15",
+      "ML": "12",
+      "Al": "C",
+      "CG": "SR",
+      "Id": "qualquer",
+      "XP": "30",
+      "NA": "1d6 (2d6)",
+      "TT": "J"
+    }
+  },
+  {
+    "name": "Urso coruja",
+    "pdfPage": 160,
+    "stats": {
+      "CA": "5 [14]",
+      "DV": "5 (22 PV)",
+      "Atq": "2x garras (1d8), 1x bico (1d8)",
+      "TAC0": "15 [+4]",
+      "MV": "40’",
+      "SV": "13",
+      "ML": "9",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "",
+      "XP": "175",
+      "NA": "1d4 (2d4)",
+      "TT": "C"
+    }
+  },
+  {
+    "name": "Verme carniceiro",
+    "pdfPage": 160,
+    "stats": {
+      "CA": "7 [12]",
+      "DV": "3 (13 PV)",
+      "Atq": "8x tentáculos (paralisia)",
+      "TAC0": "17 [+2]",
+      "MV": "40’ (escala)",
+      "SV": "15",
+      "ML": "9",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "",
+      "XP": "35",
+      "NA": "1d3 (1d3)",
+      "TT": "B"
+    }
+  },
+  {
+    "name": "Verme púrpura",
+    "pdfPage": 160,
+    "stats": {
+      "CA": "6 [13]",
+      "DV": "15 (67 PV)",
+      "Atq": "1x mordida (2d8), 1x ferrão (1d8 + veneno)",
+      "TAC0": "8 [+11]",
+      "MV": "20’",
+      "SV": "5",
+      "ML": "10",
+      "Al": "N",
+      "CG": "PR",
+      "Id": "",
+      "XP": "2.300",
+      "NA": "1d2 (1d4)",
+      "TT": "D"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "TYPES": {
+    "Actor": {
+      "character": "Adventurer",
+      "creature": "Creature / NPC",
+      "party": "Party / Company"
+    },
+    "Item": {
+      "weapon": "Weapon",
+      "armor": "Armor",
+      "equipment": "Equipment",
+      "spell": "Spell",
+      "ability": "Ability"
+    }
+  }
+}

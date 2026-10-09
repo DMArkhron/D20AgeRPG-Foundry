@@ -1,0 +1,841 @@
+{
+  "fighter": {
+    "name": "Edric, o Errante",
+    "type": "character",
+    "img": "../assets/crest.svg",
+    "system": {
+      "schemaVersion": 1,
+      "classId": "fighter",
+      "level": 2,
+      "title": "Combatente · Guardião da passagem",
+      "alignment": "Neutralidade",
+      "xp": 2460,
+      "attributes": {
+        "str": {
+          "value": 14,
+          "bonus": 0
+        },
+        "int": {
+          "value": 10,
+          "bonus": 0
+        },
+        "wis": {
+          "value": 12,
+          "bonus": 0
+        },
+        "dex": {
+          "value": 13,
+          "bonus": 0
+        },
+        "con": {
+          "value": 15,
+          "bonus": 0
+        },
+        "cha": {
+          "value": 9,
+          "bonus": 0
+        }
+      },
+      "hp": {
+        "value": 9,
+        "max": 12,
+        "temp": 0
+      },
+      "combat": {
+        "thac0": 19,
+        "ac": 9,
+        "acAdjustment": 0,
+        "attackBonus": 0,
+        "autoArmor": true,
+        "autoProgression": true
+      },
+      "saves": {
+        "death": {
+          "target": 12,
+          "bonus": 0
+        },
+        "contact": {
+          "target": 12,
+          "bonus": 0
+        },
+        "paralysis": {
+          "target": 12,
+          "bonus": 0
+        },
+        "eruption": {
+          "target": 12,
+          "bonus": 0
+        },
+        "spell": {
+          "target": 12,
+          "bonus": 0
+        }
+      },
+      "movement": {
+        "base": 40,
+        "auto": true
+      },
+      "conditions": {
+        "fatigue": false,
+        "exhaustion": 0
+      },
+      "coins": {
+        "cp": 0,
+        "sp": 18,
+        "ep": 0,
+        "gp": 42,
+        "pp": 0
+      },
+      "extraWeight": 0,
+      "morale": 7,
+      "hitDice": "1d8",
+      "languages": "Comum",
+      "ancestry": "",
+      "hiddenSpell": "",
+      "hiddenUsed": false,
+      "notes": "",
+      "biography": "",
+      "xpAdjustment": 0,
+      "adventureNotes": "A estrada segue para o castelo distante. Registrar descobertas, pistas e tesouros.",
+      "magicCapacity": {
+        "manual": false,
+        "initialized": false,
+        "slots": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      }
+    },
+    "items": [
+      {
+        "id": "sword",
+        "name": "Espada longa",
+        "type": "weapon",
+        "system": {
+          "schemaVersion": 1,
+          "description": "",
+          "quantity": 1,
+          "weight": 60,
+          "price": 0,
+          "carried": true,
+          "equipped": true,
+          "damage": "1d8",
+          "attackBonus": 0,
+          "damageBonus": 0,
+          "mode": "melee",
+          "strengthDamage": false,
+          "range": "",
+          "properties": "",
+          "ac": 9,
+          "shield": false,
+          "magicBonus": 0,
+          "circle": 1,
+          "preparedCircle": 1,
+          "memorized": 0,
+          "used": 0,
+          "duration": "",
+          "save": "",
+          "charges": {
+            "value": 0,
+            "max": 0
+          }
+        }
+      },
+      {
+        "id": "leather",
+        "name": "Couro fervido",
+        "type": "armor",
+        "system": {
+          "schemaVersion": 1,
+          "description": "",
+          "quantity": 1,
+          "weight": 200,
+          "price": 0,
+          "carried": true,
+          "equipped": true,
+          "damage": "1d6",
+          "attackBonus": 0,
+          "damageBonus": 0,
+          "mode": "melee",
+          "strengthDamage": false,
+          "range": "",
+          "properties": "",
+          "ac": 7,
+          "shield": false,
+          "magicBonus": 0,
+          "circle": 1,
+          "preparedCircle": 1,
+          "memorized": 0,
+          "used": 0,
+          "duration": "",
+          "save": "",
+          "charges": {
+            "value": 0,
+            "max": 0
+          }
+        }
+      },
+      {
+        "id": "shield",
+        "name": "Escudo",
+        "type": "armor",
+        "system": {
+          "schemaVersion": 1,
+          "description": "",
+          "quantity": 1,
+          "weight": 100,
+          "price": 0,
+          "carried": true,
+          "equipped": true,
+          "damage": "1d6",
+          "attackBonus": 0,
+          "damageBonus": 0,
+          "mode": "melee",
+          "strengthDamage": false,
+          "range": "",
+          "properties": "",
+          "ac": 9,
+          "shield": true,
+          "magicBonus": 0,
+          "circle": 1,
+          "preparedCircle": 1,
+          "memorized": 0,
+          "used": 0,
+          "duration": "",
+          "save": "",
+          "charges": {
+            "value": 0,
+            "max": 0
+          }
+        }
+      },
+      {
+        "id": "torch",
+        "name": "Tocha",
+        "type": "equipment",
+        "system": {
+          "schemaVersion": 1,
+          "description": "",
+          "quantity": 4,
+          "weight": 10,
+          "price": 0,
+          "carried": true,
+          "equipped": false,
+          "damage": "1d6",
+          "attackBonus": 0,
+          "damageBonus": 0,
+          "mode": "melee",
+          "strengthDamage": false,
+          "range": "",
+          "properties": "",
+          "ac": 9,
+          "shield": false,
+          "magicBonus": 0,
+          "circle": 1,
+          "preparedCircle": 1,
+          "memorized": 0,
+          "used": 0,
+          "duration": "",
+          "save": "",
+          "charges": {
+            "value": 0,
+            "max": 0
+          }
+        }
+      },
+      {
+        "id": "rope",
+        "name": "Corda · 50 pés",
+        "type": "equipment",
+        "system": {
+          "schemaVersion": 1,
+          "description": "",
+          "quantity": 1,
+          "weight": 50,
+          "price": 0,
+          "carried": true,
+          "equipped": false,
+          "damage": "1d6",
+          "attackBonus": 0,
+          "damageBonus": 0,
+          "mode": "melee",
+          "strengthDamage": false,
+          "range": "",
+          "properties": "",
+          "ac": 9,
+          "shield": false,
+          "magicBonus": 0,
+          "circle": 1,
+          "preparedCircle": 1,
+          "memorized": 0,
+          "used": 0,
+          "duration": "",
+          "save": "",
+          "charges": {
+            "value": 0,
+            "max": 0
+          }
+        }
+      },
+      {
+        "id": "rations",
+        "name": "Rações de viagem",
+        "type": "equipment",
+        "system": {
+          "schemaVersion": 1,
+          "description": "",
+          "quantity": 3,
+          "weight": 20,
+          "price": 0,
+          "carried": true,
+          "equipped": false,
+          "damage": "1d6",
+          "attackBonus": 0,
+          "damageBonus": 0,
+          "mode": "melee",
+          "strengthDamage": false,
+          "range": "",
+          "properties": "",
+          "ac": 9,
+          "shield": false,
+          "magicBonus": 0,
+          "circle": 1,
+          "preparedCircle": 1,
+          "memorized": 0,
+          "used": 0,
+          "duration": "",
+          "save": "",
+          "charges": {
+            "value": 0,
+            "max": 0
+          }
+        }
+      }
+    ]
+  },
+  "arcanist": {
+    "name": "Maera, a Vigia",
+    "type": "character",
+    "img": "../assets/crest.svg",
+    "system": {
+      "schemaVersion": 1,
+      "classId": "arcanist",
+      "level": 3,
+      "title": "",
+      "alignment": "",
+      "xp": 6300,
+      "attributes": {
+        "str": {
+          "value": 10,
+          "bonus": 0
+        },
+        "int": {
+          "value": 16,
+          "bonus": 0
+        },
+        "wis": {
+          "value": 13,
+          "bonus": 0
+        },
+        "dex": {
+          "value": 10,
+          "bonus": 0
+        },
+        "con": {
+          "value": 10,
+          "bonus": 0
+        },
+        "cha": {
+          "value": 10,
+          "bonus": 0
+        }
+      },
+      "hp": {
+        "value": 5,
+        "max": 7,
+        "temp": 0
+      },
+      "combat": {
+        "thac0": 19,
+        "ac": 9,
+        "acAdjustment": 0,
+        "attackBonus": 0,
+        "autoArmor": true,
+        "autoProgression": true
+      },
+      "saves": {
+        "death": {
+          "target": 12,
+          "bonus": 0
+        },
+        "contact": {
+          "target": 12,
+          "bonus": 0
+        },
+        "paralysis": {
+          "target": 12,
+          "bonus": 0
+        },
+        "eruption": {
+          "target": 12,
+          "bonus": 0
+        },
+        "spell": {
+          "target": 12,
+          "bonus": 0
+        }
+      },
+      "movement": {
+        "base": 40,
+        "auto": true
+      },
+      "conditions": {
+        "fatigue": false,
+        "exhaustion": 0
+      },
+      "coins": {
+        "cp": 0,
+        "sp": 0,
+        "ep": 0,
+        "gp": 0,
+        "pp": 0
+      },
+      "extraWeight": 0,
+      "morale": 7,
+      "hitDice": "1d8",
+      "languages": "Comum",
+      "ancestry": "",
+      "hiddenSpell": "",
+      "hiddenUsed": false,
+      "notes": "",
+      "biography": "",
+      "xpAdjustment": 0,
+      "adventureNotes": "A estrada segue para o castelo distante. Registrar descobertas, pistas e tesouros.",
+      "magicCapacity": {
+        "manual": false,
+        "initialized": false,
+        "slots": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      }
+    },
+    "items": [
+      {
+        "id": "dagger",
+        "name": "Adaga",
+        "type": "weapon",
+        "system": {
+          "schemaVersion": 1,
+          "description": "",
+          "quantity": 1,
+          "weight": 10,
+          "price": 0,
+          "carried": true,
+          "equipped": true,
+          "damage": "1d4",
+          "attackBonus": 0,
+          "damageBonus": 0,
+          "mode": "melee",
+          "strengthDamage": false,
+          "range": "",
+          "properties": "",
+          "ac": 9,
+          "shield": false,
+          "magicBonus": 0,
+          "circle": 1,
+          "preparedCircle": 1,
+          "memorized": 0,
+          "used": 0,
+          "duration": "",
+          "save": "",
+          "charges": {
+            "value": 0,
+            "max": 0
+          }
+        }
+      },
+      {
+        "id": "light",
+        "name": "Luz",
+        "type": "spell",
+        "system": {
+          "schemaVersion": 1,
+          "description": "Registro de demonstração. Consulte a descrição no Livro Base V2.",
+          "quantity": 1,
+          "weight": 0,
+          "price": 0,
+          "carried": true,
+          "equipped": false,
+          "damage": "1d6",
+          "attackBonus": 0,
+          "damageBonus": 0,
+          "mode": "melee",
+          "strengthDamage": false,
+          "range": "",
+          "properties": "",
+          "ac": 9,
+          "shield": false,
+          "magicBonus": 0,
+          "circle": 1,
+          "preparedCircle": 1,
+          "memorized": 1,
+          "used": 0,
+          "duration": "",
+          "save": "",
+          "charges": {
+            "value": 0,
+            "max": 0
+          },
+          "target": "criatura ou objeto",
+          "spellDamage": "",
+          "spellHealing": "",
+          "spellTemporary": "",
+          "spellScaling": "none",
+          "effectAC": 0,
+          "effectSave": 0,
+          "effectHP": 0,
+          "effectAttack": 0,
+          "effectDamage": 0,
+          "effectCondition": ""
+        }
+      },
+      {
+        "id": "sleep",
+        "name": "Sono",
+        "type": "spell",
+        "system": {
+          "schemaVersion": 1,
+          "description": "",
+          "quantity": 1,
+          "weight": 0,
+          "price": 0,
+          "carried": true,
+          "equipped": false,
+          "damage": "1d6",
+          "attackBonus": 0,
+          "damageBonus": 0,
+          "mode": "melee",
+          "strengthDamage": false,
+          "range": "",
+          "properties": "",
+          "ac": 9,
+          "shield": false,
+          "magicBonus": 0,
+          "circle": 1,
+          "preparedCircle": 1,
+          "memorized": 1,
+          "used": 0,
+          "duration": "",
+          "save": "",
+          "charges": {
+            "value": 0,
+            "max": 0
+          },
+          "target": "2d8",
+          "spellDamage": "",
+          "spellHealing": "",
+          "spellTemporary": "",
+          "spellScaling": "none",
+          "effectAC": 0,
+          "effectSave": 0,
+          "effectHP": 0,
+          "effectAttack": 0,
+          "effectDamage": 0,
+          "effectCondition": ""
+        }
+      },
+      {
+        "id": "invisible",
+        "name": "Invisibilidade",
+        "type": "spell",
+        "system": {
+          "schemaVersion": 1,
+          "description": "",
+          "quantity": 1,
+          "weight": 0,
+          "price": 0,
+          "carried": true,
+          "equipped": false,
+          "damage": "1d6",
+          "attackBonus": 0,
+          "damageBonus": 0,
+          "mode": "melee",
+          "strengthDamage": false,
+          "range": "",
+          "properties": "",
+          "ac": 9,
+          "shield": false,
+          "magicBonus": 0,
+          "circle": 2,
+          "preparedCircle": 2,
+          "memorized": 1,
+          "used": 0,
+          "duration": "",
+          "save": "",
+          "charges": {
+            "value": 0,
+            "max": 0
+          },
+          "target": "criatura ou objeto",
+          "spellDamage": "",
+          "spellHealing": "",
+          "spellTemporary": "",
+          "spellScaling": "none",
+          "effectAC": 0,
+          "effectSave": 0,
+          "effectHP": 0,
+          "effectAttack": 0,
+          "effectDamage": 0,
+          "effectCondition": ""
+        }
+      },
+      {
+        "id": "preview-7b453ed7fab446cf",
+        "name": "Flecha mágica",
+        "type": "spell",
+        "system": {
+          "schemaVersion": 1,
+          "description": "Duração: instantâneo\n\nAlcance: 100’ + 10’ / nível\n\nAlvo: criatura ou objeto\n\nUm projétil de energia surge de suas mãos, imediatamente disparado contra um alvo, causando 1d6+1 de dano. Essa magia gera uma nova flecha a cada novo nível ímpar (3, 5, 7 e 9), que podem ser disparadas contra qualquer alvo dentro do alcance.\n\nLivro Base V2, p. 36.",
+          "quantity": 1,
+          "weight": 0,
+          "price": 0,
+          "carried": true,
+          "equipped": false,
+          "damage": "1d6",
+          "attackBonus": 0,
+          "damageBonus": 0,
+          "mode": "melee",
+          "strengthDamage": false,
+          "range": "100’ + 10’ / nível",
+          "properties": "",
+          "ac": 9,
+          "shield": false,
+          "magicBonus": 0,
+          "circle": 1,
+          "preparedCircle": 1,
+          "memorized": 1,
+          "used": 0,
+          "duration": "instantâneo",
+          "save": "",
+          "charges": {
+            "value": 0,
+            "max": 0
+          },
+          "target": "criatura ou objeto",
+          "spellDamage": "1d6+1",
+          "spellHealing": "",
+          "spellTemporary": "",
+          "spellScaling": "missiles",
+          "effectAC": 0,
+          "effectSave": 0,
+          "effectHP": 0,
+          "effectAttack": 0,
+          "effectDamage": 0,
+          "effectCondition": ""
+        }
+      },
+      {
+        "id": "preview-f83d44515668e27a",
+        "name": "Restauração",
+        "type": "spell",
+        "system": {
+          "schemaVersion": 1,
+          "description": "Duração: instantânea\n\nAlcance: toque\n\nAlvo: criatura viva\n\nRecupera 1d6+1 PV de alvo (por círculo memorizado) ou remove efeito de paralisia.\n\nLivro Base V2, p. 37.",
+          "quantity": 1,
+          "weight": 0,
+          "price": 0,
+          "carried": true,
+          "equipped": false,
+          "damage": "1d6",
+          "attackBonus": 0,
+          "damageBonus": 0,
+          "mode": "melee",
+          "strengthDamage": false,
+          "range": "toque",
+          "properties": "",
+          "ac": 9,
+          "shield": false,
+          "magicBonus": 0,
+          "circle": 1,
+          "preparedCircle": 2,
+          "memorized": 1,
+          "used": 0,
+          "duration": "instantânea",
+          "save": "",
+          "charges": {
+            "value": 0,
+            "max": 0
+          },
+          "target": "criatura viva",
+          "spellDamage": "",
+          "spellHealing": "1d6+1",
+          "spellTemporary": "",
+          "spellScaling": "circle",
+          "effectAC": 0,
+          "effectSave": 0,
+          "effectHP": 0,
+          "effectAttack": 0,
+          "effectDamage": 0,
+          "effectCondition": ""
+        }
+      }
+    ]
+  },
+  "creature": {
+    "name": "Saqueador goblinoide",
+    "type": "creature",
+    "img": "../assets/crest.svg",
+    "system": {
+      "schemaVersion": 1,
+      "classId": "fighter",
+      "level": 1,
+      "title": "Goblinoide",
+      "alignment": "",
+      "xp": 0,
+      "attributes": {
+        "str": {
+          "value": 10,
+          "bonus": 0
+        },
+        "int": {
+          "value": 10,
+          "bonus": 0
+        },
+        "wis": {
+          "value": 10,
+          "bonus": 0
+        },
+        "dex": {
+          "value": 10,
+          "bonus": 0
+        },
+        "con": {
+          "value": 10,
+          "bonus": 0
+        },
+        "cha": {
+          "value": 10,
+          "bonus": 0
+        }
+      },
+      "hp": {
+        "value": 4,
+        "max": 4,
+        "temp": 0
+      },
+      "combat": {
+        "thac0": 19,
+        "ac": 7,
+        "acAdjustment": 0,
+        "attackBonus": 0,
+        "autoArmor": true,
+        "autoProgression": true
+      },
+      "saves": {
+        "death": {
+          "target": 12,
+          "bonus": 0
+        },
+        "contact": {
+          "target": 12,
+          "bonus": 0
+        },
+        "paralysis": {
+          "target": 12,
+          "bonus": 0
+        },
+        "eruption": {
+          "target": 12,
+          "bonus": 0
+        },
+        "spell": {
+          "target": 12,
+          "bonus": 0
+        }
+      },
+      "movement": {
+        "base": 30,
+        "auto": true
+      },
+      "conditions": {
+        "fatigue": false,
+        "exhaustion": 0
+      },
+      "coins": {
+        "cp": 0,
+        "sp": 0,
+        "ep": 0,
+        "gp": 0,
+        "pp": 0
+      },
+      "extraWeight": 0,
+      "morale": 6,
+      "hitDice": "1d8",
+      "languages": "Comum",
+      "ancestry": "",
+      "hiddenSpell": "",
+      "hiddenUsed": false,
+      "notes": "",
+      "biography": "",
+      "xpAdjustment": 0,
+      "adventureNotes": "A estrada segue para o castelo distante. Registrar descobertas, pistas e tesouros.",
+      "magicCapacity": {
+        "manual": false,
+        "initialized": false,
+        "slots": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      }
+    },
+    "items": [
+      {
+        "id": "club",
+        "name": "Clava",
+        "type": "weapon",
+        "system": {
+          "schemaVersion": 1,
+          "description": "",
+          "quantity": 1,
+          "weight": 20,
+          "price": 0,
+          "carried": true,
+          "equipped": true,
+          "damage": "1d4",
+          "attackBonus": 0,
+          "damageBonus": 0,
+          "mode": "melee",
+          "strengthDamage": false,
+          "range": "",
+          "properties": "",
+          "ac": 9,
+          "shield": false,
+          "magicBonus": 0,
+          "circle": 1,
+          "preparedCircle": 1,
+          "memorized": 0,
+          "used": 0,
+          "duration": "",
+          "save": "",
+          "charges": {
+            "value": 0,
+            "max": 0
+          }
+        }
+      }
+    ]
+  }
+}

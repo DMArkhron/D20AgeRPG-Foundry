@@ -1,0 +1,1822 @@
+[
+  {
+    "_id": "409892dad104d61c",
+    "name": "Consultar tabelas",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/aa9c408173c65ee7.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.adventureTool(\"reference\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "reference",
+        "table": null,
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Ferramentas",
+          "Ficha e mesa"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ac1100389653bcf5"
+  },
+  {
+    "_id": "8e9091499fca01a4",
+    "name": "Sortear tabela",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/29854669a7114bad.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.adventureTool(\"table\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": null,
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Ferramentas",
+          "Ficha e mesa"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ac1100389653bcf5"
+  },
+  {
+    "_id": "47a76dd3e6bb4e98",
+    "name": "Preparar compêndios",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/6fb1b106f622864a.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.adventureTool(\"install\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "install",
+        "table": null,
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Ferramentas",
+          "Mestre"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "2e3c752452d19d70"
+  },
+  {
+    "_id": "7690e3b5b9a7ae45",
+    "name": "Chance em seis",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/0ed623c6467655ee.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.adventureTool(\"chance\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "chance",
+        "table": null,
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Ferramentas",
+          "Ficha e mesa"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ac1100389653bcf5"
+  },
+  {
+    "_id": "b8da43adeb5b24d9",
+    "name": "Traços · d66",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/99752febb9dfd611.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.adventureTool(\"d66\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "d66",
+        "table": null,
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Ferramentas",
+          "Ficha e mesa"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ac1100389653bcf5"
+  },
+  {
+    "_id": "7bb87624c42f5a8e",
+    "name": "Usar carga de item",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/76ac3816fcd8d67b.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.adventureTool(\"charges\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "charges",
+        "table": null,
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Ferramentas",
+          "Ficha e mesa"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ac1100389653bcf5"
+  },
+  {
+    "_id": "5763ccee024f22c1",
+    "name": "Iniciativa · d6",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/d00e2e90ef442984.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.adventureTool(\"initiative\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "initiative",
+        "table": null,
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Ferramentas",
+          "Ficha e mesa"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ac1100389653bcf5"
+  },
+  {
+    "_id": "0063e004de95be50",
+    "name": "Moral e lealdade",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/bd3ee963180743bf.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.adventureTool(\"morale\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "morale",
+        "table": null,
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Ferramentas",
+          "Ficha e mesa"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ac1100389653bcf5"
+  },
+  {
+    "_id": "118b9cbf5d3016b9",
+    "name": "Salvaguarda",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/33dea87d8d656d7b.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.adventureTool(\"save\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "save",
+        "table": null,
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Ferramentas",
+          "Ficha e mesa"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ac1100389653bcf5"
+  },
+  {
+    "_id": "738aba8230a27a47",
+    "name": "Ataque da ficha",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/c043857c5f26d2fb.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.adventureTool(\"attack\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "attack",
+        "table": null,
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Ferramentas",
+          "Ficha e mesa"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ac1100389653bcf5"
+  },
+  {
+    "_id": "cd213afa64c747cb",
+    "name": "Enviar descrição ao chat",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/f9e2f5d064ad5db2.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.adventureTool(\"description\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "description",
+        "table": null,
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Ferramentas",
+          "Ficha e mesa"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ac1100389653bcf5"
+  },
+  {
+    "_id": "1a2e604de4d2ab7b",
+    "name": "Aplicar dano ou cura",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/ae7e3360e007114e.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.adventureTool(\"hp\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "hp",
+        "table": null,
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Ferramentas",
+          "Ficha e mesa"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ac1100389653bcf5"
+  },
+  {
+    "_id": "b4d8cc0826d191be",
+    "name": "Alternar fadiga",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/29fa7a4712cd6d4a.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.adventureTool(\"fatigue\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "fatigue",
+        "table": null,
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Ferramentas",
+          "Ficha e mesa"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ac1100389653bcf5"
+  },
+  {
+    "_id": "91f07fdf3b2e59c4",
+    "name": "Ajustar exaustão",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/093d687a563972c0.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.adventureTool(\"exhaustion\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "exhaustion",
+        "table": null,
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Ferramentas",
+          "Ficha e mesa"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "ac1100389653bcf5"
+  },
+  {
+    "_id": "c4b88e21c247b6ef",
+    "name": "Avançar turno · 10 minutos",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/af29515a2b012e3a.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.adventureTool(\"turn\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "turn",
+        "table": null,
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Ferramentas",
+          "Mestre"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "2e3c752452d19d70"
+  },
+  {
+    "_id": "90702f77f18021c0",
+    "name": "Avançar período · 6 horas",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/3a2e8dd462770204.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.adventureTool(\"period\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "period",
+        "table": null,
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Ferramentas",
+          "Mestre"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "2e3c752452d19d70"
+  },
+  {
+    "_id": "0b18adca78fa911a",
+    "name": "Sortear · Marcas arcanas",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/38436b1becb5356d.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Marcas arcanas\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Marcas arcanas",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "5d54a62140d17a73",
+    "name": "Sortear · Corrupções · círculo 1",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/074113953a9509a7.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Corrupções · círculo 1\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Corrupções · círculo 1",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Magias"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a9cfd38ca70f5f3c"
+  },
+  {
+    "_id": "301b894a731fec6f",
+    "name": "Sortear · Corrupções · círculo 2",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/d9d3d6c6f2d4ce82.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Corrupções · círculo 2\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Corrupções · círculo 2",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Magias"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a9cfd38ca70f5f3c"
+  },
+  {
+    "_id": "45d4b2ef9025d182",
+    "name": "Sortear · Corrupções · círculo 3",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/25897a6b6d46e2c1.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Corrupções · círculo 3\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Corrupções · círculo 3",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Magias"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a9cfd38ca70f5f3c"
+  },
+  {
+    "_id": "7434b787aeb00061",
+    "name": "Sortear · Corrupções · círculo 4",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/05ce85817f37714a.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Corrupções · círculo 4\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Corrupções · círculo 4",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Magias"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a9cfd38ca70f5f3c"
+  },
+  {
+    "_id": "57b00f492c0b3807",
+    "name": "Sortear · Corrupções · círculo 5",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/4ed691ff8987cc52.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Corrupções · círculo 5\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Corrupções · círculo 5",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Magias"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a9cfd38ca70f5f3c"
+  },
+  {
+    "_id": "83fcfbc3ff5e5fb6",
+    "name": "Sortear · Marco seguro",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/147ebf41602a74f4.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Marco seguro\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Marco seguro",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "bow",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "88523cf285d0541c",
+    "name": "Sortear · Origem do item mágico",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/0528f18602cab3f5.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Origem do item mágico\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Origem do item mágico",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "bd5762265b45e161",
+    "name": "Sortear · Tipo de item mágico",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/20d69d0c4a3fc1ca.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Tipo de item mágico\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Tipo de item mágico",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "1db7ea8b5ab920e4",
+    "name": "Sortear · Pergaminhos aleatórios",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/d130757102d7a86f.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Pergaminhos aleatórios\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Pergaminhos aleatórios",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "scroll",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "88e1a1dfd95e20ff",
+    "name": "Sortear · Pergaminhos de magia",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/fdfb5be1e85e4640.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Pergaminhos de magia\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Pergaminhos de magia",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "scroll",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "ee4b2160ce09a9d8",
+    "name": "Sortear · Miscelâneas mágicas",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/de9db8ccfe920da6.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Miscelâneas mágicas\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Miscelâneas mágicas",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "07b29de8c16065da",
+    "name": "Sortear · Propósito especial do artefato",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/8dd2fa9ea6f7fe43.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Propósito especial do artefato\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Propósito especial do artefato",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "868647b9d48ac3ce",
+    "name": "Sortear · Poder especial do artefato",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/78f7d2003a3b2769.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Poder especial do artefato\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Poder especial do artefato",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "c400cea7efe12c30",
+    "name": "Sortear · Poder extraordinário do artefato",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/a137fb74ee003ac6.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Poder extraordinário do artefato\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Poder extraordinário do artefato",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "3abf67a439fb7fdf",
+    "name": "Sortear · Traços e peculiaridades",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/e5fed028cd898947.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Traços e peculiaridades\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Traços e peculiaridades",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "06eba81ad07063ac",
+    "name": "Sortear · Marcas de aventura",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/48b66d79ae574243.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Marcas de aventura\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Marcas de aventura",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "c8c8797d853ce296",
+    "name": "Sortear · Fortunas",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/24ec36b9cbf5d2ad.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Fortunas\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Fortunas",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "b24b61a80a9c6cb3",
+    "name": "Sortear · Tipo de armadura",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/07b8f31620698216.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Tipo de armadura\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Tipo de armadura",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "armor",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "11bb846f2f3cf30a",
+    "name": "Sortear · Propriedades de arma",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/b3f8d828461f63f2.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Propriedades de arma\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Propriedades de arma",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "41c318dde3dbf887",
+    "name": "Sortear · Propriedades de armadura e escudo",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/f664783ea3a0d6bf.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Propriedades de armadura e escudo\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Propriedades de armadura e escudo",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "shield",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "576d05f5634ef27c",
+    "name": "Sortear · Magias · círculo 1",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/f046ec997f6b7ddc.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Magias · círculo 1\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Magias · círculo 1",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Magias"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a9cfd38ca70f5f3c"
+  },
+  {
+    "_id": "74870479637af188",
+    "name": "Sortear · Magias · círculo 2",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/31e707e296e6a606.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Magias · círculo 2\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Magias · círculo 2",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Magias"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a9cfd38ca70f5f3c"
+  },
+  {
+    "_id": "0a337f8c6103bb45",
+    "name": "Sortear · Magias · círculo 3",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/b051a22eab651f18.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Magias · círculo 3\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Magias · círculo 3",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Magias"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a9cfd38ca70f5f3c"
+  },
+  {
+    "_id": "a2b2ed11deb1fc64",
+    "name": "Sortear · Magias · círculo 4",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/afd43e8508a4dd2a.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Magias · círculo 4\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Magias · círculo 4",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Magias"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a9cfd38ca70f5f3c"
+  },
+  {
+    "_id": "fb91f796928baa76",
+    "name": "Sortear · Magias · círculo 5",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/48223af7defe65e5.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Magias · círculo 5\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Magias · círculo 5",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Magias"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a9cfd38ca70f5f3c"
+  },
+  {
+    "_id": "ef428a99f9ae287f",
+    "name": "Sortear · Magias · círculo 6",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/b2b5e50c7d89649b.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Magias · círculo 6\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Magias · círculo 6",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Magias"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "a9cfd38ca70f5f3c"
+  },
+  {
+    "_id": "39d1b24d1dea16d6",
+    "name": "Sortear · Reação geral",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/3ef03a9d8a921472.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Reação geral\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Reação geral",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "59984eef57612767",
+    "name": "Sortear · Reação · contratação",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/6146f2853c9c126d.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Reação · contratação\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Reação · contratação",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "c9c886b61a1ce0ef",
+    "name": "Sortear · Mistura de poções",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/43f0a7765b0a3aaa.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Mistura de poções\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Mistura de poções",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "f43bf31e074569f1",
+    "name": "Sortear · Olho tirano · tentáculos oculares",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/0e7cb060d671fc60.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Olho tirano · tentáculos oculares\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Olho tirano · tentáculos oculares",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "51d6fd4bf294364f",
+    "name": "Sortear · Venenos",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/0b1742ffda4b055e.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Venenos\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Venenos",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "potion",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "2280c19d47e7fb85",
+    "name": "Sortear · Gemas",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/461fe889df5659f0.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Gemas\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Gemas",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "6059242400faa5c5",
+    "name": "Sortear · Joias · tamanho e valor",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/2741aedf33115e9b.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Joias · tamanho e valor\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Joias · tamanho e valor",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "8699c83404d2ed83",
+    "name": "Sortear · Poções mundanas",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/432f49d7004e0ae1.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Poções mundanas\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Poções mundanas",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "db723ebb29c7e105",
+    "name": "Sortear · Miscelâneas especiais",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/c0c23283afc37272.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Miscelâneas especiais\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Miscelâneas especiais",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "06fa3beba86fd617",
+    "name": "Sortear · Armas e proteções especiais",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/43707873ab412784.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Armas e proteções especiais\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Armas e proteções especiais",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "dccff50bb2f603dd",
+    "name": "Sortear · Poções mágicas",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/4e842f41e4081df4.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Poções mágicas\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Poções mágicas",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "f7ff1cb05280a920",
+    "name": "Sortear · Implementos mágicos",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/cc1260d4b830be05.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Implementos mágicos\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Implementos mágicos",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "90bb1fa5cf9f72d1",
+    "name": "Sortear · Tipos de pedras iônicas",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/17674f707046b3d6.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Tipos de pedras iônicas\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Tipos de pedras iônicas",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "195977054545c5d2",
+    "name": "Sortear · Ofícios comuns",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/8486c1b5f88ed7a5.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Ofícios comuns\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Ofícios comuns",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "7a3de7080c8c578d",
+    "name": "Sortear · Ofícios profissionais",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/2605956f2687fe6e.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Ofícios profissionais\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Ofícios profissionais",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "b9e3ab8f749abd6d",
+    "name": "Sortear · Armaduras e escudos mágicos",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/940380efe8db6aea.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Armaduras e escudos mágicos\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Armaduras e escudos mágicos",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "shield",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "b7cf307fa2ac4a2d",
+    "name": "Sortear · Armas mágicas",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/d4e98c3ef5f058ec.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Armas mágicas\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Armas mágicas",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "8aab9fca3fee1698",
+    "name": "Sortear · Espadas mágicas",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/5033c40334bd79be.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Espadas mágicas\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Espadas mágicas",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Geradores"
+        ],
+        "iconMotif": "sword",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "34cf2333455b1aa1"
+  },
+  {
+    "_id": "f03e27c44af8cb18",
+    "name": "Sortear · Encontros · Tabela 1 - Montanha e planície",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/94eb997e79dbadf7.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Encontros · Tabela 1 - Montanha e planície\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Encontros · Tabela 1 - Montanha e planície",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Encontros"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "742b18501fe30104"
+  },
+  {
+    "_id": "14fa61337690f6f6",
+    "name": "Sortear · Encontros · Tabela 2 - Floresta e deserto",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/a12903a1b765e3f4.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Encontros · Tabela 2 - Floresta e deserto\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Encontros · Tabela 2 - Floresta e deserto",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Encontros"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "742b18501fe30104"
+  },
+  {
+    "_id": "bac6990102ed2de4",
+    "name": "Sortear · Encontros · Tabela 3 - Rio / lago e pântano",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/373f43295e0593f8.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Encontros · Tabela 3 - Rio / lago e pântano\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Encontros · Tabela 3 - Rio / lago e pântano",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Encontros"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "742b18501fe30104"
+  },
+  {
+    "_id": "10edabafee03fdcf",
+    "name": "Sortear · Encontros · Sub-tabela 1 - Bestas",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/3677db5f65e20746.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Encontros · Sub-tabela 1 - Bestas\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Encontros · Sub-tabela 1 - Bestas",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Encontros"
+        ],
+        "iconMotif": "bow",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "742b18501fe30104"
+  },
+  {
+    "_id": "5503db66cd546ae5",
+    "name": "Sortear · Encontros · 1B - Planície",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/f5ab60aa3ab26da4.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Encontros · 1B - Planície\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Encontros · 1B - Planície",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Encontros"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "742b18501fe30104"
+  },
+  {
+    "_id": "a4ebd13fc949deb6",
+    "name": "Sortear · Encontros · 1C - Floresta",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/f63caeff2f921c7e.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Encontros · 1C - Floresta\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Encontros · 1C - Floresta",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Encontros"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "742b18501fe30104"
+  },
+  {
+    "_id": "240d6a929b3c6a1c",
+    "name": "Sortear · Encontros · 1D - Deserto",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/4fd5a9d147587f81.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Encontros · 1D - Deserto\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Encontros · 1D - Deserto",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Encontros"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "742b18501fe30104"
+  },
+  {
+    "_id": "e318546736b0a876",
+    "name": "Sortear · Encontros · 1E - Rio / lago / pântano",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/aff47e35e65dab4e.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Encontros · 1E - Rio / lago / pântano\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Encontros · 1E - Rio / lago / pântano",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Encontros"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "742b18501fe30104"
+  },
+  {
+    "_id": "d1c7df8d603d779e",
+    "name": "Sortear · Encontros · Sub-tabela 2 - Dragão",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/02eab75f25f282fd.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Encontros · Sub-tabela 2 - Dragão\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Encontros · Sub-tabela 2 - Dragão",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Encontros"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "742b18501fe30104"
+  },
+  {
+    "_id": "6ace11da9acfe70d",
+    "name": "Sortear · Encontros · Sub-tabela 3 - Voador",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/fd416324e68664ca.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Encontros · Sub-tabela 3 - Voador\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Encontros · Sub-tabela 3 - Voador",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Encontros"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "742b18501fe30104"
+  },
+  {
+    "_id": "8b10d9e55a4c85b2",
+    "name": "Sortear · Encontros · Sub-tabela 4 - Humanoide",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/107861c4d32ca9f7.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Encontros · Sub-tabela 4 - Humanoide\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Encontros · Sub-tabela 4 - Humanoide",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Encontros"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "742b18501fe30104"
+  },
+  {
+    "_id": "4b7b9fc2935ff2f7",
+    "name": "Sortear · Encontros · Sub-tabela 5 - Nadador",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/4b5df2ce959a79f8.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Encontros · Sub-tabela 5 - Nadador\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Encontros · Sub-tabela 5 - Nadador",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Encontros"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "742b18501fe30104"
+  },
+  {
+    "_id": "8f4f89af9c501ad4",
+    "name": "Sortear · Encontros · Sub-tabela 6 - Desmorto",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/38e0131617776ad9.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Encontros · Sub-tabela 6 - Desmorto\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Encontros · Sub-tabela 6 - Desmorto",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Encontros"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "742b18501fe30104"
+  },
+  {
+    "_id": "c7558bdbbc5a5183",
+    "name": "Sortear · Encontros · Sub-tabela 7 - Gigante",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/9bdbdc6d2c8e4f49.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Encontros · Sub-tabela 7 - Gigante\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Encontros · Sub-tabela 7 - Gigante",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Encontros"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "742b18501fe30104"
+  },
+  {
+    "_id": "5f3abe21a374b69f",
+    "name": "Sortear · Encontros · Sub-tabela 8 - Atípico",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/e324fc116b19e445.svg",
+    "scope": "global",
+    "command": "try { await game.d20age.rollBookTable(\"Encontros · Sub-tabela 8 - Atípico\"); } catch(error) { console.error(\"D20Age\",error); ui.notifications.error(error.message); }",
+    "flags": {
+      "d20age": {
+        "tool": "table",
+        "table": "Encontros · Sub-tabela 8 - Atípico",
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Sorteios",
+          "Encontros"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7"
+      }
+    },
+    "folder": "742b18501fe30104"
+  },
+  {
+    "_id": "11422d91637b21fe",
+    "name": "Painel de criaturas",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/aa9c408173c65ee7.svg",
+    "scope": "global",
+    "command": "await game.d20age.openEncounterPanel();",
+    "folder": "ac1100389653bcf5",
+    "flags": {
+      "d20age": {
+        "tool": "reference",
+        "table": null,
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Ferramentas",
+          "Ficha e mesa"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "source": "d20age RPG - LB (V2)"
+      }
+    }
+  },
+  {
+    "_id": "72b2ee98e6b3167b",
+    "name": "Iniciativa do grupo selecionado",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/aa9c408173c65ee7.svg",
+    "scope": "global",
+    "command": "await game.d20age.rollInitiative({group:true});",
+    "folder": "ac1100389653bcf5",
+    "flags": {
+      "d20age": {
+        "tool": "reference",
+        "table": null,
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Ferramentas",
+          "Ficha e mesa"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "source": "d20age RPG - LB (V2)"
+      }
+    }
+  },
+  {
+    "_id": "618e235dc814cffb",
+    "name": "Subir nível e rolar DV",
+    "type": "script",
+    "img": "systems/d20age/assets/icons/aa9c408173c65ee7.svg",
+    "scope": "global",
+    "command": "const actor=canvas.tokens.controlled[0]?.actor??game.user.character; if(!actor)throw Error('Selecione um personagem.'); await actor.advanceLevel();",
+    "folder": "ac1100389653bcf5",
+    "flags": {
+      "d20age": {
+        "tool": "reference",
+        "table": null,
+        "contentVersion": "0.2.0",
+        "folderPath": [
+          "Ferramentas",
+          "Ficha e mesa"
+        ],
+        "iconMotif": "pack",
+        "visualVersion": "0.2.1",
+        "descriptionRevision": "0.4.7",
+        "source": "d20age RPG - LB (V2)"
+      }
+    }
+  }
+]

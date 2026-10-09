@@ -1,0 +1,19 @@
+{
+  "id": "d20age-base",
+  "title": "D20Age · Mundo-base",
+  "description": "Mundo-base com capa e música tema. Ao entrar como mestre, o sistema prepara a cena de abertura e a playlist.",
+  "version": "1.0.0",
+  "system": "d20age",
+  "systemVersion": "0.1.6",
+  "background": "systems/d20age/assets/cover.png",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "authors": [
+    {
+      "name": "Projeto D20Age para Foundry"
+    }
+  ]
+}

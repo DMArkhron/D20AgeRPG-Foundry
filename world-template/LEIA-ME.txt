@@ -1,0 +1,2 @@
+Instale o sistema D20Age 0.1.6. Com o Foundry fechado, copie a pasta d20age-base para Data/worlds/. Abra o Foundry e escolha D20Age · Mundo-base. Entre como mestre para criar a cena de capa e a playlist automaticamente.
+Para mundos criados pelo botão Criar mundo, defina a imagem de fundo como systems/d20age/assets/cover.png. A cena e a música também são preparadas na primeira entrada do mestre.
