@@ -1,0 +1,86 @@
+name: Publicar D20Age no Foundry
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Tag de uma Release publicada (ex.: v0.6.2)'
+        required: true
+        type: string
+      dry_run:
+        description: 'Validar sem cadastrar no Foundry'
+        default: true
+        type: boolean
+
+permissions:
+  contents: read
+
+concurrency:
+  group: foundry-d20age
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    if: github.event_name == 'workflow_dispatch' || (github.event.release.prerelease == false && github.event.release.draft == false)
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Validar manifesto e cadastrar versao
+        env:
+          FOUNDRY_RELEASE_TOKEN: ${{ secrets.FOUNDRY_RELEASE_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          node <<'JS'
+          const fs = require('node:fs');
+          const assert = require('node:assert/strict');
+          async function main() {
+            const event = JSON.parse(fs.readFileSync(process.env.GITHUB_EVENT_PATH, 'utf8'));
+            const manual = process.env.GITHUB_EVENT_NAME === 'workflow_dispatch';
+            const tag = manual ? event.inputs.tag : event.release.tag_name;
+            assert(/^v\d+\.\d+\.\d+$/.test(tag), 'A tag deve usar o formato v0.6.2.');
+            assert(process.env.FOUNDRY_RELEASE_TOKEN, 'Cadastre o Secret FOUNDRY_RELEASE_TOKEN.');
+            const repo = process.env.GITHUB_REPOSITORY;
+            assert.equal(repo, 'DMArkhron/D20AgeRPG-Foundry', 'Workflow destinado ao repositorio D20Age.');
+            const releaseResponse = await fetch(`https://api.github.com/repos/${repo}/releases/tags/${encodeURIComponent(tag)}`, {
+              headers: { Authorization: `Bearer ${process.env.GH_TOKEN}`, Accept: 'application/vnd.github+json' }
+            });
+            assert(releaseResponse.ok, 'Release nao encontrada ou inacessivel.');
+            const release = await releaseResponse.json();
+            assert(!release.draft && !release.prerelease, 'Use uma Release publicada e estavel.');
+            for (const name of ['system.json', 'd20age.zip']) {
+              assert(release.assets.some(a => a.name === name && a.state === 'uploaded'), `Anexe ${name} antes de publicar a Release.`);
+            }
+            const base = `https://github.com/${repo}`;
+            const manifest = `${base}/releases/download/${tag}/system.json`;
+            const response = await fetch(manifest);
+            assert(response.ok, 'Manifesto publico indisponivel.');
+            const m = await response.json();
+            assert.equal(m.id, 'd20age', 'ID incorreto.');
+            assert.equal(m.version, tag.slice(1), 'Versao do manifesto diferente da tag.');
+            assert.equal(m.download, `${base}/releases/download/${tag}/d20age.zip`, 'download deve apontar ao ZIP desta Release.');
+            assert.equal(m.manifest, `${base}/releases/latest/download/system.json`, 'manifest deve apontar ao endereco latest.');
+            assert(m.compatibility?.minimum && m.compatibility?.verified, 'Informe minimum e verified no manifesto.');
+            const zipResponse = await fetch(m.download, { method: 'HEAD' });
+            assert(zipResponse.ok, 'ZIP publico indisponivel.');
+            const compatibility = { minimum: String(m.compatibility.minimum), verified: String(m.compatibility.verified) };
+            if (m.compatibility.maximum) compatibility.maximum = String(m.compatibility.maximum);
+            const dryRun = manual && String(event.inputs.dry_run) !== 'false';
+            const body = { id: m.id, 'dry-run': dryRun, release: { version: m.version, manifest, notes: release.html_url, compatibility } };
+            const result = await fetch('https://foundryvtt.com/_api/packages/release_version/', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json', Authorization: process.env.FOUNDRY_RELEASE_TOKEN },
+              body: JSON.stringify(body)
+            });
+            const data = await result.json();
+            if (!result.ok || data.status !== 'success') {
+              console.error('Falha na API do Foundry:', result.status, JSON.stringify(data.errors ?? data.message ?? 'Resposta inesperada'));
+              process.exitCode = 1;
+              return;
+            }
+            console.log(dryRun ? 'Validacao concluida; nenhuma versao cadastrada.' : `D20Age ${m.version} cadastrado no Foundry.`);
+          }
+          main().catch(error => { console.error(error.message); process.exitCode = 1; });
+          JS
