@@ -3,7 +3,7 @@
     "_id": "07e2d6944e3e39e8",
     "name": "Abelha assassina operária · diminuto",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/7d7bdcca7fa5a36e.svg",
+    "img": "systems/d20age/assets/creatures/07e2d6944e3e39e8.jpg",
     "system": {
       "title": "Abelha assassina operária (D)",
       "ancestry": "ABELHA ASSASSINA | BESTA (X)",
@@ -162,7 +162,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/7d7bdcca7fa5a36e.svg"
+        "src": "systems/d20age/assets/tokens/creatures/07e2d6944e3e39e8.svg"
       }
     },
     "flags": {
@@ -203,7 +203,7 @@
     "_id": "a1dd4e94cb1fadff",
     "name": "Abelha assassina guardiã · diminuto",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/d951ea4bffa95241.svg",
+    "img": "systems/d20age/assets/creatures/a1dd4e94cb1fadff.jpg",
     "system": {
       "title": "Abelha assassina guardiã (D)",
       "ancestry": "ABELHA ASSASSINA | BESTA (X)",
@@ -362,7 +362,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/d951ea4bffa95241.svg"
+        "src": "systems/d20age/assets/tokens/creatures/a1dd4e94cb1fadff.svg"
       }
     },
     "flags": {
@@ -403,7 +403,7 @@
     "_id": "cea913aaa8a7d339",
     "name": "Abelha assassina rainha · diminuto",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/4c9869b9d5cce93e.svg",
+    "img": "systems/d20age/assets/creatures/cea913aaa8a7d339.jpg",
     "system": {
       "title": "Abelha assassina rainha (D)",
       "ancestry": "ABELHA ASSASSINA | BESTA (X)",
@@ -543,7 +543,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/4c9869b9d5cce93e.svg"
+        "src": "systems/d20age/assets/tokens/creatures/cea913aaa8a7d339.svg"
       }
     },
     "flags": {
@@ -584,7 +584,7 @@
     "_id": "39dc59b08679a3e4",
     "name": "Camelo · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/8e33dbd2a8b853c8.svg",
+    "img": "systems/d20age/assets/creatures/39dc59b08679a3e4.jpg",
     "system": {
       "title": "Camelo (G)",
       "ancestry": "ANIMAL DE CARGA | BESTA (X)",
@@ -705,7 +705,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/8e33dbd2a8b853c8.svg"
+        "src": "systems/d20age/assets/tokens/creatures/39dc59b08679a3e4.svg"
       }
     },
     "flags": {
@@ -746,7 +746,7 @@
     "_id": "b65319c042fdaee6",
     "name": "Cavalo de guerra · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/f167ff1b4628605a.svg",
+    "img": "systems/d20age/assets/creatures/b65319c042fdaee6.jpg",
     "system": {
       "title": "Cavalo de guerra (G)",
       "ancestry": "ANIMAL DE CARGA | BESTA (X)",
@@ -867,7 +867,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/f167ff1b4628605a.svg"
+        "src": "systems/d20age/assets/tokens/creatures/b65319c042fdaee6.svg"
       }
     },
     "flags": {
@@ -908,7 +908,7 @@
     "_id": "be2d238ce499d0c8",
     "name": "Cavalo de tração · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/dc99c0ab540d665b.svg",
+    "img": "systems/d20age/assets/creatures/be2d238ce499d0c8.jpg",
     "system": {
       "title": "Cavalo de tração (G)",
       "ancestry": "ANIMAL DE CARGA | BESTA (X)",
@@ -1010,7 +1010,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/dc99c0ab540d665b.svg"
+        "src": "systems/d20age/assets/tokens/creatures/be2d238ce499d0c8.svg"
       }
     },
     "flags": {
@@ -1051,7 +1051,7 @@
     "_id": "89280d15ab9b2a0c",
     "name": "Cavalo de cavalgada · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/413291089dc92cb7.svg",
+    "img": "systems/d20age/assets/creatures/89280d15ab9b2a0c.jpg",
     "system": {
       "title": "Cavalo de cavalgada (G)",
       "ancestry": "ANIMAL DE CARGA | BESTA (X)",
@@ -1153,7 +1153,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/413291089dc92cb7.svg"
+        "src": "systems/d20age/assets/tokens/creatures/89280d15ab9b2a0c.svg"
       }
     },
     "flags": {
@@ -1194,7 +1194,7 @@
     "_id": "9b01c23c68a6633e",
     "name": "Mula · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/edf70e1aee47ae2b.svg",
+    "img": "systems/d20age/assets/creatures/9b01c23c68a6633e.jpg",
     "system": {
       "title": "Mula (M)",
       "ancestry": "ANIMAL DE CARGA | BESTA (X)",
@@ -1315,7 +1315,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/edf70e1aee47ae2b.svg"
+        "src": "systems/d20age/assets/tokens/creatures/9b01c23c68a6633e.svg"
       }
     },
     "flags": {
@@ -1356,7 +1356,7 @@
     "_id": "bb9bbb62483c5408",
     "name": "Pônei · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/3a49a484e90fd006.svg",
+    "img": "systems/d20age/assets/creatures/bb9bbb62483c5408.jpg",
     "system": {
       "title": "Pônei (M)",
       "ancestry": "ANIMAL DE CARGA | BESTA (X)",
@@ -1458,7 +1458,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/3a49a484e90fd006.svg"
+        "src": "systems/d20age/assets/tokens/creatures/bb9bbb62483c5408.svg"
       }
     },
     "flags": {
@@ -1499,7 +1499,7 @@
     "_id": "9b3345c35b0752fc",
     "name": "Águia · pequeno",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/42c56fad0f94226c.svg",
+    "img": "systems/d20age/assets/creatures/9b3345c35b0752fc.jpg",
     "system": {
       "title": "Águia (P)",
       "ancestry": "AVE DE RAPINA | BESTA (X)",
@@ -1625,7 +1625,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/42c56fad0f94226c.svg"
+        "src": "systems/d20age/assets/tokens/creatures/9b3345c35b0752fc.svg"
       }
     },
     "flags": {
@@ -1666,7 +1666,7 @@
     "_id": "efb3314d8735be3e",
     "name": "Águia gigante · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/46cdda3d7ea64528.svg",
+    "img": "systems/d20age/assets/creatures/efb3314d8735be3e.jpg",
     "system": {
       "title": "Águia gigante (G)",
       "ancestry": "AVE DE RAPINA | BESTA (X)",
@@ -1792,7 +1792,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/46cdda3d7ea64528.svg"
+        "src": "systems/d20age/assets/tokens/creatures/efb3314d8735be3e.svg"
       }
     },
     "flags": {
@@ -1833,7 +1833,7 @@
     "_id": "ec77054eefa87d3c",
     "name": "Aranha aquática · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/f15ccbd43e390666.svg",
+    "img": "systems/d20age/assets/creatures/ec77054eefa87d3c.jpg",
     "system": {
       "title": "Aranha aquática (M)",
       "ancestry": "ARANHA GIGANTE | BESTA (X)",
@@ -1954,7 +1954,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/f15ccbd43e390666.svg"
+        "src": "systems/d20age/assets/tokens/creatures/ec77054eefa87d3c.svg"
       }
     },
     "flags": {
@@ -1995,7 +1995,7 @@
     "_id": "47232ac40ecf3394",
     "name": "Aranha caranguejeira · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/179ea66dccf6a95d.svg",
+    "img": "systems/d20age/assets/creatures/47232ac40ecf3394.jpg",
     "system": {
       "title": "Aranha caranguejeira (M)",
       "ancestry": "ARANHA GIGANTE | BESTA (X)",
@@ -2135,7 +2135,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/179ea66dccf6a95d.svg"
+        "src": "systems/d20age/assets/tokens/creatures/47232ac40ecf3394.svg"
       }
     },
     "flags": {
@@ -2176,7 +2176,7 @@
     "_id": "d5b55f562b717e63",
     "name": "Rhagodessa · enorme",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/9f3a2543e3f25683.svg",
+    "img": "systems/d20age/assets/creatures/d5b55f562b717e63.jpg",
     "system": {
       "title": "Rhagodessa (E)",
       "ancestry": "ARANHA GIGANTE | BESTA (X)",
@@ -2278,7 +2278,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/9f3a2543e3f25683.svg"
+        "src": "systems/d20age/assets/tokens/creatures/d5b55f562b717e63.svg"
       }
     },
     "flags": {
@@ -2319,7 +2319,7 @@
     "_id": "13790353ea72fbb2",
     "name": "Viúva negra · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/c6067c484ebb1f74.svg",
+    "img": "systems/d20age/assets/creatures/13790353ea72fbb2.jpg",
     "system": {
       "title": "Viúva negra (M)",
       "ancestry": "ARANHA GIGANTE | BESTA (X)",
@@ -2440,7 +2440,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/c6067c484ebb1f74.svg"
+        "src": "systems/d20age/assets/tokens/creatures/13790353ea72fbb2.svg"
       }
     },
     "flags": {
@@ -2481,7 +2481,7 @@
     "_id": "d037d5950030013e",
     "name": "Tarântula · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/56354581c7cdc1af.svg",
+    "img": "systems/d20age/assets/creatures/d037d5950030013e.jpg",
     "system": {
       "title": "Tarântula (G)",
       "ancestry": "ARANHA GIGANTE | BESTA (X)",
@@ -2583,7 +2583,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/56354581c7cdc1af.svg"
+        "src": "systems/d20age/assets/tokens/creatures/d037d5950030013e.svg"
       }
     },
     "flags": {
@@ -2624,7 +2624,7 @@
     "_id": "1891921039071ee7",
     "name": "Babuíno das rochas",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/ee626a4ca53d09ad.svg",
+    "img": "systems/d20age/assets/creatures/1891921039071ee7.jpg",
     "system": {
       "title": "BABUÍNO DAS ROCHAS | BESTA (M)",
       "ancestry": "BABUÍNO DAS ROCHAS | BESTA (M)",
@@ -2750,7 +2750,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/ee626a4ca53d09ad.svg"
+        "src": "systems/d20age/assets/tokens/creatures/1891921039071ee7.svg"
       }
     },
     "flags": {
@@ -2790,7 +2790,7 @@
     "_id": "917b44e8e491368a",
     "name": "Besouro de fogo · pequeno",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/5c466c514e2652b5.svg",
+    "img": "systems/d20age/assets/creatures/917b44e8e491368a.jpg",
     "system": {
       "title": "Besouro de fogo (P)",
       "ancestry": "BESOURO GIGANTE | BESTA (X)",
@@ -2892,7 +2892,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/5c466c514e2652b5.svg"
+        "src": "systems/d20age/assets/tokens/creatures/917b44e8e491368a.svg"
       }
     },
     "flags": {
@@ -2933,7 +2933,7 @@
     "_id": "8374da711440927e",
     "name": "Besouro viscoso · pequeno",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/7df779e7c3471467.svg",
+    "img": "systems/d20age/assets/creatures/8374da711440927e.jpg",
     "system": {
       "title": "Besouro viscoso (P)",
       "ancestry": "BESOURO GIGANTE | BESTA (X)",
@@ -3035,7 +3035,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/7df779e7c3471467.svg"
+        "src": "systems/d20age/assets/tokens/creatures/8374da711440927e.svg"
       }
     },
     "flags": {
@@ -3076,7 +3076,7 @@
     "_id": "1da7d5e2d54bb528",
     "name": "Besouro Tigre · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/51a04db11374817d.svg",
+    "img": "systems/d20age/assets/creatures/1da7d5e2d54bb528.jpg",
     "system": {
       "title": "Besouro Tigre (M)",
       "ancestry": "BESOURO GIGANTE | BESTA (X)",
@@ -3178,7 +3178,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/51a04db11374817d.svg"
+        "src": "systems/d20age/assets/tokens/creatures/1da7d5e2d54bb528.svg"
       }
     },
     "flags": {
@@ -3219,7 +3219,7 @@
     "_id": "bfcf9cf1556c3daa",
     "name": "Cão de caça · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/91023378c8e23462.svg",
+    "img": "systems/d20age/assets/creatures/bfcf9cf1556c3daa.jpg",
     "system": {
       "title": "Cão de caça (M)",
       "ancestry": "CÃO | BESTA (M)",
@@ -3321,7 +3321,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/91023378c8e23462.svg"
+        "src": "systems/d20age/assets/tokens/creatures/bfcf9cf1556c3daa.svg"
       }
     },
     "flags": {
@@ -3362,7 +3362,7 @@
     "_id": "a94d63af4f468abe",
     "name": "Cão de batalha · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/3b399904f96d192d.svg",
+    "img": "systems/d20age/assets/creatures/a94d63af4f468abe.jpg",
     "system": {
       "title": "Cão de batalha (M)",
       "ancestry": "CÃO | BESTA (M)",
@@ -3464,7 +3464,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/3b399904f96d192d.svg"
+        "src": "systems/d20age/assets/tokens/creatures/a94d63af4f468abe.svg"
       }
     },
     "flags": {
@@ -3505,7 +3505,7 @@
     "_id": "2fb49d0cf9aae35a",
     "name": "Caranguejo gigante",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/6f8a3de3794f1bd5.svg",
+    "img": "systems/d20age/assets/creatures/2fb49d0cf9aae35a.jpg",
     "system": {
       "title": "CARANGUEJO GIGANTE | BESTA (M)",
       "ancestry": "CARANGUEJO GIGANTE | BESTA (M)",
@@ -3607,7 +3607,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/6f8a3de3794f1bd5.svg"
+        "src": "systems/d20age/assets/tokens/creatures/2fb49d0cf9aae35a.svg"
       }
     },
     "flags": {
@@ -3647,7 +3647,7 @@
     "_id": "089b582ab8899385",
     "name": "Centopeia gigante",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/f94464076b7292c6.svg",
+    "img": "systems/d20age/assets/creatures/089b582ab8899385.jpg",
     "system": {
       "title": "CENTOPEIA GIGANTE | BESTA (D)",
       "ancestry": "CENTOPEIA GIGANTE | BESTA (D)",
@@ -3763,7 +3763,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/f94464076b7292c6.svg"
+        "src": "systems/d20age/assets/tokens/creatures/089b582ab8899385.svg"
       }
     },
     "flags": {
@@ -3803,7 +3803,7 @@
     "_id": "544f6f848af9562b",
     "name": "Cascavel gigante · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/2b494b8b09c11dc3.svg",
+    "img": "systems/d20age/assets/creatures/544f6f848af9562b.jpg",
     "system": {
       "title": "Cascavel gigante (G)",
       "ancestry": "COBRA | BESTA (X)",
@@ -3962,7 +3962,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/2b494b8b09c11dc3.svg"
+        "src": "systems/d20age/assets/tokens/creatures/544f6f848af9562b.svg"
       }
     },
     "flags": {
@@ -4003,7 +4003,7 @@
     "_id": "8440f72f6bd37127",
     "name": "Naja · pequeno",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/f1d7f471d5087ec2.svg",
+    "img": "systems/d20age/assets/creatures/8440f72f6bd37127.jpg",
     "system": {
       "title": "Naja (P)",
       "ancestry": "COBRA | BESTA (X)",
@@ -4143,7 +4143,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/f1d7f471d5087ec2.svg"
+        "src": "systems/d20age/assets/tokens/creatures/8440f72f6bd37127.svg"
       }
     },
     "flags": {
@@ -4184,7 +4184,7 @@
     "_id": "77747df46f778c3f",
     "name": "Cobra marinha · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/6e547d24899affe4.svg",
+    "img": "systems/d20age/assets/creatures/77747df46f778c3f.jpg",
     "system": {
       "title": "Cobra marinha (M)",
       "ancestry": "COBRA | BESTA (X)",
@@ -4324,7 +4324,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/6e547d24899affe4.svg"
+        "src": "systems/d20age/assets/tokens/creatures/77747df46f778c3f.svg"
       }
     },
     "flags": {
@@ -4365,7 +4365,7 @@
     "_id": "2e04a680fa383aa5",
     "name": "Píton · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/f012d6bf344dd46f.svg",
+    "img": "systems/d20age/assets/creatures/2e04a680fa383aa5.jpg",
     "system": {
       "title": "Píton (G)",
       "ancestry": "COBRA | BESTA (X)",
@@ -4486,7 +4486,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/f012d6bf344dd46f.svg"
+        "src": "systems/d20age/assets/tokens/creatures/2e04a680fa383aa5.svg"
       }
     },
     "flags": {
@@ -4527,7 +4527,7 @@
     "_id": "96c0a4fd4cc72196",
     "name": "Víbora · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/7057f3c51dc5e891.svg",
+    "img": "systems/d20age/assets/creatures/96c0a4fd4cc72196.jpg",
     "system": {
       "title": "Víbora (M)",
       "ancestry": "COBRA | BESTA (X)",
@@ -4667,7 +4667,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/7057f3c51dc5e891.svg"
+        "src": "systems/d20age/assets/tokens/creatures/96c0a4fd4cc72196.svg"
       }
     },
     "flags": {
@@ -4708,7 +4708,7 @@
     "_id": "4145e492432adb89",
     "name": "Crocodilo-de-água-doce · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/defdd8d4a443588c.svg",
+    "img": "systems/d20age/assets/creatures/4145e492432adb89.jpg",
     "system": {
       "title": "Crocodilo-de-água-doce (G)",
       "ancestry": "CROCODILO | BESTA (X)",
@@ -4872,7 +4872,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/defdd8d4a443588c.svg"
+        "src": "systems/d20age/assets/tokens/creatures/4145e492432adb89.svg"
       }
     },
     "flags": {
@@ -4913,7 +4913,7 @@
     "_id": "c3d179ef9a380426",
     "name": "Crocodilo-de-água-salgada · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/47d41f0e88bb98b5.svg",
+    "img": "systems/d20age/assets/creatures/c3d179ef9a380426.jpg",
     "system": {
       "title": "Crocodilo-de-água-salgada (G)",
       "ancestry": "CROCODILO | BESTA (X)",
@@ -5077,7 +5077,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/47d41f0e88bb98b5.svg"
+        "src": "systems/d20age/assets/tokens/creatures/c3d179ef9a380426.svg"
       }
     },
     "flags": {
@@ -5118,7 +5118,7 @@
     "_id": "322d3c185a02bf48",
     "name": "Crocodilo gigante · enorme",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/5fd8ac251846c6a0.svg",
+    "img": "systems/d20age/assets/creatures/322d3c185a02bf48.jpg",
     "system": {
       "title": "Crocodilo gigante (E)",
       "ancestry": "CROCODILO | BESTA (X)",
@@ -5282,7 +5282,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/5fd8ac251846c6a0.svg"
+        "src": "systems/d20age/assets/tokens/creatures/322d3c185a02bf48.svg"
       }
     },
     "flags": {
@@ -5323,7 +5323,7 @@
     "_id": "ddc3d723a71068c6",
     "name": "Cupim gigante",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/4a0f84f622456565.svg",
+    "img": "systems/d20age/assets/creatures/ddc3d723a71068c6.jpg",
     "system": {
       "title": "CUPIM GIGANTE | BESTA (P)",
       "ancestry": "CUPIM GIGANTE | BESTA (P)",
@@ -5444,7 +5444,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/4a0f84f622456565.svg"
+        "src": "systems/d20age/assets/tokens/creatures/ddc3d723a71068c6.svg"
       }
     },
     "flags": {
@@ -5484,7 +5484,7 @@
     "_id": "e159c93f490a4442",
     "name": "Enxame de insetos",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/81a3affda036c416.svg",
+    "img": "systems/d20age/assets/creatures/e159c93f490a4442.jpg",
     "system": {
       "title": "ENXAME DE INSETOS | BESTA (G)",
       "ancestry": "ENXAME DE INSETOS | BESTA (G)",
@@ -5619,7 +5619,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/81a3affda036c416.svg"
+        "src": "systems/d20age/assets/tokens/creatures/e159c93f490a4442.svg"
       }
     },
     "flags": {
@@ -5659,7 +5659,7 @@
     "_id": "61047937881ae153",
     "name": "Escorpião gigante",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/0e604df760549b9d.svg",
+    "img": "systems/d20age/assets/creatures/61047937881ae153.jpg",
     "system": {
       "title": "ESCORPIÃO GIGANTE | BESTA (M)",
       "ancestry": "ESCORPIÃO GIGANTE | BESTA (M)",
@@ -5804,7 +5804,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/0e604df760549b9d.svg"
+        "src": "systems/d20age/assets/tokens/creatures/61047937881ae153.svg"
       }
     },
     "flags": {
@@ -5844,7 +5844,7 @@
     "_id": "cce80abf04d870ca",
     "name": "Formiga gigante",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/01b3cd11d23c8615.svg",
+    "img": "systems/d20age/assets/creatures/cce80abf04d870ca.jpg",
     "system": {
       "title": "FORMIGA GIGANTE | BESTA (M)",
       "ancestry": "FORMIGA GIGANTE | BESTA (M)",
@@ -5984,7 +5984,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/01b3cd11d23c8615.svg"
+        "src": "systems/d20age/assets/tokens/creatures/cce80abf04d870ca.svg"
       }
     },
     "flags": {
@@ -6024,7 +6024,7 @@
     "_id": "262ba479ed80c522",
     "name": "Gralha · diminuto",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/d18e3cac866221e6.svg",
+    "img": "systems/d20age/assets/creatures/262ba479ed80c522.jpg",
     "system": {
       "title": "Gralha (D)",
       "ancestry": "GRALHA | BESTA (X)",
@@ -6121,7 +6121,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/d18e3cac866221e6.svg"
+        "src": "systems/d20age/assets/tokens/creatures/262ba479ed80c522.svg"
       }
     },
     "flags": {
@@ -6162,7 +6162,7 @@
     "_id": "3ded07f606f4579a",
     "name": "Gralha gigante · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/c9ab06b95f1693fd.svg",
+    "img": "systems/d20age/assets/creatures/3ded07f606f4579a.jpg",
     "system": {
       "title": "Gralha gigante (G)",
       "ancestry": "GRALHA | BESTA (X)",
@@ -6264,7 +6264,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/c9ab06b95f1693fd.svg"
+        "src": "systems/d20age/assets/tokens/creatures/3ded07f606f4579a.svg"
       }
     },
     "flags": {
@@ -6305,7 +6305,7 @@
     "_id": "d4975f65af451289",
     "name": "Javali · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/01080e0bc7470567.svg",
+    "img": "systems/d20age/assets/creatures/d4975f65af451289.jpg",
     "system": {
       "title": "Javali (M)",
       "ancestry": "JAVALI | BESTA (X)",
@@ -6407,7 +6407,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/01080e0bc7470567.svg"
+        "src": "systems/d20age/assets/tokens/creatures/d4975f65af451289.svg"
       }
     },
     "flags": {
@@ -6448,7 +6448,7 @@
     "_id": "6cac74252f57c5cc",
     "name": "Javali Atroz · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/1aa3192f0dfc6917.svg",
+    "img": "systems/d20age/assets/creatures/6cac74252f57c5cc.jpg",
     "system": {
       "title": "Javali Atroz (G)",
       "ancestry": "JAVALI | BESTA (X)",
@@ -6550,7 +6550,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/1aa3192f0dfc6917.svg"
+        "src": "systems/d20age/assets/tokens/creatures/6cac74252f57c5cc.svg"
       }
     },
     "flags": {
@@ -6591,7 +6591,7 @@
     "_id": "d6a98b6ee7b6cb80",
     "name": "Lobo comum · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/436619418c2083f8.svg",
+    "img": "systems/d20age/assets/creatures/d6a98b6ee7b6cb80.jpg",
     "system": {
       "title": "Lobo comum (M)",
       "ancestry": "LOBO | BESTA (X)",
@@ -6712,7 +6712,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/436619418c2083f8.svg"
+        "src": "systems/d20age/assets/tokens/creatures/d6a98b6ee7b6cb80.svg"
       }
     },
     "flags": {
@@ -6753,7 +6753,7 @@
     "_id": "0ba6d84713c24c5e",
     "name": "Lobo atroz · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/e80cf0d674fbb65d.svg",
+    "img": "systems/d20age/assets/creatures/0ba6d84713c24c5e.jpg",
     "system": {
       "title": "Lobo atroz (G)",
       "ancestry": "LOBO | BESTA (X)",
@@ -6855,7 +6855,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/e80cf0d674fbb65d.svg"
+        "src": "systems/d20age/assets/tokens/creatures/0ba6d84713c24c5e.svg"
       }
     },
     "flags": {
@@ -6896,7 +6896,7 @@
     "_id": "35c045f6db5dab46",
     "name": "Warg · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/c76817c9bb3c64b7.svg",
+    "img": "systems/d20age/assets/creatures/35c045f6db5dab46.jpg",
     "system": {
       "title": "Warg (G)",
       "ancestry": "LOBO | BESTA (X)",
@@ -7055,7 +7055,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/c76817c9bb3c64b7.svg"
+        "src": "systems/d20age/assets/tokens/creatures/35c045f6db5dab46.svg"
       }
     },
     "flags": {
@@ -7096,7 +7096,7 @@
     "_id": "1c8b2c80bdb20d3c",
     "name": "Animal de rebanho · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/0302d7316721def7.svg",
+    "img": "systems/d20age/assets/creatures/1c8b2c80bdb20d3c.jpg",
     "system": {
       "title": "Animal de rebanho (G)",
       "ancestry": "MAMÍFERO DE REBANHO | BESTA (X)",
@@ -7217,7 +7217,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/0302d7316721def7.svg"
+        "src": "systems/d20age/assets/tokens/creatures/1c8b2c80bdb20d3c.svg"
       }
     },
     "flags": {
@@ -7258,7 +7258,7 @@
     "_id": "12e1b70c5849af37",
     "name": "Animal de rebanho · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/71d2b9fef7beb39c.svg",
+    "img": "systems/d20age/assets/creatures/12e1b70c5849af37.jpg",
     "system": {
       "title": "Animal de rebanho (M)",
       "ancestry": "MAMÍFERO DE REBANHO | BESTA (X)",
@@ -7379,7 +7379,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/71d2b9fef7beb39c.svg"
+        "src": "systems/d20age/assets/tokens/creatures/12e1b70c5849af37.svg"
       }
     },
     "flags": {
@@ -7420,7 +7420,7 @@
     "_id": "eec7ffb69e22821f",
     "name": "Animal de rebanho · pequeno",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/db28e2acb8247b88.svg",
+    "img": "systems/d20age/assets/creatures/eec7ffb69e22821f.jpg",
     "system": {
       "title": "Animal de rebanho (P)",
       "ancestry": "MAMÍFERO DE REBANHO | BESTA (X)",
@@ -7541,7 +7541,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/db28e2acb8247b88.svg"
+        "src": "systems/d20age/assets/tokens/creatures/eec7ffb69e22821f.svg"
       }
     },
     "flags": {
@@ -7582,7 +7582,7 @@
     "_id": "eed4b638ba27dced",
     "name": "Morcego comum (colônia)",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/3d291ec4a2b0444c.svg",
+    "img": "systems/d20age/assets/creatures/eed4b638ba27dced.jpg",
     "system": {
       "title": "Morcego comum (colônia)",
       "ancestry": "MORCEGO | ANIMAL (X)",
@@ -7736,7 +7736,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/3d291ec4a2b0444c.svg"
+        "src": "systems/d20age/assets/tokens/creatures/eed4b638ba27dced.svg"
       }
     },
     "flags": {
@@ -7778,7 +7778,7 @@
     "_id": "4c2c35c0f3c0b3c1",
     "name": "Morcego gigante · pequeno",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/acb342ba1a79b018.svg",
+    "img": "systems/d20age/assets/creatures/4c2c35c0f3c0b3c1.jpg",
     "system": {
       "title": "Morcego gigante (P)",
       "ancestry": "MORCEGO | ANIMAL (X)",
@@ -7880,7 +7880,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/acb342ba1a79b018.svg"
+        "src": "systems/d20age/assets/tokens/creatures/4c2c35c0f3c0b3c1.svg"
       }
     },
     "flags": {
@@ -7921,7 +7921,7 @@
     "_id": "6d780b6328ed320f",
     "name": "Morcego vampiro · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/d1a92aafef8f6d46.svg",
+    "img": "systems/d20age/assets/creatures/6d780b6328ed320f.jpg",
     "system": {
       "title": "Morcego vampiro (M)",
       "ancestry": "MORCEGO | ANIMAL (X)",
@@ -8061,7 +8061,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/d1a92aafef8f6d46.svg"
+        "src": "systems/d20age/assets/tokens/creatures/6d780b6328ed320f.svg"
       }
     },
     "flags": {
@@ -8102,7 +8102,7 @@
     "_id": "255b2f4172418209",
     "name": "Polvo gigante",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/196ece3000411ac2.svg",
+    "img": "systems/d20age/assets/creatures/255b2f4172418209.jpg",
     "system": {
       "title": "POLVO GIGANTE | BESTA (G)",
       "ancestry": "POLVO GIGANTE | BESTA (G)",
@@ -8247,7 +8247,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/196ece3000411ac2.svg"
+        "src": "systems/d20age/assets/tokens/creatures/255b2f4172418209.svg"
       }
     },
     "flags": {
@@ -8287,7 +8287,7 @@
     "_id": "5b56f583af881552",
     "name": "Rato comum (colônia, M)",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/39bcc14d482662bf.svg",
+    "img": "systems/d20age/assets/creatures/5b56f583af881552.jpg",
     "system": {
       "title": "Rato comum (colônia, M)",
       "ancestry": "RATO | BESTA (X)",
@@ -8442,7 +8442,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/39bcc14d482662bf.svg"
+        "src": "systems/d20age/assets/tokens/creatures/5b56f583af881552.svg"
       }
     },
     "flags": {
@@ -8484,7 +8484,7 @@
     "_id": "21d0a98e2d69f205",
     "name": "Rato gigante · pequeno",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/b62e8163ec60eba9.svg",
+    "img": "systems/d20age/assets/creatures/21d0a98e2d69f205.jpg",
     "system": {
       "title": "Rato gigante (P)",
       "ancestry": "RATO | BESTA (X)",
@@ -8605,7 +8605,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/b62e8163ec60eba9.svg"
+        "src": "systems/d20age/assets/tokens/creatures/21d0a98e2d69f205.svg"
       }
     },
     "flags": {
@@ -8646,7 +8646,7 @@
     "_id": "40ea012fa61fe8b1",
     "name": "Sanguessuga gigante",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/86d744227b5854a3.svg",
+    "img": "systems/d20age/assets/creatures/40ea012fa61fe8b1.jpg",
     "system": {
       "title": "SANGUESSUGA GIGANTE | BESTA (M)",
       "ancestry": "SANGUESSUGA GIGANTE | BESTA (M)",
@@ -8767,7 +8767,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/86d744227b5854a3.svg"
+        "src": "systems/d20age/assets/tokens/creatures/40ea012fa61fe8b1.svg"
       }
     },
     "flags": {
@@ -8807,7 +8807,7 @@
     "_id": "23d93524043a5def",
     "name": "Tubarão comum · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/82e6599aab43826c.svg",
+    "img": "systems/d20age/assets/creatures/23d93524043a5def.jpg",
     "system": {
       "title": "Tubarão comum (G)",
       "ancestry": "TUBARÃO | BESTA (X)",
@@ -8928,7 +8928,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/82e6599aab43826c.svg"
+        "src": "systems/d20age/assets/tokens/creatures/23d93524043a5def.svg"
       }
     },
     "flags": {
@@ -8969,7 +8969,7 @@
     "_id": "aaf8da882705af72",
     "name": "Tubarão gigante · enorme",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/bef75848e96bbe96.svg",
+    "img": "systems/d20age/assets/creatures/aaf8da882705af72.jpg",
     "system": {
       "title": "Tubarão gigante (E)",
       "ancestry": "TUBARÃO | BESTA (X)",
@@ -9090,7 +9090,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/bef75848e96bbe96.svg"
+        "src": "systems/d20age/assets/tokens/creatures/aaf8da882705af72.svg"
       }
     },
     "flags": {
@@ -9131,7 +9131,7 @@
     "_id": "93c8c908d2d86e81",
     "name": "Urso negro · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/d5c4109daaa40b73.svg",
+    "img": "systems/d20age/assets/creatures/93c8c908d2d86e81.jpg",
     "system": {
       "title": "Urso negro (M)",
       "ancestry": "URSO | BESTA (X)",
@@ -9295,7 +9295,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/d5c4109daaa40b73.svg"
+        "src": "systems/d20age/assets/tokens/creatures/93c8c908d2d86e81.svg"
       }
     },
     "flags": {
@@ -9336,7 +9336,7 @@
     "_id": "f854fe3f04ed57e5",
     "name": "Urso pardo · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/77fe25efd545ca89.svg",
+    "img": "systems/d20age/assets/creatures/f854fe3f04ed57e5.jpg",
     "system": {
       "title": "Urso pardo (G)",
       "ancestry": "URSO | BESTA (X)",
@@ -9481,7 +9481,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/77fe25efd545ca89.svg"
+        "src": "systems/d20age/assets/tokens/creatures/f854fe3f04ed57e5.svg"
       }
     },
     "flags": {
@@ -9522,7 +9522,7 @@
     "_id": "599e134b26ca6113",
     "name": "Urso polar · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/ffe4afb3dcb60af7.svg",
+    "img": "systems/d20age/assets/creatures/599e134b26ca6113.jpg",
     "system": {
       "title": "Urso polar (G)",
       "ancestry": "URSO | BESTA (X)",
@@ -9686,7 +9686,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/ffe4afb3dcb60af7.svg"
+        "src": "systems/d20age/assets/tokens/creatures/599e134b26ca6113.svg"
       }
     },
     "flags": {
@@ -9727,7 +9727,7 @@
     "_id": "815b76e399aee2d1",
     "name": "Urso atroz · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/0e5baa0d99d4282c.svg",
+    "img": "systems/d20age/assets/creatures/815b76e399aee2d1.jpg",
     "system": {
       "title": "Urso atroz (G)",
       "ancestry": "URSO | BESTA (X)",
@@ -9872,7 +9872,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/0e5baa0d99d4282c.svg"
+        "src": "systems/d20age/assets/tokens/creatures/815b76e399aee2d1.svg"
       }
     },
     "flags": {
@@ -9913,7 +9913,7 @@
     "_id": "91aae57edf788699",
     "name": "Golem de carne · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/0ba3969598ea21aa.svg",
+    "img": "systems/d20age/assets/creatures/91aae57edf788699.jpg",
     "system": {
       "title": "Golem de carne (G)",
       "ancestry": "GOLEM | CONSTRUTO (X)",
@@ -10070,7 +10070,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/0ba3969598ea21aa.svg"
+        "src": "systems/d20age/assets/tokens/creatures/91aae57edf788699.svg"
       }
     },
     "flags": {
@@ -10111,7 +10111,7 @@
     "_id": "28dc822e360ef4b6",
     "name": "Golem de ossos · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/4830723984ed99dc.svg",
+    "img": "systems/d20age/assets/creatures/28dc822e360ef4b6.jpg",
     "system": {
       "title": "Golem de ossos (M)",
       "ancestry": "GOLEM | CONSTRUTO (X)",
@@ -10273,7 +10273,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/4830723984ed99dc.svg"
+        "src": "systems/d20age/assets/tokens/creatures/28dc822e360ef4b6.svg"
       }
     },
     "flags": {
@@ -10314,7 +10314,7 @@
     "_id": "19b19f4144c90193",
     "name": "Armadura animada · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/b227e3767ddce301.svg",
+    "img": "systems/d20age/assets/creatures/19b19f4144c90193.jpg",
     "system": {
       "title": "Armadura animada (M)",
       "ancestry": "OBJETO ANIMADO | CONSTRUTO (X)",
@@ -10471,7 +10471,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/b227e3767ddce301.svg"
+        "src": "systems/d20age/assets/tokens/creatures/19b19f4144c90193.svg"
       }
     },
     "flags": {
@@ -10512,7 +10512,7 @@
     "_id": "b6895a6fb7cd1163",
     "name": "Punhal animado · diminuto",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/80c33462e047207c.svg",
+    "img": "systems/d20age/assets/creatures/b6895a6fb7cd1163.jpg",
     "system": {
       "title": "Punhal animado (D)",
       "ancestry": "OBJETO ANIMADO | CONSTRUTO (X)",
@@ -10669,7 +10669,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/80c33462e047207c.svg"
+        "src": "systems/d20age/assets/tokens/creatures/b6895a6fb7cd1163.svg"
       }
     },
     "flags": {
@@ -10710,7 +10710,7 @@
     "_id": "eef37f8e04fed447",
     "name": "Tapete animado · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/a640ec0c37dcae77.svg",
+    "img": "systems/d20age/assets/creatures/eef37f8e04fed447.jpg",
     "system": {
       "title": "Tapete animado (G)",
       "ancestry": "OBJETO ANIMADO | CONSTRUTO (X)",
@@ -10862,7 +10862,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/a640ec0c37dcae77.svg"
+        "src": "systems/d20age/assets/tokens/creatures/eef37f8e04fed447.svg"
       }
     },
     "flags": {
@@ -10903,7 +10903,7 @@
     "_id": "27654753f01c0cd5",
     "name": "Cãoniçal",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/e3545050a46ebf58.svg",
+    "img": "systems/d20age/assets/creatures/27654753f01c0cd5.jpg",
     "system": {
       "title": "CÃONIÇAL | DESMORTO (M)",
       "ancestry": "CÃONIÇAL | DESMORTO (M)",
@@ -11056,7 +11056,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/e3545050a46ebf58.svg"
+        "src": "systems/d20age/assets/tokens/creatures/27654753f01c0cd5.svg"
       }
     },
     "flags": {
@@ -11096,7 +11096,7 @@
     "_id": "255cee09de7fd150",
     "name": "Carniçal",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/be6b3bbbcda8d243.svg",
+    "img": "systems/d20age/assets/creatures/255cee09de7fd150.jpg",
     "system": {
       "title": "CARNIÇAL | DESMORTO (M)",
       "ancestry": "CARNIÇAL | DESMORTO (M)",
@@ -11273,7 +11273,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/be6b3bbbcda8d243.svg"
+        "src": "systems/d20age/assets/tokens/creatures/255cee09de7fd150.svg"
       }
     },
     "flags": {
@@ -11313,7 +11313,7 @@
     "_id": "37cfa63d02468d26",
     "name": "Esqueleto",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/431c621b8d5aebcc.svg",
+    "img": "systems/d20age/assets/creatures/37cfa63d02468d26.jpg",
     "system": {
       "title": "ESQUELETO | DESMORTO (M)",
       "ancestry": "ESQUELETO | DESMORTO (M)",
@@ -11466,7 +11466,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/431c621b8d5aebcc.svg"
+        "src": "systems/d20age/assets/tokens/creatures/37cfa63d02468d26.svg"
       }
     },
     "flags": {
@@ -11506,7 +11506,7 @@
     "_id": "96be0b16a73a848c",
     "name": "Espectro",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/5514f81874cb2b42.svg",
+    "img": "systems/d20age/assets/creatures/96be0b16a73a848c.jpg",
     "system": {
       "title": "ESPECTRO | DESMORTO (M)",
       "ancestry": "ESPECTRO | DESMORTO (M)",
@@ -11661,7 +11661,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/5514f81874cb2b42.svg"
+        "src": "systems/d20age/assets/tokens/creatures/96be0b16a73a848c.svg"
       }
     },
     "flags": {
@@ -11701,7 +11701,7 @@
     "_id": "566a18f979e80b1b",
     "name": "Fantasma",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/b98446594c9e31a3.svg",
+    "img": "systems/d20age/assets/creatures/566a18f979e80b1b.jpg",
     "system": {
       "title": "FANTASMA | DESMORTO (M)",
       "ancestry": "FANTASMA | DESMORTO (M)",
@@ -11906,7 +11906,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/b98446594c9e31a3.svg"
+        "src": "systems/d20age/assets/tokens/creatures/566a18f979e80b1b.svg"
       }
     },
     "flags": {
@@ -11946,7 +11946,7 @@
     "_id": "1cbfb94e09c76d5e",
     "name": "Inumano",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/f8e5445017da35ab.svg",
+    "img": "systems/d20age/assets/creatures/1cbfb94e09c76d5e.jpg",
     "system": {
       "title": "INUMANO | DESMORTO (M)",
       "ancestry": "INUMANO | DESMORTO (M)",
@@ -12096,7 +12096,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/f8e5445017da35ab.svg"
+        "src": "systems/d20age/assets/tokens/creatures/1cbfb94e09c76d5e.svg"
       }
     },
     "flags": {
@@ -12136,7 +12136,7 @@
     "_id": "ea02174f274fe1ca",
     "name": "Lich",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/999c93cf110003cd.svg",
+    "img": "systems/d20age/assets/creatures/ea02174f274fe1ca.jpg",
     "system": {
       "title": "LICH | DESMORTO (M)",
       "ancestry": "LICH | DESMORTO (M)",
@@ -12348,7 +12348,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/999c93cf110003cd.svg"
+        "src": "systems/d20age/assets/tokens/creatures/ea02174f274fe1ca.svg"
       }
     },
     "flags": {
@@ -12388,7 +12388,7 @@
     "_id": "42e395451cd3d570",
     "name": "Múmia",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/00cd1e64bad86c72.svg",
+    "img": "systems/d20age/assets/creatures/42e395451cd3d570.jpg",
     "system": {
       "title": "MÚMIA | DESMORTO (M)",
       "ancestry": "MÚMIA | DESMORTO (M)",
@@ -12579,7 +12579,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/00cd1e64bad86c72.svg"
+        "src": "systems/d20age/assets/tokens/creatures/42e395451cd3d570.svg"
       }
     },
     "flags": {
@@ -12619,7 +12619,7 @@
     "_id": "ddcd879628d1c03d",
     "name": "Vampiro",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/f173b9ec48f597f6.svg",
+    "img": "systems/d20age/assets/creatures/ddcd879628d1c03d.jpg",
     "system": {
       "title": "VAMPIRO | DESMORTO (M)",
       "ancestry": "VAMPIRO | DESMORTO (M)",
@@ -12921,7 +12921,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/f173b9ec48f597f6.svg"
+        "src": "systems/d20age/assets/tokens/creatures/ddcd879628d1c03d.svg"
       }
     },
     "flags": {
@@ -12961,7 +12961,7 @@
     "_id": "3c56805ab751f1ab",
     "name": "Zumbi",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/5cc3144f003d82a1.svg",
+    "img": "systems/d20age/assets/creatures/3c56805ab751f1ab.jpg",
     "system": {
       "title": "ZUMBI | DESMORTO (M)",
       "ancestry": "ZUMBI | DESMORTO (M)",
@@ -13116,7 +13116,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/5cc3144f003d82a1.svg"
+        "src": "systems/d20age/assets/tokens/creatures/3c56805ab751f1ab.svg"
       }
     },
     "flags": {
@@ -13156,7 +13156,7 @@
     "_id": "994b8cecb27f2ef9",
     "name": "Draco dos pântanos · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/0c91314a8a6c4cdd.svg",
+    "img": "systems/d20age/assets/creatures/994b8cecb27f2ef9.jpg",
     "system": {
       "title": "Draco dos pântanos (G)",
       "ancestry": "DRACO | DRACÔNICO (G)",
@@ -13320,7 +13320,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/0c91314a8a6c4cdd.svg"
+        "src": "systems/d20age/assets/tokens/creatures/994b8cecb27f2ef9.svg"
       }
     },
     "flags": {
@@ -13361,7 +13361,7 @@
     "_id": "43116e7654206ea0",
     "name": "Draco camaleão · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/36a8cf4b0a2caf2c.svg",
+    "img": "systems/d20age/assets/creatures/43116e7654206ea0.jpg",
     "system": {
       "title": "Draco camaleão (G)",
       "ancestry": "DRACO | DRACÔNICO (G)",
@@ -13544,7 +13544,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/36a8cf4b0a2caf2c.svg"
+        "src": "systems/d20age/assets/tokens/creatures/43116e7654206ea0.svg"
       }
     },
     "flags": {
@@ -13585,7 +13585,7 @@
     "_id": "b35a896603fdc211",
     "name": "Draconato",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/926c3ba6df4d9994.svg",
+    "img": "systems/d20age/assets/creatures/b35a896603fdc211.jpg",
     "system": {
       "title": "DRACONATO | DRACÔNICO (M)",
       "ancestry": "DRACONATO | DRACÔNICO (M)",
@@ -13725,7 +13725,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/926c3ba6df4d9994.svg"
+        "src": "systems/d20age/assets/tokens/creatures/b35a896603fdc211.svg"
       }
     },
     "flags": {
@@ -13765,7 +13765,7 @@
     "_id": "baadd5f161a1768b",
     "name": "Dragão azul · enorme",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/426875116bb2937e.svg",
+    "img": "systems/d20age/assets/creatures/baadd5f161a1768b.jpg",
     "system": {
       "title": "Dragão azul (E)",
       "ancestry": "DRAGÃO | DRACÔNICO (X)",
@@ -14100,7 +14100,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/426875116bb2937e.svg"
+        "src": "systems/d20age/assets/tokens/creatures/baadd5f161a1768b.svg"
       }
     },
     "flags": {
@@ -14141,7 +14141,7 @@
     "_id": "108d2a7675eb3448",
     "name": "Dragão branco · enorme",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/469faa3bf3f6db9b.svg",
+    "img": "systems/d20age/assets/creatures/108d2a7675eb3448.jpg",
     "system": {
       "title": "Dragão branco (E)",
       "ancestry": "DRAGÃO | DRACÔNICO (X)",
@@ -14476,7 +14476,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/469faa3bf3f6db9b.svg"
+        "src": "systems/d20age/assets/tokens/creatures/108d2a7675eb3448.svg"
       }
     },
     "flags": {
@@ -14517,7 +14517,7 @@
     "_id": "addf4e1295d4af0e",
     "name": "Dragão negro · enorme",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/25a7c571d3b4b8e5.svg",
+    "img": "systems/d20age/assets/creatures/addf4e1295d4af0e.jpg",
     "system": {
       "title": "Dragão negro (E)",
       "ancestry": "DRAGÃO | DRACÔNICO (X)",
@@ -14852,7 +14852,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/25a7c571d3b4b8e5.svg"
+        "src": "systems/d20age/assets/tokens/creatures/addf4e1295d4af0e.svg"
       }
     },
     "flags": {
@@ -14893,7 +14893,7 @@
     "_id": "8e91b86a1cc34349",
     "name": "Dragão verde · enorme",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/bfb047b19398bd67.svg",
+    "img": "systems/d20age/assets/creatures/8e91b86a1cc34349.jpg",
     "system": {
       "title": "Dragão verde (E)",
       "ancestry": "DRAGÃO | DRACÔNICO (X)",
@@ -15228,7 +15228,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/bfb047b19398bd67.svg"
+        "src": "systems/d20age/assets/tokens/creatures/8e91b86a1cc34349.svg"
       }
     },
     "flags": {
@@ -15269,7 +15269,7 @@
     "_id": "e69000a8b08a42cf",
     "name": "Dragão vermelho · enorme",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/0d3f1b46a4834782.svg",
+    "img": "systems/d20age/assets/creatures/e69000a8b08a42cf.jpg",
     "system": {
       "title": "Dragão vermelho (E)",
       "ancestry": "DRAGÃO | DRACÔNICO (X)",
@@ -15604,7 +15604,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/0d3f1b46a4834782.svg"
+        "src": "systems/d20age/assets/tokens/creatures/e69000a8b08a42cf.svg"
       }
     },
     "flags": {
@@ -15645,7 +15645,7 @@
     "_id": "49c512ad91adae9b",
     "name": "Dragão dourado · enorme",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/95c42cf1aafb9d61.svg",
+    "img": "systems/d20age/assets/creatures/49c512ad91adae9b.jpg",
     "system": {
       "title": "Dragão dourado (E)",
       "ancestry": "DRAGÃO | DRACÔNICO (X)",
@@ -15999,7 +15999,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/95c42cf1aafb9d61.svg"
+        "src": "systems/d20age/assets/tokens/creatures/49c512ad91adae9b.svg"
       }
     },
     "flags": {
@@ -16040,7 +16040,7 @@
     "_id": "27cf70a6491bd696",
     "name": "Hidra das colinas · enorme",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/9acebb094c3a7bb7.svg",
+    "img": "systems/d20age/assets/creatures/27cf70a6491bd696.jpg",
     "system": {
       "title": "Hidra das colinas (E)",
       "ancestry": "HIDRA | DRACÔNICO (E)",
@@ -16218,7 +16218,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/9acebb094c3a7bb7.svg"
+        "src": "systems/d20age/assets/tokens/creatures/27cf70a6491bd696.svg"
       }
     },
     "flags": {
@@ -16260,7 +16260,7 @@
     "_id": "0389f05664de1a5a",
     "name": "Hidra dos pântanos · enorme",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/44a9bafc00705d32.svg",
+    "img": "systems/d20age/assets/creatures/0389f05664de1a5a.jpg",
     "system": {
       "title": "Hidra dos pântanos (E)",
       "ancestry": "HIDRA | DRACÔNICO (E)",
@@ -16481,7 +16481,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/44a9bafc00705d32.svg"
+        "src": "systems/d20age/assets/tokens/creatures/0389f05664de1a5a.svg"
       }
     },
     "flags": {
@@ -16523,7 +16523,7 @@
     "_id": "ac9a27b42309ae61",
     "name": "Hidra vulcânica · enorme",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/ede1f9358d6687ef.svg",
+    "img": "systems/d20age/assets/creatures/ac9a27b42309ae61.jpg",
     "system": {
       "title": "Hidra vulcânica (E)",
       "ancestry": "HIDRA | DRACÔNICO (E)",
@@ -16782,7 +16782,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/ede1f9358d6687ef.svg"
+        "src": "systems/d20age/assets/tokens/creatures/ac9a27b42309ae61.svg"
       }
     },
     "flags": {
@@ -16824,7 +16824,7 @@
     "_id": "4d44161d8dbd3616",
     "name": "Salamandra ignea",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/e091cb0a50e01550.svg",
+    "img": "systems/d20age/assets/creatures/4d44161d8dbd3616.jpg",
     "system": {
       "title": "SALAMANDRA IGNEA | DRACÔNICO (G)",
       "ancestry": "SALAMANDRA IGNEA | DRACÔNICO (G)",
@@ -16969,7 +16969,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/e091cb0a50e01550.svg"
+        "src": "systems/d20age/assets/tokens/creatures/4d44161d8dbd3616.svg"
       }
     },
     "flags": {
@@ -17009,7 +17009,7 @@
     "_id": "0eaf9c59f9b34b07",
     "name": "Serpe",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/bd19314b54a458b6.svg",
+    "img": "systems/d20age/assets/creatures/0eaf9c59f9b34b07.jpg",
     "system": {
       "title": "SERPE | DRACÔNICO (G)",
       "ancestry": "SERPE | DRACÔNICO (G)",
@@ -17154,7 +17154,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/bd19314b54a458b6.svg"
+        "src": "systems/d20age/assets/tokens/creatures/0eaf9c59f9b34b07.svg"
       }
     },
     "flags": {
@@ -17194,7 +17194,7 @@
     "_id": "c74cebf1fa7fe294",
     "name": "Cão infernal",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/9d965038ef8d25fe.svg",
+    "img": "systems/d20age/assets/creatures/c74cebf1fa7fe294.jpg",
     "system": {
       "title": "CÃO INFERNAL | EXTRAPLANAR (M)",
       "ancestry": "CÃO INFERNAL | EXTRAPLANAR (M)",
@@ -17334,7 +17334,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/9d965038ef8d25fe.svg"
+        "src": "systems/d20age/assets/tokens/creatures/c74cebf1fa7fe294.svg"
       }
     },
     "flags": {
@@ -17374,7 +17374,7 @@
     "_id": "cb7507c59b522738",
     "name": "Elemental da água · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/392e3f46fd40e603.svg",
+    "img": "systems/d20age/assets/creatures/cb7507c59b522738.jpg",
     "system": {
       "title": "Elemental da água (G)",
       "ancestry": "ELEMENTAL | EXTRAPLANAR (G)",
@@ -17533,7 +17533,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/392e3f46fd40e603.svg"
+        "src": "systems/d20age/assets/tokens/creatures/cb7507c59b522738.svg"
       }
     },
     "flags": {
@@ -17574,7 +17574,7 @@
     "_id": "1a996644a37b9694",
     "name": "Elemental do ar · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/7c861a920107d02c.svg",
+    "img": "systems/d20age/assets/creatures/1a996644a37b9694.jpg",
     "system": {
       "title": "Elemental do ar (G)",
       "ancestry": "ELEMENTAL | EXTRAPLANAR (G)",
@@ -17714,7 +17714,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/7c861a920107d02c.svg"
+        "src": "systems/d20age/assets/tokens/creatures/1a996644a37b9694.svg"
       }
     },
     "flags": {
@@ -17755,7 +17755,7 @@
     "_id": "04df4b6a8effa788",
     "name": "Elemental de fogo · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/b2e58e5e8744c60a.svg",
+    "img": "systems/d20age/assets/creatures/04df4b6a8effa788.jpg",
     "system": {
       "title": "Elemental de fogo (G)",
       "ancestry": "ELEMENTAL | EXTRAPLANAR (G)",
@@ -17914,7 +17914,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/b2e58e5e8744c60a.svg"
+        "src": "systems/d20age/assets/tokens/creatures/04df4b6a8effa788.svg"
       }
     },
     "flags": {
@@ -17955,7 +17955,7 @@
     "_id": "cbe1bbcbbdcb1e9d",
     "name": "Elemental da terra · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/70d4e27fda38248d.svg",
+    "img": "systems/d20age/assets/creatures/cbe1bbcbbdcb1e9d.jpg",
     "system": {
       "title": "Elemental da terra (G)",
       "ancestry": "ELEMENTAL | EXTRAPLANAR (G)",
@@ -18114,7 +18114,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/70d4e27fda38248d.svg"
+        "src": "systems/d20age/assets/tokens/creatures/cbe1bbcbbdcb1e9d.svg"
       }
     },
     "flags": {
@@ -18155,7 +18155,7 @@
     "_id": "c8553bab831aed62",
     "name": "Gênio do ar · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/6808b91456511cd1.svg",
+    "img": "systems/d20age/assets/creatures/c8553bab831aed62.jpg",
     "system": {
       "title": "Gênio do ar (M)",
       "ancestry": "GÊNIO | EXTRAPLANAR (X)",
@@ -18352,7 +18352,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/6808b91456511cd1.svg"
+        "src": "systems/d20age/assets/tokens/creatures/c8553bab831aed62.svg"
       }
     },
     "flags": {
@@ -18393,7 +18393,7 @@
     "_id": "a7f965720d7b2e4f",
     "name": "Gênio do fogo · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/47865fd86566c63a.svg",
+    "img": "systems/d20age/assets/creatures/a7f965720d7b2e4f.jpg",
     "system": {
       "title": "Gênio do fogo (G)",
       "ancestry": "GÊNIO | EXTRAPLANAR (X)",
@@ -18590,7 +18590,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/47865fd86566c63a.svg"
+        "src": "systems/d20age/assets/tokens/creatures/a7f965720d7b2e4f.svg"
       }
     },
     "flags": {
@@ -18631,7 +18631,7 @@
     "_id": "54fdd5d524e22831",
     "name": "Estriga dos bosques · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/d55bbeb8123447d6.svg",
+    "img": "systems/d20age/assets/creatures/54fdd5d524e22831.jpg",
     "system": {
       "title": "Estriga dos bosques (M)",
       "ancestry": "ESTRIGA | FEÉRICO (M)",
@@ -18885,7 +18885,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/d55bbeb8123447d6.svg"
+        "src": "systems/d20age/assets/tokens/creatures/54fdd5d524e22831.svg"
       }
     },
     "flags": {
@@ -18926,7 +18926,7 @@
     "_id": "3784ef84257dde00",
     "name": "Estriga da noite · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/bb54a42f42a78b8d.svg",
+    "img": "systems/d20age/assets/creatures/3784ef84257dde00.jpg",
     "system": {
       "title": "Estriga da noite (M)",
       "ancestry": "ESTRIGA | FEÉRICO (M)",
@@ -19180,7 +19180,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/bb54a42f42a78b8d.svg"
+        "src": "systems/d20age/assets/tokens/creatures/3784ef84257dde00.svg"
       }
     },
     "flags": {
@@ -19221,7 +19221,7 @@
     "_id": "6d5ccdbb818d808d",
     "name": "Estriga dos pântanos · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/45885c0334edc2b5.svg",
+    "img": "systems/d20age/assets/creatures/6d5ccdbb818d808d.jpg",
     "system": {
       "title": "Estriga dos pântanos (M)",
       "ancestry": "ESTRIGA | FEÉRICO (M)",
@@ -19570,7 +19570,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/45885c0334edc2b5.svg"
+        "src": "systems/d20age/assets/tokens/creatures/6d5ccdbb818d808d.svg"
       }
     },
     "flags": {
@@ -19611,7 +19611,7 @@
     "_id": "2268ad17b38529f7",
     "name": "Fada",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/3f44d189bd7be313.svg",
+    "img": "systems/d20age/assets/creatures/2268ad17b38529f7.jpg",
     "system": {
       "title": "FADA | FEÉRICO (D)",
       "ancestry": "FADA | FEÉRICO (D)",
@@ -19765,7 +19765,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/3f44d189bd7be313.svg"
+        "src": "systems/d20age/assets/tokens/creatures/2268ad17b38529f7.svg"
       }
     },
     "flags": {
@@ -19805,7 +19805,7 @@
     "_id": "6b5cfb847562a0bb",
     "name": "Sereia · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/7e62994064ab943d.svg",
+    "img": "systems/d20age/assets/creatures/6b5cfb847562a0bb.jpg",
     "system": {
       "title": "Sereia (M)",
       "ancestry": "NEREÍDA | FEÉRICO (M)",
@@ -19945,7 +19945,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/7e62994064ab943d.svg"
+        "src": "systems/d20age/assets/tokens/creatures/6b5cfb847562a0bb.svg"
       }
     },
     "flags": {
@@ -19986,7 +19986,7 @@
     "_id": "ea53283c9a8486f5",
     "name": "Tritão · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/06aada0d63ef8179.svg",
+    "img": "systems/d20age/assets/creatures/ea53283c9a8486f5.jpg",
     "system": {
       "title": "Tritão (M)",
       "ancestry": "NEREÍDA | FEÉRICO (M)",
@@ -20107,7 +20107,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/06aada0d63ef8179.svg"
+        "src": "systems/d20age/assets/tokens/creatures/ea53283c9a8486f5.svg"
       }
     },
     "flags": {
@@ -20148,7 +20148,7 @@
     "_id": "0b4112ccc43546fd",
     "name": "Ninfa",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/1f21da575fbf40e0.svg",
+    "img": "systems/d20age/assets/creatures/0b4112ccc43546fd.jpg",
     "system": {
       "title": "NINFA | FEÉRICO (M)",
       "ancestry": "NINFA | FEÉRICO (M)",
@@ -20283,7 +20283,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/1f21da575fbf40e0.svg"
+        "src": "systems/d20age/assets/tokens/creatures/0b4112ccc43546fd.svg"
       }
     },
     "flags": {
@@ -20323,7 +20323,7 @@
     "_id": "95acc40e1a5e17e4",
     "name": "Pégaso",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/2d54ebe4359ea28c.svg",
+    "img": "systems/d20age/assets/creatures/95acc40e1a5e17e4.jpg",
     "system": {
       "title": "PÉGASO | FEÉRICO (M)",
       "ancestry": "PÉGASO | FEÉRICO (M)",
@@ -20444,7 +20444,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/2d54ebe4359ea28c.svg"
+        "src": "systems/d20age/assets/tokens/creatures/95acc40e1a5e17e4.svg"
       }
     },
     "flags": {
@@ -20484,7 +20484,7 @@
     "_id": "c9469addbe5f3611",
     "name": "Raposa lampejante",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/8032f72c811a5b87.svg",
+    "img": "systems/d20age/assets/creatures/c9469addbe5f3611.jpg",
     "system": {
       "title": "RAPOSA LAMPEJANTE | FEÉRICO (M)",
       "ancestry": "RAPOSA LAMPEJANTE | FEÉRICO (M)",
@@ -20605,7 +20605,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/8032f72c811a5b87.svg"
+        "src": "systems/d20age/assets/tokens/creatures/c9469addbe5f3611.svg"
       }
     },
     "flags": {
@@ -20645,7 +20645,7 @@
     "_id": "4b8a82308289b28a",
     "name": "Sátiro",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/3d89d923e1ac18ee.svg",
+    "img": "systems/d20age/assets/creatures/4b8a82308289b28a.jpg",
     "system": {
       "title": "SÁTIRO | FEÉRICO (P)",
       "ancestry": "SÁTIRO | FEÉRICO (P)",
@@ -20785,7 +20785,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/3d89d923e1ac18ee.svg"
+        "src": "systems/d20age/assets/tokens/creatures/4b8a82308289b28a.svg"
       }
     },
     "flags": {
@@ -20825,7 +20825,7 @@
     "_id": "f9678099565e69ca",
     "name": "Trasgo",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/fb96d1f65007aa4d.svg",
+    "img": "systems/d20age/assets/creatures/f9678099565e69ca.jpg",
     "system": {
       "title": "TRASGO | FEÉRICO (D)",
       "ancestry": "TRASGO | FEÉRICO (D)",
@@ -20960,7 +20960,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/fb96d1f65007aa4d.svg"
+        "src": "systems/d20age/assets/tokens/creatures/f9678099565e69ca.svg"
       }
     },
     "flags": {
@@ -21000,7 +21000,7 @@
     "_id": "0c23ca0a200247ec",
     "name": "Unicórnio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/8fdd9cfd38560a9a.svg",
+    "img": "systems/d20age/assets/creatures/0c23ca0a200247ec.jpg",
     "system": {
       "title": "UNICÓRNIO | FEÉRICO (G)",
       "ancestry": "UNICÓRNIO | FEÉRICO (G)",
@@ -21183,7 +21183,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/8fdd9cfd38560a9a.svg"
+        "src": "systems/d20age/assets/tokens/creatures/0c23ca0a200247ec.svg"
       }
     },
     "flags": {
@@ -21223,7 +21223,7 @@
     "_id": "1cac46f135c32e8c",
     "name": "Ente",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/7c9b73146919edb4.svg",
+    "img": "systems/d20age/assets/creatures/1cac46f135c32e8c.jpg",
     "system": {
       "title": "ENTE | FLORANÍDEO (G)",
       "ancestry": "ENTE | FLORANÍDEO (G)",
@@ -21382,7 +21382,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/7c9b73146919edb4.svg"
+        "src": "systems/d20age/assets/tokens/creatures/1cac46f135c32e8c.svg"
       }
     },
     "flags": {
@@ -21423,7 +21423,7 @@
     "_id": "4dc717aa56edb345",
     "name": "Árvore animada",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/8112d3e39c210e41.svg",
+    "img": "systems/d20age/assets/creatures/4dc717aa56edb345.jpg",
     "system": {
       "title": "Árvore animada",
       "ancestry": "ENTE | FLORANÍDEO (G)",
@@ -21544,7 +21544,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/8112d3e39c210e41.svg"
+        "src": "systems/d20age/assets/tokens/creatures/4dc717aa56edb345.svg"
       }
     },
     "flags": {
@@ -21585,7 +21585,7 @@
     "_id": "d28ea2f5b4f8f717",
     "name": "Cogumelo gritador · pequeno",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/9d9dc0d691e517ff.svg",
+    "img": "systems/d20age/assets/creatures/d28ea2f5b4f8f717.jpg",
     "system": {
       "title": "Cogumelo gritador (P)",
       "ancestry": "COGUMELO | FLORANÍDEO (X)",
@@ -21720,7 +21720,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/9d9dc0d691e517ff.svg"
+        "src": "systems/d20age/assets/tokens/creatures/d28ea2f5b4f8f717.svg"
       }
     },
     "flags": {
@@ -21761,7 +21761,7 @@
     "_id": "74ce88a629a29490",
     "name": "Cogumelo violeta · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/d373f42eef1e8b73.svg",
+    "img": "systems/d20age/assets/creatures/74ce88a629a29490.jpg",
     "system": {
       "title": "Cogumelo violeta (M)",
       "ancestry": "COGUMELO | FLORANÍDEO (X)",
@@ -21901,7 +21901,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/d373f42eef1e8b73.svg"
+        "src": "systems/d20age/assets/tokens/creatures/74ce88a629a29490.svg"
       }
     },
     "flags": {
@@ -21942,7 +21942,7 @@
     "_id": "506a788b71de9d6d",
     "name": "Lodo verde",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/0ac7fe00cbed45a5.svg",
+    "img": "systems/d20age/assets/creatures/506a788b71de9d6d.jpg",
     "system": {
       "title": "LODO VERDE | FLORANÍDEO (M)",
       "ancestry": "LODO VERDE | FLORANÍDEO (M)",
@@ -22115,7 +22115,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/0ac7fe00cbed45a5.svg"
+        "src": "systems/d20age/assets/tokens/creatures/506a788b71de9d6d.svg"
       }
     },
     "flags": {
@@ -22155,7 +22155,7 @@
     "_id": "ed048cc06a46fb8e",
     "name": "Mofo amarelo",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/cbb5f6567a4984fc.svg",
+    "img": "systems/d20age/assets/creatures/ed048cc06a46fb8e.jpg",
     "system": {
       "title": "MOFO AMARELO | FLORANÍDEO (G)",
       "ancestry": "MOFO AMARELO | FLORANÍDEO (G)",
@@ -22314,7 +22314,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/cbb5f6567a4984fc.svg"
+        "src": "systems/d20age/assets/tokens/creatures/ed048cc06a46fb8e.svg"
       }
     },
     "flags": {
@@ -22354,7 +22354,7 @@
     "_id": "e6372f758016cbd5",
     "name": "Ettin",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/8af0a34c1611c8a8.svg",
+    "img": "systems/d20age/assets/creatures/e6372f758016cbd5.jpg",
     "system": {
       "title": "ETTIN | GIGANTE (G)",
       "ancestry": "ETTIN | GIGANTE (G)",
@@ -22540,7 +22540,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/8af0a34c1611c8a8.svg"
+        "src": "systems/d20age/assets/tokens/creatures/e6372f758016cbd5.svg"
       }
     },
     "flags": {
@@ -22580,7 +22580,7 @@
     "_id": "bd025dfcb3af5167",
     "name": "Gigante da colina · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/b6180fe3ac3355aa.svg",
+    "img": "systems/d20age/assets/creatures/bd025dfcb3af5167.jpg",
     "system": {
       "title": "Gigante da colina (G)",
       "ancestry": "GIGANTE | GIGANTES (X)",
@@ -22723,7 +22723,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/b6180fe3ac3355aa.svg"
+        "src": "systems/d20age/assets/tokens/creatures/bd025dfcb3af5167.svg"
       }
     },
     "flags": {
@@ -22764,7 +22764,7 @@
     "_id": "6cfd5b68d3ebb765",
     "name": "Gigante do fogo · enorme",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/4f0ee9057fb429ea.svg",
+    "img": "systems/d20age/assets/creatures/6cfd5b68d3ebb765.jpg",
     "system": {
       "title": "Gigante do fogo (E)",
       "ancestry": "GIGANTE | GIGANTES (X)",
@@ -22945,7 +22945,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/4f0ee9057fb429ea.svg"
+        "src": "systems/d20age/assets/tokens/creatures/6cfd5b68d3ebb765.svg"
       }
     },
     "flags": {
@@ -22986,7 +22986,7 @@
     "_id": "538a590209cec860",
     "name": "Gigante do gelo · enorme",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/57b9348014cf9b7a.svg",
+    "img": "systems/d20age/assets/creatures/538a590209cec860.jpg",
     "system": {
       "title": "Gigante do gelo (E)",
       "ancestry": "GIGANTE | GIGANTES (X)",
@@ -23167,7 +23167,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/57b9348014cf9b7a.svg"
+        "src": "systems/d20age/assets/tokens/creatures/538a590209cec860.svg"
       }
     },
     "flags": {
@@ -23208,7 +23208,7 @@
     "_id": "391578b52688e9de",
     "name": "Gigante das nuvens · enorme",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/812dce99e1d8775d.svg",
+    "img": "systems/d20age/assets/creatures/391578b52688e9de.jpg",
     "system": {
       "title": "Gigante das nuvens (E)",
       "ancestry": "GIGANTE | GIGANTES (X)",
@@ -23389,7 +23389,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/812dce99e1d8775d.svg"
+        "src": "systems/d20age/assets/tokens/creatures/391578b52688e9de.svg"
       }
     },
     "flags": {
@@ -23430,7 +23430,7 @@
     "_id": "8e5592c2fd095f32",
     "name": "Gigante de pedra · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/7ae5d8372498e85d.svg",
+    "img": "systems/d20age/assets/creatures/8e5592c2fd095f32.jpg",
     "system": {
       "title": "Gigante de pedra (G)",
       "ancestry": "GIGANTE | GIGANTES (X)",
@@ -23592,7 +23592,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/7ae5d8372498e85d.svg"
+        "src": "systems/d20age/assets/tokens/creatures/8e5592c2fd095f32.svg"
       }
     },
     "flags": {
@@ -23633,7 +23633,7 @@
     "_id": "e42a6aec87cdbeb6",
     "name": "Gigante das tempestades · enorme",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/1a23b655def49638.svg",
+    "img": "systems/d20age/assets/creatures/e42a6aec87cdbeb6.jpg",
     "system": {
       "title": "Gigante das tempestades (E)",
       "ancestry": "GIGANTE | GIGANTES (X)",
@@ -23828,7 +23828,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/1a23b655def49638.svg"
+        "src": "systems/d20age/assets/tokens/creatures/e42a6aec87cdbeb6.svg"
       }
     },
     "flags": {
@@ -23869,7 +23869,7 @@
     "_id": "e2c805f05de30bd6",
     "name": "Ogro",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/d62a82f525d1714e.svg",
+    "img": "systems/d20age/assets/creatures/e2c805f05de30bd6.jpg",
     "system": {
       "title": "OGRO | GIGANTE (G)",
       "ancestry": "OGRO | GIGANTE (G)",
@@ -24031,7 +24031,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/d62a82f525d1714e.svg"
+        "src": "systems/d20age/assets/tokens/creatures/e2c805f05de30bd6.svg"
       }
     },
     "flags": {
@@ -24071,7 +24071,7 @@
     "_id": "9ba05ae22362d87d",
     "name": "Trol",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/45f0344a300ff487.svg",
+    "img": "systems/d20age/assets/creatures/9ba05ae22362d87d.jpg",
     "system": {
       "title": "TROL | GIGANTE (M)",
       "ancestry": "TROL | GIGANTE (M)",
@@ -24252,7 +24252,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/45f0344a300ff487.svg"
+        "src": "systems/d20age/assets/tokens/creatures/9ba05ae22362d87d.svg"
       }
     },
     "flags": {
@@ -24292,7 +24292,7 @@
     "_id": "1d2c99e0ae0b0721",
     "name": "Anão",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/06da151b91e2c84f.svg",
+    "img": "systems/d20age/assets/creatures/1d2c99e0ae0b0721.jpg",
     "system": {
       "title": "ANÃO | HUMANOIDE (M)",
       "ancestry": "ANÃO | HUMANOIDE (M)",
@@ -24394,7 +24394,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/06da151b91e2c84f.svg"
+        "src": "systems/d20age/assets/tokens/creatures/1d2c99e0ae0b0721.svg"
       }
     },
     "flags": {
@@ -24434,7 +24434,7 @@
     "_id": "fc06e863794aa928",
     "name": "Bandido",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/7f3d45149620d5fc.svg",
+    "img": "systems/d20age/assets/creatures/fc06e863794aa928.jpg",
     "system": {
       "title": "BANDIDO | HUMANOIDE (M)",
       "ancestry": "BANDIDO | HUMANOIDE (M)",
@@ -24555,7 +24555,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/7f3d45149620d5fc.svg"
+        "src": "systems/d20age/assets/tokens/creatures/fc06e863794aa928.svg"
       }
     },
     "flags": {
@@ -24595,7 +24595,7 @@
     "_id": "bb6e7a6aaf16d91b",
     "name": "Centauro",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/d07a4956e31478dd.svg",
+    "img": "systems/d20age/assets/creatures/bb6e7a6aaf16d91b.jpg",
     "system": {
       "title": "CENTAURO | HUMANOIDE (G)",
       "ancestry": "CENTAURO | HUMANOIDE (G)",
@@ -24721,7 +24721,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/d07a4956e31478dd.svg"
+        "src": "systems/d20age/assets/tokens/creatures/bb6e7a6aaf16d91b.svg"
       }
     },
     "flags": {
@@ -24761,7 +24761,7 @@
     "_id": "8c579db2b1be67ed",
     "name": "Duende verde · pequeno",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/7b42758223fca937.svg",
+    "img": "systems/d20age/assets/creatures/8c579db2b1be67ed.jpg",
     "system": {
       "title": "Duende verde (P)",
       "ancestry": "DUENDE | HUMANOIDE (P)",
@@ -24939,7 +24939,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/7b42758223fca937.svg"
+        "src": "systems/d20age/assets/tokens/creatures/8c579db2b1be67ed.svg"
       }
     },
     "flags": {
@@ -24980,7 +24980,7 @@
     "_id": "4dac8857ad8df45f",
     "name": "Duende macabro · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/6555754e243dff4f.svg",
+    "img": "systems/d20age/assets/creatures/4dac8857ad8df45f.jpg",
     "system": {
       "title": "Duende macabro (M)",
       "ancestry": "DUENDE | HUMANOIDE (P)",
@@ -25120,7 +25120,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/6555754e243dff4f.svg"
+        "src": "systems/d20age/assets/tokens/creatures/4dac8857ad8df45f.svg"
       }
     },
     "flags": {
@@ -25161,7 +25161,7 @@
     "_id": "eb276bfe0bf62023",
     "name": "Duende-rei · grande",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/81186ff82cf70807.svg",
+    "img": "systems/d20age/assets/creatures/eb276bfe0bf62023.jpg",
     "system": {
       "title": "Duende-rei (G)",
       "ancestry": "DUENDE | HUMANOIDE (P)",
@@ -25320,7 +25320,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/81186ff82cf70807.svg"
+        "src": "systems/d20age/assets/tokens/creatures/eb276bfe0bf62023.svg"
       }
     },
     "flags": {
@@ -25361,7 +25361,7 @@
     "_id": "958e2a492b049ed8",
     "name": "Elfo",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/1ad7db92a0d2874c.svg",
+    "img": "systems/d20age/assets/creatures/958e2a492b049ed8.jpg",
     "system": {
       "title": "ELFO | HUMANOIDE (M)",
       "ancestry": "ELFO | HUMANOIDE (M)",
@@ -25463,7 +25463,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/1ad7db92a0d2874c.svg"
+        "src": "systems/d20age/assets/tokens/creatures/958e2a492b049ed8.svg"
       }
     },
     "flags": {
@@ -25503,7 +25503,7 @@
     "_id": "2aace413f2c4b469",
     "name": "Gnomo",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/ce15befd3f78757b.svg",
+    "img": "systems/d20age/assets/creatures/2aace413f2c4b469.jpg",
     "system": {
       "title": "GNOMO | HUMANOIDE (P)",
       "ancestry": "GNOMO | HUMANOIDE (P)",
@@ -25605,7 +25605,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/ce15befd3f78757b.svg"
+        "src": "systems/d20age/assets/tokens/creatures/2aace413f2c4b469.svg"
       }
     },
     "flags": {
@@ -25645,7 +25645,7 @@
     "_id": "3829a09f6b19428c",
     "name": "Guarda comum",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/8e9bb521e35faf6f.svg",
+    "img": "systems/d20age/assets/creatures/3829a09f6b19428c.jpg",
     "system": {
       "title": "GUARDA COMUM | HUMANOIDE (M)",
       "ancestry": "GUARDA COMUM | HUMANOIDE (M)",
@@ -25728,7 +25728,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/8e9bb521e35faf6f.svg"
+        "src": "systems/d20age/assets/tokens/creatures/3829a09f6b19428c.svg"
       }
     },
     "flags": {
@@ -25768,7 +25768,7 @@
     "_id": "e122b1113975b8cc",
     "name": "Pessoa comum",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/dba5ef66702af6ba.svg",
+    "img": "systems/d20age/assets/creatures/e122b1113975b8cc.jpg",
     "system": {
       "title": "PESSOA COMUM | HUMANOIDE (M)",
       "ancestry": "PESSOA COMUM | HUMANOIDE (M)",
@@ -25851,7 +25851,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/dba5ef66702af6ba.svg"
+        "src": "systems/d20age/assets/tokens/creatures/e122b1113975b8cc.svg"
       }
     },
     "flags": {
@@ -25891,7 +25891,7 @@
     "_id": "718a4376afabf66a",
     "name": "Orque",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/28d07380f4f2e1db.svg",
+    "img": "systems/d20age/assets/creatures/718a4376afabf66a.jpg",
     "system": {
       "title": "ORQUE | HUMANOIDE (M)",
       "ancestry": "ORQUE | HUMANOIDE (M)",
@@ -26050,7 +26050,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/28d07380f4f2e1db.svg"
+        "src": "systems/d20age/assets/tokens/creatures/718a4376afabf66a.svg"
       }
     },
     "flags": {
@@ -26090,7 +26090,7 @@
     "_id": "803c857ee3621457",
     "name": "Troglodita",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/a52fa820ec9dd36e.svg",
+    "img": "systems/d20age/assets/creatures/803c857ee3621457.jpg",
     "system": {
       "title": "TROGLODITA | HUMANOIDE (M)",
       "ancestry": "TROGLODITA | HUMANOIDE (M)",
@@ -26273,7 +26273,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/a52fa820ec9dd36e.svg"
+        "src": "systems/d20age/assets/tokens/creatures/803c857ee3621457.svg"
       }
     },
     "flags": {
@@ -26313,7 +26313,7 @@
     "_id": "f365895ec975e598",
     "name": "Veterano · arcanista",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/86f87ed38fcb19b1.svg",
+    "img": "systems/d20age/assets/creatures/f365895ec975e598.jpg",
     "system": {
       "title": "Arcanista | humano (M)",
       "ancestry": "VETERANO | HUMANOIDE (M)",
@@ -26491,7 +26491,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/86f87ed38fcb19b1.svg"
+        "src": "systems/d20age/assets/tokens/creatures/f365895ec975e598.svg"
       }
     },
     "flags": {
@@ -26532,7 +26532,7 @@
     "_id": "64c7f86821a277e9",
     "name": "Veterano · combatente",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/7430bda5b8499f9e.svg",
+    "img": "systems/d20age/assets/creatures/64c7f86821a277e9.jpg",
     "system": {
       "title": "Combatente | humano (M)",
       "ancestry": "VETERANO | HUMANOIDE (M)",
@@ -26691,7 +26691,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/7430bda5b8499f9e.svg"
+        "src": "systems/d20age/assets/tokens/creatures/64c7f86821a277e9.svg"
       }
     },
     "flags": {
@@ -26732,7 +26732,7 @@
     "_id": "8a6306c388c25486",
     "name": "Veterano · especialista",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/0d5db743e687af1b.svg",
+    "img": "systems/d20age/assets/creatures/8a6306c388c25486.jpg",
     "system": {
       "title": "Especialista | humano (M)",
       "ancestry": "VETERANO | HUMANOIDE (M)",
@@ -26872,7 +26872,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/0d5db743e687af1b.svg"
+        "src": "systems/d20age/assets/tokens/creatures/8a6306c388c25486.svg"
       }
     },
     "flags": {
@@ -26913,7 +26913,7 @@
     "_id": "2fbc86e5eeeb805f",
     "name": "Veterano · magista",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/a0fcc12e74e1443b.svg",
+    "img": "systems/d20age/assets/creatures/2fbc86e5eeeb805f.jpg",
     "system": {
       "title": "Magista | humano (M)",
       "ancestry": "VETERANO | HUMANOIDE (M)",
@@ -27053,7 +27053,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/a0fcc12e74e1443b.svg"
+        "src": "systems/d20age/assets/tokens/creatures/2fbc86e5eeeb805f.svg"
       }
     },
     "flags": {
@@ -27094,7 +27094,7 @@
     "_id": "fc4f2fc8aef2a28c",
     "name": "Beija-sangue",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/78ae943052f6f7e4.svg",
+    "img": "systems/d20age/assets/creatures/fc4f2fc8aef2a28c.jpg",
     "system": {
       "title": "BEIJA-SANGUE | MONSTRO (D)",
       "ancestry": "BEIJA-SANGUE | MONSTRO (D)",
@@ -27234,7 +27234,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/78ae943052f6f7e4.svg"
+        "src": "systems/d20age/assets/tokens/creatures/fc4f2fc8aef2a28c.svg"
       }
     },
     "flags": {
@@ -27274,7 +27274,7 @@
     "_id": "50aabf163dbfafc5",
     "name": "Cocatriz",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/8b01c3e0b52c233b.svg",
+    "img": "systems/d20age/assets/creatures/50aabf163dbfafc5.jpg",
     "system": {
       "title": "COCATRIZ | MONSTRO (P)",
       "ancestry": "COCATRIZ | MONSTRO (P)",
@@ -27395,7 +27395,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/8b01c3e0b52c233b.svg"
+        "src": "systems/d20age/assets/tokens/creatures/50aabf163dbfafc5.svg"
       }
     },
     "flags": {
@@ -27435,7 +27435,7 @@
     "_id": "10f06c7be32616fd",
     "name": "Cubo gelatinoso",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/d89521d11bbcc488.svg",
+    "img": "systems/d20age/assets/creatures/10f06c7be32616fd.jpg",
     "system": {
       "title": "CUBO GELATINOSO | MONSTRO (G)",
       "ancestry": "CUBO GELATINOSO | MONSTRO (G)",
@@ -27613,7 +27613,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/d89521d11bbcc488.svg"
+        "src": "systems/d20age/assets/tokens/creatures/10f06c7be32616fd.svg"
       }
     },
     "flags": {
@@ -27653,7 +27653,7 @@
     "_id": "dd911551834f57e7",
     "name": "Duplicador",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/f67df5374f51c31d.svg",
+    "img": "systems/d20age/assets/creatures/dd911551834f57e7.jpg",
     "system": {
       "title": "DUPLICADOR | MONSTRO (M)",
       "ancestry": "DUPLICADOR | MONSTRO (M)",
@@ -27793,7 +27793,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/f67df5374f51c31d.svg"
+        "src": "systems/d20age/assets/tokens/creatures/dd911551834f57e7.svg"
       }
     },
     "flags": {
@@ -27833,7 +27833,7 @@
     "_id": "b56bfc5ba44f995d",
     "name": "Gárgula",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/03e6f4ddebe5ee90.svg",
+    "img": "systems/d20age/assets/creatures/b56bfc5ba44f995d.jpg",
     "system": {
       "title": "GÁRGULA | MONSTRO (M)",
       "ancestry": "GÁRGULA | MONSTRO (M)",
@@ -27997,7 +27997,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/03e6f4ddebe5ee90.svg"
+        "src": "systems/d20age/assets/tokens/creatures/b56bfc5ba44f995d.svg"
       }
     },
     "flags": {
@@ -28037,7 +28037,7 @@
     "_id": "81b4aeccb115087a",
     "name": "Górgona",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/05c075e54ec38e95.svg",
+    "img": "systems/d20age/assets/creatures/81b4aeccb115087a.jpg",
     "system": {
       "title": "GÓRGONA | MONSTRO (M)",
       "ancestry": "GÓRGONA | MONSTRO (M)",
@@ -28215,7 +28215,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/05c075e54ec38e95.svg"
+        "src": "systems/d20age/assets/tokens/creatures/81b4aeccb115087a.svg"
       }
     },
     "flags": {
@@ -28255,7 +28255,7 @@
     "_id": "3b2bb079cf6af127",
     "name": "Grifo",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/df4dbb640b972f6f.svg",
+    "img": "systems/d20age/assets/creatures/3b2bb079cf6af127.jpg",
     "system": {
       "title": "GRIFO | MONSTRO (L)",
       "ancestry": "GRIFO | MONSTRO (L)",
@@ -28362,7 +28362,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/df4dbb640b972f6f.svg"
+        "src": "systems/d20age/assets/tokens/creatures/3b2bb079cf6af127.svg"
       }
     },
     "flags": {
@@ -28402,7 +28402,7 @@
     "_id": "2f0ea6dee4aeaf31",
     "name": "Gosma preta",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/e64f71ad4b7491a5.svg",
+    "img": "systems/d20age/assets/creatures/2f0ea6dee4aeaf31.jpg",
     "system": {
       "title": "GOSMA PRETA | MONSTRO (E)",
       "ancestry": "GOSMA PRETA | MONSTRO (E)",
@@ -28561,7 +28561,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/e64f71ad4b7491a5.svg"
+        "src": "systems/d20age/assets/tokens/creatures/2f0ea6dee4aeaf31.svg"
       }
     },
     "flags": {
@@ -28601,7 +28601,7 @@
     "_id": "085fe68c50b48a0e",
     "name": "Homem-javali · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/657f00ea9a7eebb0.svg",
+    "img": "systems/d20age/assets/creatures/085fe68c50b48a0e.jpg",
     "system": {
       "title": "Homem-javali (M)",
       "ancestry": "LICANTROPO | MONSTRO (M)",
@@ -28874,7 +28874,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/657f00ea9a7eebb0.svg"
+        "src": "systems/d20age/assets/tokens/creatures/085fe68c50b48a0e.svg"
       }
     },
     "flags": {
@@ -28915,7 +28915,7 @@
     "_id": "8d0dd9dbdc4367a6",
     "name": "Homem-rato · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/bfd1966910dba958.svg",
+    "img": "systems/d20age/assets/creatures/8d0dd9dbdc4367a6.jpg",
     "system": {
       "title": "Homem-rato (M)",
       "ancestry": "LICANTROPO | MONSTRO (M)",
@@ -29231,7 +29231,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/bfd1966910dba958.svg"
+        "src": "systems/d20age/assets/tokens/creatures/8d0dd9dbdc4367a6.svg"
       }
     },
     "flags": {
@@ -29272,7 +29272,7 @@
     "_id": "b1f741c3e2e24dcf",
     "name": "Homem-tigre · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/91a8a5d17b56e965.svg",
+    "img": "systems/d20age/assets/creatures/b1f741c3e2e24dcf.jpg",
     "system": {
       "title": "Homem-tigre (M)",
       "ancestry": "LICANTROPO | MONSTRO (M)",
@@ -29569,7 +29569,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/91a8a5d17b56e965.svg"
+        "src": "systems/d20age/assets/tokens/creatures/b1f741c3e2e24dcf.svg"
       }
     },
     "flags": {
@@ -29610,7 +29610,7 @@
     "_id": "d6e07f42a3fb0cfd",
     "name": "Homem-urso · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/c9bb576a0efcd71c.svg",
+    "img": "systems/d20age/assets/creatures/d6e07f42a3fb0cfd.jpg",
     "system": {
       "title": "Homem-urso (M)",
       "ancestry": "LICANTROPO | MONSTRO (M)",
@@ -29926,7 +29926,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/c9bb576a0efcd71c.svg"
+        "src": "systems/d20age/assets/tokens/creatures/d6e07f42a3fb0cfd.svg"
       }
     },
     "flags": {
@@ -29967,7 +29967,7 @@
     "_id": "ea1ac3a60d95819c",
     "name": "Lobisomem · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/e5794b3cd378c282.svg",
+    "img": "systems/d20age/assets/creatures/ea1ac3a60d95819c.jpg",
     "system": {
       "title": "Lobisomem (M)",
       "ancestry": "LICANTROPO | MONSTRO (M)",
@@ -30240,7 +30240,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/e5794b3cd378c282.svg"
+        "src": "systems/d20age/assets/tokens/creatures/ea1ac3a60d95819c.svg"
       }
     },
     "flags": {
@@ -30281,7 +30281,7 @@
     "_id": "789e620c006a2891",
     "name": "Porco diabólico · médio",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/e3d61540ff9e68c4.svg",
+    "img": "systems/d20age/assets/creatures/789e620c006a2891.jpg",
     "system": {
       "title": "Porco diabólico (M)",
       "ancestry": "LICANTROPO | MONSTRO (M)",
@@ -30616,7 +30616,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/e3d61540ff9e68c4.svg"
+        "src": "systems/d20age/assets/tokens/creatures/789e620c006a2891.svg"
       }
     },
     "flags": {
@@ -30657,7 +30657,7 @@
     "_id": "e8d38e97f546cd0e",
     "name": "Minotauro",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/840bb573227cc412.svg",
+    "img": "systems/d20age/assets/creatures/e8d38e97f546cd0e.jpg",
     "system": {
       "title": "MINOTAURO | MONSTRO (G)",
       "ancestry": "MINOTAURO | MONSTRO (G)",
@@ -30807,7 +30807,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/840bb573227cc412.svg"
+        "src": "systems/d20age/assets/tokens/creatures/e8d38e97f546cd0e.svg"
       }
     },
     "flags": {
@@ -30847,7 +30847,7 @@
     "_id": "d0ab0a14a33645d4",
     "name": "Mímico",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/0579595ce3ed2d09.svg",
+    "img": "systems/d20age/assets/creatures/d0ab0a14a33645d4.jpg",
     "system": {
       "title": "MÍMICO | MONSTRO (G)",
       "ancestry": "MÍMICO | MONSTRO (G)",
@@ -31006,7 +31006,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/0579595ce3ed2d09.svg"
+        "src": "systems/d20age/assets/tokens/creatures/d0ab0a14a33645d4.svg"
       }
     },
     "flags": {
@@ -31046,7 +31046,7 @@
     "_id": "9a82626ef20177d0",
     "name": "Monstro da ferrugem",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/dcad558fd9527d61.svg",
+    "img": "systems/d20age/assets/creatures/9a82626ef20177d0.jpg",
     "system": {
       "title": "MONSTRO DA FERRUGEM | MONSTRO (P)",
       "ancestry": "MONSTRO DA FERRUGEM | MONSTRO (P)",
@@ -31162,7 +31162,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/dcad558fd9527d61.svg"
+        "src": "systems/d20age/assets/tokens/creatures/9a82626ef20177d0.svg"
       }
     },
     "flags": {
@@ -31202,7 +31202,7 @@
     "_id": "3dee26ef050d57da",
     "name": "Olho tirano",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/360fe6f1fe131a96.svg",
+    "img": "systems/d20age/assets/creatures/3dee26ef050d57da.jpg",
     "system": {
       "title": "OLHO TIRANO | MONSTRO (M)",
       "ancestry": "OLHO TIRANO | MONSTRO (M)",
@@ -31342,7 +31342,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/360fe6f1fe131a96.svg"
+        "src": "systems/d20age/assets/tokens/creatures/3dee26ef050d57da.svg"
       }
     },
     "flags": {
@@ -31382,7 +31382,7 @@
     "_id": "757e7014d26fec6d",
     "name": "Perfurador",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/372ac8e4000804ea.svg",
+    "img": "systems/d20age/assets/creatures/757e7014d26fec6d.jpg",
     "system": {
       "title": "PERFURADOR | MONSTRO (M)",
       "ancestry": "PERFURADOR | MONSTRO (M)",
@@ -31522,7 +31522,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/372ac8e4000804ea.svg"
+        "src": "systems/d20age/assets/tokens/creatures/757e7014d26fec6d.svg"
       }
     },
     "flags": {
@@ -31562,7 +31562,7 @@
     "_id": "60e444c87f2e0324",
     "name": "Quimera",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/53ae4f06e65acbe3.svg",
+    "img": "systems/d20age/assets/creatures/60e444c87f2e0324.jpg",
     "system": {
       "title": "QUIMERA | MONSTRO (G)",
       "ancestry": "QUIMERA | MONSTRO (G)",
@@ -31755,7 +31755,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/53ae4f06e65acbe3.svg"
+        "src": "systems/d20age/assets/tokens/creatures/60e444c87f2e0324.svg"
       }
     },
     "flags": {
@@ -31795,7 +31795,7 @@
     "_id": "7f6d9558690731ee",
     "name": "Sombra",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/5223151dae17eb32.svg",
+    "img": "systems/d20age/assets/creatures/7f6d9558690731ee.jpg",
     "system": {
       "title": "SOMBRA | MONSTRO (M)",
       "ancestry": "SOMBRA | MONSTRO (M)",
@@ -31949,7 +31949,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/5223151dae17eb32.svg"
+        "src": "systems/d20age/assets/tokens/creatures/7f6d9558690731ee.svg"
       }
     },
     "flags": {
@@ -31989,7 +31989,7 @@
     "_id": "9536faccf02f1eb7",
     "name": "Urso coruja",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/c3b1a0db0b0f7219.svg",
+    "img": "systems/d20age/assets/creatures/9536faccf02f1eb7.jpg",
     "system": {
       "title": "URSO CORUJA | MONSTRO (L)",
       "ancestry": "URSO CORUJA | MONSTRO (L)",
@@ -32134,7 +32134,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/c3b1a0db0b0f7219.svg"
+        "src": "systems/d20age/assets/tokens/creatures/9536faccf02f1eb7.svg"
       }
     },
     "flags": {
@@ -32174,7 +32174,7 @@
     "_id": "6ee53d9c4d3a63fb",
     "name": "Verme carniceiro",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/80de7bd6bc67b7d7.svg",
+    "img": "systems/d20age/assets/creatures/6ee53d9c4d3a63fb.jpg",
     "system": {
       "title": "VERME CARNICEIRO | MONSTRO (M)",
       "ancestry": "VERME CARNICEIRO | MONSTRO (M)",
@@ -32290,7 +32290,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/80de7bd6bc67b7d7.svg"
+        "src": "systems/d20age/assets/tokens/creatures/6ee53d9c4d3a63fb.svg"
       }
     },
     "flags": {
@@ -32330,7 +32330,7 @@
     "_id": "7f77189ff9fc20a7",
     "name": "Verme púrpura",
     "type": "creature",
-    "img": "systems/d20age/assets/icons/e3d4a78c7880097b.svg",
+    "img": "systems/d20age/assets/creatures/7f77189ff9fc20a7.jpg",
     "system": {
       "title": "VERME PÚRPURA | MONSTRO (I)",
       "ancestry": "VERME PÚRPURA | MONSTRO (I)",
@@ -32494,7 +32494,7 @@
       },
       "disposition": -1,
       "texture": {
-        "src": "systems/d20age/assets/tokens/e3d4a78c7880097b.svg"
+        "src": "systems/d20age/assets/tokens/creatures/7f77189ff9fc20a7.svg"
       }
     },
     "flags": {

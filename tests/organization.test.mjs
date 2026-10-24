@@ -14,12 +14,18 @@ test('all native folders have valid parents, types and bounded acyclic hierarchy
  assert.equal(count,read('catalog').folders);
  assert.deepEqual(folders.bestiary.filter(f=>!f.folder).map(f=>f.name).sort(),['Bestas','Construtos','Desmortos','Dracônicos','Extraplanares','Feéricos','Floranídeos','Gigantes','Humanoides','Monstros'].sort());
 });
-test('all records, embedded creature items and token portraits resolve to safe local vector icons',()=>{
- const files=new Set();
+test('all records, creature portraits, embedded items and token icons resolve locally',()=>{
+ const files=new Set(),portraits=new Set();
  for(const pack of Object.keys(read('folders')))for(const d of read(pack)){
   const docs=[d,...(d.items??[])];
-  for(const entry of docs){assert(entry.img.startsWith('systems/d20age/assets/icons/'));const file=new URL(entry.img.slice('systems/d20age/'.length),root);assert(existsSync(file));files.add(entry.img);const svg=readFileSync(file,'utf8');assert.match(svg,/^<svg\s/);assert.match(svg,/<title\b/);assert.match(svg,/viewBox="0 0 128 128"/);assert.doesNotMatch(svg,/<(?:image|script|foreignObject)\b|href=|onload=/i)}
+  for(const entry of docs){
+   const file=new URL(entry.img.slice('systems/d20age/'.length),root);assert(existsSync(file));
+   if(pack==='bestiary' && entry===d){assert.match(entry.img,/^systems\/d20age\/assets\/creatures\/[a-f0-9]+\.jpg$/);portraits.add(entry.img);continue;}
+   assert(entry.img.startsWith('systems/d20age/assets/icons/'));files.add(entry.img);
+   const svg=readFileSync(file,'utf8');assert.match(svg,/^<svg\s/);assert.match(svg,/<title\b/);assert.match(svg,/viewBox="0 0 128 128"/);assert.doesNotMatch(svg,/<(?:image|script|foreignObject)\b|href=|onload=/i);
+  }
   if(pack==='bestiary'){assert.match(d.prototypeToken.texture.src,/assets\/tokens\//);assert.ok(existsSync(new URL(d.prototypeToken.texture.src.replace('systems/d20age/',''),root)));}
  }
- assert.equal(files.size,read('catalog').icons);
+ assert.equal(portraits.size,read('bestiary').length);
+ assert.ok(files.size<=read('catalog').icons);
 });

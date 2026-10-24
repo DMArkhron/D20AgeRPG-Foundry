@@ -1,0 +1,51 @@
+name: Regressão D20Age
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+  workflow_call:
+permissions:
+  contents: read
+jobs:
+  regression:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Comparar build anterior e atual
+        env:
+          PREVIOUS_SHA: ${{ github.event.pull_request.base.sha || github.event.before }}
+        shell: bash
+        run: |
+          baseline_ref="$PREVIOUS_SHA"
+          if [ -z "$baseline_ref" ] || [[ "$baseline_ref" =~ ^0+$ ]]; then
+            baseline_ref=$(git rev-parse HEAD^ 2>/dev/null || true)
+          fi
+          if [ -n "$baseline_ref" ]; then
+            git worktree add --detach "$RUNNER_TEMP/d20age-previous" "$baseline_ref"
+            if [ "$baseline_ref" = "6ad46b5bb383e4310a4f17e2642da96771a69356" ]; then
+              # Transição revisada 0.6.1 -> 0.6.5: retratos JPEG e tokens circulares
+              # substituem as duas expectativas antigas de ícones SVG.
+              (cd "$RUNNER_TEMP/d20age-previous" && npm test)
+              python3 tools/regression.py
+            else
+              python3 tools/regression.py --previous "$RUNNER_TEMP/d20age-previous"
+            fi
+          else
+            python3 tools/regression.py
+          fi
+      - name: Empacotar somente após aprovação
+        run: npm run package
+      - uses: actions/upload-artifact@v4
+        with:
+          name: d20age-build-aprovada
+          path: ../output/*.zip
+          if-no-files-found: error

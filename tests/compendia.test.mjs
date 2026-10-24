@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
 import './foundry-stub.mjs';
-import {installCompendia,PACKS,CONTENT_VERSION,selectedActor,adventureTool,repairImportedDescriptions} from '../scripts/compendia.mjs';
+import {installCompendia,PACKS,CONTENT_VERSION,CREATURE_ART_VERSION,selectedActor,adventureTool,repairImportedDescriptions} from '../scripts/compendia.mjs';
 const load=file=>JSON.parse(readFileSync(new URL(`../content/${file}.json`,import.meta.url),'utf8'));
 class Index extends Map {find(fn){return Array.from(this.values()).find(fn);} [Symbol.iterator](){return this.values();}}
 function apply(document,changes){for(const [path,value] of Object.entries(changes)){const keys=path.split('.');let parent=document;for(const key of keys.slice(0,-1))parent=parent[key]??={};parent[keys.at(-1)]=value;}}
@@ -46,8 +46,22 @@ test('0.2.0 upgrade organizes existing records and images without replacing stat
  const spec=PACKS[0];const pack=await foundry.documents.collections.CompendiumCollection.createCompendium({name:spec.name,type:spec.type});
  const [first,second]=load('bestiary');first.folder=null;first.img='systems/d20age/assets/crest.svg';first.system.hp.max=777;first.name='Nome do mestre';first.items[0].img='systems/d20age/assets/crest.svg';second.img='worlds/campaign/my-portrait.png';
  pack.index.set(first._id,first);pack.index.set(second._id,second);
- await installCompendia();assert.equal(first.system.hp.max,777);assert.equal(first.name,'Nome do mestre');assert.match(first.img,/assets\/icons/);assert.match(first.items[0].img,/assets\/icons/);assert.equal(second.img,'worlds/campaign/my-portrait.png');
+ await installCompendia();assert.equal(first.system.hp.max,777);assert.equal(first.name,'Nome do mestre');assert.match(first.img,/assets\/creatures\/.+\.jpg$/);assert.match(first.items[0].img,/assets\/icons/);assert.equal(second.img,'worlds/campaign/my-portrait.png');
  assert.ok(pack.folders.has(first.folder));assert.equal(game.folders.length,6);assert.ok(pack.folder);
+});
+
+test('art upgrade runs with current prose and mechanics, replacing only stock bestiary portraits',async()=>{
+ const state=setup();await installCompendia();const pack=state.packs.get('world.d20age-bestiary');
+ const [stock,custom]=Array.from(pack.index.values());
+ stock.img='systems/d20age/assets/icons/old.svg';stock.prototypeToken.texture.src='systems/d20age/assets/tokens/old.svg';
+ custom.img='worlds/campaign/portrait.jpg';custom.prototypeToken.texture.src='worlds/campaign/token.png';
+ state.settings.set('creatureArtVersion','');const count=state.writes.length;
+ await installCompendia();
+ assert.equal(state.writes.length,count);assert.equal(stock.img,load('bestiary')[0].img);
+ assert.equal(stock.prototypeToken.texture.src,load('bestiary')[0].prototypeToken.texture.src);
+ assert.equal(custom.img,'worlds/campaign/portrait.jpg');
+ assert.equal(custom.prototypeToken.texture.src,'worlds/campaign/token.png');
+ assert.equal(state.settings.get('creatureArtVersion'),CREATURE_ART_VERSION);
 });
 
 test('legacy compendia receive individual descriptions, embedded powers and reference pages once',async()=>{

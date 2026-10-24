@@ -1,4 +1,5 @@
 import {escapeHTML as e} from './view.mjs';
+import {registerTokenPreferences,tokenConfigMarkup,rulerConfigMarkup,validateTokenPreferences,applySelectedTokenPreferences,saveNativeRulerSettings} from './table-config.mjs';
 import {UNIT_TABLE,DEFAULT_MEASURES,DEFAULT_COMBAT,measures,combatRules,validateMeasures,validateCombat,applyCombatConfiguration,formattedMeasure} from './preferences.mjs';
 import {GREGORIAN,validateCalendar,dateToSeconds,currentSeconds,secondsToDate} from './calendar-core.mjs';
 import {calendarConfiguration,calendarDocument,calendarContext,refreshCalendars,openCalendarSummary} from './calendar.mjs';
@@ -36,3 +37,23 @@ export class CalendarConfig extends MeasuresConfig{
 }
 export function registerSystemSettings(){game.settings.register('d20age','measures',{scope:'world',config:false,type:Object,default:DEFAULT_MEASURES,onChange:()=>{for(const doc of [...game.actors,...game.items])if(doc.sheet?.rendered)doc.sheet.render({force:true})}});game.settings.register('d20age','combatRules',{scope:'world',config:false,type:Object,default:DEFAULT_COMBAT,onChange:applyCombatConfiguration});game.settings.register('d20age','calendarConfig',{scope:'world',config:false,type:Object,default:{activeId:'gregorian',definitions:[GREGORIAN]},onChange:refreshCalendars});game.settings.register('d20age','showCalendarHUD',{name:'Exibir calendário resumido ao entrar',hint:'Preferência individual. O calendário também pode ser aberto nas configurações do jogo.',scope:'client',config:true,type:Boolean,default:true});for(const [key,name,label,hint,type] of [['measuresMenu','Medidas, distâncias, volume e peso','Configurar medidas','Escolha as unidades usadas pela mesa.',MeasuresConfig],['combatMenu','Regras de combate','Configurar combate','Iniciativa, durações, acertos naturais e variantes.',CombatConfig],['calendarMenu','Calendário e permissões','Configurar calendário','Escolha calendários, crie meses e autorize jogadores individualmente.',CalendarConfig]])game.settings.registerMenu?.('d20age',key,{name,label,hint,icon:'fas fa-book',type,restricted:true});game.settings.registerMenu?.('d20age','calendarOpen',{name:'Calendário da campanha',label:'Abrir calendário',hint:'Calendário público da mesa.',icon:'fas fa-calendar',type:CalendarOpen,restricted:false});applyCombatConfiguration()}
 class CalendarOpen extends ApplicationV2{render(){return openCalendarSummary()}}
+
+export class SystemConfig extends MeasuresConfig{
+ static DEFAULT_OPTIONS={window:{title:'D20Age · Configurações do sistema',resizable:true},position:{width:850,height:780}};
+ markup(){return shell('Seu livro de regras',`<p class="hint">Ajuste a apresentação do mapa e as regras da campanha. As preferências da mesa são configuradas pelo mestre.</p><nav class="table-config-tabs" aria-label="Seções de configuração">${[['tokens','Tokens e vida'],['ruler','Régua e medidas'],['combat','Combate'],['calendar','Calendário']].map(([id,label])=>`<button type="button" data-action="section" data-section="${id}" aria-pressed="${id==='tokens'}">${label}</button>`).join('')}</nav><div class="table-config-panel" data-panel="tokens">${tokenConfigMarkup()}</div><div class="table-config-panel" data-panel="ruler" hidden>${rulerConfigMarkup()}</div><div class="table-config-panel" data-panel="combat" hidden><section class="adjust-card"><h3>Regras de combate</h3><p>Escolha o dado de iniciativa, a duração das rodadas e turnos, as regras de 1 e 20 naturais, dano crítico e apresentação da defesa.</p><p class="hint">As opções são salvas na janela de combate. Variantes são identificadas para facilitar a comparação com o Livro Base.</p>${button('Configurar regras de combate','combat')}</section></div><div class="table-config-panel" data-panel="calendar" hidden><section class="adjust-card"><h3>Tempo da campanha</h3><p>Use o calendário gregoriano ou crie meses, semanas e anos próprios. Defina individualmente quais jogadores podem editar o calendário.</p>${button('Calendários e permissões','calendar')}${button('Abrir calendário da mesa','open-calendar')}</section></div>`)}
+ async _onClickAction(event,target){event.preventDefault();try{
+  if(!game.user.isGM)throw Error('Somente o mestre configura a mesa.');
+  const action=target.dataset.action;
+  if(action==='section'){const id=target.dataset.section;for(const panel of this.element.querySelectorAll('[data-panel]'))panel.hidden=panel.dataset.panel!==id;for(const tab of this.element.querySelectorAll('[data-section]'))tab.setAttribute('aria-pressed',String(tab.dataset.section===id));return;}
+  if(action==='measures')return new MeasuresConfig().render({force:true});
+  if(action==='combat')return new CombatConfig().render({force:true});
+  if(action==='calendar')return new CalendarConfig().render({force:true});
+  if(action==='open-calendar')return openCalendarSummary();
+  if(action==='scene-config'){if(!globalThis.canvas?.scene)throw Error('Abra uma cena primeiro.');return canvas.scene.sheet.render({force:true});}
+  const f=new FormData(target.closest('form'));
+  const p=validateTokenPreferences({...Object.fromEntries(f),enabled:f.has('enabled'),lockRotation:f.has('lockRotation'),hpBar:f.has('hpBar')});
+  if(action==='apply-tokens'){const count=await applySelectedTokenPreferences(p);ui.notifications.info(`${count} token(s) atualizado(s).`);return;}
+  if(action==='save'){await saveNativeRulerSettings(f);await game.settings.set('d20age','tokenDefaults',p);ui.notifications.info('Configurações salvas.');return this.close();}
+ }catch(error){ui.notifications.error(error.message)}}
+}
+export function registerDetailedSettings(){registerTokenPreferences();game.settings.registerMenu?.('d20age','systemConfiguration',{name:'Configurações do sistema',label:'Abrir painel do sistema',hint:'Tokens, barras de vida, régua, unidades, combate e calendário.',icon:'fas fa-sliders',type:SystemConfig,restricted:true})}

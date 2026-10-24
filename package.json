@@ -1,10 +1,13 @@
 {
   "name": "d20age-foundry",
-  "version": "0.6.1",
+  "version": "0.6.5",
   "private": true,
   "type": "module",
   "scripts": {
     "test": "node --test tests/*.test.mjs",
-    "package": "python3 tools/package.py"
+    "package": "python3 tools/package.py",
+    "check": "python3 tools/regression.py",
+    "test:watch": "python3 tools/regression.py --watch",
+    "baseline:accept": "python3 tools/regression.py --accept-baseline"
   }
 }

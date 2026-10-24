@@ -5,6 +5,7 @@ import {combatRules} from './preferences.mjs';
 import {chatCard} from './chat.mjs';
 import {escapeHTML} from './view.mjs';
 export const CONTENT_VERSION='0.4.7';
+export const CREATURE_ART_VERSION='0.6.4';
 export const PACKS=[
  ['bestiary','Bestiário','Actor'],['equipment','Equipamentos','Item'],['spells','Magias','Item'],
  ['abilities','Habilidades e perícias','Item'],['magic-items','Itens mágicos e especiais','Item'],
@@ -13,6 +14,7 @@ export const PACKS=[
 export function registerCompendia(){
  game.settings.register('d20age','mechanicsVersion',{scope:'world',config:false,type:String,default:''});
  game.settings.register('d20age','contentVersion',{scope:'world',config:false,type:String,default:''});
+ game.settings.register('d20age','creatureArtVersion',{scope:'world',config:false,type:String,default:''});
  game.settings.register('d20age','installContent',{name:'Preparar compêndios do Livro Base V2',hint:'Cria e atualiza os compêndios ao entrar como mestre. A revisão de descrições preserva estatísticas e retratos. Para repetir, use a macro “Preparar compêndios”.',scope:'world',config:true,type:Boolean,default:true});
 }
 let installing;
@@ -20,7 +22,7 @@ export async function installCompendia({force=false}={}){
  if(!game.user.isGM)throw new Error('Somente o mestre pode preparar os compêndios.');
  if(game.users?.activeGM && game.users.activeGM.id!==game.user.id)return;
  if(installing)return installing;
- if(!force && (!game.settings.get('d20age','installContent') || game.settings.get('d20age','contentVersion')===CONTENT_VERSION && game.settings.get('d20age','mechanicsVersion')===MECHANICS_VERSION))return;
+ if(!force && (!game.settings.get('d20age','installContent') || game.settings.get('d20age','contentVersion')===CONTENT_VERSION && game.settings.get('d20age','mechanicsVersion')===MECHANICS_VERSION && game.settings.get('d20age','creatureArtVersion')===CREATURE_ART_VERSION))return;
  installing=performInstall();
  try{return await installing;}finally{installing=undefined;}
 }
@@ -98,8 +100,8 @@ async function performInstall(){
     const obsolete=(migration.retired.embedded?.[doc._id] ?? []).filter(id=>isBookRecord(actor.items.get(id)));
     if(obsolete.length)await actor.deleteEmbeddedDocuments('Item',obsolete);
     const texture=actor.prototypeToken?.texture?.src;
-    if(isSystemIcon(texture) || texture==='icons/svg/mystery-man.svg'){
-     if(texture!==doc.img)await actor.update({'prototypeToken.texture.src':doc.img});
+    if(isSystemIcon(texture) || texture===doc.img || texture==='icons/svg/mystery-man.svg'){
+     if(texture!==doc.prototypeToken.texture.src)await actor.update({'prototypeToken.texture.src':doc.prototypeToken.texture.src});
     }
     if(needsDescription(actor))await actor.update({'flags.d20age.descriptionRevision':CONTENT_VERSION});
    }
@@ -138,6 +140,7 @@ async function performInstall(){
  await migrateWorldSpellMechanics(sources.find(s=>s.spec.file==='spells').docs);
  await game.settings.set('d20age','mechanicsVersion',MECHANICS_VERSION);
  await game.settings.set('d20age','contentVersion',CONTENT_VERSION);
+ await game.settings.set('d20age','creatureArtVersion',CREATURE_ART_VERSION);
  ui.notifications.info('D20Age · Compêndios preparados. Abra a aba Compêndios.');
  return report;
 }
@@ -177,7 +180,7 @@ export async function repairImportedDescriptions(sources,migration){
   if(updates.length)await actor.updateEmbeddedDocuments('Item',updates);
  }
 }
-export function isSystemIcon(img){return !img || img==='systems/d20age/assets/crest.svg' || img.startsWith('systems/d20age/assets/icons/');}
+export function isSystemIcon(img){return !img || img==='systems/d20age/assets/crest.svg' || img.startsWith('systems/d20age/assets/icons/') || img.startsWith('systems/d20age/assets/tokens/');}
 async function ensureWorldFolder(key,name,parent=null){
  let folder=game.folders.find(f=>f.type==='Compendium' && f.getFlag('d20age','organizationKey')===key);
  if(!folder)folder=await Folder.create({name,type:'Compendium',folder:parent,sorting:'a',color:'#373737',flags:{d20age:{organizationKey:key}}});

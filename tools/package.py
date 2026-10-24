@@ -1,8 +1,11 @@
 from pathlib import Path
 import json
 import zipfile
+import subprocess
+import sys
 
 root = Path(__file__).resolve().parents[1]
+subprocess.run([sys.executable, str(root / 'tools/regression.py')], cwd=root, check=True)
 manifest = json.loads((root / "system.json").read_text())
 target = root.parent / "output" / f"d20age-foundry-v13-{manifest['version']}.zip"
 target.parent.mkdir(parents=True, exist_ok=True)

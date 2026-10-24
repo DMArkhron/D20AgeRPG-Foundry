@@ -1,4 +1,6 @@
 export function roundTokenPath(image){
+ const creature=String(image??'').match(/^systems\/d20age\/assets\/creatures\/([a-f0-9]+)\.jpg(?:\?.*)?$/);
+ if(creature)return `systems/d20age/assets/tokens/creatures/${creature[1]}.svg`;
  const match=String(image??'').match(/^systems\/d20age\/assets\/(?:classes|icons)\/([^/?]+)\.(?:svg|png)(?:\?.*)?$/);
  if(match)return `systems/d20age/assets/tokens/${match[1]}.svg`;
  return image==='systems/d20age/assets/crest.svg'?'systems/d20age/assets/tokens/crest.svg':null;
@@ -12,7 +14,11 @@ export function prepareDefaultToken(actor,data){
 }
 export async function migrateRoundTokens(){
  if(!game.user.isGM||(game.users?.activeGM&&game.users.activeGM.id!==game.user.id))return;
- for(const actor of game.actors??[]){const texture=actor.prototypeToken?.texture?.src,round=roundTokenPath(actor.img);if(round&&(!texture||texture===actor.img||texture==='icons/svg/mystery-man.svg'))await actor.update({'prototypeToken.texture.src':round});}
+ const stock=(texture,image)=>!texture||texture===image||texture==='icons/svg/mystery-man.svg'||/^systems\/d20age\/assets\/(?:icons|tokens)\//.test(texture);
+ const actors=new Set(game.actors??[]);
+ for(const scene of game.scenes??[])for(const token of scene.tokens??[])if(!token.actorLink&&token.actor)actors.add(token.actor);
+ for(const actor of actors){const texture=actor.prototypeToken?.texture?.src,round=roundTokenPath(actor.img);if(round&&texture!==round&&stock(texture,actor.img))await actor.update({'prototypeToken.texture.src':round});}
+ for(const scene of game.scenes??[]){const updates=[];for(const token of scene.tokens??[]){const round=roundTokenPath(token.actor?.img),texture=token.texture?.src;if(round&&texture!==round&&stock(texture,token.actor?.img))updates.push({_id:token.id,'texture.src':round});}if(updates.length)await scene.updateEmbeddedDocuments('Token',updates);}
 }
 export function registerCreatureTokenRolls(){
  Hooks.on('createToken',(token,options,userId)=>{

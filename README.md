@@ -29,7 +29,7 @@ Crie personagens com orientação em cada etapa, consulte equipamentos e magias 
 | Requisito | Versão |
 | ---------- | ------- |
 | Foundry VTT | 13 |
-| D20Age para Foundry | 0.6.1 |
+| D20Age para Foundry | 0.6.5 |
 | Material de referência | Livro Base V2 |
 
 O D20Age é um **sistema de jogo independente** para Foundry VTT. Não requer outro sistema instalado.
