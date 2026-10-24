@@ -43,9 +43,12 @@ jobs:
             python3 tools/regression.py
           fi
       - name: Empacotar somente após aprovação
-        run: npm run package
+        run: |
+          npm run package
+          mkdir -p "$RUNNER_TEMP/d20age-artifact"
+          cp ../output/*.zip "$RUNNER_TEMP/d20age-artifact/"
       - uses: actions/upload-artifact@v4
         with:
           name: d20age-build-aprovada
-          path: ../output/*.zip
+          path: ${{ runner.temp }}/d20age-artifact/*.zip
           if-no-files-found: error
