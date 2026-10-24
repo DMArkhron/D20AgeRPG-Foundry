@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   workflow_call:
 permissions:
-  contents: read
+  contents: write
 jobs:
   regression:
     runs-on: ubuntu-latest
@@ -52,3 +52,30 @@ jobs:
           name: d20age-build-aprovada
           path: ${{ runner.temp }}/d20age-artifact/*.zip
           if-no-files-found: error
+      - name: Publicar Release v0.6.5
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          version=$(node -p "require('./system.json').version")
+          if [ "$version" != "0.6.5" ]; then
+            echo "Esta etapa publica somente a v0.6.5."
+            exit 0
+          fi
+          tag="v$version"
+          if gh release view "$tag" >/dev/null 2>&1; then
+            echo "A Release $tag já existe."
+            exit 0
+          fi
+          cp "../output/d20age-foundry-v13-${version}.zip" "$RUNNER_TEMP/d20age.zip"
+          cat > "$RUNNER_TEMP/d20age-release-notes.md" <<'EOF'
+          D20Age RPG 0.6.5 para Foundry VTT 13.
+
+          - Retratos e tokens circulares para as 162 criaturas do bestiário.
+          - Correções do Arcanista e opções adicionais de configuração da mesa.
+          - Testes automatizados de regressão com comparação à build anterior e verificação antes do empacotamento.
+
+          Para instalar, use o manifesto do sistema ou baixe d20age.zip e extraia a pasta d20age na pasta Data/systems do Foundry.
+          EOF
+          gh release create "$tag" "$RUNNER_TEMP/d20age.zip" system.json --target "$GITHUB_SHA" --title "D20Age RPG v$version" --notes-file "$RUNNER_TEMP/d20age-release-notes.md"
