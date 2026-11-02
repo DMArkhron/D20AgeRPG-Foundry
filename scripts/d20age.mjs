@@ -35,7 +35,7 @@ Hooks.once("init",()=>{
   config.registerSheet(Actor,"d20age",D20AgeCreatureSheet,{types:["creature"],makeDefault:true,label:"D20Age · Criatura compacta"});
   config.registerSheet(Actor,"d20age",D20AgePartySheet,{types:["party"],makeDefault:true,label:"D20Age · Companhia"});
   config.registerSheet(Item,"d20age",D20AgeItemSheet,{types:["weapon","armor","equipment","spell","ability"],makeDefault:true,label:"D20Age · Registro"});
-  game.d20age = {Actor:D20AgeActor,Item:D20AgeItem,classes:CLASSES,attributes:ATTRIBUTES,saves:SAVES,version:"0.6.5",createParty,openEncounterPanel,rollInitiative,advanceLevel,rollCreatureHP,openCalendar,openCalendarSummary,openCharacterGenerator,installCompendia,rollBookTable,openBookReference,adventureTool};
+  game.d20age = {Actor:D20AgeActor,Item:D20AgeItem,classes:CLASSES,attributes:ATTRIBUTES,saves:SAVES,version:"0.6.6",createParty,openEncounterPanel,rollInitiative,advanceLevel,rollCreatureHP,openCalendar,openCalendarSummary,openCharacterGenerator,installCompendia,rollBookTable,openBookReference,adventureTool};
 });
 Hooks.on("preCreateActor",(actor,data)=>{
   if(actor.type === "party"){actor.updateSource({img:data.img||"systems/d20age/assets/party.svg",prototypeToken:{actorLink:true,bar1:{attribute:null},bar2:{attribute:null}}});return;}
