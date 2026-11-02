@@ -7,7 +7,7 @@ import sys
 root = Path(__file__).resolve().parents[1]
 subprocess.run([sys.executable, str(root / 'tools/regression.py')], cwd=root, check=True)
 manifest = json.loads((root / "system.json").read_text())
-target = root.parent / "output" / f"d20age-foundry-v13-{manifest['version']}.zip"
+target = root.parent / "output" / f"d20age-foundry-v13-v14-{manifest['version']}.zip"
 target.parent.mkdir(parents=True, exist_ok=True)
 paths = sorted(p for p in root.rglob("*") if p.is_file() and not any(part in {"node_modules", ".git", "__pycache__"} for part in p.relative_to(root).parts))
 staging = target.with_suffix(".zip.tmp")
