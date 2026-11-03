@@ -51,8 +51,7 @@ Hooks.on("preCreateActor",(actor,data)=>{
 Hooks.once("ready",()=>createWelcome().catch(error=>{console.error("D20Age · Capa",error);ui.notifications.error("Não foi possível preparar a cena de capa. Reabra o mundo para tentar novamente.");}));
 
 Hooks.once("ready",()=>installCompendia().catch(error=>{console.error("D20Age · Compêndios",error);ui.notifications.error("Falha ao preparar compêndios: "+error.message+" Reabra o mundo ou execute a macro Preparar compêndios para retomar.");}));
-Hooks.once('ready',async()=>{try{await installCompendia();}catch{/* O atlas pode ser preparado mesmo se outro compêndio falhar. */}
- await installHexcrawl().catch(error=>{console.error('D20Age · Hexcrawl',error);ui.notifications.error('Falha ao preparar o atlas de Hexcrawl: '+error.message);});});
+Hooks.once('ready',()=>installHexcrawl().catch(error=>{console.error('D20Age · Hexcrawl',error);ui.notifications.error('Falha ao atualizar o atlas: '+error.message);}));
 
 Hooks.on('renderActorDirectory',addGeneratorDirectoryButton);
 

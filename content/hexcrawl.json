@@ -2,13 +2,13 @@
   {
     "_id": "c2fccf9f547e180f",
     "name": "Floresta",
-    "img": "systems/d20age/assets/hexcrawl/color/floresta.jpg",
+    "img": "systems/d20age/assets/hexcrawl/color/floresta.png",
     "pages": [
       {
         "_id": "2c57a8e9a8af5f51",
         "name": "Colorido",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/color/floresta.jpg",
+        "src": "systems/d20age/assets/hexcrawl/color/floresta.png",
         "image": {
           "caption": "Floresta · Colorido"
         },
@@ -18,7 +18,7 @@
         "_id": "ead134726d7f39e0",
         "name": "Preto e branco",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/bw/floresta.jpg",
+        "src": "systems/d20age/assets/hexcrawl/bw/floresta.png",
         "image": {
           "caption": "Floresta · Preto e branco"
         },
@@ -29,20 +29,20 @@
       "d20age": {
         "hexcrawl": "floresta",
         "category": "Terrenos",
-        "assetVersion": "1"
+        "assetVersion": "2"
       }
     }
   },
   {
     "_id": "ab218cbde3589dc1",
     "name": "Bosque",
-    "img": "systems/d20age/assets/hexcrawl/color/bosque.jpg",
+    "img": "systems/d20age/assets/hexcrawl/color/bosque.png",
     "pages": [
       {
         "_id": "cac3c6e2b54faca7",
         "name": "Colorido",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/color/bosque.jpg",
+        "src": "systems/d20age/assets/hexcrawl/color/bosque.png",
         "image": {
           "caption": "Bosque · Colorido"
         },
@@ -52,7 +52,7 @@
         "_id": "9450947e9798a183",
         "name": "Preto e branco",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/bw/bosque.jpg",
+        "src": "systems/d20age/assets/hexcrawl/bw/bosque.png",
         "image": {
           "caption": "Bosque · Preto e branco"
         },
@@ -63,20 +63,20 @@
       "d20age": {
         "hexcrawl": "bosque",
         "category": "Terrenos",
-        "assetVersion": "1"
+        "assetVersion": "2"
       }
     }
   },
   {
     "_id": "4ea8d7069da68612",
     "name": "Colinas",
-    "img": "systems/d20age/assets/hexcrawl/color/colinas.jpg",
+    "img": "systems/d20age/assets/hexcrawl/color/colinas.png",
     "pages": [
       {
         "_id": "70c40bb79edc0100",
         "name": "Colorido",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/color/colinas.jpg",
+        "src": "systems/d20age/assets/hexcrawl/color/colinas.png",
         "image": {
           "caption": "Colinas · Colorido"
         },
@@ -86,7 +86,7 @@
         "_id": "16decc95bd363d1c",
         "name": "Preto e branco",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/bw/colinas.jpg",
+        "src": "systems/d20age/assets/hexcrawl/bw/colinas.png",
         "image": {
           "caption": "Colinas · Preto e branco"
         },
@@ -97,20 +97,20 @@
       "d20age": {
         "hexcrawl": "colinas",
         "category": "Terrenos",
-        "assetVersion": "1"
+        "assetVersion": "2"
       }
     }
   },
   {
     "_id": "3c897e589f7d92c7",
     "name": "Montanhas",
-    "img": "systems/d20age/assets/hexcrawl/color/montanhas.jpg",
+    "img": "systems/d20age/assets/hexcrawl/color/montanhas.png",
     "pages": [
       {
         "_id": "e72fc32c1d9cfc1d",
         "name": "Colorido",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/color/montanhas.jpg",
+        "src": "systems/d20age/assets/hexcrawl/color/montanhas.png",
         "image": {
           "caption": "Montanhas · Colorido"
         },
@@ -120,7 +120,7 @@
         "_id": "4708ae6ea08e9473",
         "name": "Preto e branco",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/bw/montanhas.jpg",
+        "src": "systems/d20age/assets/hexcrawl/bw/montanhas.png",
         "image": {
           "caption": "Montanhas · Preto e branco"
         },
@@ -131,20 +131,20 @@
       "d20age": {
         "hexcrawl": "montanhas",
         "category": "Terrenos",
-        "assetVersion": "1"
+        "assetVersion": "2"
       }
     }
   },
   {
     "_id": "f5a1642b44503fb9",
     "name": "Pântano",
-    "img": "systems/d20age/assets/hexcrawl/color/pantano.jpg",
+    "img": "systems/d20age/assets/hexcrawl/color/pantano.png",
     "pages": [
       {
         "_id": "1290ae1455c63b22",
         "name": "Colorido",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/color/pantano.jpg",
+        "src": "systems/d20age/assets/hexcrawl/color/pantano.png",
         "image": {
           "caption": "Pântano · Colorido"
         },
@@ -154,7 +154,7 @@
         "_id": "c8dc30ee8b8000bd",
         "name": "Preto e branco",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/bw/pantano.jpg",
+        "src": "systems/d20age/assets/hexcrawl/bw/pantano.png",
         "image": {
           "caption": "Pântano · Preto e branco"
         },
@@ -165,20 +165,20 @@
       "d20age": {
         "hexcrawl": "pantano",
         "category": "Terrenos",
-        "assetVersion": "1"
+        "assetVersion": "2"
       }
     }
   },
   {
     "_id": "dc60e3580071a7bb",
     "name": "Deserto",
-    "img": "systems/d20age/assets/hexcrawl/color/deserto.jpg",
+    "img": "systems/d20age/assets/hexcrawl/color/deserto.png",
     "pages": [
       {
         "_id": "525fc1550f61e70c",
         "name": "Colorido",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/color/deserto.jpg",
+        "src": "systems/d20age/assets/hexcrawl/color/deserto.png",
         "image": {
           "caption": "Deserto · Colorido"
         },
@@ -188,7 +188,7 @@
         "_id": "b283a57dd55d367f",
         "name": "Preto e branco",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/bw/deserto.jpg",
+        "src": "systems/d20age/assets/hexcrawl/bw/deserto.png",
         "image": {
           "caption": "Deserto · Preto e branco"
         },
@@ -199,20 +199,20 @@
       "d20age": {
         "hexcrawl": "deserto",
         "category": "Terrenos",
-        "assetVersion": "1"
+        "assetVersion": "2"
       }
     }
   },
   {
     "_id": "d74cfaf929e4f9fa",
     "name": "Tundra",
-    "img": "systems/d20age/assets/hexcrawl/color/tundra.jpg",
+    "img": "systems/d20age/assets/hexcrawl/color/tundra.png",
     "pages": [
       {
         "_id": "fe3c376b96a53e38",
         "name": "Colorido",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/color/tundra.jpg",
+        "src": "systems/d20age/assets/hexcrawl/color/tundra.png",
         "image": {
           "caption": "Tundra · Colorido"
         },
@@ -222,7 +222,7 @@
         "_id": "46f74a7cee62ce43",
         "name": "Preto e branco",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/bw/tundra.jpg",
+        "src": "systems/d20age/assets/hexcrawl/bw/tundra.png",
         "image": {
           "caption": "Tundra · Preto e branco"
         },
@@ -233,20 +233,20 @@
       "d20age": {
         "hexcrawl": "tundra",
         "category": "Terrenos",
-        "assetVersion": "1"
+        "assetVersion": "2"
       }
     }
   },
   {
     "_id": "e65db2795d1045d0",
     "name": "Rio",
-    "img": "systems/d20age/assets/hexcrawl/color/rio.jpg",
+    "img": "systems/d20age/assets/hexcrawl/color/rio.png",
     "pages": [
       {
         "_id": "f1c8cb208ff31177",
         "name": "Colorido",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/color/rio.jpg",
+        "src": "systems/d20age/assets/hexcrawl/color/rio.png",
         "image": {
           "caption": "Rio · Colorido"
         },
@@ -256,7 +256,7 @@
         "_id": "49963844e119d0cd",
         "name": "Preto e branco",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/bw/rio.jpg",
+        "src": "systems/d20age/assets/hexcrawl/bw/rio.png",
         "image": {
           "caption": "Rio · Preto e branco"
         },
@@ -267,20 +267,20 @@
       "d20age": {
         "hexcrawl": "rio",
         "category": "Águas",
-        "assetVersion": "1"
+        "assetVersion": "2"
       }
     }
   },
   {
     "_id": "159565f3085c3272",
     "name": "Lago",
-    "img": "systems/d20age/assets/hexcrawl/color/lago.jpg",
+    "img": "systems/d20age/assets/hexcrawl/color/lago.png",
     "pages": [
       {
         "_id": "ee7b621fe713f70c",
         "name": "Colorido",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/color/lago.jpg",
+        "src": "systems/d20age/assets/hexcrawl/color/lago.png",
         "image": {
           "caption": "Lago · Colorido"
         },
@@ -290,7 +290,7 @@
         "_id": "89522e61a6b1b947",
         "name": "Preto e branco",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/bw/lago.jpg",
+        "src": "systems/d20age/assets/hexcrawl/bw/lago.png",
         "image": {
           "caption": "Lago · Preto e branco"
         },
@@ -301,20 +301,20 @@
       "d20age": {
         "hexcrawl": "lago",
         "category": "Águas",
-        "assetVersion": "1"
+        "assetVersion": "2"
       }
     }
   },
   {
     "_id": "7931bce64009c04e",
     "name": "Costa",
-    "img": "systems/d20age/assets/hexcrawl/color/costa.jpg",
+    "img": "systems/d20age/assets/hexcrawl/color/costa.png",
     "pages": [
       {
         "_id": "b8f99cccec8d7a7c",
         "name": "Colorido",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/color/costa.jpg",
+        "src": "systems/d20age/assets/hexcrawl/color/costa.png",
         "image": {
           "caption": "Costa · Colorido"
         },
@@ -324,7 +324,7 @@
         "_id": "d480bacb123ea276",
         "name": "Preto e branco",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/bw/costa.jpg",
+        "src": "systems/d20age/assets/hexcrawl/bw/costa.png",
         "image": {
           "caption": "Costa · Preto e branco"
         },
@@ -335,20 +335,20 @@
       "d20age": {
         "hexcrawl": "costa",
         "category": "Águas",
-        "assetVersion": "1"
+        "assetVersion": "2"
       }
     }
   },
   {
     "_id": "d47bda9fa4ec96cb",
     "name": "Estrada",
-    "img": "systems/d20age/assets/hexcrawl/color/estrada.jpg",
+    "img": "systems/d20age/assets/hexcrawl/color/estrada.png",
     "pages": [
       {
         "_id": "8ea1c9d2c60f7a8e",
         "name": "Colorido",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/color/estrada.jpg",
+        "src": "systems/d20age/assets/hexcrawl/color/estrada.png",
         "image": {
           "caption": "Estrada · Colorido"
         },
@@ -358,7 +358,7 @@
         "_id": "cbc7f147b27f334c",
         "name": "Preto e branco",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/bw/estrada.jpg",
+        "src": "systems/d20age/assets/hexcrawl/bw/estrada.png",
         "image": {
           "caption": "Estrada · Preto e branco"
         },
@@ -369,20 +369,20 @@
       "d20age": {
         "hexcrawl": "estrada",
         "category": "Caminhos",
-        "assetVersion": "1"
+        "assetVersion": "2"
       }
     }
   },
   {
     "_id": "0d6b2c0b287831c3",
     "name": "Trilha",
-    "img": "systems/d20age/assets/hexcrawl/color/trilha.jpg",
+    "img": "systems/d20age/assets/hexcrawl/color/trilha.png",
     "pages": [
       {
         "_id": "dbaa7ad17906b936",
         "name": "Colorido",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/color/trilha.jpg",
+        "src": "systems/d20age/assets/hexcrawl/color/trilha.png",
         "image": {
           "caption": "Trilha · Colorido"
         },
@@ -392,7 +392,7 @@
         "_id": "f51fec24c8f4e2ec",
         "name": "Preto e branco",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/bw/trilha.jpg",
+        "src": "systems/d20age/assets/hexcrawl/bw/trilha.png",
         "image": {
           "caption": "Trilha · Preto e branco"
         },
@@ -403,20 +403,20 @@
       "d20age": {
         "hexcrawl": "trilha",
         "category": "Caminhos",
-        "assetVersion": "1"
+        "assetVersion": "2"
       }
     }
   },
   {
     "_id": "1bf8c5eae87a7047",
     "name": "Ponte",
-    "img": "systems/d20age/assets/hexcrawl/color/ponte.jpg",
+    "img": "systems/d20age/assets/hexcrawl/color/ponte.png",
     "pages": [
       {
         "_id": "c3678473cbe602c0",
         "name": "Colorido",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/color/ponte.jpg",
+        "src": "systems/d20age/assets/hexcrawl/color/ponte.png",
         "image": {
           "caption": "Ponte · Colorido"
         },
@@ -426,7 +426,7 @@
         "_id": "d86838499e916ca2",
         "name": "Preto e branco",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/bw/ponte.jpg",
+        "src": "systems/d20age/assets/hexcrawl/bw/ponte.png",
         "image": {
           "caption": "Ponte · Preto e branco"
         },
@@ -437,20 +437,20 @@
       "d20age": {
         "hexcrawl": "ponte",
         "category": "Caminhos",
-        "assetVersion": "1"
+        "assetVersion": "2"
       }
     }
   },
   {
     "_id": "1b4c5cd70b21db33",
     "name": "Vila",
-    "img": "systems/d20age/assets/hexcrawl/color/vila.jpg",
+    "img": "systems/d20age/assets/hexcrawl/color/vila.png",
     "pages": [
       {
         "_id": "2fb011aa70d35e22",
         "name": "Colorido",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/color/vila.jpg",
+        "src": "systems/d20age/assets/hexcrawl/color/vila.png",
         "image": {
           "caption": "Vila · Colorido"
         },
@@ -460,7 +460,7 @@
         "_id": "165c8eb95c501603",
         "name": "Preto e branco",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/bw/vila.jpg",
+        "src": "systems/d20age/assets/hexcrawl/bw/vila.png",
         "image": {
           "caption": "Vila · Preto e branco"
         },
@@ -471,20 +471,20 @@
       "d20age": {
         "hexcrawl": "vila",
         "category": "Povoados",
-        "assetVersion": "1"
+        "assetVersion": "2"
       }
     }
   },
   {
     "_id": "0e4c47ba73b0c7dd",
     "name": "Vilarejo",
-    "img": "systems/d20age/assets/hexcrawl/color/vilarejo.jpg",
+    "img": "systems/d20age/assets/hexcrawl/color/vilarejo.png",
     "pages": [
       {
         "_id": "c832ab679e0b4770",
         "name": "Colorido",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/color/vilarejo.jpg",
+        "src": "systems/d20age/assets/hexcrawl/color/vilarejo.png",
         "image": {
           "caption": "Vilarejo · Colorido"
         },
@@ -494,7 +494,7 @@
         "_id": "e2823f2d17c1f94f",
         "name": "Preto e branco",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/bw/vilarejo.jpg",
+        "src": "systems/d20age/assets/hexcrawl/bw/vilarejo.png",
         "image": {
           "caption": "Vilarejo · Preto e branco"
         },
@@ -505,20 +505,20 @@
       "d20age": {
         "hexcrawl": "vilarejo",
         "category": "Povoados",
-        "assetVersion": "1"
+        "assetVersion": "2"
       }
     }
   },
   {
     "_id": "e89ba39341440982",
     "name": "Cidade",
-    "img": "systems/d20age/assets/hexcrawl/color/cidade.jpg",
+    "img": "systems/d20age/assets/hexcrawl/color/cidade.png",
     "pages": [
       {
         "_id": "6325014712cd8e34",
         "name": "Colorido",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/color/cidade.jpg",
+        "src": "systems/d20age/assets/hexcrawl/color/cidade.png",
         "image": {
           "caption": "Cidade · Colorido"
         },
@@ -528,7 +528,7 @@
         "_id": "96e2b095526598ac",
         "name": "Preto e branco",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/bw/cidade.jpg",
+        "src": "systems/d20age/assets/hexcrawl/bw/cidade.png",
         "image": {
           "caption": "Cidade · Preto e branco"
         },
@@ -539,20 +539,20 @@
       "d20age": {
         "hexcrawl": "cidade",
         "category": "Povoados",
-        "assetVersion": "1"
+        "assetVersion": "2"
       }
     }
   },
   {
     "_id": "9efd2867bcb8a504",
     "name": "Fortaleza",
-    "img": "systems/d20age/assets/hexcrawl/color/fortaleza.jpg",
+    "img": "systems/d20age/assets/hexcrawl/color/fortaleza.png",
     "pages": [
       {
         "_id": "d8188d0e30a76233",
         "name": "Colorido",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/color/fortaleza.jpg",
+        "src": "systems/d20age/assets/hexcrawl/color/fortaleza.png",
         "image": {
           "caption": "Fortaleza · Colorido"
         },
@@ -562,7 +562,7 @@
         "_id": "81c188a2da93f996",
         "name": "Preto e branco",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/bw/fortaleza.jpg",
+        "src": "systems/d20age/assets/hexcrawl/bw/fortaleza.png",
         "image": {
           "caption": "Fortaleza · Preto e branco"
         },
@@ -573,20 +573,20 @@
       "d20age": {
         "hexcrawl": "fortaleza",
         "category": "Fortificações",
-        "assetVersion": "1"
+        "assetVersion": "2"
       }
     }
   },
   {
     "_id": "781e6a226e3ca807",
     "name": "Torre",
-    "img": "systems/d20age/assets/hexcrawl/color/torre.jpg",
+    "img": "systems/d20age/assets/hexcrawl/color/torre.png",
     "pages": [
       {
         "_id": "d1ede4999c17cb42",
         "name": "Colorido",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/color/torre.jpg",
+        "src": "systems/d20age/assets/hexcrawl/color/torre.png",
         "image": {
           "caption": "Torre · Colorido"
         },
@@ -596,7 +596,7 @@
         "_id": "ba626369e0ca7bee",
         "name": "Preto e branco",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/bw/torre.jpg",
+        "src": "systems/d20age/assets/hexcrawl/bw/torre.png",
         "image": {
           "caption": "Torre · Preto e branco"
         },
@@ -607,20 +607,20 @@
       "d20age": {
         "hexcrawl": "torre",
         "category": "Fortificações",
-        "assetVersion": "1"
+        "assetVersion": "2"
       }
     }
   },
   {
     "_id": "38bed15c2e5c8cf7",
     "name": "Ruínas",
-    "img": "systems/d20age/assets/hexcrawl/color/ruinas.jpg",
+    "img": "systems/d20age/assets/hexcrawl/color/ruinas.png",
     "pages": [
       {
         "_id": "18651c3367d82ca0",
         "name": "Colorido",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/color/ruinas.jpg",
+        "src": "systems/d20age/assets/hexcrawl/color/ruinas.png",
         "image": {
           "caption": "Ruínas · Colorido"
         },
@@ -630,7 +630,7 @@
         "_id": "3cb27f1e700b457f",
         "name": "Preto e branco",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/bw/ruinas.jpg",
+        "src": "systems/d20age/assets/hexcrawl/bw/ruinas.png",
         "image": {
           "caption": "Ruínas · Preto e branco"
         },
@@ -641,20 +641,20 @@
       "d20age": {
         "hexcrawl": "ruinas",
         "category": "Locais de aventura",
-        "assetVersion": "1"
+        "assetVersion": "2"
       }
     }
   },
   {
     "_id": "b2188d7a9a288939",
     "name": "Templo",
-    "img": "systems/d20age/assets/hexcrawl/color/templo.jpg",
+    "img": "systems/d20age/assets/hexcrawl/color/templo.png",
     "pages": [
       {
         "_id": "09ef1a6529e52b41",
         "name": "Colorido",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/color/templo.jpg",
+        "src": "systems/d20age/assets/hexcrawl/color/templo.png",
         "image": {
           "caption": "Templo · Colorido"
         },
@@ -664,7 +664,7 @@
         "_id": "36d4a0234ed8c367",
         "name": "Preto e branco",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/bw/templo.jpg",
+        "src": "systems/d20age/assets/hexcrawl/bw/templo.png",
         "image": {
           "caption": "Templo · Preto e branco"
         },
@@ -675,20 +675,20 @@
       "d20age": {
         "hexcrawl": "templo",
         "category": "Locais de aventura",
-        "assetVersion": "1"
+        "assetVersion": "2"
       }
     }
   },
   {
     "_id": "ec09020a1e9851ed",
     "name": "Masmorra",
-    "img": "systems/d20age/assets/hexcrawl/color/masmorra.jpg",
+    "img": "systems/d20age/assets/hexcrawl/color/masmorra.png",
     "pages": [
       {
         "_id": "85796471841a4a3a",
         "name": "Colorido",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/color/masmorra.jpg",
+        "src": "systems/d20age/assets/hexcrawl/color/masmorra.png",
         "image": {
           "caption": "Masmorra · Colorido"
         },
@@ -698,7 +698,7 @@
         "_id": "b9d737e8cc36928d",
         "name": "Preto e branco",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/bw/masmorra.jpg",
+        "src": "systems/d20age/assets/hexcrawl/bw/masmorra.png",
         "image": {
           "caption": "Masmorra · Preto e branco"
         },
@@ -709,20 +709,20 @@
       "d20age": {
         "hexcrawl": "masmorra",
         "category": "Locais de aventura",
-        "assetVersion": "1"
+        "assetVersion": "2"
       }
     }
   },
   {
     "_id": "5ea9bd12d0ef1eae",
     "name": "Caverna",
-    "img": "systems/d20age/assets/hexcrawl/color/caverna.jpg",
+    "img": "systems/d20age/assets/hexcrawl/color/caverna.png",
     "pages": [
       {
         "_id": "7e401377bdf67403",
         "name": "Colorido",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/color/caverna.jpg",
+        "src": "systems/d20age/assets/hexcrawl/color/caverna.png",
         "image": {
           "caption": "Caverna · Colorido"
         },
@@ -732,7 +732,7 @@
         "_id": "91bb6174dd4ace7b",
         "name": "Preto e branco",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/bw/caverna.jpg",
+        "src": "systems/d20age/assets/hexcrawl/bw/caverna.png",
         "image": {
           "caption": "Caverna · Preto e branco"
         },
@@ -743,20 +743,20 @@
       "d20age": {
         "hexcrawl": "caverna",
         "category": "Locais de aventura",
-        "assetVersion": "1"
+        "assetVersion": "2"
       }
     }
   },
   {
     "_id": "e6c31cae26d84af5",
     "name": "Covil",
-    "img": "systems/d20age/assets/hexcrawl/color/covil.jpg",
+    "img": "systems/d20age/assets/hexcrawl/color/covil.png",
     "pages": [
       {
         "_id": "5bfd4255e58890f0",
         "name": "Colorido",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/color/covil.jpg",
+        "src": "systems/d20age/assets/hexcrawl/color/covil.png",
         "image": {
           "caption": "Covil · Colorido"
         },
@@ -766,7 +766,7 @@
         "_id": "de823b4e8933a111",
         "name": "Preto e branco",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/bw/covil.jpg",
+        "src": "systems/d20age/assets/hexcrawl/bw/covil.png",
         "image": {
           "caption": "Covil · Preto e branco"
         },
@@ -777,20 +777,20 @@
       "d20age": {
         "hexcrawl": "covil",
         "category": "Locais de aventura",
-        "assetVersion": "1"
+        "assetVersion": "2"
       }
     }
   },
   {
     "_id": "1832a1c2a948b64b",
     "name": "Cemitério",
-    "img": "systems/d20age/assets/hexcrawl/color/cemiterio.jpg",
+    "img": "systems/d20age/assets/hexcrawl/color/cemiterio.png",
     "pages": [
       {
         "_id": "767a371013699485",
         "name": "Colorido",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/color/cemiterio.jpg",
+        "src": "systems/d20age/assets/hexcrawl/color/cemiterio.png",
         "image": {
           "caption": "Cemitério · Colorido"
         },
@@ -800,7 +800,7 @@
         "_id": "191b253b08703e9b",
         "name": "Preto e branco",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/bw/cemiterio.jpg",
+        "src": "systems/d20age/assets/hexcrawl/bw/cemiterio.png",
         "image": {
           "caption": "Cemitério · Preto e branco"
         },
@@ -811,20 +811,20 @@
       "d20age": {
         "hexcrawl": "cemiterio",
         "category": "Locais de aventura",
-        "assetVersion": "1"
+        "assetVersion": "2"
       }
     }
   },
   {
     "_id": "976c56a38018ae1a",
     "name": "Acampamento",
-    "img": "systems/d20age/assets/hexcrawl/color/acampamento.jpg",
+    "img": "systems/d20age/assets/hexcrawl/color/acampamento.png",
     "pages": [
       {
         "_id": "ea656a1ee1ebccee",
         "name": "Colorido",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/color/acampamento.jpg",
+        "src": "systems/d20age/assets/hexcrawl/color/acampamento.png",
         "image": {
           "caption": "Acampamento · Colorido"
         },
@@ -834,7 +834,7 @@
         "_id": "7a9cd724b5a09922",
         "name": "Preto e branco",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/bw/acampamento.jpg",
+        "src": "systems/d20age/assets/hexcrawl/bw/acampamento.png",
         "image": {
           "caption": "Acampamento · Preto e branco"
         },
@@ -845,20 +845,20 @@
       "d20age": {
         "hexcrawl": "acampamento",
         "category": "Locais de aventura",
-        "assetVersion": "1"
+        "assetVersion": "2"
       }
     }
   },
   {
     "_id": "ca88e048e8588be4",
     "name": "Santuário",
-    "img": "systems/d20age/assets/hexcrawl/color/santuario.jpg",
+    "img": "systems/d20age/assets/hexcrawl/color/santuario.png",
     "pages": [
       {
         "_id": "6121424475e6e6b8",
         "name": "Colorido",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/color/santuario.jpg",
+        "src": "systems/d20age/assets/hexcrawl/color/santuario.png",
         "image": {
           "caption": "Santuário · Colorido"
         },
@@ -868,7 +868,7 @@
         "_id": "25484869fcd22bba",
         "name": "Preto e branco",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/bw/santuario.jpg",
+        "src": "systems/d20age/assets/hexcrawl/bw/santuario.png",
         "image": {
           "caption": "Santuário · Preto e branco"
         },
@@ -879,20 +879,20 @@
       "d20age": {
         "hexcrawl": "santuario",
         "category": "Locais de aventura",
-        "assetVersion": "1"
+        "assetVersion": "2"
       }
     }
   },
   {
     "_id": "fdb94a7c22f51dbc",
     "name": "Marco antigo",
-    "img": "systems/d20age/assets/hexcrawl/color/marco.jpg",
+    "img": "systems/d20age/assets/hexcrawl/color/marco.png",
     "pages": [
       {
         "_id": "5b924a124dc4a92b",
         "name": "Colorido",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/color/marco.jpg",
+        "src": "systems/d20age/assets/hexcrawl/color/marco.png",
         "image": {
           "caption": "Marco antigo · Colorido"
         },
@@ -902,7 +902,7 @@
         "_id": "0b930beb42eb1ea7",
         "name": "Preto e branco",
         "type": "image",
-        "src": "systems/d20age/assets/hexcrawl/bw/marco.jpg",
+        "src": "systems/d20age/assets/hexcrawl/bw/marco.png",
         "image": {
           "caption": "Marco antigo · Preto e branco"
         },
@@ -913,7 +913,7 @@
       "d20age": {
         "hexcrawl": "marco",
         "category": "Locais de aventura",
-        "assetVersion": "1"
+        "assetVersion": "2"
       }
     }
   }

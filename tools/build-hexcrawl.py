@@ -26,21 +26,21 @@ dest.mkdir(parents=True,exist_ok=True)
 docs=[]
 with zipfile.ZipFile(source) as archive:
     assert archive.testzip() is None
-    prefixes={name.split('colorido/')[0] for name in archive.namelist() if '/colorido/' in name and name.endswith('.jpg')}
+    prefixes={name.split('colorido/')[0] for name in archive.namelist() if '/colorido/' in name and name.endswith('.png')}
     assert len(prefixes)==1, 'O ZIP deve conter uma pasta colorido/ única.'
     prefix=prefixes.pop()
     for group, slugs in groups.items():
         for slug in slugs:
             for variant, folder in [('color','colorido'),('bw','preto-e-branco')]:
                 data=archive.read(f'{prefix}{folder}/{slug}.jpg')
-                path=dest/variant/f'{slug}.jpg'
+                path=dest/variant/f'{slug}.png'
                 path.parent.mkdir(parents=True,exist_ok=True)
                 path.write_bytes(data)
             name=labels[slug]
             pages=[]
             for index,(variant,title) in enumerate([('color','Colorido'),('bw','Preto e branco')]):
-                pages.append({'_id':uid(slug+'-'+variant),'name':title,'type':'image','src':f'{base}/{variant}/{slug}.jpg','image':{'caption':f'{name} · {title}'},'sort':index*100000})
+                pages.append({'_id':uid(slug+'-'+variant),'name':title,'type':'image','src':f'{base}/{variant}/{slug}.png','image':{'caption':f'{name} · {title}'},'sort':index*100000})
             docs.append({'_id':uid(slug),'name':name,'img':pages[0]['src'],'pages':pages,
-                         'flags':{'d20age':{'hexcrawl':slug,'category':group,'assetVersion':'1'}}})
+                         'flags':{'d20age':{'hexcrawl':slug,'category':group,'assetVersion':'2'}}})
 (root/'content/hexcrawl.json').write_text(json.dumps(docs,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 print(f'{len(docs)} entries; {len(list(dest.rglob("*.jpg")))} images')
