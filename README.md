@@ -56,6 +56,7 @@ https://github.com/DMArkhron/D20AgeRPG-Foundry/releases/latest/download/system.j
 ## 🎮 Primeiros passos
 
 - Explore a aba **Compêndios** e importe os materiais que deseja utilizar.
+- Em **D20Age · Atlas de Hexcrawl**, abra ou importe os registros de localidade para consultar as imagens colorida e preto e branco. Como mestre, execute **Abrir atlas de Hexcrawl** no compêndio de ferramentas, escolha o ícone e o tamanho e clique na cena para criar um Tile sem Ator. Pressione Esc para cancelar.
 - Crie um personagem e utilize o gerador para orientar as escolhas.
 - Consulte as configurações do sistema para ajustar as opções da mesa.
 - Na lista de atores, use **Criar grupo** para reunir a companhia e organizar seus tesouros.

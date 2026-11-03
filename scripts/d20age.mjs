@@ -9,6 +9,7 @@ import {registerCalendarHooks,openCalendar,openCalendarSummary} from './calendar
 import {migrateClassArtwork} from './class-artwork.mjs';
 import {openCharacterGenerator,addGeneratorDirectoryButton} from './generator.mjs';
 import {registerCompendia,installCompendia,rollBookTable,openBookReference,adventureTool} from './compendia.mjs';
+import {registerHexcrawl,installHexcrawl,openHexcrawlAtlas} from './hexcrawl.mjs';
 import {D20AgeActorData,D20AgeItemData,D20AgePartyData} from "./models.mjs";
 import {D20AgeActor,D20AgeItem} from "./documents.mjs";
 import {D20AgeActorSheet,D20AgeItemSheet,D20AgeCreatureSheet,D20AgeInkActorSheet} from "./sheets.mjs";
@@ -19,6 +20,7 @@ Hooks.once("init",()=>{
   registerDetailedSettings();
   registerWelcome();
   registerCompendia();
+  registerHexcrawl();
   CONFIG.Actor.documentClass = D20AgeActor;
   CONFIG.Item.documentClass = D20AgeItem;
   CONFIG.Actor.dataModels.character = D20AgeActorData;
@@ -35,7 +37,7 @@ Hooks.once("init",()=>{
   config.registerSheet(Actor,"d20age",D20AgeCreatureSheet,{types:["creature"],makeDefault:true,label:"D20Age · Criatura compacta"});
   config.registerSheet(Actor,"d20age",D20AgePartySheet,{types:["party"],makeDefault:true,label:"D20Age · Companhia"});
   config.registerSheet(Item,"d20age",D20AgeItemSheet,{types:["weapon","armor","equipment","spell","ability"],makeDefault:true,label:"D20Age · Registro"});
-  game.d20age = {Actor:D20AgeActor,Item:D20AgeItem,classes:CLASSES,attributes:ATTRIBUTES,saves:SAVES,version:"0.6.6",createParty,openEncounterPanel,rollInitiative,advanceLevel,rollCreatureHP,openCalendar,openCalendarSummary,openCharacterGenerator,installCompendia,rollBookTable,openBookReference,adventureTool};
+  game.d20age = {Actor:D20AgeActor,Item:D20AgeItem,classes:CLASSES,attributes:ATTRIBUTES,saves:SAVES,version:"0.6.7",createParty,openEncounterPanel,rollInitiative,advanceLevel,rollCreatureHP,openCalendar,openCalendarSummary,openCharacterGenerator,installCompendia,installHexcrawl,openHexcrawlAtlas,rollBookTable,openBookReference,adventureTool};
 });
 Hooks.on("preCreateActor",(actor,data)=>{
   if(actor.type === "party"){actor.updateSource({img:data.img||"systems/d20age/assets/party.svg",prototypeToken:{actorLink:true,bar1:{attribute:null},bar2:{attribute:null}}});return;}
@@ -49,6 +51,8 @@ Hooks.on("preCreateActor",(actor,data)=>{
 Hooks.once("ready",()=>createWelcome().catch(error=>{console.error("D20Age · Capa",error);ui.notifications.error("Não foi possível preparar a cena de capa. Reabra o mundo para tentar novamente.");}));
 
 Hooks.once("ready",()=>installCompendia().catch(error=>{console.error("D20Age · Compêndios",error);ui.notifications.error("Falha ao preparar compêndios: "+error.message+" Reabra o mundo ou execute a macro Preparar compêndios para retomar.");}));
+Hooks.once('ready',async()=>{try{await installCompendia();}catch{/* O atlas pode ser preparado mesmo se outro compêndio falhar. */}
+ await installHexcrawl().catch(error=>{console.error('D20Age · Hexcrawl',error);ui.notifications.error('Falha ao preparar o atlas de Hexcrawl: '+error.message);});});
 
 Hooks.on('renderActorDirectory',addGeneratorDirectoryButton);
 

@@ -1,5 +1,12 @@
 # Histórico
 
+## 0.6.7 — Atlas de Hexcrawl
+
+- Novo compêndio **D20Age · Atlas de Hexcrawl** com 27 localidades em pastas temáticas. Cada registro contém uma página colorida e outra em preto e branco puro.
+- O compêndio **D20Age · Ferramentas de Hexcrawl** oferece a macro **Abrir atlas de Hexcrawl**. O mestre escolhe localidade, estilo e tamanho, depois clica na cena para inserir um Tile independente de Ator. Esc cancela a colocação.
+- A instalação é retomável e preserva edições existentes. Os 54 JPEGs são incluídos no sistema para uso local por todos os clientes.
+- Verificação automatizada da integridade do catálogo, caminhos das imagens, tamanho e criação dos compêndios. A interface precisa de validação numa sessão real do Foundry V13 e V14.
+
 ## 0.6.1
 
 - Corrigidas as abas Diário do grupo e Transferências: usam uma ação própria, sem conflito com a ação de abas reservada do Foundry V13.
