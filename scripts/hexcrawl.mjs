@@ -48,6 +48,12 @@ export function tileData({slug,variant,x,y,gridSize,gridWidth=gridSize,gridHeigh
   hidden:false,overhead:false,flags:{d20age:{hexcrawl:slug,variant}}};
 }
 
+export function tileAtPoint({slug,variant,point,grid}){
+ if(!grid || typeof grid.getCenterPoint!=='function')throw new Error('A grade da cena não está disponível. Reabra a cena e tente novamente.');
+ const center=grid.getCenterPoint(point);
+ return tileData({slug,variant,x:center.x,y:center.y,gridSize:grid.size,gridWidth:grid.sizeX,gridHeight:grid.sizeY});
+}
+
 export async function openHexcrawlAtlas(){
  if(!game.user?.isGM){ui.notifications.warn('Somente o mestre pode colocar ícones na cena.');return;}
  if(!canvas?.scene){ui.notifications.warn('Abra uma cena antes de usar o atlas.');return;}
@@ -69,13 +75,8 @@ export async function openHexcrawlAtlas(){
   if(canvas.scene!==scene){ui.notifications.warn('A cena mudou. Abra o atlas novamente.');return;}
   const point=stage.toLocal(event.global);
   try{
-   const grid=scene.grid;
-   const size=grid?.size??canvas.grid?.size??100;
-   // Foundry retorna o canto superior esquerdo da célula, em grades hexagonais ou quadradas.
-   const currentGrid=canvas.grid.grid;
-   const snapped=currentGrid.getTopLeftPoint(point);
-   const width=currentGrid.sizeX??size,height=currentGrid.sizeY??size;
-   await scene.createEmbeddedDocuments('Tile',[tileData({...selection,x:snapped.x+width/2,y:snapped.y+height/2,gridSize:size,gridWidth:width,gridHeight:height})]);
+   // Em V13/V14 canvas.grid já é a instância BaseGrid, sem propriedade .grid.
+   await scene.createEmbeddedDocuments('Tile',[tileAtPoint({...selection,point,grid:canvas.grid??scene.grid})]);
    ui.notifications.info('Ícone adicionado em uma célula. Use a ferramenta Tiles para movê-lo.');
   }catch(error){console.error('D20Age · Hexcrawl',error);ui.notifications.error('Falha ao colocar o ícone: '+error.message);}
  };

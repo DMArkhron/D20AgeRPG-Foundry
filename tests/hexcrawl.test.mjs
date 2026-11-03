@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import {readFileSync,existsSync} from 'node:fs';
 import {fileURLToPath} from 'node:url';
 import {dirname,join} from 'node:path';
-import {tileData,installHexcrawl} from '../scripts/hexcrawl.mjs';
+import {tileData,tileAtPoint,installHexcrawl} from '../scripts/hexcrawl.mjs';
 const root=join(dirname(fileURLToPath(import.meta.url)),'..');
 const docs=JSON.parse(readFileSync(join(root,'content/hexcrawl.json'),'utf8'));
 test('27 ícones em dois estilos PNG transparentes',async()=>{
@@ -26,6 +26,14 @@ test('Tile independente sempre ocupa uma célula da grade',()=>{
  assert.deepEqual([tile.x,tile.y,tile.width,tile.height],[330,162,100,116]);
  assert.equal(tile.actorId,undefined);
  assert.throws(()=>tileData({slug:'../../secret',variant:'color',x:0,y:0,gridSize:100}));
+});
+test('clique usa diretamente a grade V13/V14 e centra o Tile no hexágono',()=>{
+ const grid={size:100,sizeX:100,sizeY:116,getCenterPoint(point){
+  assert.deepEqual(point,{x:395,y:228});return {x:380,y:220};
+ }};
+ const tile=tileAtPoint({slug:'floresta',variant:'color',point:{x:395,y:228},grid});
+ assert.deepEqual([tile.x,tile.y,tile.width,tile.height],[330,162,100,116]);
+ assert.throws(()=>tileAtPoint({slug:'floresta',variant:'color',point:{x:1,y:1},grid:undefined}),/grade da cena/);
 });
 test('atualização remove apenas compêndios antigos totalmente gerados pelo sistema',async()=>{
  let version='',deletes=0;
