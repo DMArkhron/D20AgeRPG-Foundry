@@ -17,6 +17,8 @@ test('27 ícones em dois estilos PNG transparentes',async()=>{
    const buffer=readFileSync(path);
    assert.equal(buffer.toString('ascii',1,4),'PNG');
    assert.ok(buffer[25]===6 || (buffer[25]===3 && buffer.includes(Buffer.from('tRNS'))),'PNG deve ter canal alfa ou paleta transparente');
+   const width=buffer.readUInt32BE(16),height=buffer.readUInt32BE(20);
+   assert.ok(width<490 && width>430 && height>490 && height<=512,'A moldura transparente externa deve estar recortada');
   }
  }
 });

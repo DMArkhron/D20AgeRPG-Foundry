@@ -13,6 +13,8 @@ for source in root.glob('*/*.jpg'):
     ImageDraw.Draw(mask).polygon([(round(x*w), round(y*h)) for x,y in points], fill=255)
     image.putalpha(mask)
     image.thumbnail((512, 512), Image.Resampling.LANCZOS)
-    image.save(source.with_suffix('.png'), optimize=True)
+    # O Tile terá sizeX × sizeY: não deixar margens transparentes dentro desse retângulo.
+    image = image.crop(image.getchannel('A').getbbox())
+    image.quantize(colors=128, method=Image.Quantize.FASTOCTREE).save(source.with_suffix('.png'), optimize=True)
     source.unlink()
 print('54 ícones hexagonais transparentes gerados.')
