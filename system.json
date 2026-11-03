@@ -2,11 +2,11 @@
   "id": "d20age",
   "title": "D20Age RPG",
   "description": "Sistema independente em desenvolvimento para D20Age RPG, Livro Base V2. Fichas em preto e branco.",
-  "version": "0.6.5",
+  "version": "0.6.6",
   "compatibility": {
     "minimum": "13",
-    "maximum": "13",
-    "verified": "13"
+    "maximum": "14",
+    "verified": "14"
   },
   "authors": [
     {
@@ -64,5 +64,5 @@
   ],
   "url": "https://github.com/DMArkhron/D20AgeRPG-Foundry",
   "manifest": "https://github.com/DMArkhron/D20AgeRPG-Foundry/releases/latest/download/system.json",
-  "download": "https://github.com/DMArkhron/D20AgeRPG-Foundry/releases/download/v0.6.5/d20age.zip"
+  "download": "https://github.com/DMArkhron/D20AgeRPG-Foundry/releases/download/v0.6.6/d20age.zip"
 }
