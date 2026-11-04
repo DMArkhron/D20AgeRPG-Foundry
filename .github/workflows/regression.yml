@@ -69,24 +69,24 @@ jobs:
           name: d20age-build-aprovada
           path: ${{ runner.temp }}/d20age-artifact/*.zip
           if-no-files-found: error
-      - name: Publicar Release v0.6.6
+      - name: Publicar Release do sistema
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         env:
           GH_TOKEN: ${{ github.token }}
         shell: bash
         run: |
           version=$(node -p "require('./system.json').version")
-          if [ "$version" != "0.6.6" ]; then exit 0; fi
           tag="v$version"
           if gh release view "$tag" >/dev/null 2>&1; then
             echo "A Release $tag já existe."
             exit 0
           fi
           cp "../output/d20age-foundry-v13-v14-${version}.zip" "$RUNNER_TEMP/d20age.zip"
-          cat > "$RUNNER_TEMP/release-notes.md" <<'EOF'
-          D20Age RPG 0.6.6 para Foundry VTT 13 e 14.
+          cat > "$RUNNER_TEMP/release-notes.md" <<EOF
+          D20Age RPG $version para Foundry VTT 13 e 14.
 
-          - Compatibilidade V14 verificada em teste do usuário, com V13 preservada.
+          - Atlas de Hexcrawl na aba Cenas, com 27 localidades em versões colorida e preto e branco.
+          - Tiles com transparência, centralizados e ajustados a uma célula hexagonal.
           - Matriz de testes automatizados em Node 22 e 24 e regressão com a build anterior.
           - Para instalar manualmente, extraia d20age.zip em Data/systems.
           EOF
