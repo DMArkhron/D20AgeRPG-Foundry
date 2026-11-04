@@ -56,6 +56,7 @@ https://github.com/DMArkhron/D20AgeRPG-Foundry/releases/latest/download/system.j
 ## 🎮 Getting Started
 
 - Explore the **Compendium Packs** tab and import the resources you want to use.
+- In **D20Age · Atlas de Hexcrawl**, open or import a location entry to view its color and pure black-and-white images. As GM, run **Abrir atlas de Hexcrawl** from the Hexcrawl tools compendium, select an icon and size, then click the scene to create an Actor-free Tile. Press Esc to cancel.
 - Create a character and use the character creator to guide your choices.
 - Review the system settings to configure the options for your game.
 - In the Actors directory, select **Create Party** to bring your adventurers together and manage their treasure.
