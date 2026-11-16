@@ -80,6 +80,10 @@ Found a bug or have an idea for an improvement? Open an [**Issue**](https://gith
 
 ## 👤 Credits
 
+**D20Age RPG created by DM Quiral, author of the original tabletop RPG system.**
+
+Explore his social media and follow his work: [DM Quiral — social links](https://linktr.ee/dm_quiral).
+
 **Foundry VTT system developed by DM Arkhron.**
 
 Based on **D20Age RPG — Core Rulebook V2**. All credits for the original work and third-party materials belong to their respective creators.
