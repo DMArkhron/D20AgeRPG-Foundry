@@ -80,6 +80,10 @@ Encontrou um erro ou tem uma ideia de melhoria? Abra uma [**Issue**](https://git
 
 ## 👤 Créditos
 
+**D20Age RPG criado por DM Quiral, autor do sistema original.**
+
+Conheça suas redes e acompanhe seu trabalho: [DM Quiral — redes sociais](https://linktr.ee/dm_quiral).
+
 **Sistema para Foundry VTT desenvolvido por DM Arkhron.**
 
 Baseado em **D20Age RPG — Livro Base V2**. Os créditos da obra original e dos materiais de terceiros pertencem aos respectivos autores.
