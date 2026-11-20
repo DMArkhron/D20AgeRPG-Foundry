@@ -7,7 +7,7 @@ const keyed = (keys, make) => new SchemaField(Object.fromEntries(keys.map(key =>
 export class D20AgeActorData extends foundry.abstract.TypeDataModel {
   static defineSchema() {
     return {
-      schemaVersion:integer(1,{min:1}), classId:text("fighter",{choices:["arcanist","fighter","specialist","magist","dwarf","elf","gnome"]}),
+      schemaVersion:integer(1,{min:1}), classId:text("fighter",{choices:["arcanist","fighter","specialist","magist","dwarf","elf","gnome","druid","paladin","yogi"]}),
       level:integer(1,{min:1,max:10}), title:text(), alignment:text(), xp:integer(0,{min:0}), xpAdjustment:integer(),
       attributes:keyed(["str","int","wis","dex","con","cha"],()=>new SchemaField({value:integer(10,{min:0}),bonus:integer()})),
       hp:new SchemaField({value:integer(1),max:integer(1,{min:1}),temp:integer(0,{min:0})}), hpFormula:text(), rollHPOnCreate:bool(true),

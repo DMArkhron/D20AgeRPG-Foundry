@@ -30,3 +30,11 @@ test('upgrade updates only the default cover scene and retains music, tokens and
  const state=setup({existing:true});const welcome=await createWelcome();welcome.scene.background.src='old.png';welcome.scene.flags.d20age.coverVersion='0.1.6';welcome.scene.tokens=[{name:'Token preservado'}];
  const sound=welcome.scene.playlistSound;await createWelcome();assert.equal(welcome.scene.background.src,COVER);assert.equal(welcome.scene.flags.d20age.coverVersion,COVER_VERSION);assert.equal(welcome.scene.playlistSound,sound);assert.equal(welcome.scene.tokens.length,1);assert.equal(state.activations(),0);assert.equal(state.scenes.length,2);
 });
+
+test('V14 repara a capa no nível existente sem criar outra cena',async()=>{
+ const state=setup();const {scene}=await createWelcome();
+ scene.firstLevel={background:{src:null},async update(data){this.background.src=data['background.src'];}};
+ await createWelcome();
+ assert.equal(scene.firstLevel.background.src,COVER);
+ assert.equal(state.scenes.length,1);
+});

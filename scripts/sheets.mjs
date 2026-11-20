@@ -6,7 +6,7 @@ import {spellGroupUpdate,spellStepUpdate} from './spell-editor.mjs';
 import {normalizeUnitForm} from './preferences.mjs';
 import {openCharacterGenerator} from './generator.mjs';
 import {actorView,itemView,escapeHTML} from "./view.mjs";
-import {CLASSES,ATTRIBUTES,modifier} from "./rules.mjs";
+import {ALL_CLASSES as CLASSES,ATTRIBUTES,modifier} from "./rules.mjs";
 import {commonCreatureSave,adjustmentUpdate} from "./adjustments.mjs";
 import {chatCard} from "./chat.mjs";
 import {openPortrait,choosePortrait} from "./portraits.mjs";

@@ -1,5 +1,5 @@
 // LB V2, p.60 (progressão), p.115 (criaturas). Asteriscos indicam poderes, não DV.
-import {CLASSES,modifier} from './rules.mjs';
+import {ALL_CLASSES as CLASSES,modifier} from './rules.mjs';
 import {chatCard} from './chat.mjs';
 export function hitDiceFormula(value){
  const raw=String(value??'').replace(/\([^)]*\)/g,'').replace(/\*/g,'').replace(/\s/g,'').replace(/−/g,'-');

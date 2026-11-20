@@ -1,0 +1,231 @@
+[
+  {
+    "_id": "7ff2b4df6b7f9bf6",
+    "name": "Druida",
+    "pages": [
+      {
+        "_id": "52e3e2d99465d2f7",
+        "name": "Retrato",
+        "type": "image",
+        "src": "systems/d20age/assets/classes/druid.png",
+        "sort": 0
+      },
+      {
+        "_id": "d1356acbc6ca213c",
+        "name": "Druida v0.4 · página 1",
+        "type": "text",
+        "text": {
+          "format": 1,
+          "content": "<pre style=\"white-space:pre-wrap\">DRUIDA\nGuardiões da natureza, os Druidas utilizam a magia natural para manter o\nequilíbrio do mundo. Druidas são exclusivamente neutros.\n\n  ●​ Dado de Vida: 1 DV (1d6) por nível\n\n  ●​ Treinamento: Armas simples e leves feitas com materiais que já foram\n     vivos, armaduras leves e escudos\n\n  ●​ Magia: Capacidade de memorizar e conjurar magia natural baseada\n     na sua progressão de nível\n\n  ●​ Habilidades de Classe: magia natural, Falha Arcana, Conjuração,\n     Memorização\n\n  ●​ Idiomas: Comum e Silvestre\n\n\n\nMagia Natural\nA magia natural funciona como a magia arcana, exceto que as magias\nnaturais não podem ser transcritas para papel e pergaminhos.\n\nOs druidas iniciam com um implemento druídico contendo uma magia\nnatural de primeiro círculo da Lista de Magias Naturais. A memorização\nocorre por meio de meditação e do contato com o implemento da magia a\nser memorizada.\n\nUm druida pode aprender magias fora da Lista de Magias Naturais como\num arcanista de metade do nível, desde que não utilize implementos em\npapel ou pergaminhos.\n\nUm arcanista pode aprender magias da Lista de Magias Naturais como um\ndruida de metade do nível, desde que não utilize implementos em papel ou\npergaminhos. Ao memorizar e conjurar uma magia natural, o arcanista\ndeve respeitar a restrição de somente portar armas e equipamentos feitos\ncom materiais que já foram vivos.</pre>"
+        },
+        "sort": 100000
+      },
+      {
+        "_id": "e4b26d268ea862d6",
+        "name": "Druida v0.4 · página 2",
+        "type": "text",
+        "text": {
+          "format": 1,
+          "content": "<pre style=\"white-space:pre-wrap\">Dica ao jogador: Um druida pode carregar consigo uma coleção de\nimplementos druídicos discretos como punhais, varinhas, anel, cajado,\ncordão, colar, amuleto, brinco, cinto, desde que sejam feitos com materiais\nque já foram vivos. Por exemplo, um druida pode ter um cajado com uma\nmagia e nesse cajado fixar diversos amuletos feitos de conchas, dentes e\nossos contendo outras magias.\n\n\n\nFalha Arcana\nFunciona como para os arcanistas, salvo para o uso de armas, armaduras e\nescudos feitos com materiais que já foram vivos (ex.: madeira, ossos, couro e\ndentes) que, devido ao treinamento ritualístico da classe, não interferem\nna sua conjuração natural.\n\n​\nDica ao mestre: Equipamentos originalmente feitos com ou contendo\nmetais podem ser adaptados às limitações do druida mediante interação\nficcional ou pelo pagamento do dobro do custo original. Por exemplo, é\npossível que um Druida utilize adagas e virotes de besta feitos de osso\nlascado. As armas: Cajado, Clava, Besta e Maça já são armas feitas com\nmateriais que já foram vivos\n\n\n\nConjuração\nConjura magias como arcanista.\n\n\n\nMemorização\nMemoriza magia como arcanista.\n\n\n\nConvocar familiar\nO druida pode convocar um espírito da natureza que tomará a forma de\num criatura aleatória até que ele morra ou seja dispensado pelo druida.\nEssa convocação é um ritual de 24h em contato com a natureza e que pode\nser repetido após 1 mês da morte ou da dispensa do familiar anterior.</pre>"
+        },
+        "sort": 200000
+      },
+      {
+        "_id": "543d9fdfc07a100a",
+        "name": "Druida v0.4 · página 3",
+        "type": "text",
+        "text": {
+          "format": 1,
+          "content": "<pre style=\"white-space:pre-wrap\">O familiar é inteligente, fala silvestre e é leal ao druida que o convocou. O\n      familiar possui ½ DV, AC 7[12], ML 12, ATQ 1d4, tamanho Pequeno ou Diminuto.\n\n      O druida pode optar por memorizar uma de suas magias no seu familiar e\n      conjurá-la através dele a partir de um comando.\n\n      Lista de familiares sugeridos (d10): 1 rato, 2 corvo, 3 coruja, 4 pardal, 5 cobra,\n      6 lagarto, 7 gato, 8 fuinha, 9 cachorro, 10 fada (insectoide).\n\n\n\n      Lista de Magias Naturais\n      A Lista de Magias Naturais é focada na manipulação da natureza e algumas\n      podem exigir a presença de fauna ou flora ou acesso ao céu para que tenha\n      efeito.\n\n         ●​ 1° Círculo (d10):\n\n\n\nd10   Descrição\n\n\n\n\n1     detectar magia\n\n\n\n2     luz\n\n\n\n3     patas de aranha\n\n\n\n4     restauração (pode ser memorizada em círculos superiores)\n\n\n\n5     Emaranhar\n\n\n\n6     fogo das fadas*</pre>"
+        },
+        "sort": 300000
+      },
+      {
+        "_id": "aa36b85f604c44fd",
+        "name": "Druida v0.4 · página 4",
+        "type": "text",
+        "text": {
+          "format": 1,
+          "content": "<pre style=\"white-space:pre-wrap\">d10   Descrição\n\n\n\n\n7     falar com animais*\n\n\n\n8     purificar água*\n\n\n\n9     amizade animal*\n\n\n\n10    invisibilidade para animais*\n\n\n\n\n        ●​ 2° Círculo (d8):\n\n\n\nd8    Descrição\n\n\n\n\n1     silêncio\n\n\n\n2     teia\n\n\n\n3     percepção extra-sensorial\n\n\n\n4     resistência a elementos\n\n\n\n5     neutralizar veneno</pre>"
+        },
+        "sort": 400000
+      },
+      {
+        "_id": "79272d133f16a044",
+        "name": "Druida v0.4 · página 5",
+        "type": "text",
+        "text": {
+          "format": 1,
+          "content": "<pre style=\"white-space:pre-wrap\">d8   Descrição\n\n\n\n\n6    aquecer metal*\n\n\n\n7    contorcer madeira*\n\n\n\n8    Manipular fogo*\n\n\n\n\n       ●​ 3° Círculo (d6):\n\n\n\nd6   Descrição\n\n\n\n\n1    Dissipar magia\n\n\n\n2    remover doença\n\n\n\n3    respiração aquática*\n\n\n\n4    convocar raio*\n\n\n\n5    Encantar Criaturas\n\n\n\n6    crescimento vegetal*</pre>"
+        },
+        "sort": 500000
+      },
+      {
+        "_id": "b9d5d9b3a59d4669",
+        "name": "Druida v0.4 · página 6",
+        "type": "text",
+        "text": {
+          "format": 1,
+          "content": "<pre style=\"white-space:pre-wrap\">●​ 4° Círculo (d4):\n\n\n\nd4   Descrição\n\n\n\n\n1    polimorfismo\n\n\n\n2    invocar animais*\n\n\n\n3    segurar criaturas*\n\n\n\n4    Terreno ilusório\n\n\n\n\n       ●​ 5° Círculo (d4):\n\n\n\nd4   Descrição\n\n\n\n\n1    Círculo de teleporte\n\n\n\n2    conjurar elemental\n\n\n\n3    controlar o clima*\n\n\n\n4    transformar metal em madeira*\n\n\n\n       ●​ 6° Círculo (d2):</pre>"
+        },
+        "sort": 600000
+      },
+      {
+        "_id": "17673a04ea45c5fb",
+        "name": "Druida v0.4 · página 7",
+        "type": "text",
+        "text": {
+          "format": 1,
+          "content": "<pre style=\"white-space:pre-wrap\">d4        Descrição\n\n\n\n\n    1         Criar comida\n\n\n\n    2         Petrificação\n\n\n\n\n              Progressão de Classe\n\nNível    XP        DV        TACO      SV- M   SV-C   SV-P   SV-I   SV-F   1º   2º   3º   4º   5º\n\n\n\n\n1        0         1d6       19 [+0]   13      14     15     16     13     1    -    -    -    -\n\n\n\n\n2        2.500     2d6       18 [+1]   13      14     15     16     13     2    -    -    -    -\n\n\n\n\n3        5.000     3d6       18 [+1]   13      14     15     16     13     2    1    -    -    -\n\n\n\n\n4        10.000    4d6       17 [+2]   13      14     15     16     13     2    2    -    -    -\n\n\n\n\n5        20.000    5d6       17 [+2]   11      12     13     14     11     2    2    1    -    -\n\n\n\n\n6        40.000    6d6       16 [+3]   11      12     13     14     11     2    2    2    -    -\n\n\n\n\n7        80.000    7d6       16 [+3]   11      12     13     14     11     2    2    2    1    -</pre>"
+        },
+        "sort": 700000
+      },
+      {
+        "_id": "459755471a72a93b",
+        "name": "Druida v0.4 · página 8",
+        "type": "text",
+        "text": {
+          "format": 1,
+          "content": "<pre style=\"white-space:pre-wrap\">Nível   XP          DV       TACO       SV- M   SV-C   SV-P   SV-I   SV-F   1º   2º   3º   4º   5º\n\n\n\n\n8       150.000     8d6      15 [+4]    11      12     13     14     11     2    2    2    2    -\n\n\n\n\n9       300.000     9d6      15 [+4]    11      12     13     14     11     2    2    2    2    1\n\n\n\n\n10      450.000     10d6     14 [+5]    9       10     11     12     9      2    2    2    2    2\n\n\n\n\n             Lista de Magias Expandida - 1º Círculo\n\n             Fogo das Fadas\n\n             Duração: 2 rodadas / nível.\n\n             Alcance: 40’.\n\n             Alvo: 1 Criatura / nível\n\n             Contorna alvos com uma luz brilhante que ilumina como uma vela,\n             tornando-os visíveis na escuridão e concedendo bônus de acerto +2 para\n             os oponentes que os atacarem.\n\n\n             Falar com animais\n\n             Duração: 1 turno / nível\n\n             Alcance: Pessoal\n\n             Alvo: O próprio conjurador\n\n             Permite compreender e se comunicar verbalmente com qualquer animal de\n             sangue quente ou frio enquanto durar o efeito.</pre>"
+        },
+        "sort": 800000
+      },
+      {
+        "_id": "13dfa2a48e2cc0e1",
+        "name": "Druida v0.4 · página 9",
+        "type": "text",
+        "text": {
+          "format": 1,
+          "content": "<pre style=\"white-space:pre-wrap\">Purificar água\n\nDuração: instantâneo.\n\nAlcance: toque.\n\nAlvo: até um odre de água.\n\nTransforma até um odre de Água suja, contaminada ou envenenada em\nágua potável.\n\n\nAmizade animal\n\nDuração: Permanente (até ser quebrado).\n\nAlcance: 10’.\n\nAlvo: total de 2 DV / nível de animais.\n\nFaz com que animais percebam a amizade do druida, seguindo-o e\naceitando comandos simples. O limite acumulado é de 2 DV de animais por\nnível do conjurador. Cada truque leva 1 semana para ser ensinado a todos\nos animais afetados (1 truque por ponto de inteligência da criatura). O\nanimal retorna ao estado natural se for abandonado por mais de 3 dias, se\nfor exposto a maus tratos ou se for colocado em situação de extremo\nperigo (nesse caso um teste de moral deve ser realizado para saber se o\nanimal retorna ao estado selvagem).\n\n\nInvisibilidade para animais\n\nDuração: 1 turno + 1 turno/nível.\n\nAlcance: pessoal.\n\nAlvo: Pessoal.\n\nPermite ao conjurador se tornar completamente indetectável por animais\nque possuam inteligência inferior a 6.</pre>"
+        },
+        "sort": 900000
+      },
+      {
+        "_id": "4dca52617547dded",
+        "name": "Druida v0.4 · página 10",
+        "type": "text",
+        "text": {
+          "format": 1,
+          "content": "<pre style=\"white-space:pre-wrap\">Lista de Magias Expandida - 2º Círculo\n\nAquecer metal\n\nDuração: 6 rodadas.\n\nAlcance: 20’.\n\nAlvo: um objeto de metal\n\nAquece um objeto de metal progressivamente. Continuar segurando ou\nvestindo o item aquecido causa dano crescente:\n\nrodada 1: -\n\nrodada 2 a 5: d4 de dano/rodada\n\nrodada 6: 2d4 de dano\n\n\nContorcer madeira\n\nDuração: permanente.\n\nAlcance: 30’.\n\nAlvo: Um objeto de madeira por nível de até 400cn.\n\nCurva, deforma e distorce permanentemente pequenos objetos de madeira\ncomo portas, lanças, cabos, escudos ou afins.\n\n\nManipular fogo\n\nDuração: 1 turno / nível.\n\nAlcance: 30’.\n\nAlvo: fogo natural em uma Área de 10’ x 10’ por nível.\n\nPermite expandir, reduzir, mover ou moldar chamas naturais já existentes\n(fogueiras, tochas, brasas) em formas rudimentares, podendo intensificar o\ncalor para causar 1d6 de dano em alvos adjacentes, queimar objetos\ninflamáveis ou extinguir focos de incêndio instantaneamente.</pre>"
+        },
+        "sort": 1000000
+      },
+      {
+        "_id": "e7b273645643658c",
+        "name": "Druida v0.4 · página 11",
+        "type": "text",
+        "text": {
+          "format": 1,
+          "content": "<pre style=\"white-space:pre-wrap\">Lista de Magias Expandida - 3º Círculo\nRespiração aquática\n\nDuração: 6 turnos por nível.\nAlcance: Toque.\nAlvo: Uma criatura tocada.\n\nConcede à criatura tocada a capacidade de respirar normalmente\ndebaixo d’água ou em ambientes líquidos densos.\n\n\nconvocar raio\n\nDuração: 1 turno / nível.\n\nAlcance: 150’.\n\nAlvo: Área de 10’ x 10’ exposta a céu aberto.\n\nExige um ambiente externo com céu visível (sob nuvens carregadas ou\ntempestade). Permite descarregar relâmpagos dos céus (um por rodada),\ncausando 3d6 de dano elétrico por raio em um alvo escolhido (SV-I para\nreduzir o dano à metade).\n\n\ncrescimento vegetal\n\nDuração: Permanente.\n\nAlcance: 160’.\n\nAlvo: Área 10’ x 10’ por nível.\n\nFaz a vegetação normal crescer e se entrelaçar rapidamente\npermanentemente, formando um matagal denso onde criaturas movem-se\ncom grande dificuldade.</pre>"
+        },
+        "sort": 1100000
+      },
+      {
+        "_id": "675ff7b29a1ff7e2",
+        "name": "Druida v0.4 · página 12",
+        "type": "text",
+        "text": {
+          "format": 1,
+          "content": "<pre style=\"white-space:pre-wrap\">Lista de Magias Expandida - 4º Círculo\n\ninvocar animais\n\nDuração: Até o término do combate ou missão.\n\nAlcance: 100’ por nível.\n\nAlvo: Até d8 animais de 4DV cada.\n\nConvoca d8 animais nomeados pelo conjurador que estejam dentro do\nalcance, desde que tenham no máximo 4DV cada. Os animais convocados\nauxiliam fielmente o conjurador a executar uma missão.\n\n\nSegurar Criaturas\n\nDuração: 2 rodadas / nível\n\nAlcance: raio de 40’ ao redor do conjurador\n\nAlvo: 1d4 criaturas\n\nhavendo terra abaixo dos alvos, invoca raízes e cipós para paralisar 1d4\ncriaturas a escolha do conjurador (SV-P para sofrer apenas letargia).\nEstar em solo com vegetação viva oferece -2 à salvaguarda dos alvos.\n\n\n\nLista de Magias Expandida - 5º Círculo\n\ntransformar metal em madeira\n\nDuração: Permanente.\n\nAlcance: 60’.\n\nAlvo: Objeto de metal.\n\nTransforma permanentemente objetos de metal em madeira de formato e\npeso equivalentes (como armas, armaduras ou barreiras metálicas),\ntornando-os inúteis para os propósitos originais do metal</pre>"
+        },
+        "sort": 1200000
+      },
+      {
+        "_id": "63817af02da904ff",
+        "name": "Druida v0.4 · página 13",
+        "type": "text",
+        "text": {
+          "format": 1,
+          "content": "<pre style=\"white-space:pre-wrap\">controlar o clima\n\nDuração: 4d6 horas.\n\nAlcance: raio de 12 milhas ao redor do conjurador.\n\nAlvo: 6 milhas.\n\npermite alterar de forma gradual as condições climáticas locais em uma\nvasta região (transformando um dia limpo em tempestade severa, nevasca,\nventania ou calor intenso, e vice-versa), exigindo concentração\ncontínua para manter a mudança atmosférica.</pre>"
+        },
+        "sort": 1300000
+      }
+    ]
+  },
+  {
+    "_id": "b9e40e48939d8dca",
+    "name": "Paladino",
+    "pages": [
+      {
+        "_id": "e6ad841f2b44a497",
+        "name": "Retrato",
+        "type": "image",
+        "src": "systems/d20age/assets/classes/paladin.png",
+        "sort": 0
+      },
+      {
+        "_id": "f6d3c706a8b404d0",
+        "name": "Paladino v0.5 · página 1",
+        "type": "text",
+        "text": {
+          "format": 1,
+          "content": "<pre style=\"white-space:pre-wrap\">PALADINO\nPaladinos são combatentes dedicados a uma ordem de fé. Eles são\nexclusivamente ordeiros e possuem votos sagradas que conferem\npoderes sagrados.\n\n\n     ●​ Dado de vida: 1 DV (1d8) / nível\n     ●​ Treinamento: qualquer arma, armaduras e escudos\n     ●​ Habilidades de Classe: Expurgar o Mal, aura Abençoada,\n        coragem e Evolução (Presença e Trespassar)\n\n\n\nHabilidades de Classe\n\nExpurgar o Mal\nPaladinos são capazes de perceber a presença de desmortos, demônios e\ndiabos. Em combate contra um paladino, essas criaturas perdem\nqualquer imunidade ao teste de moral e fazem teste de moral com uma\npenalidade de -2.\n\n\nAura Abençoada\nA bênção dos paladinos faz com que quaisquer armas corpo a corpo\nempunhadas por eles sejam consideradas mágicas, a fim de superar\nimunidades e resistências, Além disso, criaturas que descansam na\npresença dele ganham +1 condição favorável ao restaurar PV (p. 61),\ninclusive o próprio paladino.\n\n\nCoragem inspiradora\nO paladino faz salvaguardas contra efeito de medo com um bônus de\n+4</pre>"
+        },
+        "sort": 100000
+      },
+      {
+        "_id": "748628fee4d77fee",
+        "name": "Paladino v0.5 · página 2",
+        "type": "text",
+        "text": {
+          "format": 1,
+          "content": "<pre style=\"white-space:pre-wrap\">Evolução\nComo os combatentes, Paladinos experientes (a partir do nível 4)\ndesenvolvem maior capacidade de liderança e combate, representados\npelas habilidades Presença e Trespassar.\n\n\n  ●​ Presença: Sua aliança transmite maior confiança às pessoas.\n       NPCs ganham bônus no moral e lealdade (+2). Além disso, a partir\n       do nível 7, é possível ter o dobro de NPCs leais (sequazes).\n  ●​ Trespassar: Pode-se atacar criaturas adjacentes entre si (ou\n       qualquer alvo no entorno, no caso de arma grande) que\n       possuam até metade de DV em relação ao seu nível. Apenas um\n       lance de ataque é feito, e compara-se à CA dos alvos para\n       determinar quais sofrerão dano.\n\n\n\nVotos Sagrados\n  ●​ Proteção aos Fracos: O paladino deve sempre proteger aqueles\n       que não podem se defender.\n  ●​ Humildade: O paladino nunca acumulará mais do que 5 itens\n       mágicos simultaneamente.\n  ●​ Manutenção da ordem: O paladino deverá sempre se manter\n       alinhado à ordem.\n\n\nPenalidade: O descumprimento de qualquer um dos votos sagrados\nresulta na perda imediata das habilidades Expurgar o Mal e Aura\nAbençoada até que a expiação seja realizada e os votos retomados.\n\n\n\nProgressão de Classe\n   Nível    XP        DV     TACO        SV- M   SV-C   SV-P   SV-I   SV-F\n\n   1        0         1d8     18 [+1]    10      13     14     15     14\n\n   2        2.000     2d8     17 [+2]    10      13     14     15     14</pre>"
+        },
+        "sort": 200000
+      },
+      {
+        "_id": "920214926c5285ec",
+        "name": "Paladino v0.5 · página 3",
+        "type": "text",
+        "text": {
+          "format": 1,
+          "content": "<pre style=\"white-space:pre-wrap\">Nível     XP        DV     TACO      SV- M   SV-C   SV-P   SV-I   SV-F\n\n   3         4.000     3d8    16 [+3]   10      13     14     15     14\n\n   4         8.000     4d8    15 [+4]   8       11     12     13     12\n\n   5         16.000    5d8    14 [+5]   8       11     12     13     12\n\n   6         32.000    6d8    13 [+6]   8       11     12     13     12\n\n   7         64.000    7d8    12 [+7]   6       9      10     11     10\n\n   8         120.000   8d8    11 [+8]   6       9      10     11     10\n\n   9         240.000   9d8    10 [+9]   6       9      10     11     10\n\n   10        360.000   10d8   9 [+10]   4       7      8      9      8\n\n\nDica ao mestre: Ao jogar com um personagem paladino em sua mesa,\npeça para que ele escolha uma divindade ordeira do seu cenário.\nOpcionalmente, pode-se exigir que um décimo dos tesouros\nrecuperados pelo paladino sejam direcionados às obras de sua\ndivindade.</pre>"
+        },
+        "sort": 300000
+      }
+    ]
+  },
+  {
+    "_id": "2dadabdfcfc35f0e",
+    "name": "Yogi",
+    "pages": [
+      {
+        "_id": "a85fff1e848d83a3",
+        "name": "Retrato",
+        "type": "image",
+        "src": "systems/d20age/assets/classes/yogi.png",
+        "sort": 0
+      },
+      {
+        "_id": "2317e49771e67678",
+        "name": "Yogi v0.5 · página 1",
+        "type": "text",
+        "text": {
+          "format": 1,
+          "content": "<pre style=\"white-space:pre-wrap\">Yogi\n     Yogi são monges guerreiros treinados para a proteção dos seus templos.\n\n        ●​ Dado de Vida: 1 DV (1d6) por nível\n\n        ●​ Treinamento: Armas yogi (adaga, machadinha, cajado, espada curta,\n             maça, lança, espada longa, funda e arco curto) e armaduras leves.\n\n        ●​ Habilidades de Classe: Reflexos aprimorados, Treinamento marcial,\n             Ordem monástica.\n\n\n\n     Reflexos aprimorados\n     O yogi é treinado para aprimorar seus reflexos, sua classe de armadura\n     (com armadura leve ou sem armadura) melhora em 1 ponto. Essa melhoria\n     aumenta em mais 1 ponto nos níveis 4, 7 e 10.\n\n\n\n     Treinamento marcial\n     O Yogi recebe treinamento marcial com armas yogi. O dano causado por\n     essas armas aumenta em +1 nos níveis 1, 4, 7 e 10.\n\n\n\n     Ordem monástica\n     Durante seu treinamento no monastério, você aprendeu um ofício e\n     desenvolveu uma perícia, escolha ou sorteie um ofício e uma perícia.\n\n\nd6                                                Perícia monástica\n     Ofício monástico                     d6\n\n\n\n\n1    Cozinheiro                           1       Furtividade\n\n\n2    Pedreiro                             2       Medicina natural*\n\n\n3    Bedel                                3       Aparar*</pre>"
+        },
+        "sort": 100000
+      },
+      {
+        "_id": "566c4d3d213b448d",
+        "name": "Yogi v0.5 · página 2",
+        "type": "text",
+        "text": {
+          "format": 1,
+          "content": "<pre style=\"white-space:pre-wrap\">d6                                            Perícia monástica\n     Ofício monástico                    d6\n\n\n\n\n4    Agricultor                          4    punho de ferro*\n\n\n5    Lenhador                            5    Esquivar*\n\n\n6    Bibliotecário                       6    Alinhamento*\n\n\n\n\n     * Novas perícias descritas abaixo\n\n\n\n     Progressão de Classe\n      Nível   XP         DV       TACO          SV- M     SV-C   SV-P   SV-I   SV-F\n\n\n      1       0          1d6      19 [+0]       12        13     15     14     16\n\n\n      2       2.000      2d6      18 [+1]       12        13     15     14     16\n\n\n      3       4.000      3d6      17 [+2]       12        13     15     14     16\n\n\n      4       8.000      4d6      16 [+3]       10        11     13     12     14\n\n\n      5       16.000     5d6      15 [+4]       10        11     13     12     14\n\n\n      6       32.000     6d6      14 [+5]       10        11     13     12     14\n\n\n      7       64.000     7d6      13 [+6]       8         9      11     10     12\n\n\n      8       120.000    8d6      12 [+7]       8         9      11     10     12</pre>"
+        },
+        "sort": 200000
+      },
+      {
+        "_id": "844d61e092626a81",
+        "name": "Yogi v0.5 · página 3",
+        "type": "text",
+        "text": {
+          "format": 1,
+          "content": "<pre style=\"white-space:pre-wrap\">Nível   XP         DV      TACO          SV- M   SV-C   SV-P   SV-I   SV-F\n\n\n 9       240.000    9d6      11 [+8]      8       9      11     10     12\n\n\n 10      360.000    10d6     10 [+9]      6       7      9      8      10\n\n\n\n\nNovas perícias\n\nAlinhamento\nA reação de NPCs e criaturas do mesmo alinhamento que você é feita com\num bônus de +2.\n\n\nPunho de ferro\nSeus golpes desarmados causam d6 de dano e são considerados uma arma\nde contusão e uma arma yogi.\n\n\nAparar\nEnquanto estiver empunhando uma arma, sua classe de armadura é\naprimorada em 1 ponto contra adversários que lutam com armas.\n\n\nEsquivar\nEnquanto estiver sem armadura ou vestindo armadura leve, ao receber\nataques de projéteis, a sua classe de armadura melhora em 1 ponto.\n\n\nMedicina natural\nPossui o conhecimento de primeiros socorros e de manipulação de ervas\nmedicinais.</pre>"
+        },
+        "sort": 300000
+      }
+    ]
+  }
+]

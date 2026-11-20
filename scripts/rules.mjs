@@ -16,6 +16,11 @@ export const CLASSES = {
   elf: {label:"Elfo", die:6, move:40, xp:[0,3200,6400,12800,25000,50000,100000,200000,400000,600000], thac0:commonT, saves:[[12,13,13,15,15],[10,11,11,13,13],[8,9,9,11,11],[6,7,7,9,9]], cuts:[3,6,9], slots:arcSlots},
   gnome: {label:"Gnomo", die:6, move:30, xp:[0,2000,4000,8000,16000,32000,64000,120000,240000,360000], thac0:commonT, saves:dwarfSaves, cuts:[3,6,9]}
 };
+export const ALL_CLASSES={...CLASSES,
+  druid:{label:"Druida",die:6,move:40,xp:[0,2500,5000,10000,20000,40000,80000,150000,300000,450000],thac0:commonT,saves:[[13,14,15,16,13],[11,12,13,14,11],[9,10,11,12,9]],cuts:[4,9],slots:arcSlots},
+  paladin:{label:"Paladino",die:8,move:40,xp:[0,2000,4000,8000,16000,32000,64000,120000,240000,360000],thac0:[18,17,16,15,14,13,12,11,10,9],saves:[[10,13,14,15,14],[8,11,12,13,12],[6,9,10,11,10],[4,7,8,9,8]],cuts:[3,6,9]},
+  yogi:{label:"Yogi",die:6,move:40,xp:[0,2000,4000,8000,16000,32000,64000,120000,240000,360000],thac0:[19,18,17,16,15,14,13,12,11,10],saves:[[12,13,15,14,16],[10,11,13,12,14],[8,9,11,10,12],[6,7,9,8,10]],cuts:[3,6,9]},
+};
 export function modifier(value) {
   if (value <= 3) return -3;
   if (value <= 5) return -2;
@@ -27,7 +32,7 @@ export function modifier(value) {
 }
 export const signed = n => n < 0 ? String(n) : `+${n}`;
 export function progression(classId, level) {
-  const cls = CLASSES[classId] ?? CLASSES.fighter;
+  const cls = ALL_CLASSES[classId] ?? CLASSES.fighter;
   const index = Math.max(0, Math.min(9, level - 1));
   let saveIndex = cls.cuts.findIndex(cut => index + 1 <= cut);
   if (saveIndex < 0) saveIndex = cls.saves.length - 1;
@@ -53,7 +58,7 @@ export function attackResult({natural, total, thac0, ac = null, naturalRules = t
   return {reached, hit: naturalRules && natural === 20 ? true : naturalRules && natural === 1 ? false : ac === null ? null : reached <= ac};
 }
 export function deriveActor(type, system, items = []) {
-  const cls = CLASSES[system.classId] ?? CLASSES.fighter;
+  const cls = ALL_CLASSES[system.classId] ?? CLASSES.fighter;
   const p = progression(system.classId, system.level);
   const mods = Object.fromEntries(Object.keys(ATTRIBUTES).map(key => [key, modifier(system.attributes[key].value) + system.attributes[key].bonus]));
   const coins = Object.keys(COINS).reduce((sum,key) => sum + system.coins[key], 0);

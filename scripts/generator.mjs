@@ -40,7 +40,7 @@ export async function openCharacterGenerator({actor=null}={}){
  if(actor&&(!actor.isOwner||actor.type!=='character'||actor.system.level!==1))throw new Error('O gerador preenche fichas próprias de personagem de nível 1.');
  if(actor?.getFlag('d20age','characterCreation'))throw new Error('Esta ficha já foi preenchida pelo gerador. Crie outra ficha para gerar um novo personagem.');
  const key=actor?.uuid??'new';const existing=activeGenerators.get(key);if(existing?.rendered){existing.bringToFront();return existing;}
- const content=await loadGeneratorContent();const opened=activeGenerators.get(key);if(opened?.rendered){opened.bringToFront();return opened;}const app=new D20AgeCharacterGenerator({actor,content});activeGenerators.set(key,app);await app.render({force:true});return app;
+ const content={...await loadGeneratorContent(),homebrew:game.settings.get("d20age","homebrew")};const opened=activeGenerators.get(key);if(opened?.rendered){opened.bringToFront();return opened;}const app=new D20AgeCharacterGenerator({actor,content});activeGenerators.set(key,app);await app.render({force:true});return app;
 }
 export function addGeneratorDirectoryButton(application,html){
  const root=html instanceof HTMLElement?html:html?.[0];if(!root||root.querySelector('.d20age-generator-launch')||!game.user.can('ACTOR_CREATE'))return;

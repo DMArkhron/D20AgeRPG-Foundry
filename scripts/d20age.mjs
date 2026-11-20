@@ -13,12 +13,14 @@ import {registerHexcrawl,installHexcrawl,openHexcrawlAtlas} from './hexcrawl.mjs
 import {D20AgeActorData,D20AgeItemData,D20AgePartyData} from "./models.mjs";
 import {D20AgeActor,D20AgeItem} from "./documents.mjs";
 import {D20AgeActorSheet,D20AgeItemSheet,D20AgeCreatureSheet,D20AgeInkActorSheet} from "./sheets.mjs";
-import {CLASSES,ATTRIBUTES,SAVES} from "./rules.mjs";
+import {ALL_CLASSES as CLASSES,ATTRIBUTES,SAVES} from "./rules.mjs";
+import {registerHomebrew,installHomebrew} from "./homebrew.mjs";
 import {registerWelcome,createWelcome} from "./welcome.mjs";
 Hooks.once("init",()=>{
   registerSystemSettings();
   registerDetailedSettings();
   registerWelcome();
+  registerHomebrew();
   registerCompendia();
   registerHexcrawl();
   CONFIG.Actor.documentClass = D20AgeActor;
@@ -37,7 +39,7 @@ Hooks.once("init",()=>{
   config.registerSheet(Actor,"d20age",D20AgeCreatureSheet,{types:["creature"],makeDefault:true,label:"D20Age · Criatura compacta"});
   config.registerSheet(Actor,"d20age",D20AgePartySheet,{types:["party"],makeDefault:true,label:"D20Age · Companhia"});
   config.registerSheet(Item,"d20age",D20AgeItemSheet,{types:["weapon","armor","equipment","spell","ability"],makeDefault:true,label:"D20Age · Registro"});
-  game.d20age = {Actor:D20AgeActor,Item:D20AgeItem,classes:CLASSES,attributes:ATTRIBUTES,saves:SAVES,version:"0.6.7",createParty,openEncounterPanel,rollInitiative,advanceLevel,rollCreatureHP,openCalendar,openCalendarSummary,openCharacterGenerator,installCompendia,installHexcrawl,openHexcrawlAtlas,rollBookTable,openBookReference,adventureTool};
+  game.d20age = {Actor:D20AgeActor,Item:D20AgeItem,classes:CLASSES,attributes:ATTRIBUTES,saves:SAVES,version:"0.6.8",createParty,openEncounterPanel,rollInitiative,advanceLevel,rollCreatureHP,openCalendar,openCalendarSummary,openCharacterGenerator,installCompendia,installHexcrawl,openHexcrawlAtlas,rollBookTable,openBookReference,adventureTool};
 });
 Hooks.on("preCreateActor",(actor,data)=>{
   if(actor.type === "party"){actor.updateSource({img:data.img||"systems/d20age/assets/party.svg",prototypeToken:{actorLink:true,bar1:{attribute:null},bar2:{attribute:null}}});return;}
@@ -48,6 +50,7 @@ Hooks.on("preCreateActor",(actor,data)=>{
   prepareDefaultToken(actor,data);
 });
 
+Hooks.once("ready",()=>installHomebrew().catch(error=>console.error("D20Age · Homebrew",error)));
 Hooks.once("ready",()=>createWelcome().catch(error=>{console.error("D20Age · Capa",error);ui.notifications.error("Não foi possível preparar a cena de capa. Reabra o mundo para tentar novamente.");}));
 
 Hooks.once("ready",()=>installCompendia().catch(error=>{console.error("D20Age · Compêndios",error);ui.notifications.error("Falha ao preparar compêndios: "+error.message+" Reabra o mundo ou execute a macro Preparar compêndios para retomar.");}));

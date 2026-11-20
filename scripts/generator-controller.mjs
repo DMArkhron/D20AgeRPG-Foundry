@@ -1,5 +1,5 @@
 import {LANGUAGE_TABLE,defaultLanguages} from './languages.mjs';
-import {ATTRIBUTES,CLASSES} from './rules.mjs';
+import {ATTRIBUTES,ALL_CLASSES as CLASSES} from './rules.mjs';
 import {initialDraft,setClass,stepErrors,SKILLS,HIDDEN_SPELLS,IMPLEMENTS} from './generation.mjs';
 export class GeneratorController {
  constructor(content,{actor=null,roll,render=()=>{},finish=()=>{},cancel=()=>{},openItem=()=>{}}={}){this.content=content;this.actor=actor;this.draft=initialDraft(actor);this.roll=roll;this.render=render;this.finish=finish;this.cancel=cancel;this.openItem=openItem;this.error='';this.busy=false;}
