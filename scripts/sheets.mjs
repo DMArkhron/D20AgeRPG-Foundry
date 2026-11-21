@@ -31,7 +31,7 @@ export class D20AgeActorSheet extends ActorSheetV2 {
     return this.document.update(updates);
   }
   async _prepareContext(options) {
-    return {...await super._prepareContext(options),actor:this.actor,activeSection:this._section ?? "attributes"};
+    return {...await super._prepareContext(options),actor:this.document,activeSection:this._section ?? "attributes"};
   }
   async _renderHTML(context) {
     return fragment(actorView(context.actor,{tab:context.activeSection,editable:this.isEditable}));
@@ -39,7 +39,7 @@ export class D20AgeActorSheet extends ActorSheetV2 {
   _replaceHTML(result,content) {content.replaceChildren(result);}
   async _onRender(context,options) {
     await super._onRender(context,options);
-    this.window?.controlsDropdown?.classList.add("d20age-window-controls");
+    this.window?.controlsDropdown?.classList?.add("d20age-window-controls");
     if (!this.isEditable) this.element.querySelectorAll("input,select,textarea").forEach(field=>field.disabled=true);
     const portrait = this.element.querySelector(".portrait-button");
     portrait?.addEventListener("contextmenu",event=>{
@@ -190,7 +190,7 @@ export class D20AgeItemSheet extends ItemSheetV2 {
   _replaceHTML(result,content) {content.replaceChildren(result);}
   async _onRender(context,options) {
     await super._onRender(context,options);
-    this.window?.controlsDropdown?.classList.add("d20age-window-controls");
+    this.window?.controlsDropdown?.classList?.add("d20age-window-controls");
     if (!this.isEditable) this.element.querySelectorAll("input,select,textarea").forEach(field=>field.disabled=true);
   }
 }

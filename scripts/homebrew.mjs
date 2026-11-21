@@ -1,3 +1,4 @@
+export function homebrewEnabled(){try{return globalThis.game?.settings?.get?.('d20age','homebrew')===true;}catch{return false;}}
 export const HOME_BREW_SOURCES={druid:'Druida v0.4',paladin:'Paladino v0.5',yogi:'Yogi v0.5'};
 export const classAvailable=(id,enabled)=>enabled || !Object.hasOwn(HOME_BREW_SOURCES,id);
 export function registerHomebrew(){
@@ -11,9 +12,23 @@ export async function installHomebrew(){
  const pack=game.packs.get('world.d20age-homebrew')??await foundry.documents.collections.CompendiumCollection.createCompendium({name:'d20age-homebrew',label:'D20Age · Homebrew',type:'JournalEntry',package:'world',system:'d20age'});
  const index=await pack.getIndex();
  const missing=docs.filter(doc=>!index.has(doc._id));
- if(!missing.length)return;
+ const existing=docs.filter(doc=>index.has(doc._id));
  const locked=pack.locked;
  if(locked)await pack.configure({locked:false});
- try{await pack.documentClass.createDocuments(missing,{pack:pack.collection,keepId:true,keepEmbeddedIds:true});}
+ try{
+  if(missing.length)await pack.documentClass.createDocuments(missing,{pack:pack.collection,keepId:true,keepEmbeddedIds:true});
+  for(const source of existing){
+   const entry=await pack.getDocument(source._id);
+   if((entry.flags?.d20age?.homebrewRevision??0)>=source.flags.d20age.homebrewRevision)continue;
+   const managed=new Set(source.flags.d20age.managedPages);
+   const obsolete=entry.pages.filter(p=>managed.has(p.id)&&!source.pages.some(s=>s._id===p.id)).map(p=>p.id);
+   if(obsolete.length)await entry.deleteEmbeddedDocuments('JournalEntryPage',obsolete);
+   const updates=source.pages.filter(p=>entry.pages.has(p._id));
+   const additions=source.pages.filter(p=>!entry.pages.has(p._id));
+   if(updates.length)await entry.updateEmbeddedDocuments('JournalEntryPage',updates);
+   if(additions.length)await entry.createEmbeddedDocuments('JournalEntryPage',additions,{keepId:true});
+   await entry.update({'flags.d20age.homebrewRevision':source.flags.d20age.homebrewRevision});
+  }
+ }
  finally{if(locked)await pack.configure({locked:true});}
 }

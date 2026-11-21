@@ -891,3 +891,13 @@
 .d20age-hex-choice img{background:transparent;max-width:100%}
 [data-d20age-hexcrawl]{width:100%;margin:4px 0;border:2px solid #222;background:#f8f8f5;color:#111;font-weight:700;cursor:pointer}
 [data-d20age-hexcrawl]:hover,[data-d20age-hexcrawl]:focus-visible{background:#222;color:#fff}
+
+/* Class reference pages: fluid portrait and readable source text. */
+.d20age-class-portrait{margin:0!important;height:auto!important;overflow:visible!important}
+.d20age-class-portrait img{display:block!important;width:100%!important;height:auto!important;max-height:none!important;object-fit:contain!important}
+.d20age-class-reference{font:16px/1.65 var(--font-body,Georgia,serif);text-align:left;overflow-wrap:anywhere}
+.d20age-class-reference p{margin:0 0 1em;text-indent:0;white-space:normal}
+.d20age-class-reference h2{margin:0 0 1em}
+.d20age-class-table{overflow-x:auto;max-width:100%;margin:1em 0}
+.d20age-class-table table{width:100%;border-collapse:collapse;font:14px/1.4 var(--font-body,Georgia,serif)}
+.d20age-class-table th,.d20age-class-table td{padding:7px 10px;text-align:left;vertical-align:top;border-bottom:1px solid currentColor;white-space:normal}

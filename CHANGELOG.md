@@ -53,3 +53,10 @@ Ficha com molduras desenhadas, textura discreta de papel, hachuras e ilustraçõ
 ## 0.1.0
 
 Estrutura inicial para Foundry V13, modelos de dados, fichas monocromáticas de aventureiro e criatura, itens editáveis, cálculos básicos, rolagens e registro de memorizações. Inclui documentação, testes e prévia visual.
+
+## 0.6.9
+
+- Retratos das classes em páginas fluidas, sem corte na altura.
+- Referências homebrew com títulos por assunto, parágrafos e tabelas HTML.
+- Migração das páginas geradas no compêndio existente, preservando páginas extras.
+- Abertura das fichas protegida contra configuração homebrew indisponível e dados derivados ausentes.

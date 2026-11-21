@@ -29,7 +29,7 @@ Create characters with guidance at every step, browse equipment and spells direc
 | **Requirement** | **Version** |
 | --- | --- |
 | Foundry VTT | 13 |
-| D20Age for Foundry | 0.6.5 |
+| D20Age for Foundry | 0.6.9 |
 | Reference Material | Core Rulebook V2 |
 
 D20Age is a **standalone game system** for Foundry VTT. No additional game system is required.
