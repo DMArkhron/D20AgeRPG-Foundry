@@ -16,13 +16,13 @@ export async function installHomebrew(){
  const locked=pack.locked;
  if(locked)await pack.configure({locked:false});
  try{
-  let classFolder=pack.folders.get('d20ageClasses001');
-  if(!classFolder){[classFolder]=await Folder.createDocuments([{_id:'d20ageClasses001',name:'Classes',type:'JournalEntry',sorting:'a'}],{pack:pack.collection,keepId:true});}
-  for(const source of docs)source.folder=classFolder.id;
+  let classFolder=pack.folders?.get('d20ageClasses001');
+  if(!classFolder&&globalThis.Folder?.createDocuments){[classFolder]=await Folder.createDocuments([{_id:'d20ageClasses001',name:'Classes',type:'JournalEntry',sorting:'a'}],{pack:pack.collection,keepId:true});}
+  for(const source of docs)if(classFolder)source.folder=classFolder.id;
   if(missing.length)await pack.documentClass.createDocuments(missing,{pack:pack.collection,keepId:true,keepEmbeddedIds:true});
   for(const source of existing){
    const entry=await pack.getDocument(source._id);
-   if((entry.flags?.d20age?.homebrewRevision??0)>=source.flags.d20age.homebrewRevision){if(entry.folder?.id!==classFolder.id)await entry.update({folder:classFolder.id});continue;}
+   if((entry.flags?.d20age?.homebrewRevision??0)>=source.flags.d20age.homebrewRevision){if(classFolder&&entry.folder?.id!==classFolder.id)await entry.update({folder:classFolder.id});continue;}
    const managed=new Set(source.flags.d20age.managedPages);
    const obsolete=entry.pages.filter(p=>managed.has(p.id)&&!source.pages.some(s=>s._id===p.id)).map(p=>p.id);
    if(obsolete.length)await entry.deleteEmbeddedDocuments('JournalEntryPage',obsolete);
@@ -30,7 +30,7 @@ export async function installHomebrew(){
    const additions=source.pages.filter(p=>!entry.pages.has(p._id));
    if(updates.length)await entry.updateEmbeddedDocuments('JournalEntryPage',updates);
    if(additions.length)await entry.createEmbeddedDocuments('JournalEntryPage',additions,{keepId:true});
-   await entry.update({folder:classFolder.id,'flags.d20age.homebrewRevision':source.flags.d20age.homebrewRevision});
+   await entry.update({...(classFolder?{folder:classFolder.id}:{}),'flags.d20age.homebrewRevision':source.flags.d20age.homebrewRevision});
   }
  }
  finally{if(locked)await pack.configure({locked:true});}
