@@ -58,8 +58,18 @@ test('atualização do compêndio migra conteúdo antigo, preserva páginas extr
  const previousGame=globalThis.game,previousFetch=globalThis.fetch;
  const entries=new Map(docs.map(d=>[d._id,{flags:{},pages:new Map([...d.pages.map(p=>[p._id,{id:p._id}]),['custompage1234567',{id:'custompage1234567'}]]),async deleteEmbeddedDocuments(t,ids){ids.forEach(id=>this.pages.delete(id));},async updateEmbeddedDocuments(t,ps){for(const p of ps)this.pages.set(p._id,{...p,id:p._id});},async createEmbeddedDocuments(t,ps){for(const p of ps)this.pages.set(p._id,{...p,id:p._id});},async update(data){this.flags.d20age={homebrewRevision:data['flags.d20age.homebrewRevision']};}}]));
  for(const entry of entries.values()){entry.pages.filter=fn=>[...entry.pages.values()].filter(fn);}
- const locks=[];const pack={locked:true,async getIndex(){return entries;},async getDocument(id){return entries.get(id);},async configure({locked}){locks.push(locked);}};
+ const locks=[];const pack={folders:new Map([['d20ageClasses001',{id:'d20ageClasses001'}]]),locked:true,async getIndex(){return entries;},async getDocument(id){return entries.get(id);},async configure({locked}){locks.push(locked);}};
  globalThis.game={user:{id:'gm',isGM:true},users:{activeGM:{id:'gm'}},packs:new Map([['world.d20age-homebrew',pack]])};
  globalThis.fetch=async()=>({ok:true,json:async()=>docs});
  try{await installHomebrew();for(const entry of entries.values()){assert.ok(entry.pages.has('custompage1234567'));assert.equal(entry.flags.d20age.homebrewRevision,2);}assert.deepEqual(locks,[false,true]);}finally{globalThis.game=previousGame;globalThis.fetch=previousFetch;}
+});
+
+test('nova instalação organiza as três classes numa pasta interna do compêndio HB',async()=>{
+ const {installHomebrew}=await import('../scripts/homebrew.mjs');
+ const docs=JSON.parse(readFileSync(new URL('../content/homebrew.json',import.meta.url)));
+ const before={game:globalThis.game,fetch:globalThis.fetch,Folder:globalThis.Folder};let created,folder;
+ const pack={folders:new Map(),locked:false,collection:'world.d20age-homebrew',getIndex:async()=>new Map(),documentClass:{async createDocuments(ds){created=ds;}}};
+ globalThis.Folder={async createDocuments(ds,options){folder=ds[0];assert.equal(options.pack,pack.collection);return [{id:folder._id}];}};
+ globalThis.game={user:{id:'gm',isGM:true},users:{activeGM:{id:'gm'}},packs:new Map([[pack.collection,pack]])};globalThis.fetch=async()=>({ok:true,json:async()=>docs});
+ try{await installHomebrew();assert.equal(folder.name,'Classes');assert.equal(folder.type,'JournalEntry');assert.equal(created.length,3);assert.ok(created.every(d=>d.folder===folder._id));}finally{Object.assign(globalThis,before);}
 });

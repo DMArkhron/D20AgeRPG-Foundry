@@ -60,3 +60,10 @@ Estrutura inicial para Foundry V13, modelos de dados, fichas monocromáticas de 
 - Referências homebrew com títulos por assunto, parágrafos e tabelas HTML.
 - Migração das páginas geradas no compêndio existente, preservando páginas extras.
 - Abertura das fichas protegida contra configuração homebrew indisponível e dados derivados ausentes.
+
+## 0.6.10
+
+- Retratos completos de Druida e Paladino na ficha padrão.
+- Nova ilustração integral do Yogi sōhei e token atualizado.
+- Arquivos binários enviados com conferência de hash, corrigindo o PNG e token truncados da publicação anterior.
+- Pasta Classes dentro do compêndio Homebrew, com migração das entradas existentes.

@@ -901,3 +901,6 @@
 .d20age-class-table{overflow-x:auto;max-width:100%;margin:1em 0}
 .d20age-class-table table{width:100%;border-collapse:collapse;font:14px/1.4 var(--font-body,Georgia,serif)}
 .d20age-class-table th,.d20age-class-table td{padding:7px 10px;text-align:left;vertical-align:top;border-bottom:1px solid currentColor;white-space:normal}
+
+/* Show the complete portrait rather than trimming full-body class art. */
+.d20age-sheet .actor-paper:not(.ink-paper) .portrait-button .portrait{object-fit:contain;object-position:center;background:#fff}
