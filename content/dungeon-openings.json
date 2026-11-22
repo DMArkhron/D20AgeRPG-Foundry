@@ -10,7 +10,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "id": "p97",
@@ -23,7 +23,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "id": "p98",
@@ -36,7 +36,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "id": "p99",
@@ -49,6 +49,6 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   }
 ]

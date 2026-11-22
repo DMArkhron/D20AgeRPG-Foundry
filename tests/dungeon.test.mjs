@@ -44,3 +44,25 @@ test('four opening assets extend the existing atlas without changing old IDs',()
  assert.deepEqual(entries.map(t=>t.id),['p96','p97','p98','p99']);
  for(const t of entries){assert.equal(t.gridWidth,1);assert.equal(t.gridHeight,1);assert.ok(t.sx+t.sw<=t.atlasWidth&&t.sy+t.sh<=t.atlasHeight);}
 });
+
+test('extended atlas adds corner, wide stairs and long openings with distinct sprite IDs and layers',async()=>{
+ const {dungeonLayer}=await import('../scripts/dungeon.mjs');
+ const {exportTileData}=await import('../scripts/dungeon-export.mjs');
+ const all=['dungeon','dungeon-openings','dungeon-extra'].flatMap(name=>JSON.parse(fs.readFileSync(new URL('../content/'+name+'.json',import.meta.url))));
+ assert.equal(all.length,121);assert.equal(new Set(all.map(t=>t.id)).size,121);
+ const extra=all.slice(100);
+ assert.equal(extra[0].file,'quinas/quina.svg');
+ assert.deepEqual(extra.slice(1,5).map(t=>[t.gridWidth,t.gridHeight]),[[2,1],[3,1],[4,1],[5,1]]);
+ assert.equal(extra.slice(5).length,16);
+ for(const t of all){
+  assert.deepEqual([t.sw,t.sh],[t.gridWidth*128,t.gridHeight*128]);
+  assert.ok(t.sx+t.sw<=t.atlasWidth&&t.sy+t.sh<=t.atlasHeight);
+  assert.equal(t.atlasHeight,all[0].atlasHeight);
+ }
+ for(const t of extra){
+  const layer=t.file.startsWith('escadas/')?1:t.file.startsWith('aberturas/')?3:2;
+  assert.equal(dungeonLayer(t),layer);
+  const d=exportTileData(t,tilePlacement(t,0,0,90),{x:0,y:0},100,'texture.png','map');
+  assert.equal(d.sort,layer*100000);assert.equal(d.flags.d20age.dungeonLayer,layer);
+ }
+});

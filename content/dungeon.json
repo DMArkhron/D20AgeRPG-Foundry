@@ -10,7 +10,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-retas/parede-n.svg",
@@ -23,7 +23,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-retas/parede-l.svg",
@@ -36,7 +36,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-retas/parede-n-l.svg",
@@ -49,7 +49,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-retas/parede-s.svg",
@@ -62,7 +62,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-retas/parede-n-s.svg",
@@ -75,7 +75,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-retas/parede-l-s.svg",
@@ -88,7 +88,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-retas/parede-n-l-s.svg",
@@ -101,7 +101,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-retas/parede-o.svg",
@@ -114,7 +114,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-retas/parede-n-o.svg",
@@ -127,7 +127,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-retas/parede-l-o.svg",
@@ -140,7 +140,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-retas/parede-n-l-o.svg",
@@ -153,7 +153,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-retas/parede-s-o.svg",
@@ -166,7 +166,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-retas/parede-n-s-o.svg",
@@ -179,7 +179,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-retas/parede-l-s-o.svg",
@@ -192,7 +192,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-retas/parede-n-l-s-o.svg",
@@ -205,7 +205,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/circulo-1x1-fechado.svg",
@@ -218,7 +218,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/circulo-1x1-abertura-n.svg",
@@ -231,7 +231,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/circulo-1x1-abertura-l.svg",
@@ -244,7 +244,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/circulo-1x1-abertura-s.svg",
@@ -257,7 +257,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/circulo-1x1-abertura-o.svg",
@@ -270,7 +270,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/arco-1x1-ne.svg",
@@ -283,7 +283,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/arco-1x1-se.svg",
@@ -296,7 +296,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/arco-1x1-so.svg",
@@ -309,7 +309,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/arco-1x1-no.svg",
@@ -322,7 +322,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/semicirculo-1x1-n.svg",
@@ -335,7 +335,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/semicirculo-1x1-l.svg",
@@ -348,7 +348,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/semicirculo-1x1-s.svg",
@@ -361,7 +361,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/semicirculo-1x1-o.svg",
@@ -374,7 +374,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/circulo-2x2-fechado.svg",
@@ -387,7 +387,7 @@
     "sw": 256,
     "sh": 256,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/circulo-2x2-abertura-n.svg",
@@ -400,7 +400,7 @@
     "sw": 256,
     "sh": 256,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/circulo-2x2-abertura-l.svg",
@@ -413,7 +413,7 @@
     "sw": 256,
     "sh": 256,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/circulo-2x2-abertura-s.svg",
@@ -426,7 +426,7 @@
     "sw": 256,
     "sh": 256,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/circulo-2x2-abertura-o.svg",
@@ -439,7 +439,7 @@
     "sw": 256,
     "sh": 256,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/arco-2x2-ne.svg",
@@ -452,7 +452,7 @@
     "sw": 256,
     "sh": 256,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/arco-2x2-se.svg",
@@ -465,7 +465,7 @@
     "sw": 256,
     "sh": 256,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/arco-2x2-so.svg",
@@ -478,7 +478,7 @@
     "sw": 256,
     "sh": 256,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/arco-2x2-no.svg",
@@ -491,7 +491,7 @@
     "sw": 256,
     "sh": 256,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/semicirculo-2x2-n.svg",
@@ -504,7 +504,7 @@
     "sw": 256,
     "sh": 256,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/semicirculo-2x2-l.svg",
@@ -517,7 +517,7 @@
     "sw": 256,
     "sh": 256,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/semicirculo-2x2-s.svg",
@@ -530,7 +530,7 @@
     "sw": 256,
     "sh": 256,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/semicirculo-2x2-o.svg",
@@ -543,7 +543,7 @@
     "sw": 256,
     "sh": 256,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/circulo-3x3-fechado.svg",
@@ -556,7 +556,7 @@
     "sw": 384,
     "sh": 384,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/circulo-3x3-abertura-n.svg",
@@ -569,7 +569,7 @@
     "sw": 384,
     "sh": 384,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/circulo-3x3-abertura-l.svg",
@@ -582,7 +582,7 @@
     "sw": 384,
     "sh": 384,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/circulo-3x3-abertura-s.svg",
@@ -595,7 +595,7 @@
     "sw": 384,
     "sh": 384,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/circulo-3x3-abertura-o.svg",
@@ -608,7 +608,7 @@
     "sw": 384,
     "sh": 384,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/arco-3x3-ne.svg",
@@ -621,7 +621,7 @@
     "sw": 384,
     "sh": 384,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/arco-3x3-se.svg",
@@ -634,7 +634,7 @@
     "sw": 384,
     "sh": 384,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/arco-3x3-so.svg",
@@ -647,7 +647,7 @@
     "sw": 384,
     "sh": 384,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/arco-3x3-no.svg",
@@ -660,7 +660,7 @@
     "sw": 384,
     "sh": 384,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/semicirculo-3x3-n.svg",
@@ -673,7 +673,7 @@
     "sw": 384,
     "sh": 384,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/semicirculo-3x3-l.svg",
@@ -686,7 +686,7 @@
     "sw": 384,
     "sh": 384,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/semicirculo-3x3-s.svg",
@@ -699,7 +699,7 @@
     "sw": 384,
     "sh": 384,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/semicirculo-3x3-o.svg",
@@ -712,7 +712,7 @@
     "sw": 384,
     "sh": 384,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/circulo-4x4-fechado.svg",
@@ -725,7 +725,7 @@
     "sw": 512,
     "sh": 512,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/circulo-4x4-abertura-n.svg",
@@ -738,7 +738,7 @@
     "sw": 512,
     "sh": 512,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/circulo-4x4-abertura-l.svg",
@@ -751,7 +751,7 @@
     "sw": 512,
     "sh": 512,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/circulo-4x4-abertura-s.svg",
@@ -764,7 +764,7 @@
     "sw": 512,
     "sh": 512,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/circulo-4x4-abertura-o.svg",
@@ -777,7 +777,7 @@
     "sw": 512,
     "sh": 512,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/arco-4x4-ne.svg",
@@ -790,7 +790,7 @@
     "sw": 512,
     "sh": 512,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/arco-4x4-se.svg",
@@ -803,7 +803,7 @@
     "sw": 512,
     "sh": 512,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/arco-4x4-so.svg",
@@ -816,7 +816,7 @@
     "sw": 512,
     "sh": 512,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/arco-4x4-no.svg",
@@ -829,7 +829,7 @@
     "sw": 512,
     "sh": 512,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/semicirculo-4x4-n.svg",
@@ -842,7 +842,7 @@
     "sw": 512,
     "sh": 512,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/semicirculo-4x4-l.svg",
@@ -855,7 +855,7 @@
     "sw": 512,
     "sh": 512,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/semicirculo-4x4-s.svg",
@@ -868,7 +868,7 @@
     "sw": 512,
     "sh": 512,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/semicirculo-4x4-o.svg",
@@ -881,7 +881,7 @@
     "sw": 512,
     "sh": 512,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/circulo-5x5-fechado.svg",
@@ -894,7 +894,7 @@
     "sw": 640,
     "sh": 640,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/circulo-5x5-abertura-n.svg",
@@ -907,7 +907,7 @@
     "sw": 640,
     "sh": 640,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/circulo-5x5-abertura-l.svg",
@@ -920,7 +920,7 @@
     "sw": 640,
     "sh": 640,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/circulo-5x5-abertura-s.svg",
@@ -933,7 +933,7 @@
     "sw": 640,
     "sh": 640,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/circulo-5x5-abertura-o.svg",
@@ -946,7 +946,7 @@
     "sw": 640,
     "sh": 640,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/arco-5x5-ne.svg",
@@ -959,7 +959,7 @@
     "sw": 640,
     "sh": 640,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/arco-5x5-se.svg",
@@ -972,7 +972,7 @@
     "sw": 640,
     "sh": 640,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/arco-5x5-so.svg",
@@ -985,7 +985,7 @@
     "sw": 640,
     "sh": 640,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/arco-5x5-no.svg",
@@ -998,7 +998,7 @@
     "sw": 640,
     "sh": 640,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/semicirculo-5x5-n.svg",
@@ -1011,7 +1011,7 @@
     "sw": 640,
     "sh": 640,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/semicirculo-5x5-l.svg",
@@ -1024,7 +1024,7 @@
     "sw": 640,
     "sh": 640,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/semicirculo-5x5-s.svg",
@@ -1037,7 +1037,7 @@
     "sw": 640,
     "sh": 640,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "paredes-curvas/semicirculo-5x5-o.svg",
@@ -1050,7 +1050,7 @@
     "sw": 640,
     "sh": 640,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "escadas/escada-pedra-1x1.svg",
@@ -1063,7 +1063,7 @@
     "sw": 128,
     "sh": 128,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "escadas/escada-pedra-1x2.svg",
@@ -1076,7 +1076,7 @@
     "sw": 128,
     "sh": 256,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "escadas/escada-pedra-1x3.svg",
@@ -1089,7 +1089,7 @@
     "sw": 128,
     "sh": 384,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "escadas/escada-pedra-1x4.svg",
@@ -1102,7 +1102,7 @@
     "sw": 128,
     "sh": 512,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "escadas/escada-pedra-1x5.svg",
@@ -1115,7 +1115,7 @@
     "sw": 128,
     "sh": 640,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "escadas/escada-pedra-2x2.svg",
@@ -1128,7 +1128,7 @@
     "sw": 256,
     "sh": 256,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "escadas/escada-pedra-2x3.svg",
@@ -1141,7 +1141,7 @@
     "sw": 256,
     "sh": 384,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "escadas/escada-pedra-2x4.svg",
@@ -1154,7 +1154,7 @@
     "sw": 256,
     "sh": 512,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "escadas/escada-pedra-2x5.svg",
@@ -1167,7 +1167,7 @@
     "sw": 256,
     "sh": 640,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "escadas/escada-pedra-3x3.svg",
@@ -1180,7 +1180,7 @@
     "sw": 384,
     "sh": 384,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "escadas/escada-pedra-3x4.svg",
@@ -1193,7 +1193,7 @@
     "sw": 384,
     "sh": 512,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "escadas/escada-pedra-3x5.svg",
@@ -1206,7 +1206,7 @@
     "sw": 384,
     "sh": 640,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "escadas/escada-pedra-4x4.svg",
@@ -1219,7 +1219,7 @@
     "sw": 512,
     "sh": 512,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "escadas/escada-pedra-4x5.svg",
@@ -1232,7 +1232,7 @@
     "sw": 512,
     "sh": 640,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   },
   {
     "file": "escadas/escada-pedra-5x5.svg",
@@ -1245,6 +1245,6 @@
     "sw": 640,
     "sh": 640,
     "atlasWidth": 4096,
-    "atlasHeight": 4772
+    "atlasHeight": 5416
   }
 ]

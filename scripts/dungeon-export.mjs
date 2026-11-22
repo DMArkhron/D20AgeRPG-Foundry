@@ -1,10 +1,10 @@
-import {tilePlacement} from './dungeon.mjs';
+import {tilePlacement,dungeonLayer} from './dungeon.mjs';
 const BASE='systems/d20age';
 export function exportTileData(tile,p,origin,size,src,saveId){
  tilePlacement(tile,p.x,p.y,p.rotation,p.variant);
  if(!Number.isFinite(size)||size<=0)throw Error('Grid inválido.');
  const width=tile.gridWidth*size,height=tile.gridHeight*size,swap=p.rotation%180!==0;
- return {texture:{src},x:origin.x+p.x*size+(swap?(height-width)/2:0),y:origin.y+p.y*size+(swap?(width-height)/2:0),width,height,rotation:p.rotation,hidden:false,flags:{d20age:{dungeonAtlas:saveId}}};
+ return {texture:{src},x:origin.x+p.x*size+(swap?(height-width)/2:0),y:origin.y+p.y*size+(swap?(width-height)/2:0),width,height,rotation:p.rotation,hidden:false,sort:dungeonLayer(tile)*100000,flags:{d20age:{dungeonAtlas:saveId,dungeonLayer:dungeonLayer(tile)}}};
 }
 const atlasImages=new Map();
 async function imageFor(variant){
@@ -13,7 +13,7 @@ async function imageFor(variant){
 }
 async function prepareTextures(pieces,catalog){
  const picker=foundry.applications.apps.FilePicker;
- const dir='d20age-dungeon-tiles-v2';
+ const dir='d20age-dungeon-tiles-v3';
  let listing;
  try{listing=await picker.browse('data',dir);}catch{}
  if(!listing||listing.target!==dir){try{await picker.createDirectory('data',dir);}catch{}listing=await picker.browse('data',dir);}
@@ -52,7 +52,7 @@ export async function beginDungeonExport(saved,catalog){
    const origin=grid.getTopLeftPoint(stage.toLocal(e.global));const size=grid.size;
    const rect=canvas.dimensions?.sceneRect;
    if(rect&&normalized.some(p=>{const t=catalog.find(t=>t.id===p.tile),swap=p.rotation%180!==0;return origin.x+p.x*size<rect.x||origin.y+p.y*size<rect.y||origin.x+(p.x+(swap?t.gridHeight:t.gridWidth))*size>rect.x+rect.width||origin.y+(p.y+(swap?t.gridWidth:t.gridHeight))*size>rect.y+rect.height;}))throw Error('O mapa não cabe nessa posição. Escolha outra origem.');
-   const data=normalized.sort((a,b)=>Number(Number(a.tile.slice(1))>=96)-Number(Number(b.tile.slice(1))>=96)).map(p=>exportTileData(catalog.find(t=>t.id===p.tile),p,origin,size,textures.get(p.variant+'-'+p.tile),saved.id));
+   const data=normalized.sort((a,b)=>dungeonLayer(catalog.find(t=>t.id===a.tile))-dungeonLayer(catalog.find(t=>t.id===b.tile))).map((p,i)=>{const d=exportTileData(catalog.find(t=>t.id===p.tile),p,origin,size,textures.get(p.variant+'-'+p.tile),saved.id);return {...d,sort:d.sort+i};});
    await scene.createEmbeddedDocuments('Tile',data);ui.notifications.info(data.length+' Tiles adicionados à cena.');
   }catch(err){ui.notifications.error(err.message);}
  };

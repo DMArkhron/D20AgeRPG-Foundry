@@ -1,5 +1,11 @@
 # Histórico
 
+## 0.6.14 — Atlas de Masmorras
+
+- Quina rotacionável para fechar junções de paredes.
+- Escadas de 2×1 a 5×1 e portas e janelas de 1×2 a 1×5, com rotação para o eixo horizontal.
+- Ordem de sobreposição no atlas e nos Tiles da cena: escadas, paredes e quinas, portas e janelas.
+
 ## 0.6.7 — Atlas de Hexcrawl
 
 - Gerenciador na aba **Cenas** com 27 localidades em versões colorida e preto e branco.
