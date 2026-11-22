@@ -31,7 +31,7 @@ Create characters with guidance at every step, browse equipment and spells direc
 | **Requirement** | **Version** |
 | --- | --- |
 | Foundry VTT | 13 |
-| D20Age for Foundry | 0.6.11 |
+| D20Age for Foundry | 0.6.12 |
 | Reference Material | Core Rulebook V2 |
 
 D20Age is a **standalone game system** for Foundry VTT. No additional game system is required.
@@ -91,3 +91,5 @@ Explore his social media and follow his work: [DM Quiral — social links](https
 Based on **D20Age RPG — Core Rulebook V2**. All credits for the original work and third-party materials belong to their respective creators.
 
 This is an independent implementation for Foundry VTT. Its distribution does not grant rights to the original work or any third-party materials.
+
+Open **Journal Notes → Dungeon Atlas** to map. Select a piece, rotate as needed and click the grid. Save a named map. The GM can select a saved map and use **Export to scene** in a square-grid scene, then click the starting cell to create independent Tiles.

@@ -928,3 +928,21 @@
 .d20age-sheet .ink-combat-emblems .stat-unit{top:70%;left:50%;transform:translateX(-50%);background:#fff}
 .d20age-sheet .ink-combat-emblems .life-art .field{left:50%;right:auto;top:43%;width:48px;transform:translate(-50%,-50%);margin:0}
 .d20age-sheet .ink-combat-emblems .life-art input{width:100%;text-align:center}
+
+.d20-dungeon-saves{display:flex;align-items:center;gap:8px;padding:8px 14px;background:#e9dfca;border-bottom:1px solid #999}
+.d20-dungeon-saves label{display:flex;align-items:center;gap:8px;flex:1;min-width:0}
+.d20-dungeon-saves select{flex:1;min-width:0;background:#fffdf4;color:#181611}
+.d20-dungeon-saves button{width:auto;white-space:nowrap;background:#fffdf4;color:#181611}
+.d20-dungeon-tools button{width:auto;display:inline-flex;align-items:center;gap:5px}
+.d20-dungeon-tools button[aria-pressed=true]{background:#393126;color:white;border-color:#393126}
+.d20-dungeon-angle,.d20-dungeon-zoom output{font:700 13px system-ui;text-align:center;min-width:40px}
+.d20-dungeon-zoom{display:flex;align-items:center;gap:5px;margin-left:auto}
+.d20-dungeon aside{width:240px}
+.d20-dungeon aside button{flex:0 0 auto;min-height:66px;height:66px;overflow:hidden;max-width:100%}
+.d20-dungeon-thumb,.d20-dungeon-rotation-preview{width:58px;height:58px;display:flex;align-items:center;justify-content:center;flex:0 0 58px;overflow:hidden}
+.d20-dungeon-thumb span,.d20-dungeon-rotation-preview span{flex:none;display:block;background-repeat:no-repeat}
+.d20-dungeon-selection{flex:none;display:flex;align-items:center;flex-wrap:wrap;gap:6px;padding:8px;background:#f6f2e7;border-bottom:1px solid #8e8170}
+.d20-dungeon-selection b{width:100%}
+.d20-dungeon-selection small{flex:1}
+.d20-dungeon-ghost{pointer-events:none;opacity:.55;outline:2px dashed #685436;z-index:999}
+.d20-dungeon-ghost[hidden]{display:none!important}

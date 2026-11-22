@@ -19,3 +19,22 @@ test('catalog contains all 96 assets, with exact dimensions and in-bounds sprite
  for(const t of items){assert.equal(t.sw,t.gridWidth*128);assert.equal(t.sh,t.gridHeight*128);assert.ok(t.sx+t.sw<=t.atlasWidth&&t.sy+t.sh<=t.atlasHeight);}
  for(const mode of ['bw','color']){const b=fs.readFileSync(new URL('../assets/dungeon/'+mode+'.png',import.meta.url));assert.equal(b.readUInt32BE(16),items[0].atlasWidth);assert.equal(b.readUInt32BE(20),items[0].atlasHeight);assert.equal(b.subarray(-8,-4).toString(),'IEND');}
 });
+
+test('native Tile export preserves rotated rectangular footprints and grid origin',async()=>{
+ const {exportTileData}=await import('../scripts/dungeon-export.mjs');
+ const t={id:'p2',gridWidth:1,gridHeight:3},p={tile:'p2',x:2,y:4,rotation:90,variant:'bw'};
+ const d=exportTileData(t,p,{x:1000,y:500},100,'d20age-dungeon-tiles-v1/bw-p2.png','map');
+ assert.deepEqual([d.x,d.y,d.width,d.height,d.rotation],[1300,800,100,300,90]);
+ assert.equal(d.flags.d20age.dungeonAtlas,'map');
+ assert.equal(d.texture.src,'d20age-dungeon-tiles-v1/bw-p2.png');
+});
+
+test('saving a dungeon creates a named snapshot independent of the draft',async()=>{
+ const {DungeonAtlas}=await import('../scripts/dungeon.mjs');
+ const oldGame=globalThis.game,oldCanvas=globalThis.canvas,oldPrompt=foundry.applications.api.DialogV2.prompt,oldUtils=foundry.utils,oldInfo=ui.notifications.info;
+ const pieces={a:{tile:'p1',x:2,y:3,rotation:0,variant:'bw'}};let update;
+ const doc={isOwner:true,getFlag(ns,key){return key==='dungeonAtlas'?true:key==='maps'?{scene:{pieces}}:undefined;},async update(data){update=data;}};
+ globalThis.game={journal:[doc],user:{name:'Cartógrafo'}};globalThis.canvas={scene:{id:'scene'}};
+ foundry.applications.api.DialogV2.prompt=async()=> 'Catacumbas';foundry.utils={randomID:()=> 'map1'};ui.notifications.info=()=>{};
+ try{const app=new DungeonAtlas();await app.saveMap();const saved=update['flags.d20age.savedDungeons.map1'];assert.equal(saved.name,'Catacumbas');assert.equal(app.savedId,'map1');pieces.a.x=9;assert.equal(saved.pieces.a.x,2);}finally{globalThis.game=oldGame;globalThis.canvas=oldCanvas;foundry.applications.api.DialogV2.prompt=oldPrompt;foundry.utils=oldUtils;ui.notifications.info=oldInfo;}
+});

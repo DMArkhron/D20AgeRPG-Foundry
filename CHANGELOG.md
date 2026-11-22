@@ -73,3 +73,9 @@ Estrutura inicial para Foundry V13, modelos de dados, fichas monocromáticas de 
 - Atlas de Masmorras compartilhado com jogadores na ferramenta Notas.
 - Gerador acessível aos jogadores, utilizando fichas próprias ou criação autorizada.
 - Tinta e Hachuras como padrão e valores de sobrevivência centralizados.
+
+## 0.6.12
+
+- Atlas com miniaturas limitadas, prévia de posição/rotação, zoom e modos de desenho e borracha.
+- Mapas nomeados salvos no diário compartilhado, disponíveis em outras cenas.
+- Exportação pelo mestre de mapas salvos como Tiles independentes em cenas quadradas.

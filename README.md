@@ -31,7 +31,7 @@ Crie personagens com orientação em cada etapa, consulte equipamentos e magias 
 | Requisito | Versão |
 | ---------- | ------- |
 | Foundry VTT | 13 e 14 |
-| D20Age para Foundry | 0.6.11 |
+| D20Age para Foundry | 0.6.12 |
 | Material de referência | Livro Base V2 |
 
 O D20Age é um **sistema de jogo independente** para Foundry VTT. Não requer outro sistema instalado.
@@ -91,3 +91,5 @@ Conheça suas redes e acompanhe seu trabalho: [DM Quiral — redes sociais](http
 Baseado em **D20Age RPG — Livro Base V2**. Os créditos da obra original e dos materiais de terceiros pertencem aos respectivos autores.
 
 Esta é uma implementação independente para Foundry VTT. A distribuição não concede direitos sobre a obra original ou sobre materiais de terceiros.
+
+Para mapear, abra **Notas de Diário → Atlas de Masmorras**. Escolha uma peça, gire se desejar e clique no grid. Salve o mapa com um nome. O mestre pode selecionar um mapa salvo e usar **Exportar para cena** em uma cena quadrada; clique na célula inicial para criar Tiles independentes.
