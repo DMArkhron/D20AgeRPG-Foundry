@@ -1,5 +1,12 @@
 # Histórico
 
+## 0.6.15 — Ferramentas do Atlas de Masmorras
+
+- Barra com botões de categorias, desenho, seleção, rotação de 45°, zoom e dimensões da grade.
+- Seleção múltipla, movimento, rotação e remoção de peças; limpeza confirmada do rascunho.
+- Meia parede com encaixe de meia célula, catálogo sem duplicatas de orientação e PNGs de 256 px por célula.
+- Grades de 8 a 120 células por eixo, preservadas nos mapas salvos.
+
 ## 0.6.14 — Atlas de Masmorras
 
 - Quina rotacionável para fechar junções de paredes.

@@ -948,3 +948,21 @@
 .d20-dungeon-ghost[hidden]{display:none!important}
 .d20-dungeon-saves{flex-wrap:wrap}
 .d20-dungeon-saves button[data-command=delete]{color:#852c22;border-color:#852c22}
+
+/* Dungeon atlas: compact, labeled tool groups and a clear active state. */
+.d20-dungeon-toolbar{display:flex;flex-wrap:wrap;gap:8px;padding:8px;background:#e9e0cd}
+.d20-dungeon-group{display:flex;flex-direction:column;gap:4px;padding:5px 8px;border:1px solid #a89b83;border-radius:5px;background:#f9f5e9}
+.d20-dungeon-group>b{font:600 10px system-ui;text-transform:uppercase;letter-spacing:.06em;color:#64543e}
+.d20-dungeon-group>div{display:flex;align-items:center;gap:4px}
+.d20-dungeon-group output{font:700 12px system-ui;min-width:34px;text-align:center}
+.d20-dungeon-group input[type=number]{width:48px;min-width:48px;text-align:center;background:#fffdf4;color:#181611;border:1px solid #625e53}
+.d20-dungeon-categories,.d20-dungeon-selectionbar{display:flex;flex-wrap:wrap;gap:5px;align-items:center;padding:6px 9px;background:#e7ddc7;border-bottom:1px solid #a89b83}
+.d20-dungeon-categories button,.d20-dungeon-selectionbar button{width:auto;padding:4px 10px;background:#fffdf4;color:#181611;border:1px solid #85765e;border-radius:4px}
+.d20-dungeon-categories button[aria-pressed=true]{background:#393126;color:white}
+.d20-dungeon-selectionbar{background:#dce7dd;color:#203a2b}
+.d20-dungeon-selectionbar small{margin-left:auto}
+.d20-dungeon-piece.is-selected{outline:2px solid #1c8aab;outline-offset:-2px;background:#35b8d32b}
+.d20-dungeon-saves button[data-command=clear],.d20-dungeon-selectionbar button[data-command=delete-selection]{color:#852c22;border-color:#852c22}
+.d20-dungeon-tools button:disabled,.d20-dungeon-saves button:disabled{opacity:.45}
+.d20-dungeon-marquee{position:absolute;pointer-events:none;background:#35b8d32b;border:1px dashed #1c8aab;z-index:1000}
+.d20-dungeon-grid{user-select:none;touch-action:none}
