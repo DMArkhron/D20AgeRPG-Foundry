@@ -43,9 +43,9 @@ export async function openCharacterGenerator({actor=null}={}){
  const content={...await loadGeneratorContent(),homebrew:game.settings.get("d20age","homebrew")};const opened=activeGenerators.get(key);if(opened?.rendered){opened.bringToFront();return opened;}const app=new D20AgeCharacterGenerator({actor,content});activeGenerators.set(key,app);await app.render({force:true});return app;
 }
 export function addGeneratorDirectoryButton(application,html){
- const root=html instanceof HTMLElement?html:html?.[0];if(!root||root.querySelector('.d20age-generator-launch')||!game.user.can('ACTOR_CREATE'))return;
+ const root=html instanceof HTMLElement?html:html?.[0];if(!root||root.querySelector('.d20age-generator-launch'))return;
  const header=root.querySelector('.directory-header');if(!header)return;
- const button=document.createElement('button');button.type='button';button.className='d20age-generator-launch';button.innerHTML='<i class="fa-solid fa-wand-magic-sparkles" aria-hidden="true"></i> Gerar personagem';button.addEventListener('click',()=>openCharacterGenerator().catch(e=>ui.notifications.error(e.message)));header.append(button);
+ const button=document.createElement('button');button.type='button';button.className='d20age-generator-launch';button.innerHTML='<i class="fa-solid fa-wand-magic-sparkles" aria-hidden="true"></i> Gerar personagem';button.addEventListener('click',()=>openPlayerGenerator().catch(e=>ui.notifications.error(e.message)));header.append(button);
 }
 
 export async function openEquipmentEntry(id){
@@ -54,4 +54,13 @@ export async function openEquipmentEntry(id){
  const item=await pack.getDocument(id);
  if(!item)throw new Error('Este equipamento não está no compêndio. Peça ao mestre para preparar os registros ausentes.');
  return item.sheet.render({force:true});
+}
+
+export async function openPlayerGenerator(){
+ if(game.user.can('ACTOR_CREATE'))return openCharacterGenerator();
+ const actors=Array.from(game.actors??[]).filter(a=>a.isOwner&&a.type==='character'&&a.system.level===1&&!a.getFlag('d20age','characterCreation'));
+ if(!actors.length){ui.notifications.warn('Peça ao mestre uma ficha vazia de nível 1 atribuída a você.');return;}
+ if(actors.length===1)return openCharacterGenerator({actor:actors[0]});
+ const id=await foundry.applications.api.DialogV2.prompt({window:{title:'Escolher ficha para gerar'},rejectClose:false,content:`<select name="actor">${actors.map(a=>`<option value="${escapeHTML(a.id)}">${escapeHTML(a.name)}</option>`).join('')}</select>`,ok:{label:'Continuar',callback:(event,button)=>button.form.elements.actor.value}});
+ if(id){const actor=actors.find(a=>a.id===id);if(actor)return openCharacterGenerator({actor});}
 }

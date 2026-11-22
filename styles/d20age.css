@@ -904,3 +904,27 @@
 
 /* Show the complete portrait rather than trimming full-body class art. */
 .d20age-sheet .actor-paper:not(.ink-paper) .portrait-button .portrait{object-fit:contain;object-position:center;background:#fff}
+
+/* Atlas independente da cena real, compartilhado via diário. */
+.d20age-dungeon-app .window-content{padding:0;background:#eae7dc;color:#201e19}
+.d20-dungeon{display:flex;flex-direction:column;height:100%;min-height:0;font:14px Georgia,serif}
+.d20-dungeon header,.d20-dungeon footer,.d20-dungeon-tools{padding:10px 14px;border-bottom:1px solid #777;background:#f6f2e7}
+.d20-dungeon header{display:flex;gap:12px;align-items:center;justify-content:space-between}
+.d20-dungeon-tools{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.d20-dungeon-tools label{display:flex;gap:5px;align-items:center}
+.d20-dungeon-tools select,.d20-dungeon-tools button,.d20-dungeon aside button{background:#fffdf4;color:#181611;border:1px solid #625e53}
+.d20-dungeon-layout{display:flex;flex:1;min-height:0;overflow:hidden}
+.d20-dungeon aside{width:220px;flex:none;overflow:auto;padding:8px;display:flex;flex-direction:column;gap:6px}
+.d20-dungeon aside button{display:flex;align-items:center;gap:8px;min-height:64px;padding:5px;height:auto}
+.d20-dungeon aside button.selected{outline:2px solid #674c2b;background:#e2d6bf}
+.d20-dungeon aside button span{display:block;flex:none;background-repeat:no-repeat}
+.d20-dungeon aside button small{flex:1;text-align:left;white-space:normal}
+.d20-dungeon-scroll{flex:1;overflow:auto;padding:12px;background:#ddd7c9}
+.d20-dungeon-grid{position:relative;background-color:#f6f2e7;background-image:linear-gradient(to right,#c8c1b1 1px,transparent 1px),linear-gradient(to bottom,#c8c1b1 1px,transparent 1px);background-size:40px 40px;cursor:crosshair;isolation:isolate}
+.d20-dungeon-piece{position:absolute;pointer-events:auto}
+.d20-dungeon-piece span{position:absolute;left:50%;top:50%;display:block;background-repeat:no-repeat;pointer-events:none}
+.d20age-sheet .ink-combat-emblems .stat-art strong{position:absolute;top:50%;left:50%;right:auto;transform:translate(-50%,-50%);margin:0;width:auto;min-width:38px;padding:1px 4px;text-align:center;line-height:1.1;font:700 23px/1.1 Georgia,serif;background:#fff;border:0;box-shadow:none}
+.d20age-sheet .ink-combat-emblems .stat-boot .stat-art strong{top:57%}
+.d20age-sheet .ink-combat-emblems .stat-unit{top:70%;left:50%;transform:translateX(-50%);background:#fff}
+.d20age-sheet .ink-combat-emblems .life-art .field{left:50%;right:auto;top:43%;width:48px;transform:translate(-50%,-50%);margin:0}
+.d20age-sheet .ink-combat-emblems .life-art input{width:100%;text-align:center}

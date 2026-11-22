@@ -1,3 +1,4 @@
+import {registerDungeon,openDungeonAtlas} from './dungeon.mjs';
 import {D20AgePartySheet,createParty,registerPartyHooks} from './party-sheet.mjs';
 import {prepareDefaultToken,migrateRoundTokens,registerCreatureTokenRolls} from './tokens.mjs';
 import {openEncounterPanel,addEncounterButton} from './encounter-panel.mjs';
@@ -23,6 +24,7 @@ Hooks.once("init",()=>{
   registerHomebrew();
   registerCompendia();
   registerHexcrawl();
+  registerDungeon();
   CONFIG.Actor.documentClass = D20AgeActor;
   CONFIG.Item.documentClass = D20AgeItem;
   CONFIG.Actor.dataModels.character = D20AgeActorData;
@@ -34,12 +36,12 @@ Hooks.once("init",()=>{
     creature:{bar:["hp"],value:["morale"]}
   };
   const config = foundry.applications.apps.DocumentSheetConfig;
-  config.registerSheet(Actor,"d20age",D20AgeActorSheet,{types:["character"],makeDefault:true,label:"D20Age · Preto e branco"});
-  config.registerSheet(Actor,"d20age",D20AgeInkActorSheet,{types:["character"],makeDefault:false,label:"D20Age · Tinta e hachuras"});
+  config.registerSheet(Actor,"d20age",D20AgeActorSheet,{types:["character"],makeDefault:false,label:"D20Age · Preto e branco"});
+  config.registerSheet(Actor,"d20age",D20AgeInkActorSheet,{types:["character"],makeDefault:true,label:"D20Age · Tinta e hachuras"});
   config.registerSheet(Actor,"d20age",D20AgeCreatureSheet,{types:["creature"],makeDefault:true,label:"D20Age · Criatura compacta"});
   config.registerSheet(Actor,"d20age",D20AgePartySheet,{types:["party"],makeDefault:true,label:"D20Age · Companhia"});
   config.registerSheet(Item,"d20age",D20AgeItemSheet,{types:["weapon","armor","equipment","spell","ability"],makeDefault:true,label:"D20Age · Registro"});
-  game.d20age = {Actor:D20AgeActor,Item:D20AgeItem,classes:CLASSES,attributes:ATTRIBUTES,saves:SAVES,version:"0.6.10",createParty,openEncounterPanel,rollInitiative,advanceLevel,rollCreatureHP,openCalendar,openCalendarSummary,openCharacterGenerator,installCompendia,installHexcrawl,openHexcrawlAtlas,rollBookTable,openBookReference,adventureTool};
+  game.d20age = {Actor:D20AgeActor,Item:D20AgeItem,classes:CLASSES,attributes:ATTRIBUTES,saves:SAVES,version:"0.6.11",createParty,openEncounterPanel,rollInitiative,advanceLevel,rollCreatureHP,openCalendar,openCalendarSummary,openCharacterGenerator,installCompendia,installHexcrawl,openHexcrawlAtlas,openDungeonAtlas,rollBookTable,openBookReference,adventureTool};
 });
 Hooks.on("preCreateActor",(actor,data)=>{
   if(actor.type === "party"){actor.updateSource({img:data.img||"systems/d20age/assets/party.svg",prototypeToken:{actorLink:true,bar1:{attribute:null},bar2:{attribute:null}}});return;}

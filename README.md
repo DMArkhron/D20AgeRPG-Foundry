@@ -24,12 +24,14 @@ Crie personagens com orientação em cada etapa, consulte equipamentos e magias 
 - ⚙️ **Ajustes da mesa** — Configurações de medidas, carga, combate e permissões do calendário.
 - 🖼️ **Ambientação visual** — Capa do sistema e logotipo personalizada na pausa do Foundry.
 
+- 🗺️ **Atlas de Masmorras** — Cartografia colaborativa em Notas de Diário, com paredes, arcos e escadas em duas paletas. O mapa é independente da cena real.
+
 ## ⚙️ Compatibilidade
 
 | Requisito | Versão |
 | ---------- | ------- |
 | Foundry VTT | 13 e 14 |
-| D20Age para Foundry | 0.6.10 |
+| D20Age para Foundry | 0.6.11 |
 | Material de referência | Livro Base V2 |
 
 O D20Age é um **sistema de jogo independente** para Foundry VTT. Não requer outro sistema instalado.

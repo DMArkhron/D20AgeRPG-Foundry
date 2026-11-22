@@ -67,3 +67,9 @@ Estrutura inicial para Foundry V13, modelos de dados, fichas monocromáticas de 
 - Nova ilustração integral do Yogi sōhei e token atualizado.
 - Arquivos binários enviados com conferência de hash, corrigindo o PNG e token truncados da publicação anterior.
 - Pasta Classes dentro do compêndio Homebrew, com migração das entradas existentes.
+
+## 0.6.11
+
+- Atlas de Masmorras compartilhado com jogadores na ferramenta Notas.
+- Gerador acessível aos jogadores, utilizando fichas próprias ou criação autorizada.
+- Tinta e Hachuras como padrão e valores de sobrevivência centralizados.
