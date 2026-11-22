@@ -13,7 +13,7 @@ async function imageFor(variant){
 }
 async function prepareTextures(pieces,catalog){
  const picker=foundry.applications.apps.FilePicker;
- const dir='d20age-dungeon-tiles-v1';
+ const dir='d20age-dungeon-tiles-v2';
  let listing;
  try{listing=await picker.browse('data',dir);}catch{}
  if(!listing||listing.target!==dir){try{await picker.createDirectory('data',dir);}catch{}listing=await picker.browse('data',dir);}
@@ -52,7 +52,7 @@ export async function beginDungeonExport(saved,catalog){
    const origin=grid.getTopLeftPoint(stage.toLocal(e.global));const size=grid.size;
    const rect=canvas.dimensions?.sceneRect;
    if(rect&&normalized.some(p=>{const t=catalog.find(t=>t.id===p.tile),swap=p.rotation%180!==0;return origin.x+p.x*size<rect.x||origin.y+p.y*size<rect.y||origin.x+(p.x+(swap?t.gridHeight:t.gridWidth))*size>rect.x+rect.width||origin.y+(p.y+(swap?t.gridWidth:t.gridHeight))*size>rect.y+rect.height;}))throw Error('O mapa não cabe nessa posição. Escolha outra origem.');
-   const data=normalized.map(p=>exportTileData(catalog.find(t=>t.id===p.tile),p,origin,size,textures.get(p.variant+'-'+p.tile),saved.id));
+   const data=normalized.sort((a,b)=>Number(Number(a.tile.slice(1))>=96)-Number(Number(b.tile.slice(1))>=96)).map(p=>exportTileData(catalog.find(t=>t.id===p.tile),p,origin,size,textures.get(p.variant+'-'+p.tile),saved.id));
    await scene.createEmbeddedDocuments('Tile',data);ui.notifications.info(data.length+' Tiles adicionados à cena.');
   }catch(err){ui.notifications.error(err.message);}
  };

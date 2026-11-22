@@ -1,0 +1,54 @@
+[
+  {
+    "id": "p96",
+    "file": "aberturas/porta.svg",
+    "label": "Porta de madeira",
+    "gridWidth": 1,
+    "gridHeight": 1,
+    "sx": 646,
+    "sy": 4130,
+    "sw": 128,
+    "sh": 128,
+    "atlasWidth": 4096,
+    "atlasHeight": 4772
+  },
+  {
+    "id": "p97",
+    "file": "aberturas/porta-dupla.svg",
+    "label": "Porta dupla",
+    "gridWidth": 1,
+    "gridHeight": 1,
+    "sx": 778,
+    "sy": 4130,
+    "sw": 128,
+    "sh": 128,
+    "atlasWidth": 4096,
+    "atlasHeight": 4772
+  },
+  {
+    "id": "p98",
+    "file": "aberturas/janela.svg",
+    "label": "Janela",
+    "gridWidth": 1,
+    "gridHeight": 1,
+    "sx": 910,
+    "sy": 4130,
+    "sw": 128,
+    "sh": 128,
+    "atlasWidth": 4096,
+    "atlasHeight": 4772
+  },
+  {
+    "id": "p99",
+    "file": "aberturas/janela-grade.svg",
+    "label": "Janela com grade",
+    "gridWidth": 1,
+    "gridHeight": 1,
+    "sx": 1042,
+    "sy": 4130,
+    "sw": 128,
+    "sh": 128,
+    "atlasWidth": 4096,
+    "atlasHeight": 4772
+  }
+]

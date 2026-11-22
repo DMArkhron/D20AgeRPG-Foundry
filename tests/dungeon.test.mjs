@@ -38,3 +38,9 @@ test('saving a dungeon creates a named snapshot independent of the draft',async(
  foundry.applications.api.DialogV2.prompt=async()=> 'Catacumbas';foundry.utils={randomID:()=> 'map1'};ui.notifications.info=()=>{};
  try{const app=new DungeonAtlas();await app.saveMap();const saved=update['flags.d20age.savedDungeons.map1'];assert.equal(saved.name,'Catacumbas');assert.equal(app.savedId,'map1');pieces.a.x=9;assert.equal(saved.pieces.a.x,2);}finally{globalThis.game=oldGame;globalThis.canvas=oldCanvas;foundry.applications.api.DialogV2.prompt=oldPrompt;foundry.utils=oldUtils;ui.notifications.info=oldInfo;}
 });
+
+test('four opening assets extend the existing atlas without changing old IDs',()=>{
+ const entries=JSON.parse(fs.readFileSync(new URL('../content/dungeon-openings.json',import.meta.url)));
+ assert.deepEqual(entries.map(t=>t.id),['p96','p97','p98','p99']);
+ for(const t of entries){assert.equal(t.gridWidth,1);assert.equal(t.gridHeight,1);assert.ok(t.sx+t.sw<=t.atlasWidth&&t.sy+t.sh<=t.atlasHeight);}
+});

@@ -79,3 +79,9 @@ Estrutura inicial para Foundry V13, modelos de dados, fichas monocromáticas de 
 - Atlas com miniaturas limitadas, prévia de posição/rotação, zoom e modos de desenho e borracha.
 - Mapas nomeados salvos no diário compartilhado, disponíveis em outras cenas.
 - Exportação pelo mestre de mapas salvos como Tiles independentes em cenas quadradas.
+
+## 0.6.13
+
+- Escadas ocupam todo o grid; paredes mais espessas.
+- Portas simples, duplas, janelas e janelas gradeadas.
+- Exclusão confirmada de mapas salvos pelo grupo.

@@ -24,14 +24,14 @@ Create characters with guidance at every step, browse equipment and spells direc
 - ⚙️ **Game Settings** — Options for measurement, encumbrance, combat, and calendar permissions.
 - 🖼️ **Visual Atmosphere** — Custom system artwork and a branded logo on Foundry's pause screen.
 
-- 🗺️ **Dungeon Atlas** — Collaborative mapping in Journal Notes, with walls, arcs and stairs in two palettes. The map is independent of the actual scene.
+- 🗺️ **Dungeon Atlas** — Collaborative mapping in Journal Notes, with walls, arcs, stairs, doors and windows in two palettes. The map is independent of the actual scene.
 
 ## ⚙️ Compatibility
 
 | **Requirement** | **Version** |
 | --- | --- |
 | Foundry VTT | 13 |
-| D20Age for Foundry | 0.6.12 |
+| D20Age for Foundry | 0.6.13 |
 | Reference Material | Core Rulebook V2 |
 
 D20Age is a **standalone game system** for Foundry VTT. No additional game system is required.

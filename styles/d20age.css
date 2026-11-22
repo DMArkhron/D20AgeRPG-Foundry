@@ -946,3 +946,5 @@
 .d20-dungeon-selection small{flex:1}
 .d20-dungeon-ghost{pointer-events:none;opacity:.55;outline:2px dashed #685436;z-index:999}
 .d20-dungeon-ghost[hidden]{display:none!important}
+.d20-dungeon-saves{flex-wrap:wrap}
+.d20-dungeon-saves button[data-command=delete]{color:#852c22;border-color:#852c22}
