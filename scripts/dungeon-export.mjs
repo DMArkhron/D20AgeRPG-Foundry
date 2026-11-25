@@ -1,5 +1,26 @@
 import {tilePlacement,dungeonLayer,dungeonGeometry,dungeonSize} from './dungeon.mjs';
 const BASE='systems/d20age';
+// Atlas art is terrain, not a token or an interactive obstacle.
+// Keep the original layer spacing, but put the entire range below ordinary sort 0.
+export function dungeonTerrainSettings(layer,index=0){
+ return {sort:(layer-4)*100000+index,locked:true,occlusion:{mode:0,alpha:0},restrictions:{light:false,weather:false}};
+}
+export function dungeonTileRepair(tile){
+ const flags=tile.flags?.d20age;
+ if(!flags?.dungeonAtlas||flags.terrainRevision===1)return null;
+ // Older exports have no layer flag (stairs cannot be inferred reliably from sort alone).
+ const layer=flags.dungeonLayer??(tile.sort>=300000?3:tile.sort>=200000?2:1);
+ const index=Number.isInteger(tile.sort)&&tile.sort>=layer*100000&&tile.sort<layer*100000+2000?tile.sort-layer*100000:0;
+ return {_id:tile.id,...dungeonTerrainSettings(layer,index),'flags.d20age.terrainRevision':1};
+}
+export async function repairDungeonTiles(scene){
+ if(!scene||!game.user.isGM||(game.users?.activeGM&&game.users.activeGM.id!==game.user.id))return 0;
+ const updates=Array.from(scene.tiles??[]).map(dungeonTileRepair).filter(Boolean);
+ if(updates.length)await scene.updateEmbeddedDocuments('Tile',updates);
+ return updates.length;
+}
+export function cancelDungeonExport(){cancelPending?.();}
+
 export function exportTileData(tile,p,origin,size,src,saveId,bounds){
  tilePlacement(tile,p.x,p.y,p.rotation,p.variant,bounds);
  if(!Number.isFinite(size)||size<=0)throw Error('Grid inválido.');
@@ -46,18 +67,18 @@ export async function beginDungeonExport(saved,catalog){
  const normalized=pieces.map(p=>({...p,x:p.x-minX,y:p.y-minY}));
  const textures=await prepareTextures(normalized,catalog);
  if(canvas.scene!==scene)throw Error('A cena mudou durante a preparação.');
- cancelPending?.();const stage=canvas.stage;
+ cancelDungeonExport();const stage=canvas.stage;
  const cleanup=()=>{stage.off('pointerdown',click);window.removeEventListener('keydown',key);cancelPending=null;};
- const key=e=>{if(e.key==='Escape'){cleanup();ui.notifications.info('Exportação cancelada.');}};
+ const key=e=>{if(e.key==='Escape'){cleanup();if(canvas.scene===scene)canvas.tokens?.activate();ui.notifications.info('Exportação cancelada.');}};
  const click=async e=>{if(e.button!==0)return;cleanup();
   try{
    if(canvas.scene!==scene)throw Error('A cena mudou. Abra novamente o atlas.');
    const origin=grid.getTopLeftPoint(stage.toLocal(e.global));const size=grid.size;
    const rect=canvas.dimensions?.sceneRect;
    if(rect&&normalized.some(p=>{const g=geometry(p);return origin.x+(p.x+g.left)*size<rect.x||origin.y+(p.y+g.top)*size<rect.y||origin.x+(p.x+g.left+g.width)*size>rect.x+rect.width||origin.y+(p.y+g.top+g.height)*size>rect.y+rect.height;}))throw Error('O mapa não cabe nessa posição. Escolha outra origem.');
-   const data=normalized.sort((a,b)=>dungeonLayer(catalog.find(t=>t.id===a.tile))-dungeonLayer(catalog.find(t=>t.id===b.tile))).map((p,i)=>{const d=exportTileData(catalog.find(t=>t.id===p.tile),p,origin,size,textures.get(p.variant+'-'+p.tile),saved.id,bounds);return {...d,sort:d.sort+i};});
+   const data=normalized.sort((a,b)=>dungeonLayer(catalog.find(t=>t.id===a.tile))-dungeonLayer(catalog.find(t=>t.id===b.tile))).map((p,i)=>{const d=exportTileData(catalog.find(t=>t.id===p.tile),p,origin,size,textures.get(p.variant+'-'+p.tile),saved.id,bounds);return {...d,...dungeonTerrainSettings(d.flags.d20age.dungeonLayer,i),flags:{d20age:{...d.flags.d20age,terrainRevision:1}}};});
    await scene.createEmbeddedDocuments('Tile',data);ui.notifications.info(data.length+' Tiles adicionados à cena.');
-  }catch(err){ui.notifications.error(err.message);}
+  }catch(err){ui.notifications.error(err.message);}finally{if(canvas.scene===scene)canvas.tokens?.activate();}
  };
  cancelPending=cleanup;stage.on('pointerdown',click);window.addEventListener('keydown',key);
  ui.notifications.info('Clique na célula inicial do mapa na cena. Esc cancela.');

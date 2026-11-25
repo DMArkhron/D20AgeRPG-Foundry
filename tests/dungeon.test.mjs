@@ -102,3 +102,27 @@ test('selection movement validates every piece before writing and resize rejects
  await app.editSelection(()=>null);assert.deepEqual(updates[0],{'draft.pieces.-=a':null,'draft.pieces.-=b':null});
  await app.resizeDraft(45,35);assert.deepEqual(updates[1],{'draft.cols':45,'draft.rows':35});
 });
+
+test('terrain settings keep all atlas layers below tokens without changing their relative order',async()=>{
+ const {dungeonTerrainSettings,dungeonTileRepair}=await import('../scripts/dungeon-export.mjs');
+ const layers=[1,2,3].map(l=>dungeonTerrainSettings(l,1999));
+ assert.ok(layers[0].sort<layers[1].sort&&layers[1].sort<layers[2].sort&&layers[2].sort<0);
+ for(const t of layers){assert.equal(t.locked,true);assert.deepEqual(t.restrictions,{light:false,weather:false});assert.equal(t.occlusion.mode,0);}
+ assert.equal(dungeonTileRepair({id:'unrelated',flags:{}}),null);
+ assert.equal(dungeonTileRepair({id:'done',flags:{d20age:{dungeonAtlas:'map',terrainRevision:1}}}),null);
+ const repair=dungeonTileRepair({id:'old',sort:300005,x:20,y:30,flags:{d20age:{dungeonAtlas:'map',dungeonLayer:3}}});
+ assert.equal(repair.sort,-99995);assert.equal(repair._id,'old');assert.equal(repair['flags.d20age.terrainRevision'],1);
+ assert.equal('x' in repair,false);assert.equal('y' in repair,false);
+});
+
+test('repair updates exclusively atlas tiles and only from active GM',async()=>{
+ const {repairDungeonTiles}=await import('../scripts/dungeon-export.mjs');
+ const old=globalThis.game,updates=[];
+ const scene={tiles:[{id:'old',sort:200003,flags:{d20age:{dungeonAtlas:'map',dungeonLayer:2}}},{id:'other',flags:{}}],updateEmbeddedDocuments:async(type,data)=>updates.push({type,data})};
+ try{
+ globalThis.game={user:{isGM:false,id:'p'}};assert.equal(await repairDungeonTiles(scene),0);
+ globalThis.game={user:{isGM:true,id:'gm'},users:{activeGM:{id:'other'}}};assert.equal(await repairDungeonTiles(scene),0);
+ globalThis.game={user:{isGM:true,id:'gm'},users:{activeGM:{id:'gm'}}};assert.equal(await repairDungeonTiles(scene),1);
+ assert.equal(updates.length,1);assert.equal(updates[0].type,'Tile');assert.equal(updates[0].data[0]._id,'old');
+ }finally{globalThis.game=old;}
+});

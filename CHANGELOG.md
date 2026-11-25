@@ -1,5 +1,11 @@
 # Histórico
 
+## 0.6.16 — Movimento de tokens
+
+- Tiles cartográficos bloqueados para edição acidental, com ordem abaixo dos tokens e sem restrições de luz ou clima.
+- Retorno ao controle de tokens após exportar ou cancelar; cancelamento de exportação ao trocar de cena.
+- Reparo único dos Tiles do Atlas já existentes ao abrir a cena como mestre, preservando posições e paredes nativas.
+
 ## 0.6.15 — Ferramentas do Atlas de Masmorras
 
 - Barra com botões de categorias, desenho, seleção, rotação de 45°, zoom e dimensões da grade.
